@@ -1,0 +1,68 @@
+season,team,wins,winpercent,playoffs,coach,topWS,color1,color2
+1948-49,Rochester Royals,45,0.75,0.6,L. Harrison,A. Risen (10.6),#724C9F,#8E9090
+1949-50,Rochester Royals,51,0.75,0.4,L. Harrison,B. Wanzer (10.5),#724C9F,#8E9090
+1950-51,Rochester Royals,41,0.603,1,L. Harrison,A. Risen (9.3),#724C9F,#8E9090
+1951-52,Rochester Royals,41,0.621,0.6,L. Harrison,B. Wanzer (11.4),#724C9F,#8E9090
+1952-53,Rochester Royals,44,0.629,0.4,L. Harrison,B. Wanzer (7.9),#724C9F,#8E9090
+1953-54,Rochester Royals,44,0.611,0.6,L. Harrison,B. Wanzer (9.1),#724C9F,#8E9090
+1954-55,Rochester Royals,29,0.403,0.4,L. Harrison,J. Coleman (6.2),#724C9F,#8E9090
+1955-56,Rochester Royals,31,0.431,0,B. Wanzer,M. Stokes (6.0),#724C9F,#8E9090
+1956-57,Rochester Royals,31,0.431,0,B. Wanzer,J. Twyman (8.8),#724C9F,#8E9090
+1957-58,Cincinnati Royals,33,0.458,0.4,B. Wanzer,C. Lovellette (10.1),#724C9F,#8E9090
+1958-59,Cincinnati Royals,19,0.264,0,B. Wanzer/T. Marshall,J. Twyman (7.3),#724C9F,#8E9090
+1959-60,Cincinnati Royals,19,0.253,0,T. Marshall,J. Twyman (8.3),#724C9F,#8E9090
+1960-61,Cincinnati Royals,33,0.418,0,C. Wolf,O. Robertson (13.2),#724C9F,#8E9090
+1961-62,Cincinnati Royals,43,0.538,0.4,C. Wolf,O. Robertson (15.6),#724C9F,#8E9090
+1962-63,Cincinnati Royals,42,0.525,0.6,C. Wolf,O. Robertson (16.8),#724C9F,#8E9090
+1963-64,Cincinnati Royals,55,0.688,0.6,J. McMahon,O. Robertson (20.6),#724C9F,#8E9090
+1964-65,Cincinnati Royals,48,0.6,0.4,J. McMahon,O. Robertson (17.0),#724C9F,#8E9090
+1965-66,Cincinnati Royals,45,0.563,0.4,J. McMahon,O. Robertson (16.9),#724C9F,#8E9090
+1966-67,Cincinnati Royals,39,0.481,0.4,J. McMahon,O. Robertson (17.4),#724C9F,#8E9090
+1967-68,Cincinnati Royals,39,0.476,0,E. Jucker,O. Robertson (12.3),#724C9F,#8E9090
+1968-69,Cincinnati Royals,41,0.5,0,E. Jucker,O. Robertson (12.9),#724C9F,#8E9090
+1969-70,Cincinnati Royals,36,0.439,0,B. Cousy,O. Robertson (11.4),#724C9F,#8E9090
+1970-71,Cincinnati Royals,33,0.402,0,B. Cousy,J. Green (9.5),#724C9F,#8E9090
+1971-72,Cincinnati Royals,30,0.366,0,B. Cousy,T. Archibald (12.9),#724C9F,#8E9090
+1972-73,Kansas City-Omaha Kings,36,0.439,0,B. Cousy,T. Archibald (14.2),#724C9F,#8E9090
+1973-74,Kansas City-Omaha Kings,33,0.402,0,B. Cousy/D. Young/P. Johnson,S. Lacey (7.7),#724C9F,#8E9090
+1974-75,Kansas City-Omaha Kings,44,0.537,0.4,P. Johnson,T. Archibald (11.2),#724C9F,#8E9090
+1975-76,Kansas City Kings,31,0.378,0,P. Johnson,T. Archibald (8.0),#724C9F,#8E9090
+1976-77,Kansas City Kings,40,0.488,0,P. Johnson,R. Boone (8.1),#724C9F,#8E9090
+1977-78,Kansas City Kings,31,0.378,0,P. Johnson/L. Staverman,S. Wedman (7.8),#724C9F,#8E9090
+1978-79,Kansas City Kings,48,0.585,0.4,C. Fitzsimmons,O. Birdsong (8.8),#724C9F,#8E9090
+1979-80,Kansas City Kings,47,0.573,0.2,C. Fitzsimmons,O. Birdsong (8.6),#724C9F,#8E9090
+1980-81,Kansas City Kings,40,0.488,0.6,C. Fitzsimmons,R. King (8.3),#724C9F,#8E9090
+1981-82,Kansas City Kings,30,0.366,0,C. Fitzsimmons,M. Woodson (5.3),#724C9F,#8E9090
+1982-83,Kansas City Kings,45,0.549,0,C. Fitzsimmons,M. Woodson (7.8),#724C9F,#8E9090
+1983-84,Kansas City Kings,38,0.463,0.2,C. Fitzsimmons,E. Johnson (5.6),#724C9F,#8E9090
+1984-85,Kansas City Kings,31,0.378,0,J. McKinney/P. Johnson,L. Thompson (5.3),#724C9F,#8E9090
+1985-86,Sacramento Kings,37,0.451,0.2,P. Johnson,R. Theus (6.4),#724C9F,#8E9090
+1986-87,Sacramento Kings,29,0.354,0,P. Johnson/J. Reynolds,O. Thorpe (9.0),#724C9F,#8E9090
+1987-88,Sacramento Kings,24,0.293,0,B. Russell/J. Reynolds,O. Thorpe (8.1),#724C9F,#8E9090
+1988-89,Sacramento Kings,27,0.329,0,J. Reynolds,H. Pressley (4.8),#724C9F,#8E9090
+1989-90,Sacramento Kings,23,0.28,0,J. Reynolds/D. Motta,R. McCray (7.9),#724C9F,#8E9090
+1990-91,Sacramento Kings,25,0.305,0,D. Motta,A. Carr (5.4),#724C9F,#8E9090
+1991-92,Sacramento Kings,29,0.354,0,D. Motta/R. Hughes,M. Richmond (4.9),#724C9F,#8E9090
+1992-93,Sacramento Kings,25,0.305,0,G. St. Jean,W. Tisdale (4.5),#724C9F,#8E9090
+1993-94,Sacramento Kings,28,0.341,0,G. St. Jean,M. Richmond (6.4),#724C9F,#8E9090
+1994-95,Sacramento Kings,39,0.476,0,G. St. Jean,M. Richmond (8.0),#724C9F,#8E9090
+1995-96,Sacramento Kings,39,0.476,0.2,G. St. Jean,M. Richmond (9.3),#724C9F,#8E9090
+1996-97,Sacramento Kings,34,0.415,0,G. St. Jean/E. Jordan,M. Richmond (10.8),#724C9F,#8E9090
+1997-98,Sacramento Kings,27,0.329,0,E. Jordan,M. Richmond (7.9),#724C9F,#8E9090
+1998-99,Sacramento Kings,27,0.54,0.2,R. Adelman,V. Divac (5.2),#724C9F,#8E9090
+1999-00,Sacramento Kings,44,0.537,0.2,R. Adelman,C. Webber (10.7),#724C9F,#8E9090
+2000-01,Sacramento Kings,55,0.671,0.4,R. Adelman,C. Webber (11.0),#724C9F,#8E9090
+2001-02,Sacramento Kings,61,0.744,0.6,R. Adelman,P. Stojakovic (9.9),#724C9F,#8E9090
+2002-03,Sacramento Kings,59,0.72,0.4,R. Adelman,P. Stojakovic (10.1),#724C9F,#8E9090
+2003-04,Sacramento Kings,55,0.671,0.4,R. Adelman,P. Stojakovic (13.5),#724C9F,#8E9090
+2004-05,Sacramento Kings,50,0.61,0.2,R. Adelman,B. Miller (8.6),#724C9F,#8E9090
+2005-06,Sacramento Kings,44,0.537,0.2,R. Adelman,B. Miller (9.1),#724C9F,#8E9090
+2006-07,Sacramento Kings,33,0.402,0,E. Musselman,K. Martin (10.2),#724C9F,#8E9090
+2007-08,Sacramento Kings,38,0.463,0,R. Theus,K. Martin (8.4),#724C9F,#8E9090
+2008-09,Sacramento Kings,17,0.207,0,R. Theus/K. Natt,K. Martin (4.7),#724C9F,#8E9090
+2009-10,Sacramento Kings,25,0.305,0,P. Westphal,B. Udrih (5.5),#724C9F,#8E9090
+2010-11,Sacramento Kings,24,0.293,0,P. Westphal,B. Udrih (7.2),#724C9F,#8E9090
+2011-12,Sacramento Kings,22,0.333,0,P. Westphal/K. Smart,I. Thomas (4.3),#724C9F,#8E9090
+2012-13,Sacramento Kings,28,0.341,0,K. Smart,I. Thomas (5.0),#724C9F,#8E9090
+2013-14,Sacramento Kings,28,0.341,0,M. Malone,D. Cousins (7.9),#724C9F,#8E9090
+2014-15,Sacramento Kings,29,0.354,0,M. Malone/T. Corbin/G. Karl,R. Gay (6.1),#724C9F,#8E9090

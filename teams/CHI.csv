@@ -1,0 +1,50 @@
+season,team,wins,winpercent,playoffs,coach,topWS,color1,color2
+1966-67,Chicago Bulls,33,0.407,0.4,R. Kerr,B. Boozer (9.4),#CE1141,#061922
+1967-68,Chicago Bulls,29,0.354,0.4,R. Kerr,B. Boozer (10.6),#CE1141,#061922
+1968-69,Chicago Bulls,33,0.402,0,D. Motta,B. Boozer (11.6),#CE1141,#061922
+1969-70,Chicago Bulls,39,0.476,0.4,D. Motta,C. Walker (9.8),#CE1141,#061922
+1970-71,Chicago Bulls,51,0.622,0.4,D. Motta,C. Walker (10.9),#CE1141,#061922
+1971-72,Chicago Bulls,57,0.695,0.4,D. Motta,C. Walker (14.5),#CE1141,#061922
+1972-73,Chicago Bulls,51,0.622,0.4,D. Motta,C. Walker (10.9),#CE1141,#061922
+1973-74,Chicago Bulls,54,0.659,0.6,D. Motta,C. Walker (10.6),#CE1141,#061922
+1974-75,Chicago Bulls,47,0.573,0.6,D. Motta,C. Walker (10.5),#CE1141,#061922
+1975-76,Chicago Bulls,24,0.293,0,D. Motta,M. Johnson (8.3),#CE1141,#061922
+1976-77,Chicago Bulls,44,0.537,0.2,E. Badger,A. Gilmore (12.2),#CE1141,#061922
+1977-78,Chicago Bulls,40,0.488,0,E. Badger,A. Gilmore (11.5),#CE1141,#061922
+1978-79,Chicago Bulls,31,0.378,0,L. Costello/S. Robertson,A. Gilmore (12.7),#CE1141,#061922
+1979-80,Chicago Bulls,30,0.366,0,J. Sloan,R. Theus (6.9),#CE1141,#061922
+1980-81,Chicago Bulls,45,0.549,0.4,J. Sloan,A. Gilmore (12.3),#CE1141,#061922
+1981-82,Chicago Bulls,34,0.415,0,J. Sloan/P. Johnson/R. Thorn,A. Gilmore (12.1),#CE1141,#061922
+1982-83,Chicago Bulls,28,0.341,0,P. Westhead,R. Theus (6.5),#CE1141,#061922
+1983-84,Chicago Bulls,27,0.329,0,K. Loughery,D. Greenwood (5.7),#CE1141,#061922
+1984-85,Chicago Bulls,38,0.463,0.2,K. Loughery,M. Jordan (14.0),#CE1141,#061922
+1985-86,Chicago Bulls,30,0.366,0.2,S. Albeck,O. Woolridge (5.6),#CE1141,#061922
+1986-87,Chicago Bulls,40,0.488,0.2,D. Collins,M. Jordan (16.9),#CE1141,#061922
+1987-88,Chicago Bulls,50,0.61,0.4,D. Collins,M. Jordan (21.2),#CE1141,#061922
+1988-89,Chicago Bulls,47,0.573,0.6,D. Collins,M. Jordan (19.8),#CE1141,#061922
+1989-90,Chicago Bulls,55,0.671,0.6,P. Jackson,M. Jordan (19.0),#CE1141,#061922
+1990-91,Chicago Bulls,61,0.744,1,P. Jackson,M. Jordan (20.3),#CE1141,#061922
+1991-92,Chicago Bulls,67,0.817,1,P. Jackson,M. Jordan (17.7),#CE1141,#061922
+1992-93,Chicago Bulls,57,0.695,1,P. Jackson,M. Jordan (17.2),#CE1141,#061922
+1993-94,Chicago Bulls,55,0.671,0.4,P. Jackson,S. Pippen (11.2),#CE1141,#061922
+1994-95,Chicago Bulls,47,0.573,0.4,P. Jackson,S. Pippen (11.8),#CE1141,#061922
+1995-96,Chicago Bulls,72,0.878,1,P. Jackson,M. Jordan (20.4),#CE1141,#061922
+1996-97,Chicago Bulls,69,0.841,1,P. Jackson,M. Jordan (18.3),#CE1141,#061922
+1997-98,Chicago Bulls,62,0.756,1,P. Jackson,M. Jordan (15.8),#CE1141,#061922
+1998-99,Chicago Bulls,13,0.26,0,T. Floyd,D. Simpkins (2.9),#CE1141,#061922
+1999-00,Chicago Bulls,17,0.207,0,T. Floyd,E. Brand (7.5),#CE1141,#061922
+2000-01,Chicago Bulls,15,0.183,0,T. Floyd,E. Brand (6.1),#CE1141,#061922
+2001-02,Chicago Bulls,21,0.256,0,T. Floyd/B. Berry/B. Cartwright,B. Miller (4.4),#CE1141,#061922
+2002-03,Chicago Bulls,30,0.366,0,B. Cartwright,D. Marshall (6.0),#CE1141,#061922
+2003-04,Chicago Bulls,23,0.28,0,B. Cartwright/P. Myers/S. Skiles,K. Hinrich (4.1),#CE1141,#061922
+2004-05,Chicago Bulls,47,0.573,0.2,S. Skiles,T. Chandler (8.3),#CE1141,#061922
+2005-06,Chicago Bulls,41,0.5,0.2,S. Skiles,K. Hinrich (7.6),#CE1141,#061922
+2006-07,Chicago Bulls,49,0.598,0.4,S. Skiles,L. Deng (11.3),#CE1141,#061922
+2007-08,Chicago Bulls,33,0.402,0,S. Skiles/P. Myers/J. Boylan,B. Gordon (5.1),#CE1141,#061922
+2008-09,Chicago Bulls,41,0.5,0.2,V. Del Negro,B. Gordon (6.9),#CE1141,#061922
+2009-10,Chicago Bulls,41,0.5,0.2,V. Del Negro,J. Noah (6.2),#CE1141,#061922
+2010-11,Chicago Bulls,62,0.756,0.6,T. Thibodeau,D. Rose (13.1),#CE1141,#061922
+2011-12,Chicago Bulls,50,0.758,0.2,T. Thibodeau,J. Noah (9.0),#CE1141,#061922
+2012-13,Chicago Bulls,45,0.549,0.4,T. Thibodeau,J. Noah (7.3),#CE1141,#061922
+2013-14,Chicago Bulls,48,0.585,0.2,T. Thibodeau,J. Noah (11.2),#CE1141,#061922
+2014-15,Chicago Bulls,50,0.61,0.4,T. Thibodeau,J. Butler (11.2),#CE1141,#061922

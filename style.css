@@ -1,0 +1,59 @@
+body {
+  background-color: rgb(252, 254, 252);
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+}
+.axis path, .axis line {
+  stroke: #000;
+}
+.x.axis path, .x.axis line, .y.axis path {
+  display: none;
+}
+.tick line {
+  stroke-width: 2;
+  opacity: 0.1;
+}
+.label {
+  font-size: 11px;
+  letter-spacing: 0;
+}
+div {
+  margin: 20px 0 0 180px;
+  width: 1020px;
+}
+
+div img {
+  cursor: pointer;
+  width: 68px;
+  display: block;
+  float: left;
+  margin: 10px 0;
+  padding: 0;
+}
+h1 {
+  font-size: 30px;
+  clear: both;
+  font-weight: 100;
+  width: 1020px;
+  padding: 30px 0 0 180px;
+  letter-spacing: 3px;
+  text-align: center;
+}
+p#credit {
+  color: #aaa;
+  text-align: center;
+  width: 1020px;
+  margin: 50px 0 50px 180px;
+  font-weight: 400;
+}
+p#credit span {
+  padding: 0 10px;
+}
+a {
+  color: #000;
+  text-decoration: none;
+}

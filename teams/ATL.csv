@@ -1,0 +1,67 @@
+season,team,wins,winpercent,playoffs,coach,topWS,color1,color2
+1949-50,Tri-Cities Blackhawks,29,0.453,0.4,R. Potter/R. Auerbach,D. Otten (5.2),#E13A3E,#C4D600
+1950-51,Tri-Cities Blackhawks,25,0.368,0,D. McMillan/J. Logan/M. Todorovich,F. Brian (5.6),#E13A3E,#C4D600
+1951-52,Milwaukee Hawks,17,0.258,0,D. Moore,D. Otten (5.6),#E13A3E,#C4D600
+1952-53,Milwaukee Hawks,27,0.38,0,A. Levane,M. Hutchins (6.9),#E13A3E,#C4D600
+1953-54,Milwaukee Hawks,21,0.292,0,A. Levane/R. Holzman,G. Ratkovicz (5.2),#E13A3E,#C4D600
+1954-55,Milwaukee Hawks,26,0.361,0,R. Holzman,B. Pettit (10.7),#E13A3E,#C4D600
+1955-56,St. Louis Hawks,33,0.458,0.6,R. Holzman,B. Pettit (13.8),#E13A3E,#C4D600
+1956-57,St. Louis Hawks,34,0.472,0.8,R. Holzman/S. Martin/A. Hannum,B. Pettit (11.6),#E13A3E,#C4D600
+1957-58,St. Louis Hawks,41,0.569,1,A. Hannum,B. Pettit (11.0),#E13A3E,#C4D600
+1958-59,St. Louis Hawks,49,0.681,0.6,A. Phillip/E. Macauley,B. Pettit (14.8),#E13A3E,#C4D600
+1959-60,St. Louis Hawks,46,0.613,0.8,E. Macauley,C. Hagan (11.8),#E13A3E,#C4D600
+1960-61,St. Louis Hawks,51,0.646,0.8,P. Seymour,B. Pettit (14.9),#E13A3E,#C4D600
+1961-62,St. Louis Hawks,29,0.363,0,P. Seymour/A. Levane/B. Pettit,B. Pettit (11.5),#E13A3E,#C4D600
+1962-63,St. Louis Hawks,48,0.6,0.6,H. Gallatin,B. Pettit (14.3),#E13A3E,#C4D600
+1963-64,St. Louis Hawks,46,0.575,0.6,H. Gallatin,B. Pettit (14.9),#E13A3E,#C4D600
+1964-65,St. Louis Hawks,45,0.563,0.4,H. Gallatin/R. Guerin,Z. Beaty (10.8),#E13A3E,#C4D600
+1965-66,St. Louis Hawks,36,0.45,0.6,R. Guerin,Z. Beaty (10.3),#E13A3E,#C4D600
+1966-67,St. Louis Hawks,39,0.481,0.6,R. Guerin,L. Wilkens (7.6),#E13A3E,#C4D600
+1967-68,St. Louis Hawks,56,0.683,0.4,R. Guerin,Z. Beaty (11.8),#E13A3E,#C4D600
+1968-69,Atlanta Hawks,48,0.585,0.6,R. Guerin,L. Hudson (10.1),#E13A3E,#C4D600
+1969-70,Atlanta Hawks,48,0.585,0.6,R. Guerin,L. Hudson (11.1),#E13A3E,#C4D600
+1970-71,Atlanta Hawks,36,0.439,0.4,R. Guerin,L. Hudson (7.9),#E13A3E,#C4D600
+1971-72,Atlanta Hawks,36,0.439,0.4,R. Guerin,W. Bellamy (10.3),#E13A3E,#C4D600
+1972-73,Atlanta Hawks,46,0.561,0.4,C. Fitzsimmons,L. Hudson (9.3),#E13A3E,#C4D600
+1973-74,Atlanta Hawks,35,0.427,0,C. Fitzsimmons,L. Hudson (8.8),#E13A3E,#C4D600
+1974-75,Atlanta Hawks,31,0.378,0,C. Fitzsimmons,J. Drew (7.1),#E13A3E,#C4D600
+1975-76,Atlanta Hawks,29,0.354,0,C. Fitzsimmons/G. Tormohlen,J. Drew (10.6),#E13A3E,#C4D600
+1976-77,Atlanta Hawks,31,0.378,0,H. Brown,J. Drew (7.9),#E13A3E,#C4D600
+1977-78,Atlanta Hawks,41,0.5,0.2,H. Brown,J. Drew (8.9),#E13A3E,#C4D600
+1978-79,Atlanta Hawks,46,0.561,0.4,H. Brown,J. Drew (8.9),#E13A3E,#C4D600
+1979-80,Atlanta Hawks,50,0.61,0.4,H. Brown,T. Rollins (9.2),#E13A3E,#C4D600
+1980-81,Atlanta Hawks,31,0.378,0,H. Brown/M. Fratello,D. Roundfield (7.0),#E13A3E,#C4D600
+1981-82,Atlanta Hawks,42,0.512,0.2,K. Loughery,D. Roundfield (6.5),#E13A3E,#C4D600
+1982-83,Atlanta Hawks,43,0.524,0.2,K. Loughery,D. Roundfield (7.4),#E13A3E,#C4D600
+1983-84,Atlanta Hawks,40,0.488,0.2,M. Fratello,D. Roundfield (7.1),#E13A3E,#C4D600
+1984-85,Atlanta Hawks,34,0.415,0,M. Fratello,D. Wilkins (7.6),#E13A3E,#C4D600
+1985-86,Atlanta Hawks,50,0.61,0.4,M. Fratello,D. Wilkins (10.8),#E13A3E,#C4D600
+1986-87,Atlanta Hawks,57,0.695,0.4,M. Fratello,D. Wilkins (12.2),#E13A3E,#C4D600
+1987-88,Atlanta Hawks,50,0.61,0.4,M. Fratello,D. Wilkins (9.8),#E13A3E,#C4D600
+1988-89,Atlanta Hawks,52,0.634,0.2,M. Fratello,M. Malone (10.7),#E13A3E,#C4D600
+1989-90,Atlanta Hawks,41,0.5,0,M. Fratello,D. Wilkins (11.1),#E13A3E,#C4D600
+1990-91,Atlanta Hawks,43,0.524,0.2,B. Weiss,D. Wilkins (11.4),#E13A3E,#C4D600
+1991-92,Atlanta Hawks,38,0.463,0,B. Weiss,K. Willis (8.8),#E13A3E,#C4D600
+1992-93,Atlanta Hawks,43,0.524,0.2,B. Weiss,D. Wilkins (10.5),#E13A3E,#C4D600
+1993-94,Atlanta Hawks,57,0.695,0.4,L. Wilkens,M. Blaylock (10.2),#E13A3E,#C4D600
+1994-95,Atlanta Hawks,42,0.512,0.2,L. Wilkens,M. Blaylock (9.4),#E13A3E,#C4D600
+1995-96,Atlanta Hawks,46,0.561,0.4,L. Wilkens,M. Blaylock (9.0),#E13A3E,#C4D600
+1996-97,Atlanta Hawks,56,0.683,0.4,L. Wilkens,M. Blaylock (12.5),#E13A3E,#C4D600
+1997-98,Atlanta Hawks,50,0.61,0.2,L. Wilkens,D. Mutombo (10.8),#E13A3E,#C4D600
+1998-99,Atlanta Hawks,31,0.62,0.4,L. Wilkens,D. Mutombo (7.9),#E13A3E,#C4D600
+1999-00,Atlanta Hawks,28,0.341,0,L. Wilkens,D. Mutombo (9.9),#E13A3E,#C4D600
+2000-01,Atlanta Hawks,25,0.305,0,L. Kruger,J. Terry (6.5),#E13A3E,#C4D600
+2001-02,Atlanta Hawks,33,0.402,0,L. Kruger,J. Terry (8.6),#E13A3E,#C4D600
+2002-03,Atlanta Hawks,35,0.427,0,L. Kruger/T. Stotts,S. Abdur-Rahim (9.7),#E13A3E,#C4D600
+2003-04,Atlanta Hawks,28,0.341,0,T. Stotts,S. Abdur-Rahim (6.6),#E13A3E,#C4D600
+2004-05,Atlanta Hawks,13,0.159,0,M. Woodson,J. Childress (4.6),#E13A3E,#C4D600
+2005-06,Atlanta Hawks,26,0.317,0,M. Woodson,J. Johnson (6.0),#E13A3E,#C4D600
+2006-07,Atlanta Hawks,30,0.366,0,M. Woodson,J. Childress (5.5),#E13A3E,#C4D600
+2007-08,Atlanta Hawks,37,0.451,0.2,M. Woodson,J. Childress (7.6),#E13A3E,#C4D600
+2008-09,Atlanta Hawks,47,0.573,0.4,M. Woodson,J. Johnson (7.6),#E13A3E,#C4D600
+2009-10,Atlanta Hawks,53,0.646,0.4,M. Woodson,A. Horford (10.9),#E13A3E,#C4D600
+2010-11,Atlanta Hawks,44,0.537,0.4,L. Drew,A. Horford (10.1),#E13A3E,#C4D600
+2011-12,Atlanta Hawks,40,0.606,0.2,L. Drew,J. Smith (6.8),#E13A3E,#C4D600
+2012-13,Atlanta Hawks,44,0.537,0.2,L. Drew,A. Horford (8.8),#E13A3E,#C4D600
+2013-14,Atlanta Hawks,38,0.463,0.2,M. Budenholzer,P. Millsap (6.7),#E13A3E,#C4D600
+2014-15,Atlanta Hawks,60,0.732,0.6,M. Budenholzer,A. Horford (8.7),#E13A3E,#C4D600

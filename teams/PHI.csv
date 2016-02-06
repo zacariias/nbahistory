@@ -1,0 +1,67 @@
+season,team,wins,winpercent,playoffs,coach,topWS,color1,color2
+1949-50,Syracuse Nationals,51,0.797,0.8,A. Cervi,D. Schayes (12.8),#ED174C,#006BB6
+1950-51,Syracuse Nationals,32,0.485,0.6,A. Cervi,D. Schayes (10.3),#ED174C,#006BB6
+1951-52,Syracuse Nationals,40,0.606,0.6,A. Cervi,D. Schayes (8.5),#ED174C,#006BB6
+1952-53,Syracuse Nationals,47,0.662,0.4,A. Cervi,D. Schayes (13.1),#ED174C,#006BB6
+1953-54,Syracuse Nationals,42,0.583,0.8,A. Cervi,D. Schayes (14.8),#ED174C,#006BB6
+1954-55,Syracuse Nationals,43,0.597,1,A. Cervi,D. Schayes (12.0),#ED174C,#006BB6
+1955-56,Syracuse Nationals,35,0.486,0.6,A. Cervi,D. Schayes (11.8),#ED174C,#006BB6
+1956-57,Syracuse Nationals,38,0.528,0.6,A. Cervi/P. Seymour,D. Schayes (12.5),#ED174C,#006BB6
+1957-58,Syracuse Nationals,41,0.569,0.4,P. Seymour,D. Schayes (13.7),#ED174C,#006BB6
+1958-59,Syracuse Nationals,35,0.486,0.6,P. Seymour,D. Schayes (9.4),#ED174C,#006BB6
+1959-60,Syracuse Nationals,45,0.6,0.4,P. Seymour,D. Schayes (9.5),#ED174C,#006BB6
+1960-61,Syracuse Nationals,38,0.481,0.6,A. Hannum,L. Costello (8.6),#ED174C,#006BB6
+1961-62,Syracuse Nationals,41,0.513,0.4,A. Hannum,H. Greer (8.5),#ED174C,#006BB6
+1962-63,Syracuse Nationals,48,0.6,0.4,A. Hannum,H. Greer (8.2),#ED174C,#006BB6
+1963-64,Philadelphia 76ers,34,0.425,0.4,D. Schayes,H. Greer (8.1),#ED174C,#006BB6
+1964-65,Philadelphia 76ers,40,0.5,0.6,D. Schayes,W. Chamberlain (7.6),#ED174C,#006BB6
+1965-66,Philadelphia 76ers,55,0.688,0.6,D. Schayes,W. Chamberlain (21.4),#ED174C,#006BB6
+1966-67,Philadelphia 76ers,68,0.84,1,A. Hannum,W. Chamberlain (21.9),#ED174C,#006BB6
+1967-68,Philadelphia 76ers,62,0.756,0.6,A. Hannum,W. Chamberlain (20.4),#ED174C,#006BB6
+1968-69,Philadelphia 76ers,55,0.671,0.4,J. Ramsay,H. Greer (9.9),#ED174C,#006BB6
+1969-70,Philadelphia 76ers,42,0.512,0.4,J. Ramsay,B. Cunningham (10.3),#ED174C,#006BB6
+1970-71,Philadelphia 76ers,47,0.573,0.4,J. Ramsay,A. Clark (11.4),#ED174C,#006BB6
+1971-72,Philadelphia 76ers,30,0.366,0,J. Ramsay,B. Cunningham (8.3),#ED174C,#006BB6
+1972-73,Philadelphia 76ers,9,0.11,0,R. Rubin/K. Loughery,J. Block (3.4),#ED174C,#006BB6
+1973-74,Philadelphia 76ers,25,0.305,0,G. Shue,S. Mix (8.2),#ED174C,#006BB6
+1974-75,Philadelphia 76ers,34,0.415,0,G. Shue,D. Collins (7.7),#ED174C,#006BB6
+1975-76,Philadelphia 76ers,46,0.561,0.2,G. Shue,D. Collins (10.0),#ED174C,#006BB6
+1976-77,Philadelphia 76ers,50,0.61,0.8,G. Shue,J. Erving (11.5),#ED174C,#006BB6
+1977-78,Philadelphia 76ers,55,0.671,0.6,G. Shue/B. Cunningham,J. Erving (9.1),#ED174C,#006BB6
+1978-79,Philadelphia 76ers,47,0.573,0.4,B. Cunningham,J. Erving (7.9),#ED174C,#006BB6
+1979-80,Philadelphia 76ers,59,0.72,0.8,B. Cunningham,J. Erving (12.5),#ED174C,#006BB6
+1980-81,Philadelphia 76ers,62,0.756,0.6,B. Cunningham,J. Erving (13.8),#ED174C,#006BB6
+1981-82,Philadelphia 76ers,58,0.707,0.8,B. Cunningham,J. Erving (13.3),#ED174C,#006BB6
+1982-83,Philadelphia 76ers,65,0.793,1,B. Cunningham,M. Malone (15.1),#ED174C,#006BB6
+1983-84,Philadelphia 76ers,52,0.634,0.2,B. Cunningham,J. Erving (10.1),#ED174C,#006BB6
+1984-85,Philadelphia 76ers,58,0.707,0.6,B. Cunningham,M. Malone (11.9),#ED174C,#006BB6
+1985-86,Philadelphia 76ers,54,0.659,0.4,M. Guokas,C. Barkley (10.8),#ED174C,#006BB6
+1986-87,Philadelphia 76ers,45,0.549,0.2,M. Guokas,C. Barkley (12.0),#ED174C,#006BB6
+1987-88,Philadelphia 76ers,36,0.439,0,M. Guokas/J. Lynam,C. Barkley (16.7),#ED174C,#006BB6
+1988-89,Philadelphia 76ers,46,0.561,0.2,J. Lynam,C. Barkley (16.1),#ED174C,#006BB6
+1989-90,Philadelphia 76ers,53,0.646,0.4,J. Lynam,C. Barkley (17.3),#ED174C,#006BB6
+1990-91,Philadelphia 76ers,44,0.537,0.4,J. Lynam,C. Barkley (13.4),#ED174C,#006BB6
+1991-92,Philadelphia 76ers,35,0.427,0,J. Lynam,C. Barkley (12.3),#ED174C,#006BB6
+1992-93,Philadelphia 76ers,26,0.317,0,D. Moe/F. Carter,H. Hawkins (8.5),#ED174C,#006BB6
+1993-94,Philadelphia 76ers,25,0.305,0,F. Carter,C. Weatherspoon (6.0),#ED174C,#006BB6
+1994-95,Philadelphia 76ers,24,0.293,0,J. Lucas,D. Barros (12.7),#ED174C,#006BB6
+1995-96,Philadelphia 76ers,18,0.22,0,J. Lucas,C. Weatherspoon (5.8),#ED174C,#006BB6
+1996-97,Philadelphia 76ers,22,0.268,0,J. Davis,C. Weatherspoon (5.0),#ED174C,#006BB6
+1997-98,Philadelphia 76ers,31,0.378,0,L. Brown,A. Iverson (9.0),#ED174C,#006BB6
+1998-99,Philadelphia 76ers,28,0.56,0.4,L. Brown,A. Iverson (7.2),#ED174C,#006BB6
+1999-00,Philadelphia 76ers,49,0.598,0.4,L. Brown,A. Iverson (6.9),#ED174C,#006BB6
+2000-01,Philadelphia 76ers,56,0.683,0.8,L. Brown,A. Iverson (11.8),#ED174C,#006BB6
+2001-02,Philadelphia 76ers,43,0.524,0.2,L. Brown,D. Mutombo (9.6),#ED174C,#006BB6
+2002-03,Philadelphia 76ers,48,0.585,0.4,L. Brown,A. Iverson (9.2),#ED174C,#006BB6
+2003-04,Philadelphia 76ers,33,0.402,0,R. Ayers/C. Ford,S. Dalembert (6.9),#ED174C,#006BB6
+2004-05,Philadelphia 76ers,43,0.524,0.2,J. O'Brien,A. Iverson (9.0),#ED174C,#006BB6
+2005-06,Philadelphia 76ers,38,0.463,0,M. Cheeks,A. Iverson (10.6),#ED174C,#006BB6
+2006-07,Philadelphia 76ers,35,0.427,0,M. Cheeks,A. Iguodala (7.7),#ED174C,#006BB6
+2007-08,Philadelphia 76ers,40,0.488,0.2,M. Cheeks,A. Iguodala (9.6),#ED174C,#006BB6
+2008-09,Philadelphia 76ers,41,0.5,0.2,M. Cheeks/T. DiLeo,A. Iguodala (9.2),#ED174C,#006BB6
+2009-10,Philadelphia 76ers,27,0.329,0,E. Jordan,A. Iguodala (6.7),#ED174C,#006BB6
+2010-11,Philadelphia 76ers,41,0.5,0.2,D. Collins,E. Brand (9.4),#ED174C,#006BB6
+2011-12,Philadelphia 76ers,35,0.53,0.4,D. Collins,A. Iguodala (7.3),#ED174C,#006BB6
+2012-13,Philadelphia 76ers,34,0.415,0,D. Collins,T. Young (7.4),#ED174C,#006BB6
+2013-14,Philadelphia 76ers,19,0.232,0,B. Brown,T. Young (3.5),#ED174C,#006BB6
+2014-15,Philadelphia 76ers,18,0.22,0,B. Brown,N. Noel (4.0),#ED174C,#006BB6

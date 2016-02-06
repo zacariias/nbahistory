@@ -1,0 +1,70 @@
+season,team,wins,winpercent,playoffs,coach,topWS,color1,color2
+1946-47,New York Knicks,33,0.55,0.4,N. Cohalan,O. Schectman (4.3),#006BB6,#F58426
+1947-48,New York Knicks,26,0.542,0.4,J. Lapchick,B. Palmer (7.4),#006BB6,#F58426
+1948-49,New York Knicks,32,0.533,0.6,J. Lapchick,B. Palmer (7.2),#006BB6,#F58426
+1949-50,New York Knicks,40,0.588,0.6,J. Lapchick,H. Gallatin (7.8),#006BB6,#F58426
+1950-51,New York Knicks,36,0.545,0.8,J. Lapchick,H. Gallatin (7.6),#006BB6,#F58426
+1951-52,New York Knicks,37,0.561,0.8,J. Lapchick,H. Gallatin (8.9),#006BB6,#F58426
+1952-53,New York Knicks,47,0.671,0.8,J. Lapchick,H. Gallatin (11.3),#006BB6,#F58426
+1953-54,New York Knicks,44,0.611,0.4,J. Lapchick,H. Gallatin (11.8),#006BB6,#F58426
+1954-55,New York Knicks,38,0.528,0.4,J. Lapchick,H. Gallatin (8.3),#006BB6,#F58426
+1955-56,New York Knicks,35,0.486,0.2,J. Lapchick/V. Boryla,K. Sears (6.2),#006BB6,#F58426
+1956-57,New York Knicks,36,0.5,0,V. Boryla,H. Gallatin (8.1),#006BB6,#F58426
+1957-58,New York Knicks,35,0.486,0,V. Boryla,K. Sears (10.0),#006BB6,#F58426
+1958-59,New York Knicks,40,0.556,0.4,A. Levane,K. Sears (13.3),#006BB6,#F58426
+1959-60,New York Knicks,27,0.36,0,A. Levane/C. Braun,K. Sears (8.8),#006BB6,#F58426
+1960-61,New York Knicks,21,0.266,0,C. Braun,W. Naulls (5.7),#006BB6,#F58426
+1961-62,New York Knicks,29,0.363,0,E. Donovan,R. Guerin (12.1),#006BB6,#F58426
+1962-63,New York Knicks,21,0.263,0,E. Donovan,R. Guerin (7.2),#006BB6,#F58426
+1963-64,New York Knicks,22,0.275,0,E. Donovan,B. McGill (4.5),#006BB6,#F58426
+1964-65,New York Knicks,31,0.388,0,E. Donovan/H. Gallatin,W. Reed (5.5),#006BB6,#F58426
+1965-66,New York Knicks,30,0.375,0,H. Gallatin/D. McGuire,W. Bellamy (8.9),#006BB6,#F58426
+1966-67,New York Knicks,36,0.444,0.4,D. McGuire,W. Bellamy (8.8),#006BB6,#F58426
+1967-68,New York Knicks,43,0.524,0.4,D. McGuire/R. Holzman,W. Bellamy (11.1),#006BB6,#F58426
+1968-69,New York Knicks,54,0.659,0.6,R. Holzman,W. Reed (14.7),#006BB6,#F58426
+1969-70,New York Knicks,60,0.732,1,R. Holzman,W. Frazier (15.0),#006BB6,#F58426
+1970-71,New York Knicks,52,0.634,0.6,R. Holzman,W. Frazier (15.6),#006BB6,#F58426
+1971-72,New York Knicks,48,0.585,0.8,R. Holzman,W. Frazier (14.5),#006BB6,#F58426
+1972-73,New York Knicks,57,0.695,1,R. Holzman,W. Frazier (13.0),#006BB6,#F58426
+1973-74,New York Knicks,49,0.598,0.6,R. Holzman,W. Frazier (10.9),#006BB6,#F58426
+1974-75,New York Knicks,40,0.488,0.2,R. Holzman,W. Frazier (10.8),#006BB6,#F58426
+1975-76,New York Knicks,38,0.463,0,R. Holzman,E. Monroe (7.2),#006BB6,#F58426
+1976-77,New York Knicks,40,0.488,0,R. Holzman,B. McAdoo (7.9),#006BB6,#F58426
+1977-78,New York Knicks,43,0.524,0.4,W. Reed,B. McAdoo (10.9),#006BB6,#F58426
+1978-79,New York Knicks,31,0.378,0,W. Reed/R. Holzman,T. Knight (5.7),#006BB6,#F58426
+1979-80,New York Knicks,39,0.476,0,R. Holzman,B. Cartwright (9.7),#006BB6,#F58426
+1980-81,New York Knicks,50,0.61,0.2,R. Holzman,B. Cartwright (10.0),#006BB6,#F58426
+1981-82,New York Knicks,33,0.402,0,R. Holzman,M. Lucas (7.4),#006BB6,#F58426
+1982-83,New York Knicks,44,0.537,0.4,H. Brown,B. Cartwright (10.1),#006BB6,#F58426
+1983-84,New York Knicks,47,0.573,0.4,H. Brown,B. King (12.1),#006BB6,#F58426
+1984-85,New York Knicks,24,0.293,0,H. Brown,B. King (7.1),#006BB6,#F58426
+1985-86,New York Knicks,23,0.28,0,H. Brown,T. Tucker (4.0),#006BB6,#F58426
+1986-87,New York Knicks,24,0.293,0,H. Brown/B. Hill,B. Cartwright (5.8),#006BB6,#F58426
+1987-88,New York Knicks,38,0.463,0.2,R. Pitino,P. Ewing (8.1),#006BB6,#F58426
+1988-89,New York Knicks,52,0.634,0.4,R. Pitino,P. Ewing (10.9),#006BB6,#F58426
+1989-90,New York Knicks,45,0.549,0.4,S. Jackson,P. Ewing (13.5),#006BB6,#F58426
+1990-91,New York Knicks,39,0.476,0.2,S. Jackson/J. MacLeod,P. Ewing (10.0),#006BB6,#F58426
+1991-92,New York Knicks,51,0.622,0.4,P. Riley,P. Ewing (13.0),#006BB6,#F58426
+1992-93,New York Knicks,60,0.732,0.6,P. Riley,P. Ewing (10.6),#006BB6,#F58426
+1993-94,New York Knicks,57,0.695,0.8,P. Riley,P. Ewing (13.1),#006BB6,#F58426
+1994-95,New York Knicks,55,0.671,0.4,P. Riley,P. Ewing (9.6),#006BB6,#F58426
+1995-96,New York Knicks,47,0.573,0.4,D. Nelson/J. Van. Gundy,A. Mason (11.3),#006BB6,#F58426
+1996-97,New York Knicks,57,0.695,0.4,J. Van Gundy,P. Ewing (9.8),#006BB6,#F58426
+1997-98,New York Knicks,43,0.524,0.4,J. Van Gundy,C. Ward (7.1),#006BB6,#F58426
+1998-99,New York Knicks,27,0.54,0.8,J. Van Gundy,L. Johnson (4.9),#006BB6,#F58426
+1999-00,New York Knicks,50,0.61,0.6,J. Van Gundy,A. Houston (8.6),#006BB6,#F58426
+2000-01,New York Knicks,48,0.585,0.2,J. Van Gundy,M. Camby (10.3),#006BB6,#F58426
+2001-02,New York Knicks,30,0.366,0,J. Van Gundy/D. Chaney,K. Thomas (6.5),#006BB6,#F58426
+2002-03,New York Knicks,37,0.451,0,D. Chaney,A. Houston (7.2),#006BB6,#F58426
+2003-04,New York Knicks,39,0.476,0.2,D. Chaney/H. Williams/L. Wilkens,S. Marbury (5.5),#006BB6,#F58426
+2004-05,New York Knicks,33,0.402,0,L. Wilkens/H. Williams,S. Marbury (11.7),#006BB6,#F58426
+2005-06,New York Knicks,23,0.28,0,L. Brown,J. Crawford (4.5),#006BB6,#F58426
+2006-07,New York Knicks,33,0.402,0,I. Thomas,D. Lee (6.9),#006BB6,#F58426
+2007-08,New York Knicks,23,0.28,0,I. Thomas,D. Lee (7.4),#006BB6,#F58426
+2008-09,New York Knicks,32,0.39,0,M. D'Antoni,D. Lee (9.0),#006BB6,#F58426
+2009-10,New York Knicks,29,0.354,0,M. D'Antoni,D. Lee (10.3),#006BB6,#F58426
+2010-11,New York Knicks,42,0.512,0.2,M. D'Antoni,A. Stoudemire (8.0),#006BB6,#F58426
+2011-12,New York Knicks,36,0.545,0.2,M. D'Antoni/M. Woodson,T. Chandler (9.5),#006BB6,#F58426
+2012-13,New York Knicks,54,0.659,0.4,M. Woodson,C. Anthony (9.5),#006BB6,#F58426
+2013-14,New York Knicks,37,0.451,0,M. Woodson,C. Anthony (10.7),#006BB6,#F58426
+2014-15,New York Knicks,17,0.207,0,D. Fisher,C. Anthony (2.9),#006BB6,#F58426

@@ -1,0 +1,48 @@
+season,team,wins,winpercent,playoffs,coach,topWS,color1,color2
+1968-69,Milwaukee Bucks,27,0.329,0,L. Costello,J. McGlocklin (7.9),#00471B,#F0EBD2
+1969-70,Milwaukee Bucks,56,0.683,0.6,L. Costello,K. Abdul-Jabbar (13.8),#00471B,#F0EBD2
+1970-71,Milwaukee Bucks,66,0.805,1,L. Costello,K. Abdul-Jabbar (22.3),#00471B,#F0EBD2
+1971-72,Milwaukee Bucks,63,0.768,0.6,L. Costello,K. Abdul-Jabbar (25.4),#00471B,#F0EBD2
+1972-73,Milwaukee Bucks,60,0.732,0.4,L. Costello,K. Abdul-Jabbar (21.9),#00471B,#F0EBD2
+1973-74,Milwaukee Bucks,59,0.72,0.8,L. Costello,K. Abdul-Jabbar (18.4),#00471B,#F0EBD2
+1974-75,Milwaukee Bucks,38,0.463,0,L. Costello,K. Abdul-Jabbar (12.9),#00471B,#F0EBD2
+1975-76,Milwaukee Bucks,38,0.463,0.2,L. Costello,B. Dandridge (9.0),#00471B,#F0EBD2
+1976-77,Milwaukee Bucks,30,0.366,0,L. Costello/D. Nelson,S. Nater (6.9),#00471B,#F0EBD2
+1977-78,Milwaukee Bucks,44,0.537,0.4,D. Nelson,M. Johnson (10.6),#00471B,#F0EBD2
+1978-79,Milwaukee Bucks,38,0.463,0,D. Nelson,M. Johnson (12.2),#00471B,#F0EBD2
+1979-80,Milwaukee Bucks,49,0.598,0.4,D. Nelson,M. Johnson (11.5),#00471B,#F0EBD2
+1980-81,Milwaukee Bucks,60,0.732,0.4,D. Nelson,M. Johnson (11.2),#00471B,#F0EBD2
+1981-82,Milwaukee Bucks,55,0.671,0.4,D. Nelson,S. Moncrief (13.4),#00471B,#F0EBD2
+1982-83,Milwaukee Bucks,51,0.622,0.6,D. Nelson,S. Moncrief (13.2),#00471B,#F0EBD2
+1983-84,Milwaukee Bucks,50,0.61,0.6,D. Nelson,S. Moncrief (12.7),#00471B,#F0EBD2
+1984-85,Milwaukee Bucks,59,0.72,0.4,D. Nelson,S. Moncrief (11.2),#00471B,#F0EBD2
+1985-86,Milwaukee Bucks,57,0.695,0.6,D. Nelson,S. Moncrief (11.7),#00471B,#F0EBD2
+1986-87,Milwaukee Bucks,50,0.61,0.4,D. Nelson,R. Pierce (9.4),#00471B,#F0EBD2
+1987-88,Milwaukee Bucks,42,0.512,0.2,D. Harris,J. Sikma (9.4),#00471B,#F0EBD2
+1988-89,Milwaukee Bucks,49,0.598,0.4,D. Harris,J. Sikma (8.1),#00471B,#F0EBD2
+1989-90,Milwaukee Bucks,44,0.537,0.2,D. Harris,J. Humphries (7.6),#00471B,#F0EBD2
+1990-91,Milwaukee Bucks,48,0.585,0.2,D. Harris,J. Humphries (8.6),#00471B,#F0EBD2
+1991-92,Milwaukee Bucks,31,0.378,0,D. Harris/F. Hamblen,M. Malone (7.8),#00471B,#F0EBD2
+1992-93,Milwaukee Bucks,28,0.341,0,M. Dunleavy,E. Murdock (6.1),#00471B,#F0EBD2
+1993-94,Milwaukee Bucks,20,0.244,0,M. Dunleavy,E. Murdock (7.2),#00471B,#F0EBD2
+1994-95,Milwaukee Bucks,34,0.415,0,M. Dunleavy,V. Baker (5.8),#00471B,#F0EBD2
+1995-96,Milwaukee Bucks,25,0.305,0,M. Dunleavy,V. Baker (6.2),#00471B,#F0EBD2
+1996-97,Milwaukee Bucks,33,0.402,0,C. Ford,V. Baker (8.3),#00471B,#F0EBD2
+1997-98,Milwaukee Bucks,36,0.439,0,C. Ford,R. Allen (7.0),#00471B,#F0EBD2
+1998-99,Milwaukee Bucks,28,0.56,0.2,G. Karl,R. Allen (5.2),#00471B,#F0EBD2
+1999-00,Milwaukee Bucks,42,0.512,0.2,G. Karl,R. Allen (10.1),#00471B,#F0EBD2
+2000-01,Milwaukee Bucks,52,0.634,0.6,G. Karl,R. Allen (13.7),#00471B,#F0EBD2
+2001-02,Milwaukee Bucks,41,0.5,0,G. Karl,R. Allen (8.9),#00471B,#F0EBD2
+2002-03,Milwaukee Bucks,42,0.512,0.2,G. Karl,S. Cassell (9.6),#00471B,#F0EBD2
+2003-04,Milwaukee Bucks,41,0.5,0.2,T. Porter,M. Redd (9.7),#00471B,#F0EBD2
+2004-05,Milwaukee Bucks,30,0.366,0,T. Porter,M. Redd (6.2),#00471B,#F0EBD2
+2005-06,Milwaukee Bucks,40,0.488,0.2,T. Stotts,M. Redd (10.8),#00471B,#F0EBD2
+2006-07,Milwaukee Bucks,28,0.341,0,T. Stotts/L. Krystkowiak,M. Redd (6.1),#00471B,#F0EBD2
+2007-08,Milwaukee Bucks,26,0.317,0,L. Krystkowiak,M. Redd (5.8),#00471B,#F0EBD2
+2008-09,Milwaukee Bucks,34,0.415,0,S. Skiles,R. Jefferson (6.6),#00471B,#F0EBD2
+2009-10,Milwaukee Bucks,46,0.561,0.2,S. Skiles,A. Bogut (7.5),#00471B,#F0EBD2
+2010-11,Milwaukee Bucks,35,0.427,0,S. Skiles,A. Bogut (5.4),#00471B,#F0EBD2
+2011-12,Milwaukee Bucks,31,0.47,0,S. Skiles,E. Ilyasova (6.4),#00471B,#F0EBD2
+2012-13,Milwaukee Bucks,38,0.463,0.2,S. Skiles/J. Boylan,E. Ilyasova (6.7),#00471B,#F0EBD2
+2013-14,Milwaukee Bucks,15,0.183,0,L. Drew,J. Henson (3.3),#00471B,#F0EBD2
+2014-15,Milwaukee Bucks,41,0.5,0.2,J. Kidd,K. Middleton (6.7),#00471B,#F0EBD2

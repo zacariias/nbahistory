@@ -1,1 +1,303 @@
-Hello, world!
+<!DOCTYPE html>
+<html>
+<head>
+<title>NBA History</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="icon" href="icon.png" type="image/png" />
+</head>
+<body>
+<div>
+<img src="teams/ATL.png" onclick="showATL();document.getElementById('title').innerHTML='Atlanta Hawks'" alt="ATL" />
+<img src="teams/BOS.png" onclick="showBOS();document.getElementById('title').innerHTML='Boston Celtics'" alt="BOS" />
+<img src="teams/BKN.png" onclick="showBKN();document.getElementById('title').innerHTML='Brooklyn Nets'" alt="BKN" />
+<img src="teams/CHA.png" onclick="showCHA();document.getElementById('title').innerHTML='Charlotte Hornets'" alt="CHA" />
+<img src="teams/CHI.png" onclick="showCHI();document.getElementById('title').innerHTML='Chicago Bulls'" alt="CHI" />
+<img src="teams/CLE.png" onclick="showCLE();document.getElementById('title').innerHTML='Cleveland Cavaliers'" alt="CLE" />
+<img src="teams/DET.png" onclick="showDET();document.getElementById('title').innerHTML='Detroit Pistons';" alt="DET" />
+<img src="teams/IND.png" onclick="showIND();document.getElementById('title').innerHTML='Indiana Pacers';" alt="IND" />
+<img src="teams/MIA.png" onclick="showMIA();document.getElementById('title').innerHTML='Miami Heat';" alt="MIA" />
+<img src="teams/MIL.png" onclick="showMIL();document.getElementById('title').innerHTML='Milwaukee Bucks';" alt="MIL" />
+<img src="teams/NYK.png" onclick="showNYK();document.getElementById('title').innerHTML='New York Knicks';" alt="NYK" />
+<img src="teams/ORL.png" onclick="showORL();document.getElementById('title').innerHTML='Orlando Magic';" alt="ORL" />
+<img src="teams/PHI.png" onclick="showPHI();document.getElementById('title').innerHTML='Philadelphia 76ers';" alt="PHI" />
+<img src="teams/TOR.png" onclick="showTOR();document.getElementById('title').innerHTML='Toronto Raptors';" alt="TOR" />
+<img src="teams/WAS.png" onclick="showWAS();document.getElementById('title').innerHTML='Washington Wizards';" alt="WAS" />
+<img src="teams/DAL.png" onclick="showDAL();document.getElementById('title').innerHTML='Dallas Mavericks';" alt="DAL" />
+<img src="teams/DEN.png" onclick="showDEN();document.getElementById('title').innerHTML='Denver Nuggets';" alt="DEN" />
+<img src="teams/GSW.png" onclick="showGSW();document.getElementById('title').innerHTML='Golden State Warriors';" alt="GSW" />
+<img src="teams/HOU.png" onclick="showHOU();document.getElementById('title').innerHTML='Houston Rockets';" alt="HOU" />
+<img src="teams/LAC.png" onclick="showLAC();document.getElementById('title').innerHTML='Los Angeles Clippers';" alt="LAC" />
+<img src="teams/LAL.png" onclick="showLAL();document.getElementById('title').innerHTML='Los Angeles Lakers';" alt="LAL" />
+<img src="teams/MEM.png" onclick="showMEM();document.getElementById('title').innerHTML='Memphis Grizzlies';" alt="MEM" />
+<img src="teams/MIN.png" onclick="showMIN();document.getElementById('title').innerHTML='Minnesota Timberwolves';" alt="MIN" />
+<img src="teams/NOP.png" onclick="showNOP();document.getElementById('title').innerHTML='New Orleans Pelicans';" alt="NOP" />
+<img src="teams/OKC.png" onclick="showOKC();document.getElementById('title').innerHTML='Oklahoma City Thunder';" alt="OKC" />
+<img src="teams/PHO.png" onclick="showPHO();document.getElementById('title').innerHTML='Phoenix Suns';" alt="PHO" />
+<img src="teams/POR.png" onclick="showPOR();document.getElementById('title').innerHTML='Portland Trail Blazers';" alt="POR" />
+<img src="teams/SAC.png" onclick="showSAC();document.getElementById('title').innerHTML='Sacramento Kings';" alt="SAC" />
+<img src="teams/SAS.png" onclick="showSAS();document.getElementById('title').innerHTML='San Antonio Spurs';" alt="SAS" />
+<img src="teams/UTA.png" onclick="showUTA();document.getElementById('title').innerHTML='Utah Jazz';" alt="UTA" />
+</div>
+<h1 id="title">Choose a team</h1>
+<svg class="regularseason"></svg>
+<svg class="playoffs"></svg>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script>
+var margin1 = {top:5,right:0,bottom:80,left:180},
+    width1 = 1020
+    height1 = 320;
+var margin2 = {top:10,right:0,bottom:700,left:180},
+    width2 = 1020
+    height2 = 160;
+var x = d3.scale
+    .ordinal()
+    .rangeRoundBands([0,width1],0.2);
+var y1 = d3.scale
+    .linear()
+    .range([height1,0]);
+var y2 = d3.scale
+    .linear()
+    .range([height2,0]);
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+var formatDecimal = d3.format(".3f");
+var y1Axis = d3.svg.axis()
+    .scale(y1)
+    .orient("left")
+    .innerTickSize(-width1)
+    .tickPadding(10)
+    .tickFormat(formatDecimal);
+var y2Axis = d3.svg.axis()
+    .scale(y2)
+    .orient("left")
+    .innerTickSize(-width2)
+    .tickPadding(10)
+    .ticks(5)
+    .tickFormat(function(d){
+      if(d==0){return "Missed playoffs"}
+      else if(d==0.2){return "Lost first round"}
+      else if(d==0.4){return "Lost conf/div semis"}
+      else if(d==0.6){return "Lost conf/div finals"}
+      else if(d==0.8){return "Lost finals"}
+      else{return "Won finals"}});
+var regularseason = d3.select(".regularseason")
+    .attr("width",width1 + margin1.left + margin1.right)
+    .attr("height",height1 + margin1.top + margin1.bottom)
+    .append("g")
+    .attr("transform","translate(" + margin1.left + "," + margin1.top + ")");
+var playoffs = d3.select(".playoffs")
+    .attr("width",width2 + margin2.left + margin2.right)
+    .attr("height",height2 + margin2.top + margin2.bottom)
+    .append("g")
+    .attr("transform","translate(" + margin2.left + "," + margin2.top + ")");
+function showATL(){d3.csv("teams/ATL.csv",type,update)}
+function showBKN(){d3.csv("teams/BKN.csv",type,update)}
+function showBOS(){d3.csv("teams/BOS.csv",type,update)}
+function showCHA(){d3.csv("teams/CHA.csv",type,update)}
+function showCHI(){d3.csv("teams/CHI.csv",type,update)}
+function showCLE(){d3.csv("teams/CLE.csv",type,update)}
+function showDAL(){d3.csv("teams/DAL.csv",type,update)}
+function showDEN(){d3.csv("teams/DEN.csv",type,update)}
+function showDET(){d3.csv("teams/DET.csv",type,update)}
+function showGSW(){d3.csv("teams/GSW.csv",type,update)}
+function showHOU(){d3.csv("teams/HOU.csv",type,update)}
+function showIND(){d3.csv("teams/IND.csv",type,update)}
+function showLAC(){d3.csv("teams/LAC.csv",type,update)}
+function showLAL(){d3.csv("teams/LAL.csv",type,update)}
+function showMEM(){d3.csv("teams/MEM.csv",type,update)}
+function showMIA(){d3.csv("teams/MIA.csv",type,update)}
+function showMIL(){d3.csv("teams/MIL.csv",type,update)}
+function showMIN(){d3.csv("teams/MIN.csv",type,update)}
+function showNOP(){d3.csv("teams/NOP.csv",type,update)}
+function showNYK(){d3.csv("teams/NYK.csv",type,update)}
+function showOKC(){d3.csv("teams/OKC.csv",type,update)}
+function showORL(){d3.csv("teams/ORL.csv",type,update)}
+function showPHI(){d3.csv("teams/PHI.csv",type,update)}
+function showPHO(){d3.csv("teams/PHO.csv",type,update)}
+function showPOR(){d3.csv("teams/POR.csv",type,update)}
+function showSAC(){d3.csv("teams/SAC.csv",type,update)}
+function showSAS(){d3.csv("teams/SAS.csv",type,update)}
+function showTOR(){d3.csv("teams/TOR.csv",type,update)}
+function showUTA(){d3.csv("teams/UTA.csv",type,update)}
+function showWAS(){d3.csv("teams/WAS.csv",type,update)}
+function update(error, data) {
+x.domain(data.map(function(d){return d.season;}));
+y1.domain([0,1]);
+y2.domain([0,1]);
+regularseason.selectAll("text").remove();
+regularseason.select(".y.axis").remove();
+playoffs.selectAll("text").remove();
+playoffs.select(".y.axis").remove();
+regularseason.append("text")
+    .attr("x", -10)
+    .attr("y", height1 + 50)
+    .style("text-anchor","end")
+    .text("Season");
+regularseason.append("text")
+    .attr("transform","rotate(-90)")
+    .attr("x", 0 - (height1 / 2))
+    .attr("y", 0 - (margin1.left / 2))
+    .style("text-anchor","middle")
+    .text("Win percentage");
+regularseason.append("g")
+    .attr("class","y axis")
+    .call(y1Axis);
+playoffs.append("g")
+    .attr("class","y axis")
+    .call(y2Axis);
+regularseason.append("g")
+    .attr("class","x axis")
+    .attr("transform","translate(0," + height1 + ")")
+    .call(xAxis)
+    .selectAll("text")
+    .style("text-anchor","start")
+    .attr("dx", -70)
+    .attr("dy", -5)
+    .attr("transform","rotate(-90)");
+regularseason.append('g')
+    .selectAll('text')
+    .data(data)
+    .enter()
+    .append('text')
+    .attr("class","label")
+    .attr({'x':function(d,i){return x(d.season)+x.rangeBand()/2;},'y':function(d,i){return height1;}})
+    .transition()
+    .duration(750)
+    .ease("linear")
+    .attr({'x':function(d,i){return x(d.season)+x.rangeBand()/2;},'y':function(d,i){return y1(d.winpercent)-5;}})
+    .text(function(d,i){return d.wins;})
+    .style("text-anchor","middle");
+regularseason.selectAll(".bar1").remove();
+regularseason.selectAll(".bar1")
+    .data(data)
+    .enter()
+    .append("rect")
+    .attr("class","bar1")
+    .attr("x",function(d){return x(d.season);})
+    .attr("y",height1)
+    .attr("height",0)
+    .style("fill","white")
+    .style("opacity","0")
+    .transition()
+    .duration(750)
+    .ease("linear")
+    .attr("y",function(d){return y1(d.winpercent);})
+    .attr("height",function(d){return height1 - y1(d.winpercent);})
+    .attr("width",x.rangeBand())
+    .style("fill",function(d){return d.color1})
+    .style("opacity","1");
+playoffs.selectAll(".bar2").remove();
+playoffs.selectAll(".bar2")
+    .data(data)
+    .enter()
+    .append("rect")
+    .attr("x",function(d){return x(d.season);})
+    .attr("y",height2)
+    .attr("height",0)
+    .style("fill","white")
+    .style("opacity","0")
+    .transition()
+    .duration(750)
+    .ease("linear")
+    .attr("y",function(d){return y2(d.playoffs);})
+    .attr("height",function(d){return height2 - y2(d.playoffs);})
+    .attr("class","bar2")
+    .attr("width",x.rangeBand())
+    .style("fill",function(d){return d.color2})
+    .style("opacity","1");
+var offset1 = 0;
+var offsetFactor = 1.1;
+var offsetMargin = 30;
+var topWS = playoffs.append('g');
+topWS.selectAll('text')
+    .data(data)
+    .enter()
+    .append('text')
+    .style("text-anchor","start")
+    .text(function(d){return d.topWS;})
+    .attr("dy", x.rangeBand()/2 + 5)
+    .attr("transform", function(d, i) {
+        var length = this.getComputedTextLength();
+        if (length > offset1) offset1 = length*offsetFactor;
+        return "translate (" + x(d.season) + ",0)rotate(-90)";
+    });
+topWS.attr("transform", "translate(0, "+ (height2 + offset1 + offsetMargin) +")");
+playoffs.append("text")
+    .attr("x", -10)
+    .attr("y", height2 + offset1/2 + offsetMargin)
+    .style("text-anchor","end")
+    .text("Win share leader")
+var offset2 = 0;
+var coach = playoffs.append('g');
+coach.selectAll('text')
+    .data(data)
+    .enter()
+    .append('text')
+    .style("text-anchor","start")
+    .text(function(d){return d.coach;})
+    .attr("dy", x.rangeBand()/2 + 5)
+    .attr("transform", function(d, i) {
+        var length = this.getComputedTextLength();
+        if (length > offset2) offset2 = length*offsetFactor;
+        return "translate (" + x(d.season) + ",0)rotate(-90)";
+    });
+coach.attr("transform", "translate(0, "+ (height2 + offset1 + offset2 + offsetMargin*2) +")");
+playoffs.append("text")
+    .attr("x", - 10)
+    .attr("y", height2 + offset1 + offset2/2 + offsetMargin*2)
+    .style("text-anchor","end")
+    .text("Coach");
+var offset3 = 0;
+var team = playoffs.append('g');
+team.selectAll('text')
+    .data(data)
+    .enter()
+    .append('text')
+    .style("text-anchor","start")
+    .text(function(d){return d.team;})
+    .attr("dy", x.rangeBand()/2 + 5)
+    .attr("transform", function(d, i) {
+        var length = this.getComputedTextLength();
+        if (length > offset3) offset3 = length*offsetFactor;
+        return "translate (" + x(d.season) + ",0)rotate(-90)";
+    });
+team.attr("transform", "translate(0, "+ (height2 + offset1 + offset2 + offset3 + offsetMargin*3) +")");
+playoffs.append("text")
+    .attr("x", - 10)
+    .attr("y", height2 + offset1 + offset2 + offset3/2 + offsetMargin*3)
+    .style("text-anchor","end")
+    .text("Team");
+var offset4 = 0;
+var season = playoffs.append('g');
+season.selectAll('text')
+    .data(data)
+    .enter()
+    .append('text')
+    .style("text-anchor","start")
+    .text(function(d){return d.season;})
+    .attr("dy", x.rangeBand()/2 + 5)
+    .attr("transform", function(d, i) {
+        var length = this.getComputedTextLength();
+        if (length > offset4) offset4 = length*offsetFactor;
+        return "translate (" + x(d.season) + ",0)rotate(-90)";
+    });
+season.attr("transform", "translate(0, "+ (height2 + offset1 + offset2 + offset3 + offset4 + offsetMargin*4) +")");
+playoffs.append("text")
+    .attr("x", - 10)
+    .attr("y", height2 + offset1 + offset2 + offset3 + offset4/2 + offsetMargin*4)
+    .style("text-anchor","end")
+    .text("Season");
+}
+function type(d){d.winpercent = +d.winpercent;return d;};
+</script>
+<p id="credit">
+<span>Created with <a href="http://d3js.org">D3.js</a></span>
+<span>Hosted on <a href="https://github.com/zach4618/nbahistory">GitHub</a></span>
+<span>Data from <a href="http://www.sports-reference.com">Sports Reference, LLC</a></span>
+<span><a href="https://venmo.com/?txn=pay&share=private&recipients=zachary-dunn&amount=5.00">Buy me a coffee</a></span>
+<span><a href="https://www.reddit.com/message/compose?to=zach461">Send me a PM</a></span>
+</p>
+</body>
+</html>

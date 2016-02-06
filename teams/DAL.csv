@@ -1,0 +1,36 @@
+season,team,wins,winpercent,playoffs,coach,topWS,color1,color2
+1980-81,Dallas Mavericks,15,0.183,0,D. Motta,J. Spanarkel (5.5),#007DC5,#C4CED3
+1981-82,Dallas Mavericks,28,0.341,0,D. Motta,J. Vincent (5.6),#007DC5,#C4CED3
+1982-83,Dallas Mavericks,38,0.463,0,D. Motta,B. Davis (7.3),#007DC5,#C4CED3
+1983-84,Dallas Mavericks,43,0.524,0.4,D. Motta,R. Blackman (9.8),#007DC5,#C4CED3
+1984-85,Dallas Mavericks,44,0.537,0.2,D. Motta,B. Davis (7.4),#007DC5,#C4CED3
+1985-86,Dallas Mavericks,44,0.537,0.4,D. Motta,S. Perkins (7.3),#007DC5,#C4CED3
+1986-87,Dallas Mavericks,55,0.671,0.2,D. Motta,J. Donaldson (10.4),#007DC5,#C4CED3
+1987-88,Dallas Mavericks,53,0.646,0.6,J. MacLeod,D. Harper (9.1),#007DC5,#C4CED3
+1988-89,Dallas Mavericks,38,0.463,0,J. MacLeod,D. Harper (8.0),#007DC5,#C4CED3
+1989-90,Dallas Mavericks,47,0.573,0.2,J. MacLeod/R. Adubato,D. Harper (9.9),#007DC5,#C4CED3
+1990-91,Dallas Mavericks,28,0.341,0,R. Adubato,D. Harper (7.6),#007DC5,#C4CED3
+1991-92,Dallas Mavericks,22,0.268,0,R. Adubato,R. Blackman (3.8),#007DC5,#C4CED3
+1992-93,Dallas Mavericks,11,0.134,0,R. Adubato/G. Heard,D. Harper (2.7),#007DC5,#C4CED3
+1993-94,Dallas Mavericks,13,0.159,0,Q. Buckner,P. Jones (3.6),#007DC5,#C4CED3
+1994-95,Dallas Mavericks,36,0.439,0,D. Motta,J. Mashburn (6.3),#007DC5,#C4CED3
+1995-96,Dallas Mavericks,26,0.317,0,D. Motta,G. McCloud (5.8),#007DC5,#C4CED3
+1996-97,Dallas Mavericks,24,0.293,0,J. Cleamons,A. Green (4.0),#007DC5,#C4CED3
+1997-98,Dallas Mavericks,20,0.244,0,J. Cleamons/D. Nelson,M. Finley (7.5),#007DC5,#C4CED3
+1998-99,Dallas Mavericks,19,0.38,0,D. Nelson,M. Finley (5.4),#007DC5,#C4CED3
+1999-00,Dallas Mavericks,40,0.488,0,D. Nelson,M. Finley (8.3),#007DC5,#C4CED3
+2000-01,Dallas Mavericks,53,0.646,0.4,D. Nelson,D. Nowitzki (14.6),#007DC5,#C4CED3
+2001-02,Dallas Mavericks,57,0.695,0.4,D. Nelson,D. Nowitzki (13.4),#007DC5,#C4CED3
+2002-03,Dallas Mavericks,60,0.732,0.6,D. Nelson,D. Nowitzki (16.1),#007DC5,#C4CED3
+2003-04,Dallas Mavericks,52,0.634,0.2,D. Nelson,D. Nowitzki (11.5),#007DC5,#C4CED3
+2004-05,Dallas Mavericks,58,0.707,0.4,D. Nelson/A. Johnson,D. Nowitzki (15.6),#007DC5,#C4CED3
+2005-06,Dallas Mavericks,60,0.732,0.8,A. Johnson,D. Nowitzki (17.7),#007DC5,#C4CED3
+2006-07,Dallas Mavericks,67,0.817,0.2,A. Johnson,D. Nowitzki (16.3),#007DC5,#C4CED3
+2007-08,Dallas Mavericks,51,0.622,0.2,A. Johnson,D. Nowitzki (12.9),#007DC5,#C4CED3
+2008-09,Dallas Mavericks,50,0.61,0.4,R. Carlisle,D. Nowitzki (10.9),#007DC5,#C4CED3
+2009-10,Dallas Mavericks,55,0.671,0.2,R. Carlisle,D. Nowitzki (12.3),#007DC5,#C4CED3
+2010-11,Dallas Mavericks,57,0.695,1,R. Carlisle,D. Nowitzki (11.1),#007DC5,#C4CED3
+2011-12,Dallas Mavericks,36,0.545,0.2,R. Carlisle,D. Nowitzki (7.6),#007DC5,#C4CED3
+2012-13,Dallas Mavericks,41,0.5,0,R. Carlisle,V. Carter (6.0),#007DC5,#C4CED3
+2013-14,Dallas Mavericks,49,0.598,0.2,R. Carlisle,D. Nowitzki (10.9),#007DC5,#C4CED3
+2014-15,Dallas Mavericks,50,0.61,0.2,R. Carlisle,T. Chandler (10.3),#007DC5,#C4CED3

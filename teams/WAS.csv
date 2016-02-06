@@ -1,0 +1,55 @@
+season,team,wins,winpercent,playoffs,coach,topWS,color1,color2
+1961-62,Chicago Packers,18,0.225,0,J. Pollard,W. Bellamy (16.3),#002B5C,#E31837
+1962-63,Chicago Zephyrs,25,0.313,0,J. McMahon/S. Leonard,W. Bellamy (13.7),#002B5C,#E31837
+1963-64,Baltimore Bullets,31,0.388,0,S. Leonard,W. Bellamy (14.4),#002B5C,#E31837
+1964-65,Baltimore Bullets,37,0.463,0.6,B. Jeannette,W. Bellamy (12.1),#002B5C,#E31837
+1965-66,Baltimore Bullets,38,0.475,0.4,P. Seymour,B. Howell (8.7),#002B5C,#E31837
+1966-67,Baltimore Bullets,20,0.247,0,M. Farmer/B. Jeannette/G. Shue,G. Johnson (5.0),#002B5C,#E31837
+1967-68,Baltimore Bullets,36,0.439,0,G. Shue,E. Monroe (9.3),#002B5C,#E31837
+1968-69,Baltimore Bullets,57,0.695,0.4,G. Shue,W. Unseld (10.8),#002B5C,#E31837
+1969-70,Baltimore Bullets,50,0.61,0.4,G. Shue,W. Unseld (11.1),#002B5C,#E31837
+1970-71,Baltimore Bullets,42,0.512,0.8,G. Shue,W. Unseld (10.0),#002B5C,#E31837
+1971-72,Baltimore Bullets,38,0.463,0.4,G. Shue,A. Clark (10.7),#002B5C,#E31837
+1972-73,Baltimore Bullets,52,0.634,0.4,G. Shue,M. Riordan (11.1),#002B5C,#E31837
+1973-74,Capital Bullets,47,0.573,0.4,K. Jones,E. Hayes (10.6),#002B5C,#E31837
+1974-75,Washington Bullets,60,0.732,0.8,K. Jones,E. Hayes (12.5),#002B5C,#E31837
+1975-76,Washington Bullets,48,0.585,0.4,K. Jones,W. Unseld (9.5),#002B5C,#E31837
+1976-77,Washington Bullets,48,0.585,0.4,D. Motta,E. Hayes (12.1),#002B5C,#E31837
+1977-78,Washington Bullets,44,0.537,1,D. Motta,E. Hayes (8.3),#002B5C,#E31837
+1978-79,Washington Bullets,54,0.659,0.8,D. Motta,E. Hayes (9.4),#002B5C,#E31837
+1979-80,Washington Bullets,39,0.476,0.2,D. Motta,W. Unseld (8.4),#002B5C,#E31837
+1980-81,Washington Bullets,39,0.476,0,G. Shue,G. Ballard (6.9),#002B5C,#E31837
+1981-82,Washington Bullets,43,0.524,0.4,G. Shue,G. Ballard (9.4),#002B5C,#E31837
+1982-83,Washington Bullets,42,0.512,0,G. Shue,J. Ruland (10.1),#002B5C,#E31837
+1983-84,Washington Bullets,35,0.427,0.2,G. Shue,J. Ruland (9.3),#002B5C,#E31837
+1984-85,Washington Bullets,40,0.488,0.2,G. Shue,G. Ballard (6.0),#002B5C,#E31837
+1985-86,Washington Bullets,39,0.476,0.2,G. Shue/K. Loughery,J. Malone (6.1),#002B5C,#E31837
+1986-87,Washington Bullets,42,0.512,0.2,K. Loughery,M. Malone (9.4),#002B5C,#E31837
+1987-88,Washington Bullets,38,0.463,0.2,K. Loughery/W. Unseld,M. Malone (9.2),#002B5C,#E31837
+1988-89,Washington Bullets,40,0.488,0,W. Unseld,J. Williams (6.9),#002B5C,#E31837
+1989-90,Washington Bullets,31,0.378,0,W. Unseld,D. Walker (6.3),#002B5C,#E31837
+1990-91,Washington Bullets,30,0.366,0,W. Unseld,H. Grant (6.7),#002B5C,#E31837
+1991-92,Washington Bullets,25,0.305,0,W. Unseld,P. Ellison (6.9),#002B5C,#E31837
+1992-93,Washington Bullets,22,0.268,0,W. Unseld,H. Grant (5.0),#002B5C,#E31837
+1993-94,Washington Bullets,24,0.293,0,W. Unseld,D. MacLean (5.6),#002B5C,#E31837
+1994-95,Washington Bullets,21,0.256,0,J. Lynam,S. Skiles (4.5),#002B5C,#E31837
+1995-96,Washington Bullets,39,0.476,0,J. Lynam,G. Muresan (8.0),#002B5C,#E31837
+1996-97,Washington Bullets,44,0.537,0.2,J. Lynam/B. Staak/B. Bickerstaff,C. Webber (9.3),#002B5C,#E31837
+1997-98,Washington Wizards,42,0.512,0,B. Bickerstaff,C. Webber (8.3),#002B5C,#E31837
+1998-99,Washington Wizards,18,0.36,0,B. Bickerstaff/J. Brovelli,R. Strickland (4.1),#002B5C,#E31837
+1999-00,Washington Wizards,29,0.354,0,G. Heard/D. Walker,M. Richmond (5.2),#002B5C,#E31837
+2000-01,Washington Wizards,19,0.232,0,L. Hamilton,M. Smith (3.6),#002B5C,#E31837
+2001-02,Washington Wizards,37,0.451,0,D. Collins,C. Whitney (6.5),#002B5C,#E31837
+2002-03,Washington Wizards,37,0.451,0,D. Collins,C. Laettner (6.6),#002B5C,#E31837
+2003-04,Washington Wizards,25,0.305,0,E. Jordan,K. Brown (4.9),#002B5C,#E31837
+2004-05,Washington Wizards,45,0.549,0.4,E. Jordan,G. Arenas (11.5),#002B5C,#E31837
+2005-06,Washington Wizards,42,0.512,0.2,E. Jordan,G. Arenas (13.6),#002B5C,#E31837
+2006-07,Washington Wizards,41,0.5,0.2,E. Jordan,G. Arenas (10.8),#002B5C,#E31837
+2007-08,Washington Wizards,43,0.524,0.2,E. Jordan,A. Jamison (9.2),#002B5C,#E31837
+2008-09,Washington Wizards,19,0.232,0,E. Jordan/E. Tapscott,A. Jamison (8.1),#002B5C,#E31837
+2009-10,Washington Wizards,26,0.317,0,F. Saunders,B. Haywood (4.5),#002B5C,#E31837
+2010-11,Washington Wizards,23,0.28,0,F. Saunders,J. McGee (5.3),#002B5C,#E31837
+2011-12,Washington Wizards,20,0.303,0,F. Saunders/R. Wittman,J. Wall (3.5),#002B5C,#E31837
+2012-13,Washington Wizards,29,0.354,0,R. Wittman,M. Webster (6.3),#002B5C,#E31837
+2013-14,Washington Wizards,44,0.537,0.4,R. Wittman,M. Gortat (8.1),#002B5C,#E31837
+2014-15,Washington Wizards,46,0.561,0.4,R. Wittman,M. Gortat (8.6),#002B5C,#E31837

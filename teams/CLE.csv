@@ -1,0 +1,46 @@
+season,team,wins,winpercent,playoffs,coach,topWS,color1,color2
+1970-71,Cleveland Cavaliers,15,0.183,0,B. Fitch,W. Wesley (4.1),#860038,#FDBB30
+1971-72,Cleveland Cavaliers,23,0.28,0,B. Fitch,B. Beard (5.9),#860038,#FDBB30
+1972-73,Cleveland Cavaliers,32,0.39,0,B. Fitch,L. Wilkens (9.5),#860038,#FDBB30
+1973-74,Cleveland Cavaliers,29,0.354,0,B. Fitch,L. Wilkens (6.5),#860038,#FDBB30
+1974-75,Cleveland Cavaliers,40,0.488,0,B. Fitch,D. Snyder (6.4),#860038,#FDBB30
+1975-76,Cleveland Cavaliers,49,0.598,0.6,B. Fitch,J. Brewer (7.9),#860038,#FDBB30
+1976-77,Cleveland Cavaliers,43,0.524,0.2,B. Fitch,J. Chones (5.9),#860038,#FDBB30
+1977-78,Cleveland Cavaliers,43,0.524,0.2,B. Fitch,E. Smith (6.8),#860038,#FDBB30
+1978-79,Cleveland Cavaliers,30,0.366,0,B. Fitch,C. Russell (6.7),#860038,#FDBB30
+1979-80,Cleveland Cavaliers,37,0.451,0,S. Albeck,D. Robisch (8.6),#860038,#FDBB30
+1980-81,Cleveland Cavaliers,28,0.341,0,B. Musselman/D. Delaney,M. Mitchell (6.0),#860038,#FDBB30
+1981-82,Cleveland Cavaliers,15,0.183,0,D. Delaney/B. Kloppenburg/C. Daly/B. Musselman,J. Edwards (4.3),#860038,#FDBB30
+1982-83,Cleveland Cavaliers,23,0.28,0,T. Nissalke,W. Free (4.6),#860038,#FDBB30
+1983-84,Cleveland Cavaliers,28,0.341,0,T. Nissalke,W. Free (5.3),#860038,#FDBB30
+1984-85,Cleveland Cavaliers,36,0.439,0.2,G. Karl,W. Free (6.0),#860038,#FDBB30
+1985-86,Cleveland Cavaliers,29,0.354,0,G. Karl/G. Littles,R. Hinson (7.4),#860038,#FDBB30
+1986-87,Cleveland Cavaliers,31,0.378,0,L. Wilkens,H. Williams (7.5),#860038,#FDBB30
+1987-88,Cleveland Cavaliers,42,0.512,0.2,L. Wilkens,M. Price (7.8),#860038,#FDBB30
+1988-89,Cleveland Cavaliers,57,0.695,0.2,L. Wilkens,M. Price (11.3),#860038,#FDBB30
+1989-90,Cleveland Cavaliers,42,0.512,0.2,L. Wilkens,M. Price (10.1),#860038,#FDBB30
+1990-91,Cleveland Cavaliers,33,0.402,0,L. Wilkens,L. Nance (9.8),#860038,#FDBB30
+1991-92,Cleveland Cavaliers,57,0.695,0.6,L. Wilkens,L. Nance (12.2),#860038,#FDBB30
+1992-93,Cleveland Cavaliers,54,0.659,0.4,L. Wilkens,B. Daugherty (12.7),#860038,#FDBB30
+1993-94,Cleveland Cavaliers,47,0.573,0.2,M. Fratello,M. Price (10.0),#860038,#FDBB30
+1994-95,Cleveland Cavaliers,43,0.524,0.2,M. Fratello,T. Hill (6.9),#860038,#FDBB30
+1995-96,Cleveland Cavaliers,47,0.573,0.2,M. Fratello,T. Brandon (12.7),#860038,#FDBB30
+1996-97,Cleveland Cavaliers,42,0.512,0,M. Fratello,T. Brandon (10.8),#860038,#FDBB30
+1997-98,Cleveland Cavaliers,47,0.573,0.2,M. Fratello,W. Person (10.3),#860038,#FDBB30
+1998-99,Cleveland Cavaliers,22,0.44,0,M. Fratello,S. Kemp (6.3),#860038,#FDBB30
+1999-00,Cleveland Cavaliers,32,0.39,0,R. Wittman,A. Miller (5.3),#860038,#FDBB30
+2000-01,Cleveland Cavaliers,30,0.366,0,R. Wittman,C. Weatherspoon (8.6),#860038,#FDBB30
+2001-02,Cleveland Cavaliers,29,0.354,0,J. Lucas,A. Miller (10.3),#860038,#FDBB30
+2002-03,Cleveland Cavaliers,17,0.207,0,J. Lucas/K. Smart,C. Boozer (5.9),#860038,#FDBB30
+2003-04,Cleveland Cavaliers,35,0.427,0,P. Silas,C. Boozer (9.4),#860038,#FDBB30
+2004-05,Cleveland Cavaliers,42,0.512,0,P. Silas/B. Malone,L. James (14.3),#860038,#FDBB30
+2005-06,Cleveland Cavaliers,50,0.61,0.4,M. Brown,L. James (16.3),#860038,#FDBB30
+2006-07,Cleveland Cavaliers,50,0.61,0.8,M. Brown,L. James (13.7),#860038,#FDBB30
+2007-08,Cleveland Cavaliers,45,0.549,0.4,M. Brown,L. James (15.2),#860038,#FDBB30
+2008-09,Cleveland Cavaliers,66,0.805,0.6,M. Brown,L. James (20.3),#860038,#FDBB30
+2009-10,Cleveland Cavaliers,61,0.744,0.4,M. Brown,L. James (18.5),#860038,#FDBB30
+2010-11,Cleveland Cavaliers,19,0.232,0,B. Scott,R. Sessions (4.4),#860038,#FDBB30
+2011-12,Cleveland Cavaliers,21,0.318,0,B. Scott,K. Irving (4.1),#860038,#FDBB30
+2012-13,Cleveland Cavaliers,24,0.293,0,B. Scott,K. Irving (5.3),#860038,#FDBB30
+2013-14,Cleveland Cavaliers,33,0.402,0,M. Brown,K. Irving (6.7),#860038,#FDBB30
+2014-15,Cleveland Cavaliers,53,0.646,0.8,D. Blatt,K. Irving (10.4),#860038,#FDBB30

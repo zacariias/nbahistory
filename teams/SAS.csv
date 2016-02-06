@@ -1,0 +1,40 @@
+season,team,wins,winpercent,playoffs,coach,topWS,color1,color2
+1976-77,San Antonio Spurs,44,0.537,0.2,D. Moe,G. Gervin (10.5),#BAC3C9,#061922
+1977-78,San Antonio Spurs,52,0.634,0.4,D. Moe,G. Gervin (12.0),#BAC3C9,#061922
+1978-79,San Antonio Spurs,48,0.585,0.6,D. Moe,G. Gervin (11.4),#BAC3C9,#061922
+1979-80,San Antonio Spurs,41,0.5,0.2,D. Moe/B. Bass,G. Gervin (10.6),#BAC3C9,#061922
+1980-81,San Antonio Spurs,52,0.634,0.4,S. Albeck,G. Gervin (10.5),#BAC3C9,#061922
+1981-82,San Antonio Spurs,48,0.585,0.6,S. Albeck,G. Gervin (10.7),#BAC3C9,#061922
+1982-83,San Antonio Spurs,53,0.646,0.6,S. Albeck,A. Gilmore (11.0),#BAC3C9,#061922
+1983-84,San Antonio Spurs,37,0.451,0,M. McHone/B. Bass,A. Gilmore (6.7),#BAC3C9,#061922
+1984-85,San Antonio Spurs,41,0.5,0.2,C. Fitzsimmons,A. Gilmore (10.5),#BAC3C9,#061922
+1985-86,San Antonio Spurs,35,0.427,0.2,C. Fitzsimmons,A. Robertson (8.6),#BAC3C9,#061922
+1986-87,San Antonio Spurs,28,0.341,0,B. Weiss,D. Greenwood (6.2),#BAC3C9,#061922
+1987-88,San Antonio Spurs,31,0.378,0.2,B. Weiss,A. Robertson (5.8),#BAC3C9,#061922
+1988-89,San Antonio Spurs,21,0.256,0,L. Brown,W. Anderson (4.9),#BAC3C9,#061922
+1989-90,San Antonio Spurs,56,0.683,0.4,L. Brown,D. Robinson (15.1),#BAC3C9,#061922
+1990-91,San Antonio Spurs,55,0.671,0.2,L. Brown,D. Robinson (17.0),#BAC3C9,#061922
+1991-92,San Antonio Spurs,47,0.573,0.2,L. Brown/B. Bass,D. Robinson (13.9),#BAC3C9,#061922
+1992-93,San Antonio Spurs,49,0.598,0.4,J. Tarkanian/R. Hughes/J. Lucas,D. Robinson (13.2),#BAC3C9,#061922
+1993-94,San Antonio Spurs,55,0.671,0.2,J. Lucas,D. Robinson (20.0),#BAC3C9,#061922
+1994-95,San Antonio Spurs,62,0.756,0.6,B. Hill,D. Robinson (17.5),#BAC3C9,#061922
+1995-96,San Antonio Spurs,59,0.72,0.4,B. Hill,D. Robinson (18.3),#BAC3C9,#061922
+1996-97,San Antonio Spurs,20,0.244,0,B. Hill/G. Popovich,W. Perdue (4.4),#BAC3C9,#061922
+1997-98,San Antonio Spurs,56,0.683,0.4,G. Popovich,D. Robinson (13.8),#BAC3C9,#061922
+1998-99,San Antonio Spurs,37,0.74,1,G. Popovich,T. Duncan (8.7),#BAC3C9,#061922
+1999-00,San Antonio Spurs,53,0.646,0.2,G. Popovich,T. Duncan (13.0),#BAC3C9,#061922
+2000-01,San Antonio Spurs,58,0.707,0.6,G. Popovich,T. Duncan (13.2),#BAC3C9,#061922
+2001-02,San Antonio Spurs,58,0.707,0.4,G. Popovich,T. Duncan (17.8),#BAC3C9,#061922
+2002-03,San Antonio Spurs,60,0.732,1,G. Popovich,T. Duncan (16.5),#BAC3C9,#061922
+2003-04,San Antonio Spurs,57,0.695,0.4,G. Popovich,T. Duncan (13.1),#BAC3C9,#061922
+2004-05,San Antonio Spurs,59,0.72,1,G. Popovich,T. Duncan (11.2),#BAC3C9,#061922
+2005-06,San Antonio Spurs,63,0.768,0.4,G. Popovich,T. Duncan (10.8),#BAC3C9,#061922
+2006-07,San Antonio Spurs,58,0.707,1,G. Popovich,T. Duncan (13.0),#BAC3C9,#061922
+2007-08,San Antonio Spurs,56,0.683,0.6,G. Popovich,M. Ginobili (11.1),#BAC3C9,#061922
+2008-09,San Antonio Spurs,54,0.659,0.2,G. Popovich,T. Duncan (10.1),#BAC3C9,#061922
+2009-10,San Antonio Spurs,50,0.61,0.4,G. Popovich,T. Duncan (10.9),#BAC3C9,#061922
+2010-11,San Antonio Spurs,61,0.744,0.2,G. Popovich,M. Ginobili (9.9),#BAC3C9,#061922
+2011-12,San Antonio Spurs,50,0.758,0.6,G. Popovich,T. Parker (7.1),#BAC3C9,#061922
+2012-13,San Antonio Spurs,58,0.707,0.8,G. Popovich,T. Parker (9.3),#BAC3C9,#061922
+2013-14,San Antonio Spurs,62,0.756,1,G. Popovich,K. Leonard (7.7),#BAC3C9,#061922
+2014-15,San Antonio Spurs,55,0.671,0.2,G. Popovich,T. Duncan (9.6),#BAC3C9,#061922

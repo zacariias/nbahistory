@@ -1,0 +1,46 @@
+season,team,wins,winpercent,playoffs,coach,topWS,color1,color2
+1970-71,Portland Trail Blazers,29,0.354,0,R. Todd,G. Petrie (6.2),#E03A3E,#061922
+1971-72,Portland Trail Blazers,18,0.22,0,R. Todd/S. Inman,D. Schlueter (6.3),#E03A3E,#061922
+1972-73,Portland Trail Blazers,21,0.256,0,J. McCloskey,S. Wicks (5.6),#E03A3E,#061922
+1973-74,Portland Trail Blazers,27,0.329,0,J. McCloskey,S. Wicks (5.6),#E03A3E,#061922
+1974-75,Portland Trail Blazers,38,0.463,0,L. Wilkens,S. Wicks (9.7),#E03A3E,#061922
+1975-76,Portland Trail Blazers,37,0.451,0,L. Wilkens,S. Wicks (7.1),#E03A3E,#061922
+1976-77,Portland Trail Blazers,49,0.598,1,J. Ramsay,B. Walton (10.2),#E03A3E,#061922
+1977-78,Portland Trail Blazers,58,0.707,0.4,J. Ramsay,B. Walton (8.4),#E03A3E,#061922
+1978-79,Portland Trail Blazers,45,0.549,0.2,J. Ramsay,T. Owens (10.4),#E03A3E,#061922
+1979-80,Portland Trail Blazers,38,0.463,0.2,J. Ramsay,K. Washington (9.1),#E03A3E,#061922
+1980-81,Portland Trail Blazers,45,0.549,0.2,J. Ramsay,J. Paxson (7.7),#E03A3E,#061922
+1981-82,Portland Trail Blazers,42,0.512,0,J. Ramsay,C. Natt (9.3),#E03A3E,#061922
+1982-83,Portland Trail Blazers,46,0.561,0.4,J. Ramsay,J. Paxson (10.2),#E03A3E,#061922
+1983-84,Portland Trail Blazers,48,0.585,0.2,J. Ramsay,J. Paxson (9.5),#E03A3E,#061922
+1984-85,Portland Trail Blazers,42,0.512,0.4,J. Ramsay,K. Vandeweghe (8.4),#E03A3E,#061922
+1985-86,Portland Trail Blazers,40,0.488,0.2,J. Ramsay,K. Vandeweghe (9.9),#E03A3E,#061922
+1986-87,Portland Trail Blazers,49,0.598,0.2,M. Schuler,K. Vandeweghe (10.8),#E03A3E,#061922
+1987-88,Portland Trail Blazers,53,0.646,0.2,M. Schuler,C. Drexler (13.2),#E03A3E,#061922
+1988-89,Portland Trail Blazers,39,0.476,0.2,M. Schuler/R. Adelman,C. Drexler (12.6),#E03A3E,#061922
+1989-90,Portland Trail Blazers,59,0.72,0.8,R. Adelman,T. Porter (11.7),#E03A3E,#061922
+1990-91,Portland Trail Blazers,63,0.768,0.6,R. Adelman,T. Porter (13.0),#E03A3E,#061922
+1991-92,Portland Trail Blazers,57,0.695,0.8,R. Adelman,C. Drexler (12.8),#E03A3E,#061922
+1992-93,Portland Trail Blazers,51,0.622,0.2,R. Adelman,T. Porter (8.8),#E03A3E,#061922
+1993-94,Portland Trail Blazers,47,0.573,0.2,R. Adelman,R. Strickland (9.3),#E03A3E,#061922
+1994-95,Portland Trail Blazers,44,0.537,0.2,P. Carlesimo,C. Robinson (8.7),#E03A3E,#061922
+1995-96,Portland Trail Blazers,44,0.537,0.2,P. Carlesimo,A. Sabonis (8.4),#E03A3E,#061922
+1996-97,Portland Trail Blazers,49,0.598,0.2,P. Carlesimo,K. Anderson (12.4),#E03A3E,#061922
+1997-98,Portland Trail Blazers,46,0.561,0.2,M. Dunleavy,A. Sabonis (9.7),#E03A3E,#061922
+1998-99,Portland Trail Blazers,35,0.7,0.6,M. Dunleavy,B. Grant (5.9),#E03A3E,#061922
+1999-00,Portland Trail Blazers,59,0.72,0.6,M. Dunleavy,S. Smith (10.4),#E03A3E,#061922
+2000-01,Portland Trail Blazers,50,0.61,0.2,M. Dunleavy,R. Wallace (11.0),#E03A3E,#061922
+2001-02,Portland Trail Blazers,49,0.598,0.2,M. Cheeks,R. Wallace (9.7),#E03A3E,#061922
+2002-03,Portland Trail Blazers,50,0.61,0.2,M. Cheeks,R. Wallace (8.5),#E03A3E,#061922
+2003-04,Portland Trail Blazers,41,0.5,0,M. Cheeks,Z. Randolph (7.1),#E03A3E,#061922
+2004-05,Portland Trail Blazers,27,0.329,0,M. Cheeks/K. Pritchard,D. Stoudamire (5.7),#E03A3E,#061922
+2005-06,Portland Trail Blazers,21,0.256,0,N. McMillan,S. Blake (2.8),#E03A3E,#061922
+2006-07,Portland Trail Blazers,32,0.39,0,N. McMillan,Z. Randolph (5.7),#E03A3E,#061922
+2007-08,Portland Trail Blazers,41,0.5,0,N. McMillan,B. Roy (8.0),#E03A3E,#061922
+2008-09,Portland Trail Blazers,54,0.659,0.2,N. McMillan,B. Roy (13.5),#E03A3E,#061922
+2009-10,Portland Trail Blazers,50,0.61,0.2,N. McMillan,B. Roy (9.1),#E03A3E,#061922
+2010-11,Portland Trail Blazers,48,0.585,0.2,N. McMillan,L. Aldridge (11.1),#E03A3E,#061922
+2011-12,Portland Trail Blazers,28,0.424,0,N. McMillan/K. Canales,L. Aldridge (7.0),#E03A3E,#061922
+2012-13,Portland Trail Blazers,33,0.402,0,T. Stotts,L. Aldridge (7.2),#E03A3E,#061922
+2013-14,Portland Trail Blazers,54,0.659,0.4,T. Stotts,D. Lillard (9.6),#E03A3E,#061922
+2014-15,Portland Trail Blazers,51,0.622,0.2,T. Stotts,D. Lillard (10.6),#E03A3E,#061922
