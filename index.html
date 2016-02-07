@@ -138,9 +138,15 @@ regularseason.append("text")
 regularseason.append("text")
     .attr("transform","rotate(-90)")
     .attr("x", 0 - (height1 / 2))
-    .attr("y", 0 - (margin1.left / 2))
+    .attr("y", 0 - (margin1.left / 2) - 20)
     .style("text-anchor","middle")
     .text("Win percentage");
+    regularseason.append("text")
+        .attr("transform","rotate(-90)")
+        .attr("x", 0 - (height1 / 2))
+        .attr("y", 0 - (margin1.left / 2))
+        .style("text-anchor","middle")
+        .text("(bar label = number of wins)");
 regularseason.append("g")
     .attr("class","y axis")
     .call(y1Axis);
