@@ -45,11 +45,11 @@
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script>
 var margin1 = {top:5,right:0,bottom:80,left:180},
-    width1 = 1020
-    height1 = 300;
-var margin2 = {top:10,right:0,bottom:700,left:180},
-    width2 = 1020
-    height2 = 150;
+    width1 = 1200 - margin1.left - margin1.right
+    height1 = 385 - margin1.top - margin1.bottom;
+var margin2 = {top:10,right:0,bottom:900,left:180},
+    width2 = 1200 - margin2.left - margin2.right
+    height2 = 1060 - margin2.top - margin2.bottom;
 var x = d3.scale
     .ordinal()
     .rangeRoundBands([0,width1],0.2);
@@ -141,12 +141,12 @@ regularseason.append("text")
     .attr("y", 0 - (margin1.left / 2) - 20)
     .style("text-anchor","middle")
     .text("Win percentage");
-    regularseason.append("text")
-        .attr("transform","rotate(-90)")
-        .attr("x", 0 - (height1 / 2))
-        .attr("y", 0 - (margin1.left / 2))
-        .style("text-anchor","middle")
-        .text("(bar label = number of wins)");
+regularseason.append("text")
+    .attr("transform","rotate(-90)")
+    .attr("x", 0 - (height1 / 2))
+    .attr("y", 0 - (margin1.left / 2))
+    .style("text-anchor","middle")
+    .text("(bar label = number of wins)");
 regularseason.append("g")
     .attr("class","y axis")
     .call(y1Axis);
@@ -256,6 +256,26 @@ playoffs.append("text")
     .style("text-anchor","end")
     .text("Coach");
 var offset3 = 0;
+var arena = playoffs.append('g');
+arena.selectAll('text')
+    .data(data)
+    .enter()
+    .append('text')
+    .style("text-anchor","start")
+    .text(function(d){return d.arena;})
+    .attr("dy", x.rangeBand()/2 + 5)
+    .attr("transform", function(d, i) {
+        var length = this.getComputedTextLength();
+        if (length > offset3) offset3 = length*offsetFactor;
+        return "translate (" + x(d.season) + ",0)rotate(-90)";
+    });
+arena.attr("transform", "translate(0, "+ (height2 + offset1 + offset2 + offset3 + offsetMargin*3) +")");
+playoffs.append("text")
+    .attr("x", - 10)
+    .attr("y", height2 + offset1 + offset2 + offset3/2 + offsetMargin*3)
+    .style("text-anchor","end")
+    .text("Arena");
+var offset4 = 0;
 var team = playoffs.append('g');
 team.selectAll('text')
     .data(data)
@@ -266,16 +286,16 @@ team.selectAll('text')
     .attr("dy", x.rangeBand()/2 + 5)
     .attr("transform", function(d, i) {
         var length = this.getComputedTextLength();
-        if (length > offset3) offset3 = length*offsetFactor;
+        if (length > offset4) offset4 = length*offsetFactor;
         return "translate (" + x(d.season) + ",0)rotate(-90)";
     });
-team.attr("transform", "translate(0, "+ (height2 + offset1 + offset2 + offset3 + offsetMargin*3) +")");
+team.attr("transform", "translate(0, "+ (height2 + offset1 + offset2 + offset3 + offset4 + offsetMargin*4) +")");
 playoffs.append("text")
     .attr("x", - 10)
-    .attr("y", height2 + offset1 + offset2 + offset3/2 + offsetMargin*3)
+    .attr("y", height2 + offset1 + offset2 + offset3 + offset4/2 + offsetMargin*4)
     .style("text-anchor","end")
     .text("Team");
-var offset4 = 0;
+var offset5 = 0;
 var season = playoffs.append('g');
 season.selectAll('text')
     .data(data)
@@ -286,13 +306,13 @@ season.selectAll('text')
     .attr("dy", x.rangeBand()/2 + 5)
     .attr("transform", function(d, i) {
         var length = this.getComputedTextLength();
-        if (length > offset4) offset4 = length*offsetFactor;
+        if (length > offset5) offset5 = length*offsetFactor;
         return "translate (" + x(d.season) + ",0)rotate(-90)";
     });
-season.attr("transform", "translate(0, "+ (height2 + offset1 + offset2 + offset3 + offset4 + offsetMargin*4) +")");
+season.attr("transform", "translate(0, "+ (height2 + offset1 + offset2 + offset3 + offset4 + offset5 + offsetMargin*5) +")");
 playoffs.append("text")
     .attr("x", - 10)
-    .attr("y", height2 + offset1 + offset2 + offset3 + offset4/2 + offsetMargin*4)
+    .attr("y", height2 + offset1 + offset2 + offset3 + offset4 + offset5/2 + offsetMargin*5)
     .style("text-anchor","end")
     .text("Season");
 }

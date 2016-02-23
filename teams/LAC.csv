@@ -1,46 +1,46 @@
-season,team,wins,winpercent,playoffs,coach,topWS,color1,color2
-1970-71,Buffalo Braves,22,0.268,0,D. Schayes,B. Kauffman (7.9),#ED174C,#006BB6
-1971-72,Buffalo Braves,22,0.268,0,D. Schayes/J. McCarthy,B. Kauffman (8.0),#ED174C,#006BB6
-1972-73,Buffalo Braves,21,0.256,0,J. Ramsay,B. Kauffman (7.9),#ED174C,#006BB6
-1973-74,Buffalo Braves,42,0.512,0.4,J. Ramsay,B. McAdoo (15.3),#ED174C,#006BB6
-1974-75,Buffalo Braves,49,0.598,0.4,J. Ramsay,B. McAdoo (17.8),#ED174C,#006BB6
-1975-76,Buffalo Braves,46,0.561,0.4,J. Ramsay,B. McAdoo (12.3),#ED174C,#006BB6
-1976-77,Buffalo Braves,30,0.366,0,T. Locke/B. MacKinnon/J. Mullaney,A. Dantley (9.8),#ED174C,#006BB6
-1977-78,Buffalo Braves,27,0.329,0,C. Fitzsimmons,R. Smith (7.9),#ED174C,#006BB6
-1978-79,San Diego Clippers,43,0.524,0,G. Shue,W. Free (10.1),#ED174C,#006BB6
-1979-80,San Diego Clippers,35,0.427,0,G. Shue,W. Free (8.0),#ED174C,#006BB6
-1980-81,San Diego Clippers,36,0.439,0,P. Silas,S. Nater (8.6),#ED174C,#006BB6
-1981-82,San Diego Clippers,17,0.207,0,P. Silas,J. Whitehead (5.3),#ED174C,#006BB6
-1982-83,San Diego Clippers,25,0.305,0,P. Silas,T. Cummings (8.7),#ED174C,#006BB6
-1983-84,San Diego Clippers,30,0.366,0,J. Lynam,T. Cummings (7.5),#ED174C,#006BB6
-1984-85,Los Angeles Clippers,31,0.378,0,J. Lynam/D. Chaney,D. Smith (8.0),#ED174C,#006BB6
-1985-86,Los Angeles Clippers,32,0.39,0,D. Chaney,M. Johnson (5.9),#ED174C,#006BB6
-1986-87,Los Angeles Clippers,12,0.146,0,D. Chaney,M. Cage (7.2),#ED174C,#006BB6
-1987-88,Los Angeles Clippers,17,0.207,0,G. Shue,M. Cage (6.7),#ED174C,#006BB6
-1988-89,Los Angeles Clippers,21,0.256,0,G. Shue/D. Casey,B. Benjamin (5.1),#ED174C,#006BB6
-1989-90,Los Angeles Clippers,30,0.366,0,D. Casey,C. Smith (9.4),#ED174C,#006BB6
-1990-91,Los Angeles Clippers,31,0.378,0,M. Schuler,C. Smith (7.4),#ED174C,#006BB6
-1991-92,Los Angeles Clippers,45,0.549,0.2,M. Schuler/M. Calvin/L. Brown,D. Manning (9.8),#ED174C,#006BB6
-1992-93,Los Angeles Clippers,41,0.5,0.2,L. Brown,M. Jackson (7.9),#ED174C,#006BB6
-1993-94,Los Angeles Clippers,27,0.329,0,B. Weiss,L. Vaught (5.5),#ED174C,#006BB6
-1994-95,Los Angeles Clippers,17,0.207,0,B. Fitch,L. Vaught (5.5),#ED174C,#006BB6
-1995-96,Los Angeles Clippers,29,0.354,0,B. Fitch,L. Vaught (6.3),#ED174C,#006BB6
-1996-97,Los Angeles Clippers,36,0.439,0.2,B. Fitch,L. Vaught (6.3),#ED174C,#006BB6
-1997-98,Los Angeles Clippers,17,0.207,0,B. Fitch,L. Murray (4.9),#ED174C,#006BB6
-1998-99,Los Angeles Clippers,9,0.18,0,C. Ford,T. Nesby (3.1),#ED174C,#006BB6
-1999-00,Los Angeles Clippers,15,0.183,0,C. Ford/J. Todd,D. Anderson (3.3),#ED174C,#006BB6
-2000-01,Los Angeles Clippers,31,0.378,0,A. Gentry,J. McInnis (6.9),#ED174C,#006BB6
-2001-02,Los Angeles Clippers,39,0.476,0,A. Gentry,E. Brand (13.6),#ED174C,#006BB6
-2002-03,Los Angeles Clippers,27,0.329,0,A. Gentry/D. Johnson,E. Brand (7.6),#ED174C,#006BB6
-2003-04,Los Angeles Clippers,28,0.341,0,M. Dunleavy,E. Brand (9.7),#ED174C,#006BB6
-2004-05,Los Angeles Clippers,37,0.451,0,M. Dunleavy,E. Brand (10.6),#ED174C,#006BB6
-2005-06,Los Angeles Clippers,47,0.573,0.4,M. Dunleavy,E. Brand (14.8),#ED174C,#006BB6
-2006-07,Los Angeles Clippers,40,0.488,0,M. Dunleavy,E. Brand (11.5),#ED174C,#006BB6
-2007-08,Los Angeles Clippers,23,0.28,0,M. Dunleavy,C. Maggette (6.9),#ED174C,#006BB6
-2008-09,Los Angeles Clippers,19,0.232,0,M. Dunleavy,M. Camby (5.2),#ED174C,#006BB6
-2009-10,Los Angeles Clippers,29,0.354,0,M. Dunleavy/K. Hughes,M. Camby (4.6),#ED174C,#006BB6
-2010-11,Los Angeles Clippers,32,0.39,0,V. Del Negro,B. Griffin (9.8),#ED174C,#006BB6
-2011-12,Los Angeles Clippers,40,0.606,0.4,V. Del Negro,C. Paul (12.7),#ED174C,#006BB6
-2012-13,Los Angeles Clippers,56,0.683,0.2,V. Del Negro,C. Paul (13.9),#ED174C,#006BB6
-2013-14,Los Angeles Clippers,57,0.695,0.4,D. Rivers,B. Griffin (12.2),#ED174C,#006BB6
-2014-15,Los Angeles Clippers,56,0.683,0.4,D. Rivers,C. Paul (16.1),#ED174C,#006BB6
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2
+1970-71,Buffalo Braves,Buffalo Memorial Auditorium,22,0.268,0,D. Schayes,B. Kauffman (7.9),#ED174C,#006BB6
+1971-72,Buffalo Braves,Buffalo Memorial Auditorium,22,0.268,0,D. Schayes/J. McCarthy,B. Kauffman (8.0),#ED174C,#006BB6
+1972-73,Buffalo Braves,Buffalo Memorial Auditorium,21,0.256,0,J. Ramsay,B. Kauffman (7.9),#ED174C,#006BB6
+1973-74,Buffalo Braves,Buffalo Memorial Auditorium,42,0.512,0.4,J. Ramsay,B. McAdoo (15.3),#ED174C,#006BB6
+1974-75,Buffalo Braves,Buffalo Memorial Auditorium,49,0.598,0.4,J. Ramsay,B. McAdoo (17.8),#ED174C,#006BB6
+1975-76,Buffalo Braves,Buffalo Memorial Auditorium,46,0.561,0.4,J. Ramsay,B. McAdoo (12.3),#ED174C,#006BB6
+1976-77,Buffalo Braves,Buffalo Memorial Auditorium,30,0.366,0,T. Locke/B. MacKinnon/J. Mullaney,A. Dantley (9.8),#ED174C,#006BB6
+1977-78,Buffalo Braves,Buffalo Memorial Auditorium,27,0.329,0,C. Fitzsimmons,R. Smith (7.9),#ED174C,#006BB6
+1978-79,San Diego Clippers,San Diego Sports Arena,43,0.524,0,G. Shue,W. Free (10.1),#ED174C,#006BB6
+1979-80,San Diego Clippers,San Diego Sports Arena,35,0.427,0,G. Shue,W. Free (8.0),#ED174C,#006BB6
+1980-81,San Diego Clippers,San Diego Sports Arena,36,0.439,0,P. Silas,S. Nater (8.6),#ED174C,#006BB6
+1981-82,San Diego Clippers,San Diego Sports Arena,17,0.207,0,P. Silas,J. Whitehead (5.3),#ED174C,#006BB6
+1982-83,San Diego Clippers,San Diego Sports Arena,25,0.305,0,P. Silas,T. Cummings (8.7),#ED174C,#006BB6
+1983-84,San Diego Clippers,San Diego Sports Arena,30,0.366,0,J. Lynam,T. Cummings (7.5),#ED174C,#006BB6
+1984-85,Los Angeles Clippers,Los Angeles Memorial Sports Arena,31,0.378,0,J. Lynam/D. Chaney,D. Smith (8.0),#ED174C,#006BB6
+1985-86,Los Angeles Clippers,Los Angeles Memorial Sports Arena,32,0.39,0,D. Chaney,M. Johnson (5.9),#ED174C,#006BB6
+1986-87,Los Angeles Clippers,Los Angeles Memorial Sports Arena,12,0.146,0,D. Chaney,M. Cage (7.2),#ED174C,#006BB6
+1987-88,Los Angeles Clippers,Los Angeles Memorial Sports Arena,17,0.207,0,G. Shue,M. Cage (6.7),#ED174C,#006BB6
+1988-89,Los Angeles Clippers,Los Angeles Memorial Sports Arena,21,0.256,0,G. Shue/D. Casey,B. Benjamin (5.1),#ED174C,#006BB6
+1989-90,Los Angeles Clippers,Los Angeles Memorial Sports Arena,30,0.366,0,D. Casey,C. Smith (9.4),#ED174C,#006BB6
+1990-91,Los Angeles Clippers,Los Angeles Memorial Sports Arena,31,0.378,0,M. Schuler,C. Smith (7.4),#ED174C,#006BB6
+1991-92,Los Angeles Clippers,Los Angeles Memorial Sports Arena,45,0.549,0.2,M. Schuler/M. Calvin/L. Brown,D. Manning (9.8),#ED174C,#006BB6
+1992-93,Los Angeles Clippers,Los Angeles Memorial Sports Arena,41,0.5,0.2,L. Brown,M. Jackson (7.9),#ED174C,#006BB6
+1993-94,Los Angeles Clippers,Los Angeles Memorial Sports Arena,27,0.329,0,B. Weiss,L. Vaught (5.5),#ED174C,#006BB6
+1994-95,Los Angeles Clippers,Los Angeles Memorial Sports Arena,17,0.207,0,B. Fitch,L. Vaught (5.5),#ED174C,#006BB6
+1995-96,Los Angeles Clippers,Los Angeles Memorial Sports Arena,29,0.354,0,B. Fitch,L. Vaught (6.3),#ED174C,#006BB6
+1996-97,Los Angeles Clippers,Los Angeles Memorial Sports Arena,36,0.439,0.2,B. Fitch,L. Vaught (6.3),#ED174C,#006BB6
+1997-98,Los Angeles Clippers,Los Angeles Memorial Sports Arena,17,0.207,0,B. Fitch,L. Murray (4.9),#ED174C,#006BB6
+1998-99,Los Angeles Clippers,Los Angeles Memorial Sports Arena,9,0.18,0,C. Ford,T. Nesby (3.1),#ED174C,#006BB6
+1999-00,Los Angeles Clippers,STAPLES Center,15,0.183,0,C. Ford/J. Todd,D. Anderson (3.3),#ED174C,#006BB6
+2000-01,Los Angeles Clippers,STAPLES Center,31,0.378,0,A. Gentry,J. McInnis (6.9),#ED174C,#006BB6
+2001-02,Los Angeles Clippers,STAPLES Center,39,0.476,0,A. Gentry,E. Brand (13.6),#ED174C,#006BB6
+2002-03,Los Angeles Clippers,STAPLES Center,27,0.329,0,A. Gentry/D. Johnson,E. Brand (7.6),#ED174C,#006BB6
+2003-04,Los Angeles Clippers,STAPLES Center,28,0.341,0,M. Dunleavy,E. Brand (9.7),#ED174C,#006BB6
+2004-05,Los Angeles Clippers,STAPLES Center,37,0.451,0,M. Dunleavy,E. Brand (10.6),#ED174C,#006BB6
+2005-06,Los Angeles Clippers,STAPLES Center,47,0.573,0.4,M. Dunleavy,E. Brand (14.8),#ED174C,#006BB6
+2006-07,Los Angeles Clippers,STAPLES Center,40,0.488,0,M. Dunleavy,E. Brand (11.5),#ED174C,#006BB6
+2007-08,Los Angeles Clippers,STAPLES Center,23,0.28,0,M. Dunleavy,C. Maggette (6.9),#ED174C,#006BB6
+2008-09,Los Angeles Clippers,STAPLES Center,19,0.232,0,M. Dunleavy,M. Camby (5.2),#ED174C,#006BB6
+2009-10,Los Angeles Clippers,STAPLES Center,29,0.354,0,M. Dunleavy/K. Hughes,M. Camby (4.6),#ED174C,#006BB6
+2010-11,Los Angeles Clippers,STAPLES Center,32,0.39,0,V. Del Negro,B. Griffin (9.8),#ED174C,#006BB6
+2011-12,Los Angeles Clippers,STAPLES Center,40,0.606,0.4,V. Del Negro,C. Paul (12.7),#ED174C,#006BB6
+2012-13,Los Angeles Clippers,STAPLES Center,56,0.683,0.2,V. Del Negro,C. Paul (13.9),#ED174C,#006BB6
+2013-14,Los Angeles Clippers,STAPLES Center,57,0.695,0.4,D. Rivers,B. Griffin (12.2),#ED174C,#006BB6
+2014-15,Los Angeles Clippers,STAPLES Center,56,0.683,0.4,D. Rivers,C. Paul (16.1),#ED174C,#006BB6

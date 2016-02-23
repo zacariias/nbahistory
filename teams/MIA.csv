@@ -1,28 +1,28 @@
-season,team,wins,winpercent,playoffs,coach,topWS,color1,color2
-1988-89,Miami Heat,15,0.183,0,R. Rothstein,G. Long (4.6),#98002E,#F9A01B
-1989-90,Miami Heat,18,0.22,0,R. Rothstein,S. Douglas (4.4),#98002E,#F9A01B
-1990-91,Miami Heat,24,0.293,0,R. Rothstein,S. Douglas (5.4),#98002E,#F9A01B
-1991-92,Miami Heat,38,0.463,0.2,K. Loughery,G. Rice (7.9),#98002E,#F9A01B
-1992-93,Miami Heat,36,0.439,0,K. Loughery,G. Long (6.5),#98002E,#F9A01B
-1993-94,Miami Heat,42,0.512,0.2,K. Loughery,G. Rice (10.2),#98002E,#F9A01B
-1994-95,Miami Heat,32,0.39,0,K. Loughery/A. Gentry,G. Rice (10.0),#98002E,#F9A01B
-1995-96,Miami Heat,42,0.512,0.2,P. Riley,A. Mourning (9.9),#98002E,#F9A01B
-1996-97,Miami Heat,61,0.744,0.6,P. Riley,T. Hardaway (12.9),#98002E,#F9A01B
-1997-98,Miami Heat,55,0.671,0.2,P. Riley,T. Hardaway (11.7),#98002E,#F9A01B
-1998-99,Miami Heat,33,0.66,0.2,P. Riley,A. Mourning (7.9),#98002E,#F9A01B
-1999-00,Miami Heat,52,0.634,0.4,P. Riley,A. Mourning (12.9),#98002E,#F9A01B
-2000-01,Miami Heat,50,0.61,0.2,P. Riley,A. Mason (11.6),#98002E,#F9A01B
-2001-02,Miami Heat,36,0.439,0,P. Riley,E. Jones (10.5),#98002E,#F9A01B
-2002-03,Miami Heat,25,0.305,0,P. Riley,B. Grant (7.7),#98002E,#F9A01B
-2003-04,Miami Heat,42,0.512,0.4,S. Van Gundy,E. Jones (9.1),#98002E,#F9A01B
-2004-05,Miami Heat,59,0.72,0.6,S. Van Gundy,D. Wade (11.0),#98002E,#F9A01B
-2005-06,Miami Heat,52,0.634,1,S. Van Gundy/P. Riley,D. Wade (14.4),#98002E,#F9A01B
-2006-07,Miami Heat,44,0.537,0.2,P. Riley,D. Wade (8.8),#98002E,#F9A01B
-2007-08,Miami Heat,15,0.183,0,P. Riley,D. Wade (3.3),#98002E,#F9A01B
-2008-09,Miami Heat,43,0.524,0.2,E. Spoelstra,D. Wade (14.7),#98002E,#F9A01B
-2009-10,Miami Heat,47,0.573,0.2,E. Spoelstra,D. Wade (13.0),#98002E,#F9A01B
-2010-11,Miami Heat,58,0.707,0.8,E. Spoelstra,L. James (15.6),#98002E,#F9A01B
-2011-12,Miami Heat,46,0.697,1,E. Spoelstra,L. James (14.5),#98002E,#F9A01B
-2012-13,Miami Heat,66,0.805,1,E. Spoelstra,L. James (19.3),#98002E,#F9A01B
-2013-14,Miami Heat,54,0.659,0.8,E. Spoelstra,L. James (15.9),#98002E,#F9A01B
-2014-15,Miami Heat,37,0.451,0,E. Spoelstra,L. Deng (5.4),#98002E,#F9A01B
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2
+1988-89,Miami Heat,Miami Arena,15,0.183,0,R. Rothstein,G. Long (4.6),#98002E,#F9A01B
+1989-90,Miami Heat,Miami Arena,18,0.22,0,R. Rothstein,S. Douglas (4.4),#98002E,#F9A01B
+1990-91,Miami Heat,Miami Arena,24,0.293,0,R. Rothstein,S. Douglas (5.4),#98002E,#F9A01B
+1991-92,Miami Heat,Miami Arena,38,0.463,0.2,K. Loughery,G. Rice (7.9),#98002E,#F9A01B
+1992-93,Miami Heat,Miami Arena,36,0.439,0,K. Loughery,G. Long (6.5),#98002E,#F9A01B
+1993-94,Miami Heat,Miami Arena,42,0.512,0.2,K. Loughery,G. Rice (10.2),#98002E,#F9A01B
+1994-95,Miami Heat,Miami Arena,32,0.39,0,K. Loughery/A. Gentry,G. Rice (10.0),#98002E,#F9A01B
+1995-96,Miami Heat,Miami Arena,42,0.512,0.2,P. Riley,A. Mourning (9.9),#98002E,#F9A01B
+1996-97,Miami Heat,Miami Arena,61,0.744,0.6,P. Riley,T. Hardaway (12.9),#98002E,#F9A01B
+1997-98,Miami Heat,Miami Arena,55,0.671,0.2,P. Riley,T. Hardaway (11.7),#98002E,#F9A01B
+1998-99,Miami Heat,Miami Arena,33,0.66,0.2,P. Riley,A. Mourning (7.9),#98002E,#F9A01B
+1999-00,Miami Heat,AmericanAirlines Arena,52,0.634,0.4,P. Riley,A. Mourning (12.9),#98002E,#F9A01B
+2000-01,Miami Heat,AmericanAirlines Arena,50,0.61,0.2,P. Riley,A. Mason (11.6),#98002E,#F9A01B
+2001-02,Miami Heat,AmericanAirlines Arena,36,0.439,0,P. Riley,E. Jones (10.5),#98002E,#F9A01B
+2002-03,Miami Heat,AmericanAirlines Arena,25,0.305,0,P. Riley,B. Grant (7.7),#98002E,#F9A01B
+2003-04,Miami Heat,AmericanAirlines Arena,42,0.512,0.4,S. Van Gundy,E. Jones (9.1),#98002E,#F9A01B
+2004-05,Miami Heat,AmericanAirlines Arena,59,0.72,0.6,S. Van Gundy,D. Wade (11.0),#98002E,#F9A01B
+2005-06,Miami Heat,AmericanAirlines Arena,52,0.634,1,S. Van Gundy/P. Riley,D. Wade (14.4),#98002E,#F9A01B
+2006-07,Miami Heat,AmericanAirlines Arena,44,0.537,0.2,P. Riley,D. Wade (8.8),#98002E,#F9A01B
+2007-08,Miami Heat,AmericanAirlines Arena,15,0.183,0,P. Riley,D. Wade (3.3),#98002E,#F9A01B
+2008-09,Miami Heat,AmericanAirlines Arena,43,0.524,0.2,E. Spoelstra,D. Wade (14.7),#98002E,#F9A01B
+2009-10,Miami Heat,AmericanAirlines Arena,47,0.573,0.2,E. Spoelstra,D. Wade (13.0),#98002E,#F9A01B
+2010-11,Miami Heat,AmericanAirlines Arena,58,0.707,0.8,E. Spoelstra,L. James (15.6),#98002E,#F9A01B
+2011-12,Miami Heat,AmericanAirlines Arena,46,0.697,1,E. Spoelstra,L. James (14.5),#98002E,#F9A01B
+2012-13,Miami Heat,AmericanAirlines Arena,66,0.805,1,E. Spoelstra,L. James (19.3),#98002E,#F9A01B
+2013-14,Miami Heat,AmericanAirlines Arena,54,0.659,0.8,E. Spoelstra,L. James (15.9),#98002E,#F9A01B
+2014-15,Miami Heat,AmericanAirlines Arena,37,0.451,0,E. Spoelstra,L. Deng (5.4),#98002E,#F9A01B
