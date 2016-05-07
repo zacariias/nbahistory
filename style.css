@@ -27,10 +27,9 @@ div {
 
 div img {
   cursor: pointer;
-  width: 68px;
   display: block;
   float: left;
-  margin: 10px 0;
+  margin: 0px 4px 10px 4px;
   padding: 0;
 }
 h1 {
