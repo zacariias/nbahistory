@@ -1,70 +1,69 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2
-1948-49,Fort Wayne Pistons,North Side High School Gym,22,0.367,0,C. Bennett/C. Armstrong,R. Niemiera (4.8),#ED174C,#006BB6
-1949-50,Fort Wayne Pistons,North Side High School Gym,40,0.588,0.6,M. Mendenhall,F. Schaus (8.4),#ED174C,#006BB6
-1950-51,Fort Wayne Pistons,North Side High School Gym,32,0.471,0.4,M. Mendenhall,F. Schaus (8.5),#ED174C,#006BB6
-1951-52,Fort Wayne Pistons,North Side High School Gym,29,0.439,0.4,P. Birch,L. Foust (7.1),#ED174C,#006BB6
-1952-53,Fort Wayne Pistons,War Memorial Coliseum,36,0.522,0.6,P. Birch,L. Foust (6.3),#ED174C,#006BB6
-1953-54,Fort Wayne Pistons,War Memorial Coliseum,40,0.556,0.2,P. Birch,L. Foust (10.4),#ED174C,#006BB6
-1954-55,Fort Wayne Pistons,War Memorial Coliseum,43,0.597,0.8,C. Eckman,L. Foust (13.3),#ED174C,#006BB6
-1955-56,Fort Wayne Pistons,War Memorial Coliseum,37,0.514,0.8,C. Eckman,L. Foust (11.1),#ED174C,#006BB6
-1956-57,Fort Wayne Pistons,War Memorial Coliseum,34,0.472,0.4,C. Eckman,G. Yardley (10.0),#ED174C,#006BB6
-1957-58,Detroit Pistons,Detroit Olympia,33,0.458,0.6,C. Eckman/R. Rocha,G. Yardley (12.3),#ED174C,#006BB6
-1958-59,Detroit Pistons,Detroit Olympia,28,0.389,0.4,R. Rocha,D. McGuire (6.9),#ED174C,#006BB6
-1959-60,Detroit Pistons,Detroit Olympia,30,0.4,0.4,R. Rocha/D. McGuire,G. Shue (8.5),#ED174C,#006BB6
-1960-61,Detroit Pistons,Detroit Olympia,34,0.43,0.4,D. McGuire,B. Howell (11.7),#ED174C,#006BB6
-1961-62,Detroit Pistons,Cobo Arena,37,0.463,0.6,D. McGuire,B. Howell (10.7),#ED174C,#006BB6
-1962-63,Detroit Pistons,Cobo Arena,34,0.425,0.4,D. McGuire,B. Howell (14.0),#ED174C,#006BB6
-1963-64,Detroit Pistons,Cobo Arena,23,0.288,0,C. Wolf,B. Howell (9.8),#ED174C,#006BB6
-1964-65,Detroit Pistons,Cobo Arena,31,0.388,0,C. Wolf/D. DeBusschere,T. Dischinger (10.3),#ED174C,#006BB6
-1965-66,Detroit Pistons,Cobo Arena,22,0.275,0,D. DeBusschere,E. Miles (6.0),#ED174C,#006BB6
-1966-67,Detroit Pistons,Cobo Arena,30,0.37,0,D. DeBusschere/D. Butcher,D. DeBusschere (5.9),#ED174C,#006BB6
-1967-68,Detroit Pistons,Cobo Arena,40,0.488,0.4,D. Butcher,D. Bing (6.2),#ED174C,#006BB6
-1968-69,Detroit Pistons,Cobo Arena,32,0.39,0,D. Butcher/P. Seymour,H. Hairston (7.0),#ED174C,#006BB6
-1969-70,Detroit Pistons,Cobo Arena,31,0.378,0,B. Van Breda Kolff,J. Walker (6.2),#ED174C,#006BB6
-1970-71,Detroit Pistons,Cobo Arena,45,0.549,0,B. Van Breda Kolff,D. Bing (11.7),#ED174C,#006BB6
-1971-72,Detroit Pistons,Cobo Arena,26,0.317,0,B. Van Breda Kolff/T. Dischinger/E. Lloyd,B. Lanier (8.4),#ED174C,#006BB6
-1972-73,Detroit Pistons,Cobo Arena,40,0.488,0,E. Lloyd/R. Scott,B. Lanier (10.6),#ED174C,#006BB6
-1973-74,Detroit Pistons,Cobo Arena,52,0.634,0.4,R. Scott,B. Lanier (14.4),#ED174C,#006BB6
-1974-75,Detroit Pistons,Cobo Arena,40,0.488,0.2,R. Scott,B. Lanier (12.4),#ED174C,#006BB6
-1975-76,Detroit Pistons,Cobo Arena,36,0.439,0.4,R. Scott/H. Brown,B. Lanier (10.1),#ED174C,#006BB6
-1976-77,Detroit Pistons,Cobo Arena,44,0.537,0.2,H. Brown,B. Lanier (10.3),#ED174C,#006BB6
-1977-78,Detroit Pistons,Cobo Arena,38,0.463,0,H. Brown/B. Kauffman,B. Lanier (10.1),#ED174C,#006BB6
-1978-79,Detroit Pistons,Pontiac Silverdome,30,0.366,0,D. Vitale,M. Carr (7.9),#ED174C,#006BB6
-1979-80,Detroit Pistons,Pontiac Silverdome,16,0.195,0,D. Vitale/R. Adubato,B. Lanier (4.2),#ED174C,#006BB6
-1980-81,Detroit Pistons,Pontiac Silverdome,21,0.256,0,S. Robertson,T. Tyler (6.4),#ED174C,#006BB6
-1981-82,Detroit Pistons,Pontiac Silverdome,39,0.476,0,S. Robertson,K. Tripucka (7.5),#ED174C,#006BB6
-1982-83,Detroit Pistons,Pontiac Silverdome,37,0.451,0,S. Robertson,B. Laimbeer (8.5),#ED174C,#006BB6
-1983-84,Detroit Pistons,Pontiac Silverdome,49,0.598,0.2,C. Daly,B. Laimbeer (10.8),#ED174C,#006BB6
-1984-85,Detroit Pistons,Pontiac Silverdome,46,0.561,0.4,C. Daly,I. Thomas (11.2),#ED174C,#006BB6
-1985-86,Detroit Pistons,Pontiac Silverdome,46,0.561,0.2,C. Daly,B. Laimbeer (9.2),#ED174C,#006BB6
-1986-87,Detroit Pistons,Pontiac Silverdome,52,0.634,0.6,C. Daly,B. Laimbeer (10.5),#ED174C,#006BB6
-1987-88,Detroit Pistons,Pontiac Silverdome,54,0.659,0.8,C. Daly,A. Dantley (9.4),#ED174C,#006BB6
-1988-89,Detroit Pistons,The Palace of Auburn Hills,63,0.768,1,C. Daly,B. Laimbeer (9.0),#ED174C,#006BB6
-1989-90,Detroit Pistons,The Palace of Auburn Hills,59,0.72,1,C. Daly,B. Laimbeer (10.1),#ED174C,#006BB6
-1990-91,Detroit Pistons,The Palace of Auburn Hills,50,0.61,0.6,C. Daly,J. Dumars (9.9),#ED174C,#006BB6
-1991-92,Detroit Pistons,The Palace of Auburn Hills,48,0.585,0.2,C. Daly,D. Rodman (12.6),#ED174C,#006BB6
-1992-93,Detroit Pistons,The Palace of Auburn Hills,40,0.488,0,R. Rothstein,J. Dumars (9.1),#ED174C,#006BB6
-1993-94,Detroit Pistons,The Palace of Auburn Hills,20,0.244,0,D. Chaney,T. Mills (6.3),#ED174C,#006BB6
-1994-95,Detroit Pistons,The Palace of Auburn Hills,28,0.341,0,D. Chaney,G. Hill (5.4),#ED174C,#006BB6
-1995-96,Detroit Pistons,The Palace of Auburn Hills,46,0.561,0.2,D. Collins,G. Hill (11.7),#ED174C,#006BB6
-1996-97,Detroit Pistons,The Palace of Auburn Hills,54,0.659,0.2,D. Collins,G. Hill (14.6),#ED174C,#006BB6
-1997-98,Detroit Pistons,The Palace of Auburn Hills,37,0.451,0,D. Collins/A. Gentry,G. Hill (10.2),#ED174C,#006BB6
-1998-99,Detroit Pistons,The Palace of Auburn Hills,29,0.58,0.2,A. Gentry,G. Hill (7.3),#ED174C,#006BB6
-1999-00,Detroit Pistons,The Palace of Auburn Hills,42,0.512,0.2,A. Gentry/G. Irvine,G. Hill (10.7),#ED174C,#006BB6
-2000-01,Detroit Pistons,The Palace of Auburn Hills,32,0.39,0,G. Irvine,J. Stackhouse (9.2),#ED174C,#006BB6
-2001-02,Detroit Pistons,The Palace of Auburn Hills,50,0.61,0.4,R. Carlisle,B. Wallace (11.6),#ED174C,#006BB6
-2002-03,Detroit Pistons,The Palace of Auburn Hills,50,0.61,0.6,R. Carlisle,B. Wallace (10.6),#ED174C,#006BB6
-2003-04,Detroit Pistons,The Palace of Auburn Hills,54,0.659,1,L. Brown,C. Billups (11.3),#ED174C,#006BB6
-2004-05,Detroit Pistons,The Palace of Auburn Hills,54,0.659,0.8,L. Brown,C. Billups (12.1),#ED174C,#006BB6
-2005-06,Detroit Pistons,The Palace of Auburn Hills,64,0.78,0.6,F. Saunders,C. Billups (15.5),#ED174C,#006BB6
-2006-07,Detroit Pistons,The Palace of Auburn Hills,53,0.646,0.6,F. Saunders,C. Billups (11.4),#ED174C,#006BB6
-2007-08,Detroit Pistons,The Palace of Auburn Hills,59,0.72,0.6,F. Saunders,C. Billups (13.5),#ED174C,#006BB6
-2008-09,Detroit Pistons,The Palace of Auburn Hills,39,0.476,0.2,M. Curry,T. Prince (6.2),#ED174C,#006BB6
-2009-10,Detroit Pistons,The Palace of Auburn Hills,27,0.329,0,J. Kuester,B. Wallace (4.7),#ED174C,#006BB6
-2010-11,Detroit Pistons,The Palace of Auburn Hills,30,0.366,0,J. Kuester,G. Monroe (6.6),#ED174C,#006BB6
-2011-12,Detroit Pistons,The Palace of Auburn Hills,25,0.379,0,L. Frank,G. Monroe (7.0),#ED174C,#006BB6
-2012-13,Detroit Pistons,The Palace of Auburn Hills,29,0.354,0,L. Frank,G. Monroe (5.9),#ED174C,#006BB6
-2013-14,Detroit Pistons,The Palace of Auburn Hills,29,0.354,0,M. Cheeks/J. Loyer,A. Drummond (9.9),#ED174C,#006BB6
-2014-15,Detroit Pistons,The Palace of Auburn Hills,32,0.39,0,S. Van Gundy,A. Drummond (7.7),#ED174C,#006BB6
-2015-16,Detroit Pistons,The Palace of Auburn Hills,44,0.537,0.2,S. Van Gundy,A. Drummond (7.4),#ED174C,#006BB6
-2016-17,Detroit Pistons,The Palace of Auburn Hills,37,0.451,0,S. Van Gundy,T. Harris (6.9),#ED174C,#006BB6
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs
+1949-50,Fort Wayne Pistons,North Side High School Gym,40,0.588,0.6,M. Mendenhall,F. Schaus (8.4),#ED174C,#006BB6,1.84
+1950-51,Fort Wayne Pistons,North Side High School Gym,32,0.471,0.4,M. Mendenhall,F. Schaus (8.5),#ED174C,#006BB6,-1.81
+1951-52,Fort Wayne Pistons,North Side High School Gym,29,0.439,0.4,P. Birch,L. Foust (7.1),#ED174C,#006BB6,-1.83
+1952-53,Fort Wayne Pistons,War Memorial Coliseum,36,0.522,0.6,P. Birch,L. Foust (6.3),#ED174C,#006BB6,0.17
+1953-54,Fort Wayne Pistons,War Memorial Coliseum,40,0.556,0.2,P. Birch,L. Foust (10.4),#ED174C,#006BB6,1.45
+1954-55,Fort Wayne Pistons,War Memorial Coliseum,43,0.597,0.8,C. Eckman,L. Foust (13.3),#ED174C,#006BB6,2.01
+1955-56,Fort Wayne Pistons,War Memorial Coliseum,37,0.514,0.8,C. Eckman,L. Foust (11.1),#ED174C,#006BB6,0.45
+1956-57,Fort Wayne Pistons,War Memorial Coliseum,34,0.472,0.4,C. Eckman,G. Yardley (10.0),#ED174C,#006BB6,-2.18
+1957-58,Detroit Pistons,Detroit Olympia,33,0.458,0.6,C. Eckman/R. Rocha,G. Yardley (12.3),#ED174C,#006BB6,-2.32
+1958-59,Detroit Pistons,Detroit Olympia,28,0.389,0.4,R. Rocha,D. McGuire (6.9),#ED174C,#006BB6,-1.36
+1959-60,Detroit Pistons,Detroit Olympia,30,0.4,0.4,R. Rocha/D. McGuire,G. Shue (8.5),#ED174C,#006BB6,-3.45
+1960-61,Detroit Pistons,Detroit Olympia,34,0.43,0.4,D. McGuire,B. Howell (11.7),#ED174C,#006BB6,-2.11
+1961-62,Detroit Pistons,Cobo Arena,37,0.463,0.6,D. McGuire,B. Howell (10.7),#ED174C,#006BB6,-1.72
+1962-63,Detroit Pistons,Cobo Arena,34,0.425,0.4,D. McGuire,B. Howell (14.0),#ED174C,#006BB6,-3.38
+1963-64,Detroit Pistons,Cobo Arena,23,0.288,0,C. Wolf,B. Howell (9.8),#ED174C,#006BB6,-6.77
+1964-65,Detroit Pistons,Cobo Arena,31,0.388,0,C. Wolf/D. DeBusschere,T. Dischinger (10.3),#ED174C,#006BB6,-3.03
+1965-66,Detroit Pistons,Cobo Arena,22,0.275,0,D. DeBusschere,E. Miles (6.0),#ED174C,#006BB6,-6.07
+1966-67,Detroit Pistons,Cobo Arena,30,0.37,0,D. DeBusschere/D. Butcher,D. DeBusschere (5.9),#ED174C,#006BB6,-4.98
+1967-68,Detroit Pistons,Cobo Arena,40,0.488,0.4,D. Butcher,D. Bing (6.2),#ED174C,#006BB6,-1.7
+1968-69,Detroit Pistons,Cobo Arena,32,0.39,0,D. Butcher/P. Seymour,H. Hairston (7.0),#ED174C,#006BB6,-2.79
+1969-70,Detroit Pistons,Cobo Arena,31,0.378,0,B. Van Breda Kolff,J. Walker (6.2),#ED174C,#006BB6,-2.94
+1970-71,Detroit Pistons,Cobo Arena,45,0.549,0,B. Van Breda Kolff,D. Bing (11.7),#ED174C,#006BB6,-0.33
+1971-72,Detroit Pistons,Cobo Arena,26,0.317,0,B. Van Breda Kolff/T. Dischinger/E. Lloyd,B. Lanier (8.4),#ED174C,#006BB6,-6.11
+1972-73,Detroit Pistons,Cobo Arena,40,0.488,0,E. Lloyd/R. Scott,B. Lanier (10.6),#ED174C,#006BB6,0.54
+1973-74,Detroit Pistons,Cobo Arena,52,0.634,0.4,R. Scott,B. Lanier (14.4),#ED174C,#006BB6,4.02
+1974-75,Detroit Pistons,Cobo Arena,40,0.488,0.2,R. Scott,B. Lanier (12.4),#ED174C,#006BB6,-1.19
+1975-76,Detroit Pistons,Cobo Arena,36,0.439,0.4,R. Scott/H. Brown,B. Lanier (10.1),#ED174C,#006BB6,-1.18
+1976-77,Detroit Pistons,Cobo Arena,44,0.537,0.2,H. Brown,B. Lanier (10.3),#ED174C,#006BB6,-1
+1977-78,Detroit Pistons,Cobo Arena,38,0.463,0,H. Brown/B. Kauffman,B. Lanier (10.1),#ED174C,#006BB6,-1.22
+1978-79,Detroit Pistons,Pontiac Silverdome,30,0.366,0,D. Vitale,M. Carr (7.9),#ED174C,#006BB6,-2.6
+1979-80,Detroit Pistons,Pontiac Silverdome,16,0.195,0,D. Vitale/R. Adubato,B. Lanier (4.2),#ED174C,#006BB6,-7.57
+1980-81,Detroit Pistons,Pontiac Silverdome,21,0.256,0,S. Robertson,T. Tyler (6.4),#ED174C,#006BB6,-5.58
+1981-82,Detroit Pistons,Pontiac Silverdome,39,0.476,0,S. Robertson,K. Tripucka (7.5),#ED174C,#006BB6,-0.63
+1982-83,Detroit Pistons,Pontiac Silverdome,37,0.451,0,S. Robertson,B. Laimbeer (8.5),#ED174C,#006BB6,-0.17
+1983-84,Detroit Pistons,Pontiac Silverdome,49,0.598,0.2,C. Daly,B. Laimbeer (10.8),#ED174C,#006BB6,3.52
+1984-85,Detroit Pistons,Pontiac Silverdome,46,0.561,0.4,C. Daly,I. Thomas (11.2),#ED174C,#006BB6,2.73
+1985-86,Detroit Pistons,Pontiac Silverdome,46,0.561,0.2,C. Daly,B. Laimbeer (9.2),#ED174C,#006BB6,1.44
+1986-87,Detroit Pistons,Pontiac Silverdome,52,0.634,0.6,C. Daly,B. Laimbeer (10.5),#ED174C,#006BB6,3.51
+1987-88,Detroit Pistons,Pontiac Silverdome,54,0.659,0.8,C. Daly,A. Dantley (9.4),#ED174C,#006BB6,5.46
+1988-89,Detroit Pistons,The Palace of Auburn Hills,63,0.768,1,C. Daly,B. Laimbeer (9.0),#ED174C,#006BB6,6.24
+1989-90,Detroit Pistons,The Palace of Auburn Hills,59,0.72,1,C. Daly,B. Laimbeer (10.1),#ED174C,#006BB6,5.41
+1990-91,Detroit Pistons,The Palace of Auburn Hills,50,0.61,0.6,C. Daly,J. Dumars (9.9),#ED174C,#006BB6,3.08
+1991-92,Detroit Pistons,The Palace of Auburn Hills,48,0.585,0.2,C. Daly,D. Rodman (12.6),#ED174C,#006BB6,2.06
+1992-93,Detroit Pistons,The Palace of Auburn Hills,40,0.488,0,R. Rothstein,J. Dumars (9.1),#ED174C,#006BB6,-1.1
+1993-94,Detroit Pistons,The Palace of Auburn Hills,20,0.244,0,D. Chaney,T. Mills (6.3),#ED174C,#006BB6,-7.46
+1994-95,Detroit Pistons,The Palace of Auburn Hills,28,0.341,0,D. Chaney,G. Hill (5.4),#ED174C,#006BB6,-7.08
+1995-96,Detroit Pistons,The Palace of Auburn Hills,46,0.561,0.2,D. Collins,G. Hill (11.7),#ED174C,#006BB6,2.45
+1996-97,Detroit Pistons,The Palace of Auburn Hills,54,0.659,0.2,D. Collins,G. Hill (14.6),#ED174C,#006BB6,5.45
+1997-98,Detroit Pistons,The Palace of Auburn Hills,37,0.451,0,D. Collins/A. Gentry,G. Hill (10.2),#ED174C,#006BB6,1.95
+1998-99,Detroit Pistons,The Palace of Auburn Hills,29,0.58,0.2,A. Gentry,G. Hill (7.3),#ED174C,#006BB6,3.97
+1999-00,Detroit Pistons,The Palace of Auburn Hills,42,0.512,0.2,A. Gentry/G. Irvine,G. Hill (10.7),#ED174C,#006BB6,1.13
+2000-01,Detroit Pistons,The Palace of Auburn Hills,32,0.39,0,G. Irvine,J. Stackhouse (9.2),#ED174C,#006BB6,-2.08
+2001-02,Detroit Pistons,The Palace of Auburn Hills,50,0.61,0.4,R. Carlisle,B. Wallace (11.6),#ED174C,#006BB6,1.69
+2002-03,Detroit Pistons,The Palace of Auburn Hills,50,0.61,0.6,R. Carlisle,B. Wallace (10.6),#ED174C,#006BB6,2.97
+2003-04,Detroit Pistons,The Palace of Auburn Hills,54,0.659,1,L. Brown,C. Billups (11.3),#ED174C,#006BB6,5.04
+2004-05,Detroit Pistons,The Palace of Auburn Hills,54,0.659,0.8,L. Brown,C. Billups (12.1),#ED174C,#006BB6,3.31
+2005-06,Detroit Pistons,The Palace of Auburn Hills,64,0.78,0.6,F. Saunders,C. Billups (15.5),#ED174C,#006BB6,6.24
+2006-07,Detroit Pistons,The Palace of Auburn Hills,53,0.646,0.6,F. Saunders,C. Billups (11.4),#ED174C,#006BB6,3.69
+2007-08,Detroit Pistons,The Palace of Auburn Hills,59,0.72,0.6,F. Saunders,C. Billups (13.5),#ED174C,#006BB6,6.67
+2008-09,Detroit Pistons,The Palace of Auburn Hills,39,0.476,0.2,M. Curry,T. Prince (6.2),#ED174C,#006BB6,-0.36
+2009-10,Detroit Pistons,The Palace of Auburn Hills,27,0.329,0,J. Kuester,B. Wallace (4.7),#ED174C,#006BB6,-5.02
+2010-11,Detroit Pistons,The Palace of Auburn Hills,30,0.366,0,J. Kuester,G. Monroe (6.6),#ED174C,#006BB6,-3.78
+2011-12,Detroit Pistons,The Palace of Auburn Hills,25,0.379,0,L. Frank,G. Monroe (7.0),#ED174C,#006BB6,-5.19
+2012-13,Detroit Pistons,The Palace of Auburn Hills,29,0.354,0,L. Frank,G. Monroe (5.9),#ED174C,#006BB6,-4.33
+2013-14,Detroit Pistons,The Palace of Auburn Hills,29,0.354,0,M. Cheeks/J. Loyer,A. Drummond (9.9),#ED174C,#006BB6,-4.13
+2014-15,Detroit Pistons,The Palace of Auburn Hills,32,0.39,0,S. Van Gundy,A. Drummond (7.7),#ED174C,#006BB6,-1.39
+2015-16,Detroit Pistons,The Palace of Auburn Hills,44,0.537,0.2,S. Van Gundy,A. Drummond (7.4),#ED174C,#006BB6,0.43
+2016-17,Detroit Pistons,The Palace of Auburn Hills,37,0.451,0,S. Van Gundy,T. Harris (6.9),#ED174C,#006BB6,-1.29

@@ -1,16 +1,16 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2
-2002-03,New Orleans Hornets,New Orleans Arena,47,0.573,0.2,P. Silas,P. Brown (10.2),#002B5C,#E31837
-2003-04,New Orleans Hornets,New Orleans Arena,41,0.5,0.2,T. Floyd,P. Brown (8.1),#002B5C,#E31837
-2004-05,New Orleans Hornets,New Orleans Arena,18,0.22,0,B. Scott,P. Brown (6.9),#002B5C,#E31837
-2005-06,New Orleans/Oklahoma City Hornets,Ford Center,38,0.463,0,B. Scott,C. Paul (10.4),#002B5C,#E31837
-2006-07,New Orleans/Oklahoma City Hornets,Ford Center,39,0.476,0,B. Scott,C. Paul (8.8),#002B5C,#E31837
-2007-08,New Orleans Hornets,New Orleans Arena,56,0.683,0.4,B. Scott,C. Paul (17.8),#002B5C,#E31837
-2008-09,New Orleans Hornets,New Orleans Arena,49,0.598,0.2,B. Scott,C. Paul (18.3),#002B5C,#E31837
-2009-10,New Orleans Hornets,New Orleans Arena,37,0.451,0,B. Scott/J. Bower,D. West (7.5),#002B5C,#E31837
-2010-11,New Orleans Hornets,New Orleans Arena,46,0.561,0.2,M. Williams,C. Paul (13.9),#002B5C,#E31837
-2011-12,New Orleans Hornets,New Orleans Arena,21,0.318,0,M. Williams,J. Jack (3.8),#002B5C,#E31837
-2012-13,New Orleans Hornets,New Orleans Arena,27,0.329,0,M. Williams,R. Anderson (6.5),#002B5C,#E31837
-2013-14,New Orleans Pelicans,Smoothie King Center,34,0.415,0,M. Williams,A. Davis (10.4),#002B5C,#E31837
-2014-15,New Orleans Pelicans,Smoothie King Center,45,0.549,0.2,M. Williams,A. Davis (14.0),#002B5C,#E31837
-2015-16,New Orleans Pelicans,Smoothie King Center,30,0.366,0,A. Gentry,A. Davis (7.2),#002B5C,#E31837
-2016-17,New Orleans Pelicans,Smoothie King Center,34,0.415,0,A. Gentry,A. Davis (11.0),#002B5C,#E31837
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs
+2002-03,New Orleans Hornets,New Orleans Arena,47,0.573,0.2,P. Silas,P. Brown (10.2),#002B5C,#E31837,1.52
+2003-04,New Orleans Hornets,New Orleans Arena,41,0.5,0.2,T. Floyd,P. Brown (8.1),#002B5C,#E31837,-0.72
+2004-05,New Orleans Hornets,New Orleans Arena,18,0.22,0,B. Scott,P. Brown (6.9),#002B5C,#E31837,-6.3
+2005-06,New Orleans/Oklahoma City Hornets,Ford Center,38,0.463,0,B. Scott,C. Paul (10.4),#002B5C,#E31837,-2.51
+2006-07,New Orleans/Oklahoma City Hornets,Ford Center,39,0.476,0,B. Scott,C. Paul (8.8),#002B5C,#E31837,-1.19
+2007-08,New Orleans Hornets,New Orleans Arena,56,0.683,0.4,B. Scott,C. Paul (17.8),#002B5C,#E31837,5.46
+2008-09,New Orleans Hornets,New Orleans Arena,49,0.598,0.2,B. Scott,C. Paul (18.3),#002B5C,#E31837,1.41
+2009-10,New Orleans Hornets,New Orleans Arena,37,0.451,0,B. Scott/J. Bower,D. West (7.5),#002B5C,#E31837,-2.27
+2010-11,New Orleans Hornets,New Orleans Arena,46,0.561,0.2,M. Williams,C. Paul (13.9),#002B5C,#E31837,1.28
+2011-12,New Orleans Hornets,New Orleans Arena,21,0.318,0,M. Williams,J. Jack (3.8),#002B5C,#E31837,-3.11
+2012-13,New Orleans Hornets,New Orleans Arena,27,0.329,0,M. Williams,R. Anderson (6.5),#002B5C,#E31837,-3.12
+2013-14,New Orleans Pelicans,Smoothie King Center,34,0.415,0,M. Williams,A. Davis (10.4),#002B5C,#E31837,-1.98
+2014-15,New Orleans Pelicans,Smoothie King Center,45,0.549,0.2,M. Williams,A. Davis (14.0),#002B5C,#E31837,1.13
+2015-16,New Orleans Pelicans,Smoothie King Center,30,0.366,0,A. Gentry,A. Davis (7.2),#002B5C,#E31837,-3.56
+2016-17,New Orleans Pelicans,Smoothie King Center,34,0.415,0,A. Gentry,A. Davis (11.0),#002B5C,#E31837,-1.69

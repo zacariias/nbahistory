@@ -1,42 +1,42 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2
-1976-77,Indiana Pacers,Market Square Arena,36,0.439,0,S. Leonard,B. Knight (10.7),#FFC633,#00275D
-1977-78,Indiana Pacers,Market Square Arena,31,0.378,0,S. Leonard,D. Roundfield (6.9),#FFC633,#00275D
-1978-79,Indiana Pacers,Market Square Arena,38,0.463,0,S. Leonard,J. Edwards (7.1),#FFC633,#00275D
-1979-80,Indiana Pacers,Market Square Arena,37,0.451,0,S. Leonard,M. Johnson (7.3),#FFC633,#00275D
-1980-81,Indiana Pacers,Market Square Arena,44,0.537,0.2,J. McKinney,B. Knight (8.4),#FFC633,#00275D
-1981-82,Indiana Pacers,Market Square Arena,35,0.427,0,J. McKinney,D. Buse (7.1),#FFC633,#00275D
-1982-83,Indiana Pacers,Market Square Arena,20,0.244,0,J. McKinney,C. Kellogg (6.8),#FFC633,#00275D
-1983-84,Indiana Pacers,Market Square Arena,26,0.317,0,J. McKinney,C. Kellogg (7.0),#FFC633,#00275D
-1984-85,Indiana Pacers,Market Square Arena,22,0.268,0,G. Irvine,C. Kellogg (6.1),#FFC633,#00275D
-1985-86,Indiana Pacers,Market Square Arena,26,0.317,0,G. Irvine,V. Fleming (6.9),#FFC633,#00275D
-1986-87,Indiana Pacers,Market Square Arena,41,0.5,0.2,J. Ramsay,S. Stipanovich (9.0),#FFC633,#00275D
-1987-88,Indiana Pacers,Market Square Arena,38,0.463,0,J. Ramsay,V. Fleming (8.4),#FFC633,#00275D
-1988-89,Indiana Pacers,Market Square Arena,28,0.341,0,J. Ramsay/M. Daniels/G. Irvine/D. Versace,R. Miller (6.5),#FFC633,#00275D
-1989-90,Indiana Pacers,Market Square Arena,42,0.512,0.2,D. Versace,R. Miller (12.1),#FFC633,#00275D
-1990-91,Indiana Pacers,Market Square Arena,41,0.5,0.2,D. Versace/B. Hill,R. Miller (12.5),#FFC633,#00275D
-1991-92,Indiana Pacers,Market Square Arena,40,0.488,0.2,B. Hill,R. Miller (11.0),#FFC633,#00275D
-1992-93,Indiana Pacers,Market Square Arena,41,0.5,0.2,B. Hill,R. Miller (11.3),#FFC633,#00275D
-1993-94,Indiana Pacers,Market Square Arena,47,0.573,0.6,L. Brown,R. Miller (11.7),#FFC633,#00275D
-1994-95,Indiana Pacers,Market Square Arena,52,0.634,0.6,L. Brown,R. Miller (11.4),#FFC633,#00275D
-1995-96,Indiana Pacers,Market Square Arena,52,0.634,0.2,L. Brown,R. Miller (10.3),#FFC633,#00275D
-1996-97,Indiana Pacers,Market Square Arena,39,0.476,0,L. Brown,R. Miller (12.3),#FFC633,#00275D
-1997-98,Indiana Pacers,Market Square Arena,58,0.707,0.6,L. Bird,R. Miller (12.0),#FFC633,#00275D
-1998-99,Indiana Pacers,Market Square Arena,33,0.66,0.6,L. Bird,R. Miller (6.4),#FFC633,#00275D
-1999-00,Indiana Pacers,Conseco Fieldhouse,56,0.683,0.8,L. Bird,R. Miller (10.1),#FFC633,#00275D
-2000-01,Indiana Pacers,Conseco Fieldhouse,41,0.5,0.2,I. Thomas,R. Miller (10.3),#FFC633,#00275D
-2001-02,Indiana Pacers,Conseco Fieldhouse,42,0.512,0.2,I. Thomas,R. Miller (9.5),#FFC633,#00275D
-2002-03,Indiana Pacers,Conseco Fieldhouse,48,0.585,0.2,I. Thomas,J. O'Neal (10.5),#FFC633,#00275D
-2003-04,Indiana Pacers,Conseco Fieldhouse,61,0.744,0.6,R. Carlisle,J. O'Neal (9.0),#FFC633,#00275D
-2004-05,Indiana Pacers,Conseco Fieldhouse,44,0.537,0.4,R. Carlisle,R. Miller (6.6),#FFC633,#00275D
-2005-06,Indiana Pacers,Conseco Fieldhouse,41,0.5,0.2,R. Carlisle,J. Foster (5.7),#FFC633,#00275D
-2006-07,Indiana Pacers,Conseco Fieldhouse,35,0.427,0,R. Carlisle,D. Granger (6.5),#FFC633,#00275D
-2007-08,Indiana Pacers,Conseco Fieldhouse,36,0.439,0,J. O'Brien,M. Dunleavy (8.5),#FFC633,#00275D
-2008-09,Indiana Pacers,Conseco Fieldhouse,36,0.439,0,J. O'Brien,T. Murphy (8.5),#FFC633,#00275D
-2009-10,Indiana Pacers,Conseco Fieldhouse,32,0.39,0,J. O'Brien,T. Murphy (7.8),#FFC633,#00275D
-2010-11,Indiana Pacers,Conseco Fieldhouse,37,0.451,0.2,J. O'Brien/F. Vogel,D. Granger (6.9),#FFC633,#00275D
-2011-12,Indiana Pacers,Bankers Life Fieldhouse,42,0.636,0.4,F. Vogel,D. Granger (6.7),#FFC633,#00275D
-2012-13,Indiana Pacers,Bankers Life Fieldhouse,49,0.605,0.6,F. Vogel,G. Hill (9.7),#FFC633,#00275D
-2013-14,Indiana Pacers,Bankers Life Fieldhouse,56,0.683,0.6,F. Vogel,P. George (10.8),#FFC633,#00275D
-2014-15,Indiana Pacers,Bankers Life Fieldhouse,38,0.463,0,F. Vogel,G. Hill (5.4),#FFC633,#00275D
-2015-16,Indiana Pacers,Bankers Life Fieldhouse,45,0.549,0.2,F. Vogel,P. George (9.2),#FFC633,#00275D
-2016-17,Indiana Pacers,Bankers Life Fieldhouse,42,0.512,0.2,N. McMillan,J. Teague (8.1),#FFC633,#00275D
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs
+1976-77,Indiana Pacers,Market Square Arena,36,0.439,0,S. Leonard,B. Knight (10.7),#FFC633,#00275D,-1.68
+1977-78,Indiana Pacers,Market Square Arena,31,0.378,0,S. Leonard,D. Roundfield (6.9),#FFC633,#00275D,-2.37
+1978-79,Indiana Pacers,Market Square Arena,38,0.463,0,S. Leonard,J. Edwards (7.1),#FFC633,#00275D,-1.41
+1979-80,Indiana Pacers,Market Square Arena,37,0.451,0,S. Leonard,M. Johnson (7.3),#FFC633,#00275D,-0.54
+1980-81,Indiana Pacers,Market Square Arena,44,0.537,0.2,J. McKinney,B. Knight (8.4),#FFC633,#00275D,1.72
+1981-82,Indiana Pacers,Market Square Arena,35,0.427,0,J. McKinney,D. Buse (7.1),#FFC633,#00275D,-1.49
+1982-83,Indiana Pacers,Market Square Arena,20,0.244,0,J. McKinney,C. Kellogg (6.8),#FFC633,#00275D,-5.36
+1983-84,Indiana Pacers,Market Square Arena,26,0.317,0,J. McKinney,C. Kellogg (7.0),#FFC633,#00275D,-4.25
+1984-85,Indiana Pacers,Market Square Arena,22,0.268,0,G. Irvine,C. Kellogg (6.1),#FFC633,#00275D,-5.46
+1985-86,Indiana Pacers,Market Square Arena,26,0.317,0,G. Irvine,V. Fleming (6.9),#FFC633,#00275D,-2.66
+1986-87,Indiana Pacers,Market Square Arena,41,0.5,0.2,J. Ramsay,S. Stipanovich (9.0),#FFC633,#00275D,-0.17
+1987-88,Indiana Pacers,Market Square Arena,38,0.463,0,J. Ramsay,V. Fleming (8.4),#FFC633,#00275D,-0.18
+1988-89,Indiana Pacers,Market Square Arena,28,0.341,0,J. Ramsay/M. Daniels/G. Irvine/D. Versace,R. Miller (6.5),#FFC633,#00275D,-3
+1989-90,Indiana Pacers,Market Square Arena,42,0.512,0.2,D. Versace,R. Miller (12.1),#FFC633,#00275D,-0.18
+1990-91,Indiana Pacers,Market Square Arena,41,0.5,0.2,D. Versace/B. Hill,R. Miller (12.5),#FFC633,#00275D,-0.37
+1991-92,Indiana Pacers,Market Square Arena,40,0.488,0.2,B. Hill,R. Miller (11.0),#FFC633,#00275D,1.85
+1992-93,Indiana Pacers,Market Square Arena,41,0.5,0.2,B. Hill,R. Miller (11.3),#FFC633,#00275D,1.77
+1993-94,Indiana Pacers,Market Square Arena,47,0.573,0.6,L. Brown,R. Miller (11.7),#FFC633,#00275D,3.26
+1994-95,Indiana Pacers,Market Square Arena,52,0.634,0.6,L. Brown,R. Miller (11.4),#FFC633,#00275D,3.35
+1995-96,Indiana Pacers,Market Square Arena,52,0.634,0.2,L. Brown,R. Miller (10.3),#FFC633,#00275D,3.11
+1996-97,Indiana Pacers,Market Square Arena,39,0.476,0,L. Brown,R. Miller (12.3),#FFC633,#00275D,1.49
+1997-98,Indiana Pacers,Market Square Arena,58,0.707,0.6,L. Bird,R. Miller (12.0),#FFC633,#00275D,6.25
+1998-99,Indiana Pacers,Market Square Arena,33,0.66,0.6,L. Bird,R. Miller (6.4),#FFC633,#00275D,3.86
+1999-00,Indiana Pacers,Conseco Fieldhouse,56,0.683,0.8,L. Bird,R. Miller (10.1),#FFC633,#00275D,4.15
+2000-01,Indiana Pacers,Conseco Fieldhouse,41,0.5,0.2,I. Thomas,R. Miller (10.3),#FFC633,#00275D,-0.77
+2001-02,Indiana Pacers,Conseco Fieldhouse,42,0.512,0.2,I. Thomas,R. Miller (9.5),#FFC633,#00275D,-0.07
+2002-03,Indiana Pacers,Conseco Fieldhouse,48,0.585,0.2,I. Thomas,J. O'Neal (10.5),#FFC633,#00275D,2.79
+2003-04,Indiana Pacers,Conseco Fieldhouse,61,0.744,0.6,R. Carlisle,J. O'Neal (9.0),#FFC633,#00275D,4.93
+2004-05,Indiana Pacers,Conseco Fieldhouse,44,0.537,0.4,R. Carlisle,R. Miller (6.6),#FFC633,#00275D,0.49
+2005-06,Indiana Pacers,Conseco Fieldhouse,41,0.5,0.2,R. Carlisle,J. Foster (5.7),#FFC633,#00275D,1.62
+2006-07,Indiana Pacers,Conseco Fieldhouse,35,0.427,0,R. Carlisle,D. Granger (6.5),#FFC633,#00275D,-2.62
+2007-08,Indiana Pacers,Conseco Fieldhouse,36,0.439,0,J. O'Brien,M. Dunleavy (8.5),#FFC633,#00275D,-1.87
+2008-09,Indiana Pacers,Conseco Fieldhouse,36,0.439,0,J. O'Brien,T. Murphy (8.5),#FFC633,#00275D,-0.76
+2009-10,Indiana Pacers,Conseco Fieldhouse,32,0.39,0,J. O'Brien,T. Murphy (7.8),#FFC633,#00275D,-3.11
+2010-11,Indiana Pacers,Conseco Fieldhouse,37,0.451,0.2,J. O'Brien/F. Vogel,D. Granger (6.9),#FFC633,#00275D,-1.38
+2011-12,Indiana Pacers,Bankers Life Fieldhouse,42,0.636,0.4,F. Vogel,D. Granger (6.7),#FFC633,#00275D,2.6
+2012-13,Indiana Pacers,Bankers Life Fieldhouse,49,0.605,0.6,F. Vogel,G. Hill (9.7),#FFC633,#00275D,3.34
+2013-14,Indiana Pacers,Bankers Life Fieldhouse,56,0.683,0.6,F. Vogel,P. George (10.8),#FFC633,#00275D,3.63
+2014-15,Indiana Pacers,Bankers Life Fieldhouse,38,0.463,0,F. Vogel,G. Hill (5.4),#FFC633,#00275D,-0.23
+2015-16,Indiana Pacers,Bankers Life Fieldhouse,45,0.549,0.2,F. Vogel,P. George (9.2),#FFC633,#00275D,1.62
+2016-17,Indiana Pacers,Bankers Life Fieldhouse,42,0.512,0.2,N. McMillan,J. Teague (8.1),#FFC633,#00275D,-0.64

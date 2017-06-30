@@ -1,23 +1,23 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2
-1995-96,Vancouver Grizzlies,General Motors Place,15,0.183,0,B. Winters,G. Anthony (4.8),#0F586C,#7399C6
-1996-97,Vancouver Grizzlies,General Motors Place,14,0.171,0,B. Winters/S. Jackson,G. Anthony (3.5),#0F586C,#7399C6
-1997-98,Vancouver Grizzlies,General Motors Place,19,0.232,0,B. Hill,S. Abdur-Rahim (6.9),#0F586C,#7399C6
-1998-99,Vancouver Grizzlies,General Motors Place,8,0.16,0,B. Hill,S. Abdur-Rahim (4.6),#0F586C,#7399C6
-1999-00,Vancouver Grizzlies,General Motors Place,22,0.268,0,B. Hill/L. Hollins,S. Abdur-Rahim (8.8),#0F586C,#7399C6
-2000-01,Vancouver Grizzlies,General Motors Place,23,0.28,0,S. Lowe,S. Abdur-Rahim (8.5),#0F586C,#7399C6
-2001-02,Memphis Grizzlies,Pyramid Arena,23,0.28,0,S. Lowe,P. Gasol (7.6),#0F586C,#7399C6
-2002-03,Memphis Grizzlies,Pyramid Arena,28,0.341,0,S. Lowe/H. Brown,P. Gasol (8.5),#0F586C,#7399C6
-2003-04,Memphis Grizzlies,Pyramid Arena,50,0.61,0.2,H. Brown,J. Posey (10.0),#0F586C,#7399C6
-2004-05,Memphis Grizzlies,FedEx Forum,45,0.549,0.2,H. Brown/L. Hollins/M. Fratello,S. Battier (7.8),#0F586C,#7399C6
-2005-06,Memphis Grizzlies,FedEx Forum,49,0.598,0.2,M. Fratello,P. Gasol (12.0),#0F586C,#7399C6
-2006-07,Memphis Grizzlies,FedEx Forum,22,0.268,0,M. Fratello/T. Barone,P. Gasol (6.9),#0F586C,#7399C6
-2007-08,Memphis Grizzlies,FedEx Forum,22,0.268,0,M. Iavaroni,M. Miller (5.0),#0F586C,#7399C6
-2008-09,Memphis Grizzlies,FedEx Forum,24,0.293,0,M. Iavaroni/J. Davis/L. Hollins,M. Gasol (6.4),#0F586C,#7399C6
-2009-10,Memphis Grizzlies,FedEx Forum,40,0.488,0,L. Hollins,Z. Randolph (9.7),#0F586C,#7399C6
-2010-11,Memphis Grizzlies,FedEx Forum,46,0.561,0.4,L. Hollins,Z. Randolph (10.5),#0F586C,#7399C6
-2011-12,Memphis Grizzlies,FedEx Forum,41,0.621,0.2,L. Hollins,M. Gasol (8.2),#0F586C,#7399C6
-2012-13,Memphis Grizzlies,FedEx Forum,56,0.683,0.6,L. Hollins,M. Gasol (11.5),#0F586C,#7399C6
-2013-14,Memphis Grizzlies,FedEx Forum,50,0.61,0.2,D. Joerger,M. Conley (8.2),#0F586C,#7399C6
-2014-15,Memphis Grizzlies,FedEx Forum,55,0.671,0.4,D. Joerger,M. Gasol (10.2),#0F586C,#7399C6
-2015-16,Memphis Grizzlies,FedEx Forum,42,0.512,0.2,D. Joerger,M. Conley (5.3),#0F586C,#7399C6
-2016-17,Memphis Grizzlies,FedEx Forum,43,0.524,0.2,D. Fizdale,M. Conley (10.0),#0F586C,#7399C6
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs
+1995-96,Vancouver Grizzlies,General Motors Place,15,0.183,0,B. Winters,G. Anthony (4.8),#0F586C,#7399C6,-9.55
+1996-97,Vancouver Grizzlies,General Motors Place,14,0.171,0,B. Winters/S. Jackson,G. Anthony (3.5),#0F586C,#7399C6,-10.17
+1997-98,Vancouver Grizzlies,General Motors Place,19,0.232,0,B. Hill,S. Abdur-Rahim (6.9),#0F586C,#7399C6,-7.47
+1998-99,Vancouver Grizzlies,General Motors Place,8,0.16,0,B. Hill,S. Abdur-Rahim (4.6),#0F586C,#7399C6,-8.94
+1999-00,Vancouver Grizzlies,General Motors Place,22,0.268,0,B. Hill/L. Hollins,S. Abdur-Rahim (8.8),#0F586C,#7399C6,-5.1
+2000-01,Vancouver Grizzlies,General Motors Place,23,0.28,0,S. Lowe,S. Abdur-Rahim (8.5),#0F586C,#7399C6,-4.94
+2001-02,Memphis Grizzlies,Pyramid Arena,23,0.28,0,S. Lowe,P. Gasol (7.6),#0F586C,#7399C6,-6.74
+2002-03,Memphis Grizzlies,Pyramid Arena,28,0.341,0,S. Lowe/H. Brown,P. Gasol (8.5),#0F586C,#7399C6,-2.6
+2003-04,Memphis Grizzlies,Pyramid Arena,50,0.61,0.2,H. Brown,J. Posey (10.0),#0F586C,#7399C6,2.95
+2004-05,Memphis Grizzlies,FedEx Forum,45,0.549,0.2,H. Brown/L. Hollins/M. Fratello,S. Battier (7.8),#0F586C,#7399C6,2.64
+2005-06,Memphis Grizzlies,FedEx Forum,49,0.598,0.2,M. Fratello,P. Gasol (12.0),#0F586C,#7399C6,3.74
+2006-07,Memphis Grizzlies,FedEx Forum,22,0.268,0,M. Fratello/T. Barone,P. Gasol (6.9),#0F586C,#7399C6,-4.44
+2007-08,Memphis Grizzlies,FedEx Forum,22,0.268,0,M. Iavaroni,M. Miller (5.0),#0F586C,#7399C6,-5.76
+2008-09,Memphis Grizzlies,FedEx Forum,24,0.293,0,M. Iavaroni/J. Davis/L. Hollins,M. Gasol (6.4),#0F586C,#7399C6,-5.23
+2009-10,Memphis Grizzlies,FedEx Forum,40,0.488,0,L. Hollins,Z. Randolph (9.7),#0F586C,#7399C6,-1.39
+2010-11,Memphis Grizzlies,FedEx Forum,46,0.561,0.4,L. Hollins,Z. Randolph (10.5),#0F586C,#7399C6,2.55
+2011-12,Memphis Grizzlies,FedEx Forum,41,0.621,0.2,L. Hollins,M. Gasol (8.2),#0F586C,#7399C6,2.43
+2012-13,Memphis Grizzlies,FedEx Forum,56,0.683,0.6,L. Hollins,M. Gasol (11.5),#0F586C,#7399C6,4.32
+2013-14,Memphis Grizzlies,FedEx Forum,50,0.61,0.2,D. Joerger,M. Conley (8.2),#0F586C,#7399C6,2.18
+2014-15,Memphis Grizzlies,FedEx Forum,55,0.671,0.4,D. Joerger,M. Gasol (10.2),#0F586C,#7399C6,3.62
+2015-16,Memphis Grizzlies,FedEx Forum,42,0.512,0.2,D. Joerger,M. Conley (5.3),#0F586C,#7399C6,-2.14
+2016-17,Memphis Grizzlies,FedEx Forum,43,0.524,0.2,D. Fizdale,M. Conley (10.0),#0F586C,#7399C6,0.96

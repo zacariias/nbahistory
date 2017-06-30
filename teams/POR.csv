@@ -1,48 +1,48 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2
-1970-71,Portland Trail Blazers,Memorial Coliseum,29,0.354,0,R. Todd,G. Petrie (6.2),#C8102E,#000000
-1971-72,Portland Trail Blazers,Memorial Coliseum,18,0.22,0,R. Todd/S. Inman,D. Schlueter (6.3),#C8102E,#000000
-1972-73,Portland Trail Blazers,Memorial Coliseum,21,0.256,0,J. McCloskey,S. Wicks (5.6),#C8102E,#000000
-1973-74,Portland Trail Blazers,Memorial Coliseum,27,0.329,0,J. McCloskey,S. Wicks (5.6),#C8102E,#000000
-1974-75,Portland Trail Blazers,Memorial Coliseum,38,0.463,0,L. Wilkens,S. Wicks (9.7),#C8102E,#000000
-1975-76,Portland Trail Blazers,Memorial Coliseum,37,0.451,0,L. Wilkens,S. Wicks (7.1),#C8102E,#000000
-1976-77,Portland Trail Blazers,Memorial Coliseum,49,0.598,1,J. Ramsay,B. Walton (10.2),#C8102E,#000000
-1977-78,Portland Trail Blazers,Memorial Coliseum,58,0.707,0.4,J. Ramsay,B. Walton (8.4),#C8102E,#000000
-1978-79,Portland Trail Blazers,Memorial Coliseum,45,0.549,0.2,J. Ramsay,T. Owens (10.4),#C8102E,#000000
-1979-80,Portland Trail Blazers,Memorial Coliseum,38,0.463,0.2,J. Ramsay,K. Washington (9.1),#C8102E,#000000
-1980-81,Portland Trail Blazers,Memorial Coliseum,45,0.549,0.2,J. Ramsay,J. Paxson (7.7),#C8102E,#000000
-1981-82,Portland Trail Blazers,Memorial Coliseum,42,0.512,0,J. Ramsay,C. Natt (9.3),#C8102E,#000000
-1982-83,Portland Trail Blazers,Memorial Coliseum,46,0.561,0.4,J. Ramsay,J. Paxson (10.2),#C8102E,#000000
-1983-84,Portland Trail Blazers,Memorial Coliseum,48,0.585,0.2,J. Ramsay,J. Paxson (9.5),#C8102E,#000000
-1984-85,Portland Trail Blazers,Memorial Coliseum,42,0.512,0.4,J. Ramsay,K. Vandeweghe (8.4),#C8102E,#000000
-1985-86,Portland Trail Blazers,Memorial Coliseum,40,0.488,0.2,J. Ramsay,K. Vandeweghe (9.9),#C8102E,#000000
-1986-87,Portland Trail Blazers,Memorial Coliseum,49,0.598,0.2,M. Schuler,K. Vandeweghe (10.8),#C8102E,#000000
-1987-88,Portland Trail Blazers,Memorial Coliseum,53,0.646,0.2,M. Schuler,C. Drexler (13.2),#C8102E,#000000
-1988-89,Portland Trail Blazers,Memorial Coliseum,39,0.476,0.2,M. Schuler/R. Adelman,C. Drexler (12.6),#C8102E,#000000
-1989-90,Portland Trail Blazers,Memorial Coliseum,59,0.72,0.8,R. Adelman,T. Porter (11.7),#C8102E,#000000
-1990-91,Portland Trail Blazers,Memorial Coliseum,63,0.768,0.6,R. Adelman,T. Porter (13.0),#C8102E,#000000
-1991-92,Portland Trail Blazers,Memorial Coliseum,57,0.695,0.8,R. Adelman,C. Drexler (12.8),#C8102E,#000000
-1992-93,Portland Trail Blazers,Memorial Coliseum,51,0.622,0.2,R. Adelman,T. Porter (8.8),#C8102E,#000000
-1993-94,Portland Trail Blazers,Memorial Coliseum,47,0.573,0.2,R. Adelman,R. Strickland (9.3),#C8102E,#000000
-1994-95,Portland Trail Blazers,Memorial Coliseum,44,0.537,0.2,P. Carlesimo,C. Robinson (8.7),#C8102E,#000000
-1995-96,Portland Trail Blazers,Rose Garden Arena,44,0.537,0.2,P. Carlesimo,A. Sabonis (8.4),#C8102E,#000000
-1996-97,Portland Trail Blazers,Rose Garden Arena,49,0.598,0.2,P. Carlesimo,K. Anderson (12.4),#C8102E,#000000
-1997-98,Portland Trail Blazers,Rose Garden Arena,46,0.561,0.2,M. Dunleavy,A. Sabonis (9.7),#C8102E,#000000
-1998-99,Portland Trail Blazers,Rose Garden Arena,35,0.7,0.6,M. Dunleavy,B. Grant (5.9),#C8102E,#000000
-1999-00,Portland Trail Blazers,Rose Garden Arena,59,0.72,0.6,M. Dunleavy,S. Smith (10.4),#C8102E,#000000
-2000-01,Portland Trail Blazers,Rose Garden Arena,50,0.61,0.2,M. Dunleavy,R. Wallace (11.0),#C8102E,#000000
-2001-02,Portland Trail Blazers,Rose Garden Arena,49,0.598,0.2,M. Cheeks,R. Wallace (9.7),#C8102E,#000000
-2002-03,Portland Trail Blazers,Rose Garden Arena,50,0.61,0.2,M. Cheeks,R. Wallace (8.5),#C8102E,#000000
-2003-04,Portland Trail Blazers,Rose Garden Arena,41,0.5,0,M. Cheeks,Z. Randolph (7.1),#C8102E,#000000
-2004-05,Portland Trail Blazers,Rose Garden Arena,27,0.329,0,M. Cheeks/K. Pritchard,D. Stoudamire (5.7),#C8102E,#000000
-2005-06,Portland Trail Blazers,Rose Garden Arena,21,0.256,0,N. McMillan,S. Blake (2.8),#C8102E,#000000
-2006-07,Portland Trail Blazers,Rose Garden Arena,32,0.39,0,N. McMillan,Z. Randolph (5.7),#C8102E,#000000
-2007-08,Portland Trail Blazers,Rose Garden Arena,41,0.5,0,N. McMillan,B. Roy (8.0),#C8102E,#000000
-2008-09,Portland Trail Blazers,Rose Garden Arena,54,0.659,0.2,N. McMillan,B. Roy (13.5),#C8102E,#000000
-2009-10,Portland Trail Blazers,Rose Garden Arena,50,0.61,0.2,N. McMillan,B. Roy (9.1),#C8102E,#000000
-2010-11,Portland Trail Blazers,Rose Garden Arena,48,0.585,0.2,N. McMillan,L. Aldridge (11.1),#C8102E,#000000
-2011-12,Portland Trail Blazers,Rose Garden Arena,28,0.424,0,N. McMillan/K. Canales,L. Aldridge (7.0),#C8102E,#000000
-2012-13,Portland Trail Blazers,Rose Garden Arena,33,0.402,0,T. Stotts,L. Aldridge (7.2),#C8102E,#000000
-2013-14,Portland Trail Blazers,Moda Center,54,0.659,0.4,T. Stotts,D. Lillard (9.6),#C8102E,#000000
-2014-15,Portland Trail Blazers,Moda Center,51,0.622,0.2,T. Stotts,D. Lillard (10.6),#C8102E,#000000
-2015-16,Portland Trail Blazers,Moda Center,44,0.537,0.4,T. Stotts,D. Lillard (9.2),#C8102E,#000000
-2016-17,Portland Trail Blazers,Moda Center,41,0.5,0.2,T. Stotts,D. Lillard (10.3),#C8102E,#000000
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs
+1970-71,Portland Trail Blazers,Memorial Coliseum,29,0.354,0,R. Todd,G. Petrie (6.2),#C8102E,#000000,-6.2
+1971-72,Portland Trail Blazers,Memorial Coliseum,18,0.22,0,R. Todd/S. Inman,D. Schlueter (6.3),#C8102E,#000000,-8.84
+1972-73,Portland Trail Blazers,Memorial Coliseum,21,0.256,0,J. McCloskey,S. Wicks (5.6),#C8102E,#000000,-5.67
+1973-74,Portland Trail Blazers,Memorial Coliseum,27,0.329,0,J. McCloskey,S. Wicks (5.6),#C8102E,#000000,-4.3
+1974-75,Portland Trail Blazers,Memorial Coliseum,38,0.463,0,L. Wilkens,S. Wicks (9.7),#C8102E,#000000,0.27
+1975-76,Portland Trail Blazers,Memorial Coliseum,37,0.451,0,L. Wilkens,S. Wicks (7.1),#C8102E,#000000,-1.11
+1976-77,Portland Trail Blazers,Memorial Coliseum,49,0.598,1,J. Ramsay,B. Walton (10.2),#C8102E,#000000,5.39
+1977-78,Portland Trail Blazers,Memorial Coliseum,58,0.707,0.4,J. Ramsay,B. Walton (8.4),#C8102E,#000000,5.92
+1978-79,Portland Trail Blazers,Memorial Coliseum,45,0.549,0.2,J. Ramsay,T. Owens (10.4),#C8102E,#000000,1.12
+1979-80,Portland Trail Blazers,Memorial Coliseum,38,0.463,0.2,J. Ramsay,K. Washington (9.1),#C8102E,#000000,-0.87
+1980-81,Portland Trail Blazers,Memorial Coliseum,45,0.549,0.2,J. Ramsay,J. Paxson (7.7),#C8102E,#000000,0.52
+1981-82,Portland Trail Blazers,Memorial Coliseum,42,0.512,0,J. Ramsay,C. Natt (9.3),#C8102E,#000000,0.39
+1982-83,Portland Trail Blazers,Memorial Coliseum,46,0.561,0.4,J. Ramsay,J. Paxson (10.2),#C8102E,#000000,1.88
+1983-84,Portland Trail Blazers,Memorial Coliseum,48,0.585,0.2,J. Ramsay,J. Paxson (9.5),#C8102E,#000000,3.13
+1984-85,Portland Trail Blazers,Memorial Coliseum,42,0.512,0.4,J. Ramsay,K. Vandeweghe (8.4),#C8102E,#000000,2.8
+1985-86,Portland Trail Blazers,Memorial Coliseum,40,0.488,0.2,J. Ramsay,K. Vandeweghe (9.9),#C8102E,#000000,0.61
+1986-87,Portland Trail Blazers,Memorial Coliseum,49,0.598,0.2,M. Schuler,K. Vandeweghe (10.8),#C8102E,#000000,2.57
+1987-88,Portland Trail Blazers,Memorial Coliseum,53,0.646,0.2,M. Schuler,C. Drexler (13.2),#C8102E,#000000,3.59
+1988-89,Portland Trail Blazers,Memorial Coliseum,39,0.476,0.2,M. Schuler/R. Adelman,C. Drexler (12.6),#C8102E,#000000,0.92
+1989-90,Portland Trail Blazers,Memorial Coliseum,59,0.72,0.8,R. Adelman,T. Porter (11.7),#C8102E,#000000,6.48
+1990-91,Portland Trail Blazers,Memorial Coliseum,63,0.768,0.6,R. Adelman,T. Porter (13.0),#C8102E,#000000,8.47
+1991-92,Portland Trail Blazers,Memorial Coliseum,57,0.695,0.8,R. Adelman,C. Drexler (12.8),#C8102E,#000000,6.94
+1992-93,Portland Trail Blazers,Memorial Coliseum,51,0.622,0.2,R. Adelman,T. Porter (8.8),#C8102E,#000000,2.92
+1993-94,Portland Trail Blazers,Memorial Coliseum,47,0.573,0.2,R. Adelman,R. Strickland (9.3),#C8102E,#000000,2.6
+1994-95,Portland Trail Blazers,Memorial Coliseum,44,0.537,0.2,P. Carlesimo,C. Robinson (8.7),#C8102E,#000000,3.8
+1995-96,Portland Trail Blazers,Rose Garden Arena,44,0.537,0.2,P. Carlesimo,A. Sabonis (8.4),#C8102E,#000000,2.21
+1996-97,Portland Trail Blazers,Rose Garden Arena,49,0.598,0.2,P. Carlesimo,K. Anderson (12.4),#C8102E,#000000,3.56
+1997-98,Portland Trail Blazers,Rose Garden Arena,46,0.561,0.2,M. Dunleavy,A. Sabonis (9.7),#C8102E,#000000,0.83
+1998-99,Portland Trail Blazers,Rose Garden Arena,35,0.7,0.6,M. Dunleavy,B. Grant (5.9),#C8102E,#000000,5.67
+1999-00,Portland Trail Blazers,Rose Garden Arena,59,0.72,0.6,M. Dunleavy,S. Smith (10.4),#C8102E,#000000,6.36
+2000-01,Portland Trail Blazers,Rose Garden Arena,50,0.61,0.2,M. Dunleavy,R. Wallace (11.0),#C8102E,#000000,4.52
+2001-02,Portland Trail Blazers,Rose Garden Arena,49,0.598,0.2,M. Cheeks,R. Wallace (9.7),#C8102E,#000000,3.21
+2002-03,Portland Trail Blazers,Rose Garden Arena,50,0.61,0.2,M. Cheeks,R. Wallace (8.5),#C8102E,#000000,2.97
+2003-04,Portland Trail Blazers,Rose Garden Arena,41,0.5,0,M. Cheeks,Z. Randolph (7.1),#C8102E,#000000,-0.58
+2004-05,Portland Trail Blazers,Rose Garden Arena,27,0.329,0,M. Cheeks/K. Pritchard,D. Stoudamire (5.7),#C8102E,#000000,-3.45
+2005-06,Portland Trail Blazers,Rose Garden Arena,21,0.256,0,N. McMillan,S. Blake (2.8),#C8102E,#000000,-8.91
+2006-07,Portland Trail Blazers,Rose Garden Arena,32,0.39,0,N. McMillan,Z. Randolph (5.7),#C8102E,#000000,-3.78
+2007-08,Portland Trail Blazers,Rose Garden Arena,41,0.5,0,N. McMillan,B. Roy (8.0),#C8102E,#000000,-0.52
+2008-09,Portland Trail Blazers,Rose Garden Arena,54,0.659,0.2,N. McMillan,B. Roy (13.5),#C8102E,#000000,5
+2009-10,Portland Trail Blazers,Rose Garden Arena,50,0.61,0.2,N. McMillan,B. Roy (9.1),#C8102E,#000000,3.18
+2010-11,Portland Trail Blazers,Rose Garden Arena,48,0.585,0.2,N. McMillan,L. Aldridge (11.1),#C8102E,#000000,1.85
+2011-12,Portland Trail Blazers,Rose Garden Arena,28,0.424,0,N. McMillan/K. Canales,L. Aldridge (7.0),#C8102E,#000000,-0.22
+2012-13,Portland Trail Blazers,Rose Garden Arena,33,0.402,0,T. Stotts,L. Aldridge (7.2),#C8102E,#000000,-2.53
+2013-14,Portland Trail Blazers,Moda Center,54,0.659,0.4,T. Stotts,D. Lillard (9.6),#C8102E,#000000,4.44
+2014-15,Portland Trail Blazers,Moda Center,51,0.622,0.2,T. Stotts,D. Lillard (10.6),#C8102E,#000000,4.41
+2015-16,Portland Trail Blazers,Moda Center,44,0.537,0.4,T. Stotts,D. Lillard (9.2),#C8102E,#000000,0.98
+2016-17,Portland Trail Blazers,Moda Center,41,0.5,0.2,T. Stotts,D. Lillard (10.3),#C8102E,#000000,-0.23

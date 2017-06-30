@@ -1,50 +1,50 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2
-1968-69,Phoenix Suns,Arizona Veterans Memorial Coliseum,16,0.195,0,R. Kerr,D. Van Arsdale (5.6),#E56020,#1D1160
-1969-70,Phoenix Suns,Arizona Veterans Memorial Coliseum,39,0.476,0.4,R. Kerr/J. Colangelo,C. Hawkins (10.2),#E56020,#1D1160
-1970-71,Phoenix Suns,Arizona Veterans Memorial Coliseum,48,0.585,0,C. Fitzsimmons,D. Van Arsdale (10.2),#E56020,#1D1160
-1971-72,Phoenix Suns,Arizona Veterans Memorial Coliseum,49,0.598,0,C. Fitzsimmons,P. Silas (11.0),#E56020,#1D1160
-1972-73,Phoenix Suns,Arizona Veterans Memorial Coliseum,38,0.463,0,B. Van Breda Kolff/J. Colangelo,D. Van Arsdale (8.7),#E56020,#1D1160
-1973-74,Phoenix Suns,Arizona Veterans Memorial Coliseum,30,0.366,0,J. MacLeod,D. Van Arsdale (7.0),#E56020,#1D1160
-1974-75,Phoenix Suns,Arizona Veterans Memorial Coliseum,32,0.39,0,J. MacLeod,C. Perry (7.6),#E56020,#1D1160
-1975-76,Phoenix Suns,Arizona Veterans Memorial Coliseum,42,0.512,0.8,J. MacLeod,P. Westphal (9.6),#E56020,#1D1160
-1976-77,Phoenix Suns,Arizona Veterans Memorial Coliseum,34,0.415,0,J. MacLeod,P. Westphal (9.6),#E56020,#1D1160
-1977-78,Phoenix Suns,Arizona Veterans Memorial Coliseum,49,0.598,0.2,J. MacLeod,W. Davis (10.1),#E56020,#1D1160
-1978-79,Phoenix Suns,Arizona Veterans Memorial Coliseum,50,0.61,0.6,J. MacLeod,P. Westphal (10.4),#E56020,#1D1160
-1979-80,Phoenix Suns,Arizona Veterans Memorial Coliseum,55,0.671,0.4,J. MacLeod,P. Westphal (10.5),#E56020,#1D1160
-1980-81,Phoenix Suns,Arizona Veterans Memorial Coliseum,57,0.695,0.4,J. MacLeod,D. Johnson (8.4),#E56020,#1D1160
-1981-82,Phoenix Suns,Arizona Veterans Memorial Coliseum,46,0.561,0.4,J. MacLeod,K. Macy (9.2),#E56020,#1D1160
-1982-83,Phoenix Suns,Arizona Veterans Memorial Coliseum,53,0.646,0.2,J. MacLeod,L. Nance (10.5),#E56020,#1D1160
-1983-84,Phoenix Suns,Arizona Veterans Memorial Coliseum,41,0.5,0.6,J. MacLeod,L. Nance (9.8),#E56020,#1D1160
-1984-85,Phoenix Suns,Arizona Veterans Memorial Coliseum,36,0.439,0.2,J. MacLeod,L. Nance (7.9),#E56020,#1D1160
-1985-86,Phoenix Suns,Arizona Veterans Memorial Coliseum,32,0.39,0,J. MacLeod,L. Nance (8.4),#E56020,#1D1160
-1986-87,Phoenix Suns,Arizona Veterans Memorial Coliseum,36,0.439,0,J. MacLeod/D. Van Arsdale,L. Nance (10.2),#E56020,#1D1160
-1987-88,Phoenix Suns,Arizona Veterans Memorial Coliseum,28,0.341,0,J. Wetzel,J. Hornacek (5.0),#E56020,#1D1160
-1988-89,Phoenix Suns,Arizona Veterans Memorial Coliseum,55,0.671,0.6,C. Fitzsimmons,K. Johnson (12.2),#E56020,#1D1160
-1989-90,Phoenix Suns,Arizona Veterans Memorial Coliseum,54,0.659,0.6,C. Fitzsimmons,K. Johnson (11.6),#E56020,#1D1160
-1990-91,Phoenix Suns,Arizona Veterans Memorial Coliseum,55,0.671,0.2,C. Fitzsimmons,K. Johnson (12.7),#E56020,#1D1160
-1991-92,Phoenix Suns,Arizona Veterans Memorial Coliseum,53,0.646,0.4,C. Fitzsimmons,J. Hornacek (11.6),#E56020,#1D1160
-1992-93,Phoenix Suns,America West Arena,62,0.756,0.8,P. Westphal,C. Barkley (14.4),#E56020,#1D1160
-1993-94,Phoenix Suns,America West Arena,56,0.683,0.4,P. Westphal,A. Green (9.3),#E56020,#1D1160
-1994-95,Phoenix Suns,America West Arena,59,0.72,0.4,P. Westphal,C. Barkley (10.6),#E56020,#1D1160
-1995-96,Phoenix Suns,America West Arena,41,0.5,0.2,P. Westphal/C. Fitzsimmons,C. Barkley (10.5),#E56020,#1D1160
-1996-97,Phoenix Suns,America West Arena,40,0.488,0.2,C. Fitzsimmons/D. Ainge,K. Johnson (11.7),#E56020,#1D1160
-1997-98,Phoenix Suns,America West Arena,56,0.683,0.2,D. Ainge,A. McDyess (9.4),#E56020,#1D1160
-1998-99,Phoenix Suns,America West Arena,27,0.54,0.2,D. Ainge,J. Kidd (8.1),#E56020,#1D1160
-1999-00,Phoenix Suns,America West Arena,53,0.646,0.4,D. Ainge/S. Skiles,C. Robinson (9.6),#E56020,#1D1160
-2000-01,Phoenix Suns,America West Arena,51,0.622,0.2,S. Skiles,S. Marion (11.7),#E56020,#1D1160
-2001-02,Phoenix Suns,America West Arena,36,0.439,0,S. Skiles/F. Johnson,S. Marion (9.8),#E56020,#1D1160
-2002-03,Phoenix Suns,America West Arena,44,0.537,0.2,F. Johnson,S. Marion (13.0),#E56020,#1D1160
-2003-04,Phoenix Suns,America West Arena,29,0.354,0,F. Johnson/M. D'Antoni,S. Marion (9.1),#E56020,#1D1160
-2004-05,Phoenix Suns,America West Arena,62,0.756,0.6,M. D'Antoni,A. Stoudemire (14.6),#E56020,#1D1160
-2005-06,Phoenix Suns,America West Arena,54,0.659,0.6,M. D'Antoni,S. Marion (14.6),#E56020,#1D1160
-2006-07,Phoenix Suns,US Airways Center,61,0.744,0.4,M. D'Antoni,S. Nash (12.6),#E56020,#1D1160
-2007-08,Phoenix Suns,US Airways Center,55,0.671,0.2,M. D'Antoni,A. Stoudemire (14.6),#E56020,#1D1160
-2008-09,Phoenix Suns,US Airways Center,46,0.561,0,T. Porter/A. Gentry,S. O'Neal (7.8),#E56020,#1D1160
-2009-10,Phoenix Suns,US Airways Center,54,0.659,0.6,A. Gentry,A. Stoudemire (10.7),#E56020,#1D1160
-2010-11,Phoenix Suns,US Airways Center,40,0.488,0,A. Gentry,S. Nash (7.9),#E56020,#1D1160
-2011-12,Phoenix Suns,US Airways Center,33,0.5,0,A. Gentry,M. Gortat (7.6),#E56020,#1D1160
-2012-13,Phoenix Suns,US Airways Center,25,0.305,0,A. Gentry/L. Hunter,G. Dragic (5.7),#E56020,#1D1160
-2013-14,Phoenix Suns,US Airways Center,48,0.585,0,J. Hornacek,G. Dragic (10.3),#E56020,#1D1160
-2014-15,Phoenix Suns,US Airways Center,39,0.476,0,J. Hornacek,E. Bledsoe (7.0),#E56020,#1D1160
-2015-16,Phoenix Suns,Talking Stick Resort Arena,23,0.28,0,J. Hornacek/E. Watson,M. Teletovic (3.8),#E56020,#1D1160
-2016-17,Phoenix Suns,Talking Stick Resort Arena,24,0.293,0,E. Watson,E. Bledsoe (5.4),#E56020,#1D1160
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs
+1968-69,Phoenix Suns,Arizona Veterans Memorial Coliseum,16,0.195,0,R. Kerr,D. Van Arsdale (5.6),#E56020,#1D1160,-8.26
+1969-70,Phoenix Suns,Arizona Veterans Memorial Coliseum,39,0.476,0.4,R. Kerr/J. Colangelo,C. Hawkins (10.2),#E56020,#1D1160,-1.66
+1970-71,Phoenix Suns,Arizona Veterans Memorial Coliseum,48,0.585,0,C. Fitzsimmons,D. Van Arsdale (10.2),#E56020,#1D1160,2.33
+1971-72,Phoenix Suns,Arizona Veterans Memorial Coliseum,49,0.598,0,C. Fitzsimmons,P. Silas (11.0),#E56020,#1D1160,5.57
+1972-73,Phoenix Suns,Arizona Veterans Memorial Coliseum,38,0.463,0,B. Van Breda Kolff/J. Colangelo,D. Van Arsdale (8.7),#E56020,#1D1160,-0.96
+1973-74,Phoenix Suns,Arizona Veterans Memorial Coliseum,30,0.366,0,J. MacLeod,D. Van Arsdale (7.0),#E56020,#1D1160,-3.2
+1974-75,Phoenix Suns,Arizona Veterans Memorial Coliseum,32,0.39,0,J. MacLeod,C. Perry (7.6),#E56020,#1D1160,-2.36
+1975-76,Phoenix Suns,Arizona Veterans Memorial Coliseum,42,0.512,0.8,J. MacLeod,P. Westphal (9.6),#E56020,#1D1160,0.59
+1976-77,Phoenix Suns,Arizona Veterans Memorial Coliseum,34,0.415,0,J. MacLeod,P. Westphal (9.6),#E56020,#1D1160,0.64
+1977-78,Phoenix Suns,Arizona Veterans Memorial Coliseum,49,0.598,0.2,J. MacLeod,W. Davis (10.1),#E56020,#1D1160,3.5
+1978-79,Phoenix Suns,Arizona Veterans Memorial Coliseum,50,0.61,0.6,J. MacLeod,P. Westphal (10.4),#E56020,#1D1160,3.55
+1979-80,Phoenix Suns,Arizona Veterans Memorial Coliseum,55,0.671,0.4,J. MacLeod,P. Westphal (10.5),#E56020,#1D1160,3.25
+1980-81,Phoenix Suns,Arizona Veterans Memorial Coliseum,57,0.695,0.4,J. MacLeod,D. Johnson (8.4),#E56020,#1D1160,4.83
+1981-82,Phoenix Suns,Arizona Veterans Memorial Coliseum,46,0.561,0.4,J. MacLeod,K. Macy (9.2),#E56020,#1D1160,3.05
+1982-83,Phoenix Suns,Arizona Veterans Memorial Coliseum,53,0.646,0.2,J. MacLeod,L. Nance (10.5),#E56020,#1D1160,4.61
+1983-84,Phoenix Suns,Arizona Veterans Memorial Coliseum,41,0.5,0.6,J. MacLeod,L. Nance (9.8),#E56020,#1D1160,0.65
+1984-85,Phoenix Suns,Arizona Veterans Memorial Coliseum,36,0.439,0.2,J. MacLeod,L. Nance (7.9),#E56020,#1D1160,-2.34
+1985-86,Phoenix Suns,Arizona Veterans Memorial Coliseum,32,0.39,0,J. MacLeod,L. Nance (8.4),#E56020,#1D1160,-3.16
+1986-87,Phoenix Suns,Arizona Veterans Memorial Coliseum,36,0.439,0,J. MacLeod/D. Van Arsdale,L. Nance (10.2),#E56020,#1D1160,-2.63
+1987-88,Phoenix Suns,Arizona Veterans Memorial Coliseum,28,0.341,0,J. Wetzel,J. Hornacek (5.0),#E56020,#1D1160,-4.8
+1988-89,Phoenix Suns,Arizona Veterans Memorial Coliseum,55,0.671,0.6,C. Fitzsimmons,K. Johnson (12.2),#E56020,#1D1160,6.84
+1989-90,Phoenix Suns,Arizona Veterans Memorial Coliseum,54,0.659,0.6,C. Fitzsimmons,K. Johnson (11.6),#E56020,#1D1160,7.09
+1990-91,Phoenix Suns,Arizona Veterans Memorial Coliseum,55,0.671,0.2,C. Fitzsimmons,K. Johnson (12.7),#E56020,#1D1160,6.49
+1991-92,Phoenix Suns,Arizona Veterans Memorial Coliseum,53,0.646,0.4,C. Fitzsimmons,J. Hornacek (11.6),#E56020,#1D1160,5.68
+1992-93,Phoenix Suns,America West Arena,62,0.756,0.8,P. Westphal,C. Barkley (14.4),#E56020,#1D1160,6.27
+1993-94,Phoenix Suns,America West Arena,56,0.683,0.4,P. Westphal,A. Green (9.3),#E56020,#1D1160,4.68
+1994-95,Phoenix Suns,America West Arena,59,0.72,0.4,P. Westphal,C. Barkley (10.6),#E56020,#1D1160,3.86
+1995-96,Phoenix Suns,America West Arena,41,0.5,0.2,P. Westphal/C. Fitzsimmons,C. Barkley (10.5),#E56020,#1D1160,0.28
+1996-97,Phoenix Suns,America West Arena,40,0.488,0.2,C. Fitzsimmons/D. Ainge,K. Johnson (11.7),#E56020,#1D1160,0.21
+1997-98,Phoenix Suns,America West Arena,56,0.683,0.2,D. Ainge,A. McDyess (9.4),#E56020,#1D1160,4.44
+1998-99,Phoenix Suns,America West Arena,27,0.54,0.2,D. Ainge,J. Kidd (8.1),#E56020,#1D1160,2.15
+1999-00,Phoenix Suns,America West Arena,53,0.646,0.4,D. Ainge/S. Skiles,C. Robinson (9.6),#E56020,#1D1160,5.24
+2000-01,Phoenix Suns,America West Arena,51,0.622,0.2,S. Skiles,S. Marion (11.7),#E56020,#1D1160,2.63
+2001-02,Phoenix Suns,America West Arena,36,0.439,0,S. Skiles/F. Johnson,S. Marion (9.8),#E56020,#1D1160,-0.3
+2002-03,Phoenix Suns,America West Arena,44,0.537,0.2,F. Johnson,S. Marion (13.0),#E56020,#1D1160,1.57
+2003-04,Phoenix Suns,America West Arena,29,0.354,0,F. Johnson/M. D'Antoni,S. Marion (9.1),#E56020,#1D1160,-2.94
+2004-05,Phoenix Suns,America West Arena,62,0.756,0.6,M. D'Antoni,A. Stoudemire (14.6),#E56020,#1D1160,7.08
+2005-06,Phoenix Suns,America West Arena,54,0.659,0.6,M. D'Antoni,S. Marion (14.6),#E56020,#1D1160,5.48
+2006-07,Phoenix Suns,US Airways Center,61,0.744,0.4,M. D'Antoni,S. Nash (12.6),#E56020,#1D1160,7.28
+2007-08,Phoenix Suns,US Airways Center,55,0.671,0.2,M. D'Antoni,A. Stoudemire (14.6),#E56020,#1D1160,5.14
+2008-09,Phoenix Suns,US Airways Center,46,0.561,0,T. Porter/A. Gentry,S. O'Neal (7.8),#E56020,#1D1160,1.62
+2009-10,Phoenix Suns,US Airways Center,54,0.659,0.6,A. Gentry,A. Stoudemire (10.7),#E56020,#1D1160,4.67
+2010-11,Phoenix Suns,US Airways Center,40,0.488,0,A. Gentry,S. Nash (7.9),#E56020,#1D1160,-0.46
+2011-12,Phoenix Suns,US Airways Center,33,0.5,0,A. Gentry,M. Gortat (7.6),#E56020,#1D1160,0.29
+2012-13,Phoenix Suns,US Airways Center,25,0.305,0,A. Gentry/L. Hunter,G. Dragic (5.7),#E56020,#1D1160,-5.75
+2013-14,Phoenix Suns,US Airways Center,48,0.585,0,J. Hornacek,G. Dragic (10.3),#E56020,#1D1160,3.02
+2014-15,Phoenix Suns,US Airways Center,39,0.476,0,J. Hornacek,E. Bledsoe (7.0),#E56020,#1D1160,-0.38
+2015-16,Phoenix Suns,Talking Stick Resort Arena,23,0.28,0,J. Hornacek/E. Watson,M. Teletovic (3.8),#E56020,#1D1160,-6.32
+2016-17,Phoenix Suns,Talking Stick Resort Arena,24,0.293,0,E. Watson,E. Bledsoe (5.4),#E56020,#1D1160,-5.14

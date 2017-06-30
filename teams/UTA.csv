@@ -1,44 +1,44 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2
-1974-75,New Orleans Jazz,Municipal Auditorium,23,0.28,0,S. Robertson/E. Baylor/B. Van Breda Kolff,P. Maravich (3.9),#002B5C,#F9A01B
-1975-76,New Orleans Jazz,Louisiana Superdome,38,0.463,0,B. Van Breda Kolff,P. Maravich (7.1),#002B5C,#F9A01B
-1976-77,New Orleans Jazz,Louisiana Superdome,35,0.427,0,B. Van Breda Kolff/E. Baylor,P. Maravich (6.4),#002B5C,#F9A01B
-1977-78,New Orleans Jazz,Louisiana Superdome,39,0.476,0,E. Baylor,T. Robinson (6.5),#002B5C,#F9A01B
-1978-79,New Orleans Jazz,Louisiana Superdome,26,0.317,0,E. Baylor,R. Kelley (8.6),#002B5C,#F9A01B
-1979-80,Utah Jazz,Salt Palace,24,0.293,0,T. Nissalke,A. Dantley (10.5),#002B5C,#F9A01B
-1980-81,Utah Jazz,Salt Palace,28,0.341,0,T. Nissalke,A. Dantley (13.6),#002B5C,#F9A01B
-1981-82,Utah Jazz,Salt Palace,25,0.305,0,T. Nissalke/F. Layden,A. Dantley (12.6),#002B5C,#F9A01B
-1982-83,Utah Jazz,Salt Palace,30,0.366,0,F. Layden,R. Green (6.6),#002B5C,#F9A01B
-1983-84,Utah Jazz,Salt Palace,45,0.549,0.4,F. Layden,A. Dantley (14.6),#002B5C,#F9A01B
-1984-85,Utah Jazz,Salt Palace,41,0.5,0.4,F. Layden,A. Dantley (8.0),#002B5C,#F9A01B
-1985-86,Utah Jazz,Salt Palace,42,0.512,0.2,F. Layden,A. Dantley (12.8),#002B5C,#F9A01B
-1986-87,Utah Jazz,Salt Palace,44,0.537,0.2,F. Layden,K. Malone (6.9),#002B5C,#F9A01B
-1987-88,Utah Jazz,Salt Palace,47,0.573,0.4,F. Layden,J. Stockton (14.1),#002B5C,#F9A01B
-1988-89,Utah Jazz,Salt Palace,51,0.622,0.2,F. Layden/J. Sloan,J. Stockton (15.6),#002B5C,#F9A01B
-1989-90,Utah Jazz,Salt Palace,55,0.671,0.2,J. Sloan,K. Malone (15.9),#002B5C,#F9A01B
-1990-91,Utah Jazz,Salt Palace,54,0.659,0.4,J. Sloan,K. Malone (15.5),#002B5C,#F9A01B
-1991-92,Utah Jazz,Delta Center,55,0.671,0.6,J. Sloan,K. Malone (15.1),#002B5C,#F9A01B
-1992-93,Utah Jazz,Delta Center,47,0.573,0.2,J. Sloan,K. Malone (15.4),#002B5C,#F9A01B
-1993-94,Utah Jazz,Delta Center,53,0.646,0.6,J. Sloan,K. Malone (13.4),#002B5C,#F9A01B
-1994-95,Utah Jazz,Delta Center,60,0.732,0.2,J. Sloan,J. Stockton (13.9),#002B5C,#F9A01B
-1995-96,Utah Jazz,Delta Center,55,0.671,0.6,J. Sloan,K. Malone (15.1),#002B5C,#F9A01B
-1996-97,Utah Jazz,Delta Center,64,0.78,0.8,J. Sloan,K. Malone (16.7),#002B5C,#F9A01B
-1997-98,Utah Jazz,Delta Center,62,0.756,0.8,J. Sloan,K. Malone (16.4),#002B5C,#F9A01B
-1998-99,Utah Jazz,Delta Center,37,0.74,0.4,J. Sloan,K. Malone (9.6),#002B5C,#F9A01B
-1999-00,Utah Jazz,Delta Center,55,0.671,0.4,J. Sloan,K. Malone (15.3),#002B5C,#F9A01B
-2000-01,Utah Jazz,Delta Center,53,0.646,0.2,J. Sloan,K. Malone (13.1),#002B5C,#F9A01B
-2001-02,Utah Jazz,Delta Center,44,0.537,0.2,J. Sloan,J. Stockton (10.7),#002B5C,#F9A01B
-2002-03,Utah Jazz,Delta Center,47,0.573,0.2,J. Sloan,K. Malone (11.1),#002B5C,#F9A01B
-2003-04,Utah Jazz,Delta Center,42,0.512,0,J. Sloan,A. Kirilenko (11.6),#002B5C,#F9A01B
-2004-05,Utah Jazz,Delta Center,26,0.317,0,J. Sloan,M. Okur (7.0),#002B5C,#F9A01B
-2005-06,Utah Jazz,Delta Center,41,0.5,0,J. Sloan,M. Okur (9.3),#002B5C,#F9A01B
-2006-07,Utah Jazz,EnergySolutions Arena,51,0.622,0.6,J. Sloan,C. Boozer (9.9),#002B5C,#F9A01B
-2007-08,Utah Jazz,EnergySolutions Arena,54,0.659,0.4,J. Sloan,D. Williams (11.3),#002B5C,#F9A01B
-2008-09,Utah Jazz,EnergySolutions Arena,48,0.585,0.2,J. Sloan,D. Williams (8.4),#002B5C,#F9A01B
-2009-10,Utah Jazz,EnergySolutions Arena,53,0.646,0.4,J. Sloan,D. Williams (10.3),#002B5C,#F9A01B
-2010-11,Utah Jazz,EnergySolutions Arena,39,0.476,0,J. Sloan/T. Corbin,A. Jefferson (7.8),#002B5C,#F9A01B
-2011-12,Utah Jazz,EnergySolutions Arena,36,0.545,0.2,T. Corbin,P. Millsap (7.8),#002B5C,#F9A01B
-2012-13,Utah Jazz,EnergySolutions Arena,43,0.524,0,T. Corbin,A. Jefferson (7.7),#002B5C,#F9A01B
-2013-14,Utah Jazz,EnergySolutions Arena,25,0.305,0,T. Corbin,D. Favors (5.1),#002B5C,#F9A01B
-2014-15,Utah Jazz,EnergySolutions Arena,38,0.463,0,Q. Snyder,R. Gobert (9.3),#002B5C,#F9A01B
-2015-16,Utah Jazz,Vivint Smart Home Arena,40,0.488,0,Q. Snyder,G. Hayward (8.9),#002B5C,#F9A01B
-2016-17,Utah Jazz,Vivint Smart Home Arena,51,0.622,0.4,Q. Snyder,R. Gobert (14.3),#002B5C,#F9A01B
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs
+1974-75,New Orleans Jazz,Municipal Auditorium,23,0.28,0,S. Robertson/E. Baylor/B. Van Breda Kolff,P. Maravich (3.9),#002B5C,#F9A01B,-7.3
+1975-76,New Orleans Jazz,Louisiana Superdome,38,0.463,0,B. Van Breda Kolff,P. Maravich (7.1),#002B5C,#F9A01B,-0.74
+1976-77,New Orleans Jazz,Louisiana Superdome,35,0.427,0,B. Van Breda Kolff/E. Baylor,P. Maravich (6.4),#002B5C,#F9A01B,-2.68
+1977-78,New Orleans Jazz,Louisiana Superdome,39,0.476,0,E. Baylor,T. Robinson (6.5),#002B5C,#F9A01B,-1.8
+1978-79,New Orleans Jazz,Louisiana Superdome,26,0.317,0,E. Baylor,R. Kelley (8.6),#002B5C,#F9A01B,-5.97
+1979-80,Utah Jazz,Salt Palace,24,0.293,0,T. Nissalke,A. Dantley (10.5),#002B5C,#F9A01B,-5.71
+1980-81,Utah Jazz,Salt Palace,28,0.341,0,T. Nissalke,A. Dantley (13.6),#002B5C,#F9A01B,-5.99
+1981-82,Utah Jazz,Salt Palace,25,0.305,0,T. Nissalke/F. Layden,A. Dantley (12.6),#002B5C,#F9A01B,-5.63
+1982-83,Utah Jazz,Salt Palace,30,0.366,0,F. Layden,R. Green (6.6),#002B5C,#F9A01B,-4.22
+1983-84,Utah Jazz,Salt Palace,45,0.549,0.4,F. Layden,A. Dantley (14.6),#002B5C,#F9A01B,0.81
+1984-85,Utah Jazz,Salt Palace,41,0.5,0.4,F. Layden,A. Dantley (8.0),#002B5C,#F9A01B,-0.33
+1985-86,Utah Jazz,Salt Palace,42,0.512,0.2,F. Layden,A. Dantley (12.8),#002B5C,#F9A01B,-0.67
+1986-87,Utah Jazz,Salt Palace,44,0.537,0.2,F. Layden,K. Malone (6.9),#002B5C,#F9A01B,0.04
+1987-88,Utah Jazz,Salt Palace,47,0.573,0.4,F. Layden,J. Stockton (14.1),#002B5C,#F9A01B,2.96
+1988-89,Utah Jazz,Salt Palace,51,0.622,0.2,F. Layden/J. Sloan,J. Stockton (15.6),#002B5C,#F9A01B,4.01
+1989-90,Utah Jazz,Salt Palace,55,0.671,0.2,J. Sloan,K. Malone (15.9),#002B5C,#F9A01B,4.82
+1990-91,Utah Jazz,Salt Palace,54,0.659,0.4,J. Sloan,K. Malone (15.5),#002B5C,#F9A01B,3.18
+1991-92,Utah Jazz,Delta Center,55,0.671,0.6,J. Sloan,K. Malone (15.1),#002B5C,#F9A01B,5.7
+1992-93,Utah Jazz,Delta Center,47,0.573,0.2,J. Sloan,K. Malone (15.4),#002B5C,#F9A01B,1.74
+1993-94,Utah Jazz,Delta Center,53,0.646,0.6,J. Sloan,K. Malone (13.4),#002B5C,#F9A01B,4.1
+1994-95,Utah Jazz,Delta Center,60,0.732,0.2,J. Sloan,J. Stockton (13.9),#002B5C,#F9A01B,7.76
+1995-96,Utah Jazz,Delta Center,55,0.671,0.6,J. Sloan,K. Malone (15.1),#002B5C,#F9A01B,6.25
+1996-97,Utah Jazz,Delta Center,64,0.78,0.8,J. Sloan,K. Malone (16.7),#002B5C,#F9A01B,7.97
+1997-98,Utah Jazz,Delta Center,62,0.756,0.8,J. Sloan,K. Malone (16.4),#002B5C,#F9A01B,5.73
+1998-99,Utah Jazz,Delta Center,37,0.74,0.4,J. Sloan,K. Malone (9.6),#002B5C,#F9A01B,5.54
+1999-00,Utah Jazz,Delta Center,55,0.671,0.4,J. Sloan,K. Malone (15.3),#002B5C,#F9A01B,4.52
+2000-01,Utah Jazz,Delta Center,53,0.646,0.2,J. Sloan,K. Malone (13.1),#002B5C,#F9A01B,5
+2001-02,Utah Jazz,Delta Center,44,0.537,0.2,J. Sloan,J. Stockton (10.7),#002B5C,#F9A01B,1.21
+2002-03,Utah Jazz,Delta Center,47,0.573,0.2,J. Sloan,K. Malone (11.1),#002B5C,#F9A01B,2.76
+2003-04,Utah Jazz,Delta Center,42,0.512,0,J. Sloan,A. Kirilenko (11.6),#002B5C,#F9A01B,-0.53
+2004-05,Utah Jazz,Delta Center,26,0.317,0,J. Sloan,M. Okur (7.0),#002B5C,#F9A01B,-3.74
+2005-06,Utah Jazz,Delta Center,41,0.5,0,J. Sloan,M. Okur (9.3),#002B5C,#F9A01B,-2.49
+2006-07,Utah Jazz,EnergySolutions Arena,51,0.622,0.6,J. Sloan,C. Boozer (9.9),#002B5C,#F9A01B,3.06
+2007-08,Utah Jazz,EnergySolutions Arena,54,0.659,0.4,J. Sloan,D. Williams (11.3),#002B5C,#F9A01B,6.86
+2008-09,Utah Jazz,EnergySolutions Arena,48,0.585,0.2,J. Sloan,D. Williams (8.4),#002B5C,#F9A01B,2.31
+2009-10,Utah Jazz,EnergySolutions Arena,53,0.646,0.4,J. Sloan,D. Williams (10.3),#002B5C,#F9A01B,5.33
+2010-11,Utah Jazz,EnergySolutions Arena,39,0.476,0,J. Sloan/T. Corbin,A. Jefferson (7.8),#002B5C,#F9A01B,-1.44
+2011-12,Utah Jazz,EnergySolutions Arena,36,0.545,0.2,T. Corbin,P. Millsap (7.8),#002B5C,#F9A01B,0.92
+2012-13,Utah Jazz,EnergySolutions Arena,43,0.524,0,T. Corbin,A. Jefferson (7.7),#002B5C,#F9A01B,0.3
+2013-14,Utah Jazz,EnergySolutions Arena,25,0.305,0,T. Corbin,D. Favors (5.1),#002B5C,#F9A01B,-6.27
+2014-15,Utah Jazz,EnergySolutions Arena,38,0.463,0,Q. Snyder,R. Gobert (9.3),#002B5C,#F9A01B,0.71
+2015-16,Utah Jazz,Vivint Smart Home Arena,40,0.488,0,Q. Snyder,G. Hayward (8.9),#002B5C,#F9A01B,1.84
+2016-17,Utah Jazz,Vivint Smart Home Arena,51,0.622,0.4,Q. Snyder,R. Gobert (14.3),#002B5C,#F9A01B,4

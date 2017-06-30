@@ -1,70 +1,69 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2
-1948-49,Minneapolis Lakers,Minneapolis Auditorium,44,0.733,1,J. Kundla,G. Mikan (20.9),#FDB927,#552582
-1949-50,Minneapolis Lakers,Minneapolis Auditorium,51,0.75,1,J. Kundla,G. Mikan (21.1),#FDB927,#552582
-1950-51,Minneapolis Lakers,Minneapolis Auditorium,44,0.647,0.6,J. Kundla,G. Mikan (23.4),#FDB927,#552582
-1951-52,Minneapolis Lakers,Minneapolis Auditorium,40,0.606,1,J. Kundla,G. Mikan (14.4),#FDB927,#552582
-1952-53,Minneapolis Lakers,Minneapolis Auditorium,48,0.686,1,J. Kundla,G. Mikan (14.6),#FDB927,#552582
-1953-54,Minneapolis Lakers,Minneapolis Auditorium,46,0.639,1,J. Kundla,G. Mikan (12.7),#FDB927,#552582
-1954-55,Minneapolis Lakers,Minneapolis Auditorium,40,0.556,0.6,J. Kundla,V. Mikkelsen (10.9),#FDB927,#552582
-1955-56,Minneapolis Lakers,Minneapolis Auditorium,33,0.458,0.4,J. Kundla,C. Lovellette (8.1),#FDB927,#552582
-1956-57,Minneapolis Lakers,Minneapolis Auditorium,34,0.472,0.6,J. Kundla,C. Lovellette (8.2),#FDB927,#552582
-1957-58,Minneapolis Lakers,Minneapolis Auditorium,19,0.264,0,G. Mikan/J. Kundla,V. Mikkelsen (6.5),#FDB927,#552582
-1958-59,Minneapolis Lakers,Minneapolis Auditorium,33,0.458,0.8,J. Kundla,E. Baylor (9.8),#FDB927,#552582
-1959-60,Minneapolis Lakers,Minneapolis Armory,25,0.333,0.6,J. Castellani/J. Pollard,E. Baylor (11.5),#FDB927,#552582
-1960-61,Los Angeles Lakers,Los Angeles Memorial Sports Arena,36,0.456,0.6,F. Schaus,E. Baylor (14.8),#FDB927,#552582
-1961-62,Los Angeles Lakers,Los Angeles Memorial Sports Arena,54,0.675,0.8,F. Schaus,J. West (12.9),#FDB927,#552582
-1962-63,Los Angeles Lakers,Los Angeles Memorial Sports Arena,53,0.663,0.8,F. Schaus,E. Baylor (14.4),#FDB927,#552582
-1963-64,Los Angeles Lakers,Los Angeles Memorial Sports Arena,42,0.525,0.4,F. Schaus,J. West (14.0),#FDB927,#552582
-1964-65,Los Angeles Lakers,Los Angeles Memorial Sports Arena,49,0.613,0.8,F. Schaus,J. West (16.7),#FDB927,#552582
-1965-66,Los Angeles Lakers,Los Angeles Memorial Sports Arena,45,0.563,0.8,F. Schaus,J. West (17.1),#FDB927,#552582
-1966-67,Los Angeles Lakers,Los Angeles Memorial Sports Arena,36,0.444,0.4,F. Schaus,J. West (11.7),#FDB927,#552582
-1967-68,Los Angeles Lakers,The Forum,52,0.634,0.8,B. Van Breda Kolff,J. West (9.6),#FDB927,#552582
-1968-69,Los Angeles Lakers,The Forum,55,0.671,0.8,B. Van Breda Kolff,W. Chamberlain (14.7),#FDB927,#552582
-1969-70,Los Angeles Lakers,The Forum,46,0.561,0.8,J. Mullaney,J. West (15.2),#FDB927,#552582
-1970-71,Los Angeles Lakers,The Forum,48,0.585,0.6,J. Mullaney,J. West (12.8),#FDB927,#552582
-1971-72,Los Angeles Lakers,The Forum,69,0.841,1,B. Sharman,W. Chamberlain (15.8),#FDB927,#552582
-1972-73,Los Angeles Lakers,The Forum,60,0.732,0.8,B. Sharman,W. Chamberlain (18.2),#FDB927,#552582
-1973-74,Los Angeles Lakers,The Forum,47,0.573,0.4,B. Sharman,H. Hairston (9.3),#FDB927,#552582
-1974-75,Los Angeles Lakers,The Forum,30,0.366,0,B. Sharman,H. Hairston (7.0),#FDB927,#552582
-1975-76,Los Angeles Lakers,The Forum,40,0.488,0,B. Sharman,K. Abdul-Jabbar (17.0),#FDB927,#552582
-1976-77,Los Angeles Lakers,The Forum,53,0.646,0.6,J. West,K. Abdul-Jabbar (17.8),#FDB927,#552582
-1977-78,Los Angeles Lakers,The Forum,45,0.549,0.2,J. West,K. Abdul-Jabbar (12.1),#FDB927,#552582
-1978-79,Los Angeles Lakers,The Forum,47,0.573,0.4,J. West,K. Abdul-Jabbar (14.4),#FDB927,#552582
-1979-80,Los Angeles Lakers,The Forum,60,0.732,1,J. McKinney/P. Westhead,K. Abdul-Jabbar (14.8),#FDB927,#552582
-1980-81,Los Angeles Lakers,The Forum,54,0.659,0.2,P. Westhead,K. Abdul-Jabbar (14.3),#FDB927,#552582
-1981-82,Los Angeles Lakers,The Forum,57,0.695,1,P. Westhead/P. Riley,M. Johnson (12.9),#FDB927,#552582
-1982-83,Los Angeles Lakers,The Forum,58,0.707,0.8,P. Riley,M. Johnson (12.5),#FDB927,#552582
-1983-84,Los Angeles Lakers,The Forum,54,0.659,0.8,P. Riley,M. Johnson (10.2),#FDB927,#552582
-1984-85,Los Angeles Lakers,The Forum,62,0.756,1,P. Riley,M. Johnson (12.7),#FDB927,#552582
-1985-86,Los Angeles Lakers,The Forum,62,0.756,0.6,P. Riley,M. Johnson (12.1),#FDB927,#552582
-1986-87,Los Angeles Lakers,The Forum,65,0.793,1,P. Riley,M. Johnson (15.9),#FDB927,#552582
-1987-88,Los Angeles Lakers,The Forum,62,0.756,1,P. Riley,M. Johnson (10.9),#FDB927,#552582
-1988-89,Los Angeles Lakers,Great Western Forum,57,0.695,0.8,P. Riley,M. Johnson (16.1),#FDB927,#552582
-1989-90,Los Angeles Lakers,Great Western Forum,63,0.768,0.4,P. Riley,M. Johnson (16.5),#FDB927,#552582
-1990-91,Los Angeles Lakers,Great Western Forum,58,0.707,0.8,M. Dunleavy,M. Johnson (15.4),#FDB927,#552582
-1991-92,Los Angeles Lakers,Great Western Forum,43,0.524,0.2,M. Dunleavy,A. Green (8.8),#FDB927,#552582
-1992-93,Los Angeles Lakers,Great Western Forum,39,0.476,0.2,R. Pfund,A. Green (8.6),#FDB927,#552582
-1993-94,Los Angeles Lakers,Great Western Forum,33,0.402,0,R. Pfund/B. Bertka/M. Johnson,V. Divac (7.4),#FDB927,#552582
-1994-95,Los Angeles Lakers,Great Western Forum,48,0.585,0.4,D. Harris,V. Divac (9.5),#FDB927,#552582
-1995-96,Los Angeles Lakers,Great Western Forum,53,0.646,0.2,D. Harris,C. Ceballos (9.8),#FDB927,#552582
-1996-97,Los Angeles Lakers,Great Western Forum,56,0.683,0.4,D. Harris,E. Jones (9.6),#FDB927,#552582
-1997-98,Los Angeles Lakers,Great Western Forum,61,0.744,0.6,D. Harris,S. O'Neal (10.2),#FDB927,#552582
-1998-99,Los Angeles Lakers,Great Western Forum,31,0.62,0.4,D. Harris/B. Bertka/K. Rambis,S. O'Neal (9.0),#FDB927,#552582
-1999-00,Los Angeles Lakers,STAPLES Center,67,0.817,1,P. Jackson,S. O'Neal (18.6),#FDB927,#552582
-2000-01,Los Angeles Lakers,STAPLES Center,56,0.683,1,P. Jackson,S. O'Neal (14.9),#FDB927,#552582
-2001-02,Los Angeles Lakers,STAPLES Center,58,0.707,1,P. Jackson,S. O'Neal (13.2),#FDB927,#552582
-2002-03,Los Angeles Lakers,STAPLES Center,50,0.61,0.4,P. Jackson,K. Bryant (14.9),#FDB927,#552582
-2003-04,Los Angeles Lakers,STAPLES Center,56,0.683,0.8,P. Jackson,K. Bryant (10.7),#FDB927,#552582
-2004-05,Los Angeles Lakers,STAPLES Center,34,0.415,0,R. Tomjanovich/F. Hamblen,K. Bryant (8.1),#FDB927,#552582
-2005-06,Los Angeles Lakers,STAPLES Center,45,0.549,0.2,P. Jackson,K. Bryant (15.3),#FDB927,#552582
-2006-07,Los Angeles Lakers,STAPLES Center,42,0.512,0.2,P. Jackson,K. Bryant (13.0),#FDB927,#552582
-2007-08,Los Angeles Lakers,STAPLES Center,57,0.695,0.8,P. Jackson,K. Bryant (13.8),#FDB927,#552582
-2008-09,Los Angeles Lakers,STAPLES Center,65,0.793,1,P. Jackson,P. Gasol (13.9),#FDB927,#552582
-2009-10,Los Angeles Lakers,STAPLES Center,57,0.695,1,P. Jackson,P. Gasol (11.0),#FDB927,#552582
-2010-11,Los Angeles Lakers,STAPLES Center,57,0.695,0.4,P. Jackson,P. Gasol (14.7),#FDB927,#552582
-2011-12,Los Angeles Lakers,STAPLES Center,41,0.621,0.4,M. Brown,P. Gasol (8.3),#FDB927,#552582
-2012-13,Los Angeles Lakers,STAPLES Center,45,0.549,0.2,M. Brown/B. Bickerstaff/M. D'Antoni,K. Bryant (10.9),#FDB927,#552582
-2013-14,Los Angeles Lakers,STAPLES Center,27,0.329,0,M. D'Antoni,J. Meeks (4.5),#FDB927,#552582
-2014-15,Los Angeles Lakers,STAPLES Center,21,0.256,0,B. Scott,E. Davis (6.3),#FDB927,#552582
-2015-16,Los Angeles Lakers,STAPLES Center,17,0.207,0,B. Scott,L. Williams (4.7),#FDB927,#552582
-2016-17,Los Angeles Lakers,STAPLES Center,26,0.317,0,L. Walton,L. Williams (5.0),#FDB927,#552582
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs
+1949-50,Minneapolis Lakers,Minneapolis Auditorium,51,0.75,1,J. Kundla,G. Mikan (21.1),#FDB927,#552582,8.25
+1950-51,Minneapolis Lakers,Minneapolis Auditorium,44,0.647,0.6,J. Kundla,G. Mikan (23.4),#FDB927,#552582,4.79
+1951-52,Minneapolis Lakers,Minneapolis Auditorium,40,0.606,1,J. Kundla,G. Mikan (14.4),#FDB927,#552582,5.28
+1952-53,Minneapolis Lakers,Minneapolis Auditorium,48,0.686,1,J. Kundla,G. Mikan (14.6),#FDB927,#552582,5.54
+1953-54,Minneapolis Lakers,Minneapolis Auditorium,46,0.639,1,J. Kundla,G. Mikan (12.7),#FDB927,#552582,2.71
+1954-55,Minneapolis Lakers,Minneapolis Auditorium,40,0.556,0.6,J. Kundla,V. Mikkelsen (10.9),#FDB927,#552582,0.96
+1955-56,Minneapolis Lakers,Minneapolis Auditorium,33,0.458,0.4,J. Kundla,C. Lovellette (8.1),#FDB927,#552582,-0.92
+1956-57,Minneapolis Lakers,Minneapolis Auditorium,34,0.472,0.6,J. Kundla,C. Lovellette (8.2),#FDB927,#552582,-0.89
+1957-58,Minneapolis Lakers,Minneapolis Auditorium,19,0.264,0,G. Mikan/J. Kundla,V. Mikkelsen (6.5),#FDB927,#552582,-5.78
+1958-59,Minneapolis Lakers,Minneapolis Auditorium,33,0.458,0.8,J. Kundla,E. Baylor (9.8),#FDB927,#552582,-1.42
+1959-60,Minneapolis Lakers,Minneapolis Armory,25,0.333,0.6,J. Castellani/J. Pollard,E. Baylor (11.5),#FDB927,#552582,-4.14
+1960-61,Los Angeles Lakers,Los Angeles Memorial Sports Arena,36,0.456,0.6,F. Schaus,E. Baylor (14.8),#FDB927,#552582,-0.11
+1961-62,Los Angeles Lakers,Los Angeles Memorial Sports Arena,54,0.675,0.8,F. Schaus,J. West (12.9),#FDB927,#552582,1.8
+1962-63,Los Angeles Lakers,Los Angeles Memorial Sports Arena,53,0.663,0.8,F. Schaus,E. Baylor (14.4),#FDB927,#552582,2.67
+1963-64,Los Angeles Lakers,Los Angeles Memorial Sports Arena,42,0.525,0.4,F. Schaus,J. West (14.0),#FDB927,#552582,0.87
+1964-65,Los Angeles Lakers,Los Angeles Memorial Sports Arena,49,0.613,0.8,F. Schaus,J. West (16.7),#FDB927,#552582,1.7
+1965-66,Los Angeles Lakers,Los Angeles Memorial Sports Arena,45,0.563,0.8,F. Schaus,J. West (17.1),#FDB927,#552582,2.76
+1966-67,Los Angeles Lakers,Los Angeles Memorial Sports Arena,36,0.444,0.4,F. Schaus,J. West (11.7),#FDB927,#552582,0.31
+1967-68,Los Angeles Lakers,The Forum,52,0.634,0.8,B. Van Breda Kolff,J. West (9.6),#FDB927,#552582,4.99
+1968-69,Los Angeles Lakers,The Forum,55,0.671,0.8,B. Van Breda Kolff,W. Chamberlain (14.7),#FDB927,#552582,3.84
+1969-70,Los Angeles Lakers,The Forum,46,0.561,0.8,J. Mullaney,J. West (15.2),#FDB927,#552582,1.76
+1970-71,Los Angeles Lakers,The Forum,48,0.585,0.6,J. Mullaney,J. West (12.8),#FDB927,#552582,3.27
+1971-72,Los Angeles Lakers,The Forum,69,0.841,1,B. Sharman,W. Chamberlain (15.8),#FDB927,#552582,11.65
+1972-73,Los Angeles Lakers,The Forum,60,0.732,0.8,B. Sharman,W. Chamberlain (18.2),#FDB927,#552582,8.16
+1973-74,Los Angeles Lakers,The Forum,47,0.573,0.4,B. Sharman,H. Hairston (9.3),#FDB927,#552582,0.85
+1974-75,Los Angeles Lakers,The Forum,30,0.366,0,B. Sharman,H. Hairston (7.0),#FDB927,#552582,-3.94
+1975-76,Los Angeles Lakers,The Forum,40,0.488,0,B. Sharman,K. Abdul-Jabbar (17.0),#FDB927,#552582,0.18
+1976-77,Los Angeles Lakers,The Forum,53,0.646,0.6,J. West,K. Abdul-Jabbar (17.8),#FDB927,#552582,2.64
+1977-78,Los Angeles Lakers,The Forum,45,0.549,0.2,J. West,K. Abdul-Jabbar (12.1),#FDB927,#552582,2.59
+1978-79,Los Angeles Lakers,The Forum,47,0.573,0.4,J. West,K. Abdul-Jabbar (14.4),#FDB927,#552582,2.95
+1979-80,Los Angeles Lakers,The Forum,60,0.732,1,J. McKinney/P. Westhead,K. Abdul-Jabbar (14.8),#FDB927,#552582,5.4
+1980-81,Los Angeles Lakers,The Forum,54,0.659,0.2,P. Westhead,K. Abdul-Jabbar (14.3),#FDB927,#552582,3.27
+1981-82,Los Angeles Lakers,The Forum,57,0.695,1,P. Westhead/P. Riley,M. Johnson (12.9),#FDB927,#552582,4.37
+1982-83,Los Angeles Lakers,The Forum,58,0.707,0.8,P. Riley,M. Johnson (12.5),#FDB927,#552582,5.06
+1983-84,Los Angeles Lakers,The Forum,54,0.659,0.8,P. Riley,M. Johnson (10.2),#FDB927,#552582,3.32
+1984-85,Los Angeles Lakers,The Forum,62,0.756,1,P. Riley,M. Johnson (12.7),#FDB927,#552582,6.48
+1985-86,Los Angeles Lakers,The Forum,62,0.756,0.6,P. Riley,M. Johnson (12.1),#FDB927,#552582,6.84
+1986-87,Los Angeles Lakers,The Forum,65,0.793,1,P. Riley,M. Johnson (15.9),#FDB927,#552582,8.32
+1987-88,Los Angeles Lakers,The Forum,62,0.756,1,P. Riley,M. Johnson (10.9),#FDB927,#552582,4.81
+1988-89,Los Angeles Lakers,Great Western Forum,57,0.695,0.8,P. Riley,M. Johnson (16.1),#FDB927,#552582,6.38
+1989-90,Los Angeles Lakers,Great Western Forum,63,0.768,0.4,P. Riley,M. Johnson (16.5),#FDB927,#552582,6.74
+1990-91,Los Angeles Lakers,Great Western Forum,58,0.707,0.8,M. Dunleavy,M. Johnson (15.4),#FDB927,#552582,6.73
+1991-92,Los Angeles Lakers,Great Western Forum,43,0.524,0.2,M. Dunleavy,A. Green (8.8),#FDB927,#552582,-0.95
+1992-93,Los Angeles Lakers,Great Western Forum,39,0.476,0.2,R. Pfund,A. Green (8.6),#FDB927,#552582,-1.2
+1993-94,Los Angeles Lakers,Great Western Forum,33,0.402,0,R. Pfund/B. Bertka/M. Johnson,V. Divac (7.4),#FDB927,#552582,-3.93
+1994-95,Los Angeles Lakers,Great Western Forum,48,0.585,0.4,D. Harris,V. Divac (9.5),#FDB927,#552582,-0.01
+1995-96,Los Angeles Lakers,Great Western Forum,53,0.646,0.2,D. Harris,C. Ceballos (9.8),#FDB927,#552582,4.21
+1996-97,Los Angeles Lakers,Great Western Forum,56,0.683,0.4,D. Harris,E. Jones (9.6),#FDB927,#552582,3.66
+1997-98,Los Angeles Lakers,Great Western Forum,61,0.744,0.6,D. Harris,S. O'Neal (10.2),#FDB927,#552582,6.88
+1998-99,Los Angeles Lakers,Great Western Forum,31,0.62,0.4,D. Harris/B. Bertka/K. Rambis,S. O'Neal (9.0),#FDB927,#552582,2.68
+1999-00,Los Angeles Lakers,STAPLES Center,67,0.817,1,P. Jackson,S. O'Neal (18.6),#FDB927,#552582,8.41
+2000-01,Los Angeles Lakers,STAPLES Center,56,0.683,1,P. Jackson,S. O'Neal (14.9),#FDB927,#552582,3.74
+2001-02,Los Angeles Lakers,STAPLES Center,58,0.707,1,P. Jackson,S. O'Neal (13.2),#FDB927,#552582,7.15
+2002-03,Los Angeles Lakers,STAPLES Center,50,0.61,0.4,P. Jackson,K. Bryant (14.9),#FDB927,#552582,2.71
+2003-04,Los Angeles Lakers,STAPLES Center,56,0.683,0.8,P. Jackson,K. Bryant (10.7),#FDB927,#552582,4.35
+2004-05,Los Angeles Lakers,STAPLES Center,34,0.415,0,R. Tomjanovich/F. Hamblen,K. Bryant (8.1),#FDB927,#552582,-2.32
+2005-06,Los Angeles Lakers,STAPLES Center,45,0.549,0.2,P. Jackson,K. Bryant (15.3),#FDB927,#552582,2.53
+2006-07,Los Angeles Lakers,STAPLES Center,42,0.512,0.2,P. Jackson,K. Bryant (13.0),#FDB927,#552582,0.24
+2007-08,Los Angeles Lakers,STAPLES Center,57,0.695,0.8,P. Jackson,K. Bryant (13.8),#FDB927,#552582,7.34
+2008-09,Los Angeles Lakers,STAPLES Center,65,0.793,1,P. Jackson,P. Gasol (13.9),#FDB927,#552582,7.11
+2009-10,Los Angeles Lakers,STAPLES Center,57,0.695,1,P. Jackson,P. Gasol (11.0),#FDB927,#552582,4.78
+2010-11,Los Angeles Lakers,STAPLES Center,57,0.695,0.4,P. Jackson,P. Gasol (14.7),#FDB927,#552582,6.01
+2011-12,Los Angeles Lakers,STAPLES Center,41,0.621,0.4,M. Brown,P. Gasol (8.3),#FDB927,#552582,1.96
+2012-13,Los Angeles Lakers,STAPLES Center,45,0.549,0.2,M. Brown/B. Bickerstaff/M. D'Antoni,K. Bryant (10.9),#FDB927,#552582,1.48
+2013-14,Los Angeles Lakers,STAPLES Center,27,0.329,0,M. D'Antoni,J. Meeks (4.5),#FDB927,#552582,-5.33
+2014-15,Los Angeles Lakers,STAPLES Center,21,0.256,0,B. Scott,E. Davis (6.3),#FDB927,#552582,-6.17
+2015-16,Los Angeles Lakers,STAPLES Center,17,0.207,0,B. Scott,L. Williams (4.7),#FDB927,#552582,-8.92
+2016-17,Los Angeles Lakers,STAPLES Center,26,0.317,0,L. Walton,L. Williams (5.0),#FDB927,#552582,-6.29
