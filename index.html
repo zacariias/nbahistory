@@ -12,7 +12,7 @@
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 </head>
 <body>
-<div>
+<p id="logos">
 <img src="teams/ATL.png" alt="ATL" onclick="showATL();document.getElementById('title').innerHTML='Atlanta Hawks'" />
 <img src="teams/BOS.png" alt="BOS" onclick="showBOS();document.getElementById('title').innerHTML='Boston Celtics'" />
 <img src="teams/BKN.png" alt="BKN" onclick="showBKN();document.getElementById('title').innerHTML='Brooklyn Nets'" />
@@ -43,27 +43,37 @@
 <img src="teams/SAC.png" alt="SAC" onclick="showSAC();document.getElementById('title').innerHTML='Sacramento Kings'" />
 <img src="teams/SAS.png" alt="SAS" onclick="showSAS();document.getElementById('title').innerHTML='San Antonio Spurs'" />
 <img src="teams/UTA.png" alt="UTA" onclick="showUTA();document.getElementById('title').innerHTML='Utah Jazz'" />
-</div>
+</p>
 <h1 id="title">Choose a team</h1>
 <svg class="regularseason"></svg>
+<svg class="srs"></svg>
 <svg class="playoffs"></svg>
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script>
 var margin1 = {top:5,right:0,bottom:80,left:180},
     width1 = 1200 - margin1.left - margin1.right
     height1 = 385 - margin1.top - margin1.bottom;
-var margin2 = {top:10,right:0,bottom:900,left:180},
+var margin2 = {top:10,right:0,bottom:80,left:180},
     width2 = 1200 - margin2.left - margin2.right
-    height2 = 1060 - margin2.top - margin2.bottom;
+    height2 = 240 - margin2.top - margin2.bottom;
+var margin3 = {top:10,right:0,bottom:10,left:180},
+    width3 = 1200 - margin3.left - margin3.right
+    height3 = 170 - margin3.top - margin3.bottom;
 var x = d3.scale
     .ordinal()
     .rangeRoundBands([0,width1],0.2);
 var y1 = d3.scale
     .linear()
+    .domain([0,1])
     .range([height1,0]);
 var y2 = d3.scale
     .linear()
+    .domain([-15,15])
     .range([height2,0]);
+var y3 = d3.scale
+    .linear()
+    .domain([0,1])
+    .range([height3,0]);
 var xAxis = d3.svg.axis()
     .scale(x)
     .orient("bottom");
@@ -74,29 +84,105 @@ var y1Axis = d3.svg.axis()
     .innerTickSize(-width1)
     .tickPadding(10)
     .tickFormat(formatDecimal);
+var formatDecimal = d3.format(".0f");
 var y2Axis = d3.svg.axis()
     .scale(y2)
     .orient("left")
     .innerTickSize(-width2)
     .tickPadding(10)
+    .tickFormat(formatDecimal);
+var y3Axis = d3.svg.axis()
+    .scale(y3)
+    .orient("left")
+    .innerTickSize(-width3)
+    .tickPadding(10)
     .ticks(5)
     .tickFormat(function(d){
-      if(d==0){return "Missed playoffs"}
-      else if(d==0.2){return "Lost first round"}
-      else if(d==0.4){return "Lost conf/div semis"}
-      else if(d==0.6){return "Lost conf/div finals"}
-      else if(d==0.8){return "Lost finals"}
-      else{return "Won finals"}});
+        if(d==0){return "Missed playoffs"}
+        else if(d==0.2){return "Lost first round"}
+        else if(d==0.4){return "Lost conf/div semis"}
+        else if(d==0.6){return "Lost conf/div finals"}
+        else if(d==0.8){return "Lost finals"}
+        else{return "Won finals"}});
 var regularseason = d3.select(".regularseason")
     .attr("width",width1 + margin1.left + margin1.right)
     .attr("height",height1 + margin1.top + margin1.bottom)
     .append("g")
     .attr("transform","translate(" + margin1.left + "," + margin1.top + ")");
-var playoffs = d3.select(".playoffs")
+var srs = d3.select(".srs")
     .attr("width",width2 + margin2.left + margin2.right)
     .attr("height",height2 + margin2.top + margin2.bottom)
     .append("g")
     .attr("transform","translate(" + margin2.left + "," + margin2.top + ")");
+var playoffs = d3.select(".playoffs")
+    .attr("width",width3 + margin3.left + margin3.right)
+    .attr("height",height3 + margin3.top + margin3.bottom)
+    .append("g")
+    .attr("transform","translate(" + margin3.left + "," + margin3.top + ")");
+var div = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+regularseason.append("g")
+    .attr("class","y axis")
+    .call(y1Axis);
+regularseason.append("text")
+    .attr("transform","rotate(-90)")
+    .attr("x", 0 - (height1 / 2))
+    .attr("y", 0 - (margin1.left / 2))
+    .style("text-anchor","middle")
+    .text("Win percentage");
+regularseason.append("text")
+    .attr("transform","rotate(-90)")
+    .attr("x", 0 - (height1 / 2) + 60)
+    .attr("y", 0 - (margin1.left / 2))
+    .style("text-anchor","middle")
+    .html("&#9432;")
+    .style("cursor","pointer")
+    .on("mouseover",function(d){
+        div.transition()
+        .duration(200)
+        .style("opacity", .9);
+        div	.html("Regular season win percentage; bar label = number of wins")
+        .style("left", (d3.event.pageX + 20) + "px")
+        .style("top", (d3.event.pageY) + "px");
+    })
+    .on("mouseout", function(d) {
+        div.transition()
+        .duration(200)
+        .style("opacity", 0);
+    });
+srs.append("g")
+    .attr("class","y axis")
+    .call(y2Axis);
+playoffs.append("g")
+    .attr("class","y axis")
+    .call(y3Axis);
+srs.append("text")
+    .attr("transform","rotate(-90)")
+    .attr("x", 0 - (height2 / 2))
+    .attr("y", 0 - (margin2.left / 2))
+    .style("text-anchor","middle")
+    .text("Margin of victory");
+srs.append("text")
+    .attr("transform","rotate(-90)")
+    .attr("x", 0 - (height2 / 2) + 60)
+    .attr("y", 0 - (margin2.left / 2))
+    .style("text-anchor","middle")
+    .style("cursor","pointer")
+    .html("&#9432;")
+    .on("mouseover",function(d){
+        div.transition()
+        .duration(200)
+        .style("opacity", .9);
+        div	.html("Average margin of victory, adjusted for strength of opponent")
+        .style("left", (d3.event.pageX + 20) + "px")
+        .style("top", (d3.event.pageY) + "px");
+    })
+    .on("mouseout",function(d){
+        div.transition()
+        .duration(200)
+        .style("opacity", 0);
+    });
 function showATL(){d3.csv("teams/ATL.csv",type,update)}
 function showBKN(){d3.csv("teams/BKN.csv",type,update)}
 function showBOS(){d3.csv("teams/BOS.csv",type,update)}
@@ -129,35 +215,22 @@ function showUTA(){d3.csv("teams/UTA.csv",type,update)}
 function showWAS(){d3.csv("teams/WAS.csv",type,update)}
 function update(error, data) {
 x.domain(data.map(function(d){return d.season;}));
-y1.domain([0,1]);
-y2.domain([0,1]);
-regularseason.selectAll("text").remove();
+regularseason.select(".x.axis").remove();
 regularseason.select(".y.axis").remove();
+regularseason.selectAll(".label").remove();
 playoffs.selectAll("text").remove();
 playoffs.select(".y.axis").remove();
-regularseason.append("text")
-    .attr("x", -10)
-    .attr("y", height1 + 50)
-    .style("text-anchor","end")
-    .text("Season");
-regularseason.append("text")
-    .attr("transform","rotate(-90)")
-    .attr("x", 0 - (height1 / 2))
-    .attr("y", 0 - (margin1.left / 2) - 20)
-    .style("text-anchor","middle")
-    .text("Win percentage");
-regularseason.append("text")
-    .attr("transform","rotate(-90)")
-    .attr("x", 0 - (height1 / 2))
-    .attr("y", 0 - (margin1.left / 2))
-    .style("text-anchor","middle")
-    .text("(bar label = number of wins)");
+srs.select(".x.axis").remove();
+srs.select(".y.axis").remove();
 regularseason.append("g")
     .attr("class","y axis")
     .call(y1Axis);
-playoffs.append("g")
+srs.append("g")
     .attr("class","y axis")
     .call(y2Axis);
+playoffs.append("g")
+    .attr("class","y axis")
+    .call(y3Axis);
 regularseason.append("g")
     .attr("class","x axis")
     .attr("transform","translate(0," + height1 + ")")
@@ -199,134 +272,60 @@ regularseason.selectAll(".bar1")
     .attr("width",x.rangeBand())
     .style("fill",function(d){return d.color1})
     .style("opacity","1");
-playoffs.selectAll(".bar2").remove();
-playoffs.selectAll(".bar2")
+srs.append("g")
+    .attr("class","x axis")
+    .attr("transform","translate(0," + height2 + ")")
+    .call(xAxis)
+    .selectAll("text")
+    .style("text-anchor","start")
+    .attr("dx", -70)
+    .attr("dy", -5)
+    .attr("transform","rotate(-90)");
+srs.selectAll(".bar2").remove();
+srs.selectAll(".bar2")
     .data(data)
     .enter()
     .append("rect")
+    .attr("class","bar2")
     .attr("x",function(d){return x(d.season);})
-    .attr("y",height2)
+    .attr("y",height2 / 2)
     .attr("height",0)
     .style("fill","white")
     .style("opacity","0")
     .transition()
     .duration(750)
     .ease("quad")
-    .attr("y",function(d){return y2(d.playoffs);})
-    .attr("height",function(d){return height2 - y2(d.playoffs);})
-    .attr("class","bar2")
+    .attr("y",function(d){return y2(Math.max(0, d.srs));})
+    .attr("height",function(d){return Math.abs(y2(d.srs) - y2(0));})
     .attr("width",x.rangeBand())
     .style("fill",function(d){return d.color2})
     .style("opacity","1");
-var offset1 = 0;
-var offsetFactor = 1.1;
-var offsetMargin = 30;
-var topWS = playoffs.append('g');
-topWS.selectAll('text')
+playoffs.selectAll(".bar3").remove();
+playoffs.selectAll(".bar3")
     .data(data)
     .enter()
-    .append('text')
-    .style("text-anchor","start")
-    .text(function(d){return d.topWS;})
-    .attr("dy", x.rangeBand()/2 + 5)
-    .attr("transform", function(d, i) {
-        var length = this.getComputedTextLength();
-        if (length > offset1) offset1 = length*offsetFactor;
-        return "translate (" + x(d.season) + ",0)rotate(-90)";
-    });
-topWS.attr("transform", "translate(0, "+ (height2 + offset1 + offsetMargin) +")");
-playoffs.append("text")
-    .attr("x", -10)
-    .attr("y", height2 + offset1/2 + offsetMargin)
-    .style("text-anchor","end")
-    .text("Win share leader")
-var offset2 = 0;
-var coach = playoffs.append('g');
-coach.selectAll('text')
-    .data(data)
-    .enter()
-    .append('text')
-    .style("text-anchor","start")
-    .text(function(d){return d.coach;})
-    .attr("dy", x.rangeBand()/2 + 5)
-    .attr("transform", function(d, i) {
-        var length = this.getComputedTextLength();
-        if (length > offset2) offset2 = length*offsetFactor;
-        return "translate (" + x(d.season) + ",0)rotate(-90)";
-    });
-coach.attr("transform", "translate(0, "+ (height2 + offset1 + offset2 + offsetMargin*2) +")");
-playoffs.append("text")
-    .attr("x", - 10)
-    .attr("y", height2 + offset1 + offset2/2 + offsetMargin*2)
-    .style("text-anchor","end")
-    .text("Coach");
-var offset3 = 0;
-var arena = playoffs.append('g');
-arena.selectAll('text')
-    .data(data)
-    .enter()
-    .append('text')
-    .style("text-anchor","start")
-    .text(function(d){return d.arena;})
-    .attr("dy", x.rangeBand()/2 + 5)
-    .attr("transform", function(d, i) {
-        var length = this.getComputedTextLength();
-        if (length > offset3) offset3 = length*offsetFactor;
-        return "translate (" + x(d.season) + ",0)rotate(-90)";
-    });
-arena.attr("transform", "translate(0, "+ (height2 + offset1 + offset2 + offset3 + offsetMargin*3) +")");
-playoffs.append("text")
-    .attr("x", - 10)
-    .attr("y", height2 + offset1 + offset2 + offset3/2 + offsetMargin*3)
-    .style("text-anchor","end")
-    .text("Arena");
-var offset4 = 0;
-var team = playoffs.append('g');
-team.selectAll('text')
-    .data(data)
-    .enter()
-    .append('text')
-    .style("text-anchor","start")
-    .text(function(d){return d.team;})
-    .attr("dy", x.rangeBand()/2 + 5)
-    .attr("transform", function(d, i) {
-        var length = this.getComputedTextLength();
-        if (length > offset4) offset4 = length*offsetFactor;
-        return "translate (" + x(d.season) + ",0)rotate(-90)";
-    });
-team.attr("transform", "translate(0, "+ (height2 + offset1 + offset2 + offset3 + offset4 + offsetMargin*4) +")");
-playoffs.append("text")
-    .attr("x", - 10)
-    .attr("y", height2 + offset1 + offset2 + offset3 + offset4/2 + offsetMargin*4)
-    .style("text-anchor","end")
-    .text("Team");
-var offset5 = 0;
-var season = playoffs.append('g');
-season.selectAll('text')
-    .data(data)
-    .enter()
-    .append('text')
-    .style("text-anchor","start")
-    .text(function(d){return d.season;})
-    .attr("dy", x.rangeBand()/2 + 5)
-    .attr("transform", function(d, i) {
-        var length = this.getComputedTextLength();
-        if (length > offset5) offset5 = length*offsetFactor;
-        return "translate (" + x(d.season) + ",0)rotate(-90)";
-    });
-season.attr("transform", "translate(0, "+ (height2 + offset1 + offset2 + offset3 + offset4 + offset5 + offsetMargin*5) +")");
-playoffs.append("text")
-    .attr("x", - 10)
-    .attr("y", height2 + offset1 + offset2 + offset3 + offset4 + offset5/2 + offsetMargin*5)
-    .style("text-anchor","end")
-    .text("Season");
+    .append("rect")
+    .attr("x",function(d){return x(d.season);})
+    .attr("y",height3)
+    .attr("height",0)
+    .style("fill","white")
+    .style("opacity","0")
+    .transition()
+    .duration(750)
+    .ease("quad")
+    .attr("y",function(d){return y3(d.playoffs);})
+    .attr("height",function(d){return height3 - y3(d.playoffs);})
+    .attr("class","bar3")
+    .attr("width",x.rangeBand())
+    .style("fill",function(d){return d.color2})
+    .style("opacity","1");
 }
 function type(d){d.winpercent = +d.winpercent;return d;};
 </script>
 <p id="credit">
 <span>Created with <a href="http://d3js.org">D3.js</a></span>
 <span>Hosted on <a href="https://github.com/zach4618/nbahistory">GitHub</a></span>
-<span>Data from <a href="http://www.sports-reference.com">Sports Reference, LLC</a></span>
+<span>Data from <a href="http://www.basketball-reference.com/">Basketball Reference</a></span>
 </p>
 </body>
 </html>
