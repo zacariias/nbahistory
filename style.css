@@ -25,19 +25,9 @@ body {
   text-align: center;
   width: 100px;
   padding: 10px;
-  font: 12px sans-serif;
   background: #000;
-  border: 0px;
   border-radius: 5px;
   color: #fff;
-}
-.d3-tip {
-  line-height: 1;
-  font-weight: bold;
-  padding: 12px;
-  background: rgba(0, 0, 0, 0.8);
-  color: #fff;
-  border-radius: 2px;
 }
 p#logos {
   margin: 20px 0 0 180px;
