@@ -22,8 +22,7 @@ body {
 }
 .tooltip {
   position: absolute;
-  text-align: center;
-  width: 100px;
+  width: 130px;
   padding: 10px;
   background: #000;
   border-radius: 5px;
@@ -62,4 +61,13 @@ p#credit span {
 a {
   color: #000;
   text-decoration: none;
+}
+.d3-tip {
+  padding: 10px;
+  background: #000;
+  border-radius: 5px;
+  color: #fff;
+}
+.d3-tip span {
+  font-weight: bold;
 }

@@ -49,6 +49,7 @@
 <svg class="srs"></svg>
 <svg class="playoffs"></svg>
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 <script>
 var margin1 = {top:5,right:0,bottom:80,left:180},
     width1 = 1200 - margin1.left - margin1.right
@@ -122,6 +123,11 @@ var playoffs = d3.select(".playoffs")
 var div = d3.select("body").append("div")
     .attr("class", "tooltip")
     .style("opacity", 0);
+var tip = d3.tip()
+    .attr('class', 'd3-tip')
+    .offset([-20, 0])
+    .html(function(d) {
+        return "Season: <span>" + d.season + "</span><br />Team: <span>" + d.team + "</span><br />Arena: <span>" + d.arena + "</span><br />Coach: <span>" + d.coach + "</span><br />Win share leader: <span>" + d.topWS + "</span>";});
 regularseason.append("g")
     .attr("class","y axis")
     .call(y1Axis);
@@ -143,7 +149,7 @@ regularseason.append("text")
         div.transition()
         .duration(200)
         .style("opacity", .9);
-        div	.html("Regular season win percentage; bar label = number of wins")
+        div	.html("Regular season win percentage; bar label is number of wins")
         .style("left", (d3.event.pageX + 20) + "px")
         .style("top", (d3.event.pageY) + "px");
     })
@@ -185,6 +191,7 @@ srs.append("text")
         .duration(200)
         .style("opacity", 0);
     });
+regularseason.call(tip);
 function showATL(){d3.csv("teams/ATL.csv",type,update)}
 function showBKN(){d3.csv("teams/BKN.csv",type,update)}
 function showBOS(){d3.csv("teams/BOS.csv",type,update)}
@@ -274,6 +281,19 @@ regularseason.selectAll(".bar1")
     .attr("width",x.rangeBand())
     .style("fill",function(d){return d.color1})
     .style("opacity","1");
+regularseason.selectAll(".invisible").remove();
+regularseason.selectAll(".invisible")
+    .data(data)
+    .enter()
+    .append("rect")
+    .attr("class","invisible")
+    .attr("x",function(d){return x(d.season);})
+    .attr("y",function(d){return y1(d.winpercent);})
+    .attr("height",function(d){return height1 - y1(d.winpercent);})
+    .attr("width",x.rangeBand())
+    .style("opacity","0")
+    .on('mouseover', tip.show)
+    .on('mouseout', tip.hide);
 srs.append("g")
     .attr("class","x axis")
     .attr("transform","translate(0," + height2 + ")")
@@ -327,7 +347,7 @@ function type(d){d.winpercent = +d.winpercent;return d;};
 <p id="credit">
 <span>Created using <a href="http://d3js.org">D3.js</a></span>
 <span>Hosted on <a href="https://github.com/zach4618/nbahistory">GitHub</a></span>
-<span>Data from <a href="http://www.basketball-reference.com/">Basketball Reference</a></span>
+<span>Data from <a href="http://www.basketball-reference.com">Basketball Reference</a></span>
 </p>
 </body>
 </html>
