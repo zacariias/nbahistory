@@ -292,6 +292,7 @@ regularseason.selectAll(".invisible")
     .attr("height",function(d){return height1 - y1(d.winpercent);})
     .attr("width",x.rangeBand())
     .style("opacity","0")
+    .style("cursor","pointer")
     .on('mouseover', tip.show)
     .on('mouseout', tip.hide);
 srs.append("g")
