@@ -291,10 +291,11 @@ regularseason.selectAll(".invisible")
     .attr("y",function(d){return y1(d.winpercent);})
     .attr("height",function(d){return height1 - y1(d.winpercent);})
     .attr("width",x.rangeBand())
+    .style("fill","white")
     .style("opacity","0")
     .style("cursor","pointer")
-    .on('mouseover', tip.show)
-    .on('mouseout', tip.hide);
+    .on('mouseover', function(d) {tip.show(d); d3.select(this).style("opacity", "0.4");})
+    .on('mouseout', function(d) {tip.hide(d); d3.select(this).style("opacity", "0");});
 srs.append("g")
     .attr("class","x axis")
     .attr("transform","translate(0," + height2 + ")")
