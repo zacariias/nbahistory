@@ -1,29 +1,29 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs
-1989-90,Orlando Magic,Orlando Arena,18,0.22,0,M. Guokas,O. Smith (3.3),#007DC5,#C4CED3,-8.73
-1990-91,Orlando Magic,Orlando Arena,31,0.378,0,M. Guokas,S. Skiles (7.0),#007DC5,#C4CED3,-3.79
-1991-92,Orlando Magic,Orlando Arena,21,0.256,0,M. Guokas,T. Catledge (4.6),#007DC5,#C4CED3,-6.52
-1992-93,Orlando Magic,Orlando Arena,41,0.5,0,M. Guokas,S. O'Neal (10.4),#007DC5,#C4CED3,1.35
-1993-94,Orlando Magic,Orlando Arena,50,0.61,0.2,B. Hill,S. O'Neal (16.9),#007DC5,#C4CED3,3.68
-1994-95,Orlando Magic,Orlando Arena,57,0.695,0.8,B. Hill,S. O'Neal (14.0),#007DC5,#C4CED3,6.44
-1995-96,Orlando Magic,Orlando Arena,60,0.732,0.6,B. Hill,A. Hardaway (14.4),#007DC5,#C4CED3,5.4
-1996-97,Orlando Magic,Orlando Arena,45,0.549,0.2,B. Hill/R. Adubato,A. Hardaway (8.1),#007DC5,#C4CED3,-0.07
-1997-98,Orlando Magic,Orlando Arena,41,0.5,0,C. Daly,B. Outlaw (7.6),#007DC5,#C4CED3,-0.53
-1998-99,Orlando Magic,Orlando Arena,33,0.66,0.2,C. Daly,D. Armstrong (6.4),#007DC5,#C4CED3,3.11
-1999-00,Orlando Magic,TD Waterhouse Centre,41,0.5,0,D. Rivers,D. Armstrong (8.0),#007DC5,#C4CED3,0.43
-2000-01,Orlando Magic,TD Waterhouse Centre,43,0.524,0.2,D. Rivers,T. McGrady (12.2),#007DC5,#C4CED3,0.39
-2001-02,Orlando Magic,TD Waterhouse Centre,44,0.537,0.2,D. Rivers,T. McGrady (11.5),#007DC5,#C4CED3,1.25
-2002-03,Orlando Magic,TD Waterhouse Centre,42,0.512,0.2,D. Rivers,T. McGrady (16.1),#007DC5,#C4CED3,-0.39
-2003-04,Orlando Magic,TD Waterhouse Centre,21,0.256,0,D. Rivers/J. Davis,T. McGrady (8.4),#007DC5,#C4CED3,-7.25
-2004-05,Orlando Magic,TD Waterhouse Centre,36,0.439,0,J. Davis/C. Jent,D. Howard (7.3),#007DC5,#C4CED3,-2.52
-2005-06,Orlando Magic,TD Waterhouse Centre,36,0.439,0,B. Hill,D. Howard (8.6),#007DC5,#C4CED3,-1.26
-2006-07,Orlando Magic,Amway Arena,40,0.488,0.2,B. Hill,D. Howard (9.7),#007DC5,#C4CED3,0.35
-2007-08,Orlando Magic,Amway Arena,52,0.634,0.4,S. Van Gundy,D. Howard (12.9),#007DC5,#C4CED3,4.79
-2008-09,Orlando Magic,Amway Arena,59,0.72,0.8,S. Van Gundy,D. Howard (13.8),#007DC5,#C4CED3,6.48
-2009-10,Orlando Magic,Amway Arena,59,0.72,0.6,S. Van Gundy,D. Howard (13.2),#007DC5,#C4CED3,7.12
-2010-11,Orlando Magic,Amway Center,52,0.634,0.2,S. Van Gundy,D. Howard (14.4),#007DC5,#C4CED3,4.92
-2011-12,Orlando Magic,Amway Center,37,0.561,0.2,S. Van Gundy,R. Anderson (8.9),#007DC5,#C4CED3,0.46
-2012-13,Orlando Magic,Amway Center,20,0.244,0,J. Vaughn,N. Vucevic (5.7),#007DC5,#C4CED3,-7.12
-2013-14,Orlando Magic,Amway Center,23,0.28,0,J. Vaughn,A. Afflalo (5.3),#007DC5,#C4CED3,-5.88
-2014-15,Orlando Magic,Amway Center,25,0.305,0,J. Vaughn/J. Borrego,N. Vucevic (7.0),#007DC5,#C4CED3,-5.87
-2015-16,Orlando Magic,Amway Center,35,0.427,0,S. Skiles,E. Fournier (5.7),#007DC5,#C4CED3,-1.68
-2016-17,Orlando Magic,Amway Center,29,0.354,0,F. Vogel,E. Payton (4.4),#007DC5,#C4CED3,-6.61
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent
+1989-90,Orlando Magic,Orlando Arena,18,0.22,0,M. Guokas,O. Smith (3.3),#007DC5,#C4CED3,-8.73,
+1990-91,Orlando Magic,Orlando Arena,31,0.378,0,M. Guokas,S. Skiles (7.0),#007DC5,#C4CED3,-3.79,
+1991-92,Orlando Magic,Orlando Arena,21,0.256,0,M. Guokas,T. Catledge (4.6),#007DC5,#C4CED3,-6.52,
+1992-93,Orlando Magic,Orlando Arena,41,0.5,0,M. Guokas,S. O'Neal (10.4),#007DC5,#C4CED3,1.35,
+1993-94,Orlando Magic,Orlando Arena,50,0.61,0.2,B. Hill,S. O'Neal (16.9),#007DC5,#C4CED3,3.68,Indiana Pacers
+1994-95,Orlando Magic,Orlando Arena,57,0.695,0.8,B. Hill,S. O'Neal (14.0),#007DC5,#C4CED3,6.44,Houston Rockets
+1995-96,Orlando Magic,Orlando Arena,60,0.732,0.6,B. Hill,A. Hardaway (14.4),#007DC5,#C4CED3,5.4,Chicago Bulls
+1996-97,Orlando Magic,Orlando Arena,45,0.549,0.2,B. Hill/R. Adubato,A. Hardaway (8.1),#007DC5,#C4CED3,-0.07,Miami Heat
+1997-98,Orlando Magic,Orlando Arena,41,0.5,0,C. Daly,B. Outlaw (7.6),#007DC5,#C4CED3,-0.53,
+1998-99,Orlando Magic,Orlando Arena,33,0.66,0.2,C. Daly,D. Armstrong (6.4),#007DC5,#C4CED3,3.11,New York Knicks
+1999-00,Orlando Magic,TD Waterhouse Centre,41,0.5,0,D. Rivers,D. Armstrong (8.0),#007DC5,#C4CED3,0.43,
+2000-01,Orlando Magic,TD Waterhouse Centre,43,0.524,0.2,D. Rivers,T. McGrady (12.2),#007DC5,#C4CED3,0.39,Milwaukee Bucks
+2001-02,Orlando Magic,TD Waterhouse Centre,44,0.537,0.2,D. Rivers,T. McGrady (11.5),#007DC5,#C4CED3,1.25,Charlotte Hornets
+2002-03,Orlando Magic,TD Waterhouse Centre,42,0.512,0.2,D. Rivers,T. McGrady (16.1),#007DC5,#C4CED3,-0.39,Detroit Pistons
+2003-04,Orlando Magic,TD Waterhouse Centre,21,0.256,0,D. Rivers/J. Davis,T. McGrady (8.4),#007DC5,#C4CED3,-7.25,
+2004-05,Orlando Magic,TD Waterhouse Centre,36,0.439,0,J. Davis/C. Jent,D. Howard (7.3),#007DC5,#C4CED3,-2.52,
+2005-06,Orlando Magic,TD Waterhouse Centre,36,0.439,0,B. Hill,D. Howard (8.6),#007DC5,#C4CED3,-1.26,
+2006-07,Orlando Magic,Amway Arena,40,0.488,0.2,B. Hill,D. Howard (9.7),#007DC5,#C4CED3,0.35,Detroit Pistons
+2007-08,Orlando Magic,Amway Arena,52,0.634,0.4,S. Van Gundy,D. Howard (12.9),#007DC5,#C4CED3,4.79,Detroit Pistons
+2008-09,Orlando Magic,Amway Arena,59,0.72,0.8,S. Van Gundy,D. Howard (13.8),#007DC5,#C4CED3,6.48,Los Angeles Lakers
+2009-10,Orlando Magic,Amway Arena,59,0.72,0.6,S. Van Gundy,D. Howard (13.2),#007DC5,#C4CED3,7.12,Boston Celtics
+2010-11,Orlando Magic,Amway Center,52,0.634,0.2,S. Van Gundy,D. Howard (14.4),#007DC5,#C4CED3,4.92,Atlanta Hawks
+2011-12,Orlando Magic,Amway Center,37,0.561,0.2,S. Van Gundy,R. Anderson (8.9),#007DC5,#C4CED3,0.46,Indiana Pacers
+2012-13,Orlando Magic,Amway Center,20,0.244,0,J. Vaughn,N. Vucevic (5.7),#007DC5,#C4CED3,-7.12,
+2013-14,Orlando Magic,Amway Center,23,0.28,0,J. Vaughn,A. Afflalo (5.3),#007DC5,#C4CED3,-5.88,
+2014-15,Orlando Magic,Amway Center,25,0.305,0,J. Vaughn/J. Borrego,N. Vucevic (7.0),#007DC5,#C4CED3,-5.87,
+2015-16,Orlando Magic,Amway Center,35,0.427,0,S. Skiles,E. Fournier (5.7),#007DC5,#C4CED3,-1.68,
+2016-17,Orlando Magic,Amway Center,29,0.354,0,F. Vogel,E. Payton (4.4),#007DC5,#C4CED3,-6.61,

@@ -1,51 +1,51 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs
-1967-68,San Diego Rockets,San Diego Sports Arena,15,0.183,0,J. McMahon,D. Gambee (5.0),#CE1141,#C4CED3,-7.94
-1968-69,San Diego Rockets,San Diego Sports Arena,37,0.451,0.4,J. McMahon,E. Hayes (9.6),#CE1141,#C4CED3,-0.3
-1969-70,San Diego Rockets,San Diego Sports Arena,27,0.329,0,J. McMahon/A. Hannum,E. Hayes (8.5),#CE1141,#C4CED3,-2.95
-1970-71,San Diego Rockets,San Diego Sports Arena,40,0.488,0,A. Hannum,S. Lantz (10.5),#CE1141,#C4CED3,0.21
-1971-72,Houston Rockets,Hofheinz Pavilion,34,0.415,0,T. Winter,R. Tomjanovich (8.4),#CE1141,#C4CED3,-1.22
-1972-73,Houston Rockets,Hofheinz Pavilion,33,0.402,0,T. Winter/J. Egan,R. Tomjanovich (6.9),#CE1141,#C4CED3,-1.81
-1973-74,Houston Rockets,Hofheinz Pavilion,32,0.39,0,J. Egan,R. Tomjanovich (12.8),#CE1141,#C4CED3,-0.34
-1974-75,Houston Rockets,Hofheinz Pavilion,41,0.5,0.4,J. Egan,R. Tomjanovich (10.1),#CE1141,#C4CED3,0.84
-1975-76,Houston Rockets,The Summit,40,0.488,0,J. Egan,C. Murphy (8.8),#CE1141,#C4CED3,-0.71
-1976-77,Houston Rockets,The Summit,49,0.598,0.6,T. Nissalke,R. Tomjanovich (10.4),#CE1141,#C4CED3,1.44
-1977-78,Houston Rockets,The Summit,28,0.341,0,T. Nissalke,C. Murphy (7.4),#CE1141,#C4CED3,-3.83
-1978-79,Houston Rockets,The Summit,47,0.573,0.2,T. Nissalke,M. Malone (14.1),#CE1141,#C4CED3,0.92
-1979-80,Houston Rockets,The Summit,41,0.5,0.4,D. Harris,M. Malone (11.9),#CE1141,#C4CED3,0.27
-1980-81,Houston Rockets,The Summit,40,0.488,0.8,D. Harris,M. Malone (13.7),#CE1141,#C4CED3,-0.2
-1981-82,Houston Rockets,The Summit,46,0.561,0.2,D. Harris,M. Malone (15.4),#CE1141,#C4CED3,-0.39
-1982-83,Houston Rockets,The Summit,14,0.171,0,D. Harris,A. Leavell (3.8),#CE1141,#C4CED3,-11.12
-1983-84,Houston Rockets,The Summit,29,0.354,0,B. Fitch,R. Sampson (6.0),#CE1141,#C4CED3,-3.12
-1984-85,Houston Rockets,The Summit,48,0.585,0.2,B. Fitch,H. Olajuwon (10.2),#CE1141,#C4CED3,1.38
-1985-86,Houston Rockets,The Summit,51,0.622,0.8,B. Fitch,H. Olajuwon (9.5),#CE1141,#C4CED3,2.1
-1986-87,Houston Rockets,The Summit,42,0.512,0.4,B. Fitch,H. Olajuwon (10.9),#CE1141,#C4CED3,0.6
-1987-88,Houston Rockets,The Summit,46,0.561,0.2,B. Fitch,H. Olajuwon (10.7),#CE1141,#C4CED3,0.82
-1988-89,Houston Rockets,The Summit,45,0.549,0.2,D. Chaney,H. Olajuwon (12.4),#CE1141,#C4CED3,0.22
-1989-90,Houston Rockets,The Summit,41,0.5,0.2,D. Chaney,H. Olajuwon (11.2),#CE1141,#C4CED3,1.71
-1990-91,Houston Rockets,The Summit,52,0.634,0.2,D. Chaney,O. Thorpe (10.4),#CE1141,#C4CED3,3.27
-1991-92,Houston Rockets,The Summit,42,0.512,0,D. Chaney/R. Tomjanovich,H. Olajuwon (9.8),#CE1141,#C4CED3,-1.94
-1992-93,Houston Rockets,The Summit,55,0.671,0.4,R. Tomjanovich,H. Olajuwon (15.8),#CE1141,#C4CED3,3.57
-1993-94,Houston Rockets,The Summit,58,0.707,1,R. Tomjanovich,H. Olajuwon (14.3),#CE1141,#C4CED3,4.19
-1994-95,Houston Rockets,The Summit,47,0.573,1,R. Tomjanovich,H. Olajuwon (10.7),#CE1141,#C4CED3,2.32
-1995-96,Houston Rockets,The Summit,48,0.585,0.4,R. Tomjanovich,H. Olajuwon (9.7),#CE1141,#C4CED3,1.63
-1996-97,Houston Rockets,The Summit,57,0.695,0.6,R. Tomjanovich,C. Barkley (9.4),#CE1141,#C4CED3,3.85
-1997-98,Houston Rockets,The Summit,41,0.5,0.2,R. Tomjanovich,C. Barkley (8.6),#CE1141,#C4CED3,-1.23
-1998-99,Houston Rockets,Compaq Center,31,0.62,0.2,R. Tomjanovich,C. Barkley (6.8),#CE1141,#C4CED3,1.39
-1999-00,Houston Rockets,Compaq Center,34,0.415,0,R. Tomjanovich,S. Francis (6.4),#CE1141,#C4CED3,-0.57
-2000-01,Houston Rockets,Compaq Center,45,0.549,0,R. Tomjanovich,S. Francis (12.2),#CE1141,#C4CED3,2.71
-2001-02,Houston Rockets,Compaq Center,28,0.341,0,R. Tomjanovich,C. Mobley (5.7),#CE1141,#C4CED3,-4.31
-2002-03,Houston Rockets,Compaq Center,43,0.524,0,R. Tomjanovich,S. Francis (11.1),#CE1141,#C4CED3,1.89
-2003-04,Houston Rockets,Toyota Center,45,0.549,0.2,J. Van Gundy,Y. Ming (11.4),#CE1141,#C4CED3,2.28
-2004-05,Houston Rockets,Toyota Center,51,0.622,0.2,J. Van Gundy,T. McGrady (12.0),#CE1141,#C4CED3,4.27
-2005-06,Houston Rockets,Toyota Center,34,0.415,0,J. Van Gundy,Y. Ming (8.6),#CE1141,#C4CED3,-1.3
-2006-07,Houston Rockets,Toyota Center,52,0.634,0.2,J. Van Gundy,S. Battier (9.0),#CE1141,#C4CED3,5.04
-2007-08,Houston Rockets,Toyota Center,55,0.671,0.2,R. Adelman,Y. Ming (8.3),#CE1141,#C4CED3,4.83
-2008-09,Houston Rockets,Toyota Center,53,0.646,0.4,R. Adelman,Y. Ming (10.6),#CE1141,#C4CED3,3.73
-2009-10,Houston Rockets,Toyota Center,42,0.512,0,R. Adelman,L. Scola (6.3),#CE1141,#C4CED3,-0.02
-2010-11,Houston Rockets,Toyota Center,43,0.524,0,R. Adelman,K. Martin (9.5),#CE1141,#C4CED3,2.37
-2011-12,Houston Rockets,Toyota Center,34,0.515,0,K. McHale,G. Dragic (5.1),#CE1141,#C4CED3,0.57
-2012-13,Houston Rockets,Toyota Center,45,0.549,0.2,K. McHale,J. Harden (12.8),#CE1141,#C4CED3,3.69
-2013-14,Houston Rockets,Toyota Center,54,0.659,0.2,K. McHale,J. Harden (12.8),#CE1141,#C4CED3,5.06
-2014-15,Houston Rockets,Toyota Center,56,0.683,0.6,K. McHale,J. Harden (16.4),#CE1141,#C4CED3,3.82
-2015-16,Houston Rockets,Toyota Center,41,0.5,0.2,K. McHale/J. Bickerstaff,J. Harden (13.3),#CE1141,#C4CED3,0.34
-2016-17,Houston Rockets,Toyota Center,55,0.671,0.4,M. D'Antoni,J. Harden (15.0),#CE1141,#C4CED3,5.84
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent
+1967-68,San Diego Rockets,San Diego Sports Arena,15,0.183,0,J. McMahon,D. Gambee (5.0),#CE1141,#C4CED3,-7.94,
+1968-69,San Diego Rockets,San Diego Sports Arena,37,0.451,0.4,J. McMahon,E. Hayes (9.6),#CE1141,#C4CED3,-0.3,Atlanta Hawks
+1969-70,San Diego Rockets,San Diego Sports Arena,27,0.329,0,J. McMahon/A. Hannum,E. Hayes (8.5),#CE1141,#C4CED3,-2.95,
+1970-71,San Diego Rockets,San Diego Sports Arena,40,0.488,0,A. Hannum,S. Lantz (10.5),#CE1141,#C4CED3,0.21,
+1971-72,Houston Rockets,Hofheinz Pavilion,34,0.415,0,T. Winter,R. Tomjanovich (8.4),#CE1141,#C4CED3,-1.22,
+1972-73,Houston Rockets,Hofheinz Pavilion,33,0.402,0,T. Winter/J. Egan,R. Tomjanovich (6.9),#CE1141,#C4CED3,-1.81,
+1973-74,Houston Rockets,Hofheinz Pavilion,32,0.39,0,J. Egan,R. Tomjanovich (12.8),#CE1141,#C4CED3,-0.34,
+1974-75,Houston Rockets,Hofheinz Pavilion,41,0.5,0.4,J. Egan,R. Tomjanovich (10.1),#CE1141,#C4CED3,0.84,Boston Celtics
+1975-76,Houston Rockets,The Summit,40,0.488,0,J. Egan,C. Murphy (8.8),#CE1141,#C4CED3,-0.71,
+1976-77,Houston Rockets,The Summit,49,0.598,0.6,T. Nissalke,R. Tomjanovich (10.4),#CE1141,#C4CED3,1.44,Philadelphia 76ers
+1977-78,Houston Rockets,The Summit,28,0.341,0,T. Nissalke,C. Murphy (7.4),#CE1141,#C4CED3,-3.83,
+1978-79,Houston Rockets,The Summit,47,0.573,0.2,T. Nissalke,M. Malone (14.1),#CE1141,#C4CED3,0.92,Atlanta Hawks
+1979-80,Houston Rockets,The Summit,41,0.5,0.4,D. Harris,M. Malone (11.9),#CE1141,#C4CED3,0.27,Boston Celtics
+1980-81,Houston Rockets,The Summit,40,0.488,0.8,D. Harris,M. Malone (13.7),#CE1141,#C4CED3,-0.2,Boston Celtics
+1981-82,Houston Rockets,The Summit,46,0.561,0.2,D. Harris,M. Malone (15.4),#CE1141,#C4CED3,-0.39,Seattle SuperSonics
+1982-83,Houston Rockets,The Summit,14,0.171,0,D. Harris,A. Leavell (3.8),#CE1141,#C4CED3,-11.12,
+1983-84,Houston Rockets,The Summit,29,0.354,0,B. Fitch,R. Sampson (6.0),#CE1141,#C4CED3,-3.12,
+1984-85,Houston Rockets,The Summit,48,0.585,0.2,B. Fitch,H. Olajuwon (10.2),#CE1141,#C4CED3,1.38,Utah Jazz
+1985-86,Houston Rockets,The Summit,51,0.622,0.8,B. Fitch,H. Olajuwon (9.5),#CE1141,#C4CED3,2.1,Boston Celtics
+1986-87,Houston Rockets,The Summit,42,0.512,0.4,B. Fitch,H. Olajuwon (10.9),#CE1141,#C4CED3,0.6,Seattle SuperSonics
+1987-88,Houston Rockets,The Summit,46,0.561,0.2,B. Fitch,H. Olajuwon (10.7),#CE1141,#C4CED3,0.82,Dallas Mavericks
+1988-89,Houston Rockets,The Summit,45,0.549,0.2,D. Chaney,H. Olajuwon (12.4),#CE1141,#C4CED3,0.22,Seattle SuperSonics
+1989-90,Houston Rockets,The Summit,41,0.5,0.2,D. Chaney,H. Olajuwon (11.2),#CE1141,#C4CED3,1.71,Los Angeles Lakers
+1990-91,Houston Rockets,The Summit,52,0.634,0.2,D. Chaney,O. Thorpe (10.4),#CE1141,#C4CED3,3.27,Los Angeles Lakers
+1991-92,Houston Rockets,The Summit,42,0.512,0,D. Chaney/R. Tomjanovich,H. Olajuwon (9.8),#CE1141,#C4CED3,-1.94,
+1992-93,Houston Rockets,The Summit,55,0.671,0.4,R. Tomjanovich,H. Olajuwon (15.8),#CE1141,#C4CED3,3.57,Seattle SuperSonics
+1993-94,Houston Rockets,The Summit,58,0.707,1,R. Tomjanovich,H. Olajuwon (14.3),#CE1141,#C4CED3,4.19,New York Knicks
+1994-95,Houston Rockets,The Summit,47,0.573,1,R. Tomjanovich,H. Olajuwon (10.7),#CE1141,#C4CED3,2.32,Orlando Magic
+1995-96,Houston Rockets,The Summit,48,0.585,0.4,R. Tomjanovich,H. Olajuwon (9.7),#CE1141,#C4CED3,1.63,Seattle SuperSonics
+1996-97,Houston Rockets,The Summit,57,0.695,0.6,R. Tomjanovich,C. Barkley (9.4),#CE1141,#C4CED3,3.85,Utah Jazz
+1997-98,Houston Rockets,The Summit,41,0.5,0.2,R. Tomjanovich,C. Barkley (8.6),#CE1141,#C4CED3,-1.23,Utah Jazz
+1998-99,Houston Rockets,Compaq Center,31,0.62,0.2,R. Tomjanovich,C. Barkley (6.8),#CE1141,#C4CED3,1.39,Los Angeles Lakers
+1999-00,Houston Rockets,Compaq Center,34,0.415,0,R. Tomjanovich,S. Francis (6.4),#CE1141,#C4CED3,-0.57,
+2000-01,Houston Rockets,Compaq Center,45,0.549,0,R. Tomjanovich,S. Francis (12.2),#CE1141,#C4CED3,2.71,
+2001-02,Houston Rockets,Compaq Center,28,0.341,0,R. Tomjanovich,C. Mobley (5.7),#CE1141,#C4CED3,-4.31,
+2002-03,Houston Rockets,Compaq Center,43,0.524,0,R. Tomjanovich,S. Francis (11.1),#CE1141,#C4CED3,1.89,
+2003-04,Houston Rockets,Toyota Center,45,0.549,0.2,J. Van Gundy,Y. Ming (11.4),#CE1141,#C4CED3,2.28,Los Angeles Lakers
+2004-05,Houston Rockets,Toyota Center,51,0.622,0.2,J. Van Gundy,T. McGrady (12.0),#CE1141,#C4CED3,4.27,Dallas Mavericks
+2005-06,Houston Rockets,Toyota Center,34,0.415,0,J. Van Gundy,Y. Ming (8.6),#CE1141,#C4CED3,-1.3,
+2006-07,Houston Rockets,Toyota Center,52,0.634,0.2,J. Van Gundy,S. Battier (9.0),#CE1141,#C4CED3,5.04,Utah Jazz
+2007-08,Houston Rockets,Toyota Center,55,0.671,0.2,R. Adelman,Y. Ming (8.3),#CE1141,#C4CED3,4.83,Utah Jazz
+2008-09,Houston Rockets,Toyota Center,53,0.646,0.4,R. Adelman,Y. Ming (10.6),#CE1141,#C4CED3,3.73,Los Angeles Lakers
+2009-10,Houston Rockets,Toyota Center,42,0.512,0,R. Adelman,L. Scola (6.3),#CE1141,#C4CED3,-0.02,
+2010-11,Houston Rockets,Toyota Center,43,0.524,0,R. Adelman,K. Martin (9.5),#CE1141,#C4CED3,2.37,
+2011-12,Houston Rockets,Toyota Center,34,0.515,0,K. McHale,G. Dragic (5.1),#CE1141,#C4CED3,0.57,
+2012-13,Houston Rockets,Toyota Center,45,0.549,0.2,K. McHale,J. Harden (12.8),#CE1141,#C4CED3,3.69,Oklahoma City Thunder
+2013-14,Houston Rockets,Toyota Center,54,0.659,0.2,K. McHale,J. Harden (12.8),#CE1141,#C4CED3,5.06,Portland Trail Blazers
+2014-15,Houston Rockets,Toyota Center,56,0.683,0.6,K. McHale,J. Harden (16.4),#CE1141,#C4CED3,3.82,Golden State Warriors
+2015-16,Houston Rockets,Toyota Center,41,0.5,0.2,K. McHale/J. Bickerstaff,J. Harden (13.3),#CE1141,#C4CED3,0.34,Golden State Warriors
+2016-17,Houston Rockets,Toyota Center,55,0.671,0.4,M. D'Antoni,J. Harden (15.0),#CE1141,#C4CED3,5.84,San Antonio Spurs

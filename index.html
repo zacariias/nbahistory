@@ -128,6 +128,12 @@ var tip = d3.tip()
     .offset([-20, 0])
     .html(function(d) {
         return "Season: <span>" + d.season + "</span><br />Team: <span>" + d.team + "</span><br />Arena: <span>" + d.arena + "</span><br />Coach: <span>" + d.coach + "</span><br />Win share leader: <span>" + d.topWS + "</span>";});
+var tip2 = d3.tip()
+    .attr('class', 'd3-tip')
+    .offset([-20, 0])
+    .html(function(d) {
+        if(d.playoffs==1){return "Defeated <span>" + d.opponent + "</span>"}
+        else{return "Eliminated by <span>" + d.opponent + "</span>";}});
 regularseason.append("g")
     .attr("class","y axis")
     .call(y1Axis);
@@ -192,6 +198,7 @@ srs.append("text")
         .style("opacity", 0);
     });
 regularseason.call(tip);
+playoffs.call(tip2);
 function showATL(){d3.csv("teams/ATL.csv",type,update)}
 function showBKN(){d3.csv("teams/BKN.csv",type,update)}
 function showBOS(){d3.csv("teams/BOS.csv",type,update)}
@@ -343,6 +350,21 @@ playoffs.selectAll(".bar3")
     .attr("width",x.rangeBand())
     .style("fill",function(d){return d.color2})
     .style("opacity","1");
+playoffs.selectAll(".invisible").remove();
+playoffs.selectAll(".invisible")
+    .data(data)
+    .enter()
+    .append("rect")
+    .attr("class","invisible")
+    .attr("x",function(d){return x(d.season);})
+    .attr("y",function(d){return y3(d.playoffs);})
+    .attr("height",function(d){return height3 - y3(d.playoffs);})
+    .attr("width",x.rangeBand())
+    .style("fill","white")
+    .style("opacity","0")
+    .style("cursor","pointer")
+    .on('mouseover', function(d) {tip2.show(d); d3.select(this).style("opacity", "0.4");})
+    .on('mouseout', function(d) {tip2.hide(d); d3.select(this).style("opacity", "0");});
 }
 function type(d){d.winpercent = +d.winpercent;return d;};
 </script>

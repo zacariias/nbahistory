@@ -1,48 +1,48 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs
-1970-71,Cleveland Cavaliers,Cleveland Arena,15,0.183,0,B. Fitch,W. Wesley (4.1),#860038,#FDBB30,-12.04
-1971-72,Cleveland Cavaliers,Cleveland Arena,23,0.28,0,B. Fitch,B. Beard (5.9),#860038,#FDBB30,-7.9
-1972-73,Cleveland Cavaliers,Cleveland Arena,32,0.39,0,B. Fitch,L. Wilkens (9.5),#860038,#FDBB30,-2.64
-1973-74,Cleveland Cavaliers,Cleveland Arena,29,0.354,0,B. Fitch,L. Wilkens (6.5),#860038,#FDBB30,-4.16
-1974-75,Cleveland Cavaliers,Coliseum at Richfield,40,0.488,0,B. Fitch,D. Snyder (6.4),#860038,#FDBB30,-0.31
-1975-76,Cleveland Cavaliers,Coliseum at Richfield,49,0.598,0.6,B. Fitch,J. Brewer (7.9),#860038,#FDBB30,2.34
-1976-77,Cleveland Cavaliers,Coliseum at Richfield,43,0.524,0.2,B. Fitch,J. Chones (5.9),#860038,#FDBB30,1.08
-1977-78,Cleveland Cavaliers,Coliseum at Richfield,43,0.524,0.2,B. Fitch,E. Smith (6.8),#860038,#FDBB30,0.44
-1978-79,Cleveland Cavaliers,Coliseum at Richfield,30,0.366,0,B. Fitch,C. Russell (6.7),#860038,#FDBB30,-3.57
-1979-80,Cleveland Cavaliers,Coliseum at Richfield,37,0.451,0,S. Albeck,D. Robisch (8.6),#860038,#FDBB30,0.43
-1980-81,Cleveland Cavaliers,Coliseum at Richfield,28,0.341,0,B. Musselman/D. Delaney,M. Mitchell (6.0),#860038,#FDBB30,-4.15
-1981-82,Cleveland Cavaliers,Coliseum at Richfield,15,0.183,0,D. Delaney/B. Kloppenburg/C. Daly/B. Musselman,J. Edwards (4.3),#860038,#FDBB30,-7.77
-1982-83,Cleveland Cavaliers,Coliseum at Richfield,23,0.28,0,T. Nissalke,W. Free (4.6),#860038,#FDBB30,-6.78
-1983-84,Cleveland Cavaliers,Coliseum at Richfield,28,0.341,0,T. Nissalke,W. Free (5.3),#860038,#FDBB30,-3.71
-1984-85,Cleveland Cavaliers,Coliseum at Richfield,36,0.439,0.2,G. Karl,W. Free (6.0),#860038,#FDBB30,-2.27
-1985-86,Cleveland Cavaliers,Coliseum at Richfield,29,0.354,0,G. Karl/G. Littles,R. Hinson (7.4),#860038,#FDBB30,-2.19
-1986-87,Cleveland Cavaliers,Coliseum at Richfield,31,0.378,0,L. Wilkens,H. Williams (7.5),#860038,#FDBB30,-3.19
-1987-88,Cleveland Cavaliers,Coliseum at Richfield,42,0.512,0.2,L. Wilkens,M. Price (7.8),#860038,#FDBB30,1.28
-1988-89,Cleveland Cavaliers,Coliseum at Richfield,57,0.695,0.2,L. Wilkens,M. Price (11.3),#860038,#FDBB30,7.95
-1989-90,Cleveland Cavaliers,Coliseum at Richfield,42,0.512,0.2,L. Wilkens,M. Price (10.1),#860038,#FDBB30,-0.62
-1990-91,Cleveland Cavaliers,Coliseum at Richfield,33,0.402,0,L. Wilkens,L. Nance (9.8),#860038,#FDBB30,-2.33
-1991-92,Cleveland Cavaliers,Coliseum at Richfield,57,0.695,0.6,L. Wilkens,L. Nance (12.2),#860038,#FDBB30,5.34
-1992-93,Cleveland Cavaliers,Coliseum at Richfield,54,0.659,0.4,L. Wilkens,B. Daugherty (12.7),#860038,#FDBB30,6.3
-1993-94,Cleveland Cavaliers,Coliseum at Richfield,47,0.573,0.2,M. Fratello,M. Price (10.0),#860038,#FDBB30,3.64
-1994-95,Cleveland Cavaliers,Gund Arena,43,0.524,0.2,M. Fratello,T. Hill (6.9),#860038,#FDBB30,0.55
-1995-96,Cleveland Cavaliers,Gund Arena,47,0.573,0.2,M. Fratello,T. Brandon (12.7),#860038,#FDBB30,2.49
-1996-97,Cleveland Cavaliers,Gund Arena,42,0.512,0,M. Fratello,T. Brandon (10.8),#860038,#FDBB30,2.32
-1997-98,Cleveland Cavaliers,Gund Arena,47,0.573,0.2,M. Fratello,W. Person (10.3),#860038,#FDBB30,3.06
-1998-99,Cleveland Cavaliers,Gund Arena,22,0.44,0,M. Fratello,S. Kemp (6.3),#860038,#FDBB30,-0.94
-1999-00,Cleveland Cavaliers,Gund Arena,32,0.39,0,R. Wittman,A. Miller (5.3),#860038,#FDBB30,-3.64
-2000-01,Cleveland Cavaliers,Gund Arena,30,0.366,0,R. Wittman,C. Weatherspoon (8.6),#860038,#FDBB30,-4.48
-2001-02,Cleveland Cavaliers,Gund Arena,29,0.354,0,J. Lucas,A. Miller (10.3),#860038,#FDBB30,-3.52
-2002-03,Cleveland Cavaliers,Gund Arena,17,0.207,0,J. Lucas/K. Smart,C. Boozer (5.9),#860038,#FDBB30,-9.59
-2003-04,Cleveland Cavaliers,Gund Arena,35,0.427,0,P. Silas,C. Boozer (9.4),#860038,#FDBB30,-3.07
-2004-05,Cleveland Cavaliers,Gund Arena,42,0.512,0,P. Silas/B. Malone,L. James (14.3),#860038,#FDBB30,0.27
-2005-06,Cleveland Cavaliers,Gund Arena,50,0.61,0.4,M. Brown,L. James (16.3),#860038,#FDBB30,2.17
-2006-07,Cleveland Cavaliers,Quicken Loans Arena,50,0.61,0.8,M. Brown,L. James (13.7),#860038,#FDBB30,3.33
-2007-08,Cleveland Cavaliers,Quicken Loans Arena,45,0.549,0.4,M. Brown,L. James (15.2),#860038,#FDBB30,-0.53
-2008-09,Cleveland Cavaliers,Quicken Loans Arena,66,0.805,0.6,M. Brown,L. James (20.3),#860038,#FDBB30,8.68
-2009-10,Cleveland Cavaliers,Quicken Loans Arena,61,0.744,0.4,M. Brown,L. James (18.5),#860038,#FDBB30,6.17
-2010-11,Cleveland Cavaliers,Quicken Loans Arena,19,0.232,0,B. Scott,R. Sessions (4.4),#860038,#FDBB30,-8.88
-2011-12,Cleveland Cavaliers,Quicken Loans Arena,21,0.318,0,B. Scott,K. Irving (4.1),#860038,#FDBB30,-7.34
-2012-13,Cleveland Cavaliers,Quicken Loans Arena,24,0.293,0,B. Scott,K. Irving (5.3),#860038,#FDBB30,-4.87
-2013-14,Cleveland Cavaliers,Quicken Loans Arena,33,0.402,0,M. Brown,K. Irving (6.7),#860038,#FDBB30,-3.86
-2014-15,Cleveland Cavaliers,Quicken Loans Arena,53,0.646,0.8,D. Blatt,K. Irving (10.4),#860038,#FDBB30,4.08
-2015-16,Cleveland Cavaliers,Quicken Loans Arena,57,0.695,1,D. Blatt/T. Lue,L. James (13.6),#860038,#FDBB30,5.45
-2016-17,Cleveland Cavaliers,Quicken Loans Arena,51,0.622,0.8,T. Lue,L. James (12.9),#860038,#FDBB30,2.87
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent
+1970-71,Cleveland Cavaliers,Cleveland Arena,15,0.183,0,B. Fitch,W. Wesley (4.1),#860038,#FDBB30,-12.04,
+1971-72,Cleveland Cavaliers,Cleveland Arena,23,0.28,0,B. Fitch,B. Beard (5.9),#860038,#FDBB30,-7.9,
+1972-73,Cleveland Cavaliers,Cleveland Arena,32,0.39,0,B. Fitch,L. Wilkens (9.5),#860038,#FDBB30,-2.64,
+1973-74,Cleveland Cavaliers,Cleveland Arena,29,0.354,0,B. Fitch,L. Wilkens (6.5),#860038,#FDBB30,-4.16,
+1974-75,Cleveland Cavaliers,Coliseum at Richfield,40,0.488,0,B. Fitch,D. Snyder (6.4),#860038,#FDBB30,-0.31,
+1975-76,Cleveland Cavaliers,Coliseum at Richfield,49,0.598,0.6,B. Fitch,J. Brewer (7.9),#860038,#FDBB30,2.34,Boston Celtics
+1976-77,Cleveland Cavaliers,Coliseum at Richfield,43,0.524,0.2,B. Fitch,J. Chones (5.9),#860038,#FDBB30,1.08,Washington Bullets
+1977-78,Cleveland Cavaliers,Coliseum at Richfield,43,0.524,0.2,B. Fitch,E. Smith (6.8),#860038,#FDBB30,0.44,New York Knicks
+1978-79,Cleveland Cavaliers,Coliseum at Richfield,30,0.366,0,B. Fitch,C. Russell (6.7),#860038,#FDBB30,-3.57,
+1979-80,Cleveland Cavaliers,Coliseum at Richfield,37,0.451,0,S. Albeck,D. Robisch (8.6),#860038,#FDBB30,0.43,
+1980-81,Cleveland Cavaliers,Coliseum at Richfield,28,0.341,0,B. Musselman/D. Delaney,M. Mitchell (6.0),#860038,#FDBB30,-4.15,
+1981-82,Cleveland Cavaliers,Coliseum at Richfield,15,0.183,0,D. Delaney/B. Kloppenburg/C. Daly/B. Musselman,J. Edwards (4.3),#860038,#FDBB30,-7.77,
+1982-83,Cleveland Cavaliers,Coliseum at Richfield,23,0.28,0,T. Nissalke,W. Free (4.6),#860038,#FDBB30,-6.78,
+1983-84,Cleveland Cavaliers,Coliseum at Richfield,28,0.341,0,T. Nissalke,W. Free (5.3),#860038,#FDBB30,-3.71,
+1984-85,Cleveland Cavaliers,Coliseum at Richfield,36,0.439,0.2,G. Karl,W. Free (6.0),#860038,#FDBB30,-2.27,Boston Celtics
+1985-86,Cleveland Cavaliers,Coliseum at Richfield,29,0.354,0,G. Karl/G. Littles,R. Hinson (7.4),#860038,#FDBB30,-2.19,
+1986-87,Cleveland Cavaliers,Coliseum at Richfield,31,0.378,0,L. Wilkens,H. Williams (7.5),#860038,#FDBB30,-3.19,
+1987-88,Cleveland Cavaliers,Coliseum at Richfield,42,0.512,0.2,L. Wilkens,M. Price (7.8),#860038,#FDBB30,1.28,Chicago Bulls
+1988-89,Cleveland Cavaliers,Coliseum at Richfield,57,0.695,0.2,L. Wilkens,M. Price (11.3),#860038,#FDBB30,7.95,Chicago Bulls
+1989-90,Cleveland Cavaliers,Coliseum at Richfield,42,0.512,0.2,L. Wilkens,M. Price (10.1),#860038,#FDBB30,-0.62,Philadelphia 76ers
+1990-91,Cleveland Cavaliers,Coliseum at Richfield,33,0.402,0,L. Wilkens,L. Nance (9.8),#860038,#FDBB30,-2.33,
+1991-92,Cleveland Cavaliers,Coliseum at Richfield,57,0.695,0.6,L. Wilkens,L. Nance (12.2),#860038,#FDBB30,5.34,Chicago Bulls
+1992-93,Cleveland Cavaliers,Coliseum at Richfield,54,0.659,0.4,L. Wilkens,B. Daugherty (12.7),#860038,#FDBB30,6.3,Chicago Bulls
+1993-94,Cleveland Cavaliers,Coliseum at Richfield,47,0.573,0.2,M. Fratello,M. Price (10.0),#860038,#FDBB30,3.64,Chicago Bulls
+1994-95,Cleveland Cavaliers,Gund Arena,43,0.524,0.2,M. Fratello,T. Hill (6.9),#860038,#FDBB30,0.55,New York Knicks
+1995-96,Cleveland Cavaliers,Gund Arena,47,0.573,0.2,M. Fratello,T. Brandon (12.7),#860038,#FDBB30,2.49,New York Knicks
+1996-97,Cleveland Cavaliers,Gund Arena,42,0.512,0,M. Fratello,T. Brandon (10.8),#860038,#FDBB30,2.32,
+1997-98,Cleveland Cavaliers,Gund Arena,47,0.573,0.2,M. Fratello,W. Person (10.3),#860038,#FDBB30,3.06,Indiana Pacers
+1998-99,Cleveland Cavaliers,Gund Arena,22,0.44,0,M. Fratello,S. Kemp (6.3),#860038,#FDBB30,-0.94,
+1999-00,Cleveland Cavaliers,Gund Arena,32,0.39,0,R. Wittman,A. Miller (5.3),#860038,#FDBB30,-3.64,
+2000-01,Cleveland Cavaliers,Gund Arena,30,0.366,0,R. Wittman,C. Weatherspoon (8.6),#860038,#FDBB30,-4.48,
+2001-02,Cleveland Cavaliers,Gund Arena,29,0.354,0,J. Lucas,A. Miller (10.3),#860038,#FDBB30,-3.52,
+2002-03,Cleveland Cavaliers,Gund Arena,17,0.207,0,J. Lucas/K. Smart,C. Boozer (5.9),#860038,#FDBB30,-9.59,
+2003-04,Cleveland Cavaliers,Gund Arena,35,0.427,0,P. Silas,C. Boozer (9.4),#860038,#FDBB30,-3.07,
+2004-05,Cleveland Cavaliers,Gund Arena,42,0.512,0,P. Silas/B. Malone,L. James (14.3),#860038,#FDBB30,0.27,
+2005-06,Cleveland Cavaliers,Gund Arena,50,0.61,0.4,M. Brown,L. James (16.3),#860038,#FDBB30,2.17,Detroit Pistons
+2006-07,Cleveland Cavaliers,Quicken Loans Arena,50,0.61,0.8,M. Brown,L. James (13.7),#860038,#FDBB30,3.33,San Antonio Spurs
+2007-08,Cleveland Cavaliers,Quicken Loans Arena,45,0.549,0.4,M. Brown,L. James (15.2),#860038,#FDBB30,-0.53,Boston Celtics
+2008-09,Cleveland Cavaliers,Quicken Loans Arena,66,0.805,0.6,M. Brown,L. James (20.3),#860038,#FDBB30,8.68,Orlando Magic
+2009-10,Cleveland Cavaliers,Quicken Loans Arena,61,0.744,0.4,M. Brown,L. James (18.5),#860038,#FDBB30,6.17,Boston Celtics
+2010-11,Cleveland Cavaliers,Quicken Loans Arena,19,0.232,0,B. Scott,R. Sessions (4.4),#860038,#FDBB30,-8.88,
+2011-12,Cleveland Cavaliers,Quicken Loans Arena,21,0.318,0,B. Scott,K. Irving (4.1),#860038,#FDBB30,-7.34,
+2012-13,Cleveland Cavaliers,Quicken Loans Arena,24,0.293,0,B. Scott,K. Irving (5.3),#860038,#FDBB30,-4.87,
+2013-14,Cleveland Cavaliers,Quicken Loans Arena,33,0.402,0,M. Brown,K. Irving (6.7),#860038,#FDBB30,-3.86,
+2014-15,Cleveland Cavaliers,Quicken Loans Arena,53,0.646,0.8,D. Blatt,K. Irving (10.4),#860038,#FDBB30,4.08,Golden State Warriors
+2015-16,Cleveland Cavaliers,Quicken Loans Arena,57,0.695,1,D. Blatt/T. Lue,L. James (13.6),#860038,#FDBB30,5.45,Golden State Warriors
+2016-17,Cleveland Cavaliers,Quicken Loans Arena,51,0.622,0.8,T. Lue,L. James (12.9),#860038,#FDBB30,2.87,Golden State Warriors
