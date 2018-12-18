@@ -1,43 +1,43 @@
 season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent
-1976-77,San Antonio Spurs,HemisFair Arena,44,0.537,0.2,D. Moe,G. Gervin (10.5),#BAC3C9,#061922,0.53,Boston Celtics
-1977-78,San Antonio Spurs,HemisFair Arena,52,0.634,0.4,D. Moe,G. Gervin (12.0),#BAC3C9,#061922,3.2,Washington Bullets
-1978-79,San Antonio Spurs,HemisFair Arena,48,0.585,0.6,D. Moe,G. Gervin (11.4),#BAC3C9,#061922,4.97,Washington Bullets
-1979-80,San Antonio Spurs,HemisFair Arena,41,0.5,0.2,D. Moe/B. Bass,G. Gervin (10.6),#BAC3C9,#061922,-0.24,Houston Rockets
-1980-81,San Antonio Spurs,HemisFair Arena,52,0.634,0.4,S. Albeck,G. Gervin (10.5),#BAC3C9,#061922,2.18,Houston Rockets
-1981-82,San Antonio Spurs,HemisFair Arena,48,0.585,0.6,S. Albeck,G. Gervin (10.7),#BAC3C9,#061922,1.79,Los Angeles Lakers
-1982-83,San Antonio Spurs,HemisFair Arena,53,0.646,0.6,S. Albeck,A. Gilmore (11.0),#BAC3C9,#061922,3.1,Los Angeles Lakers
+1976-77,San Antonio Spurs,HemisFair Arena,44,0.537,0.2,D. Moe,G. Gervin (10.5),#BAC3C9,#061922,0.53,Boston Celtics (0-2)
+1977-78,San Antonio Spurs,HemisFair Arena,52,0.634,0.4,D. Moe,G. Gervin (12.0),#BAC3C9,#061922,3.2,Washington Bullets (2-4)
+1978-79,San Antonio Spurs,HemisFair Arena,48,0.585,0.6,D. Moe,G. Gervin (11.4),#BAC3C9,#061922,4.97,Washington Bullets (3-4)
+1979-80,San Antonio Spurs,HemisFair Arena,41,0.5,0.2,D. Moe/B. Bass,G. Gervin (10.6),#BAC3C9,#061922,-0.24,Houston Rockets (1-2)
+1980-81,San Antonio Spurs,HemisFair Arena,52,0.634,0.4,S. Albeck,G. Gervin (10.5),#BAC3C9,#061922,2.18,Houston Rockets (3-4)
+1981-82,San Antonio Spurs,HemisFair Arena,48,0.585,0.6,S. Albeck,G. Gervin (10.7),#BAC3C9,#061922,1.79,Los Angeles Lakers (0-4)
+1982-83,San Antonio Spurs,HemisFair Arena,53,0.646,0.6,S. Albeck,A. Gilmore (11.0),#BAC3C9,#061922,3.1,Los Angeles Lakers (2-4)
 1983-84,San Antonio Spurs,HemisFair Arena,37,0.451,0,M. McHone/B. Bass,A. Gilmore (6.7),#BAC3C9,#061922,-0.5,
-1984-85,San Antonio Spurs,HemisFair Arena,41,0.5,0.2,C. Fitzsimmons,A. Gilmore (10.5),#BAC3C9,#061922,0.63,Denver Nuggets
-1985-86,San Antonio Spurs,HemisFair Arena,35,0.427,0.2,C. Fitzsimmons,A. Robertson (8.6),#BAC3C9,#061922,-2.06,Los Angeles Lakers
+1984-85,San Antonio Spurs,HemisFair Arena,41,0.5,0.2,C. Fitzsimmons,A. Gilmore (10.5),#BAC3C9,#061922,0.63,Denver Nuggets (2-3)
+1985-86,San Antonio Spurs,HemisFair Arena,35,0.427,0.2,C. Fitzsimmons,A. Robertson (8.6),#BAC3C9,#061922,-2.06,Los Angeles Lakers (0-3)
 1986-87,San Antonio Spurs,HemisFair Arena,28,0.341,0,B. Weiss,D. Greenwood (6.2),#BAC3C9,#061922,-5.09,
-1987-88,San Antonio Spurs,HemisFair Arena,31,0.378,0.2,B. Weiss,A. Robertson (5.8),#BAC3C9,#061922,-5.02,Los Angeles Lakers
+1987-88,San Antonio Spurs,HemisFair Arena,31,0.378,0.2,B. Weiss,A. Robertson (5.8),#BAC3C9,#061922,-5.02,Los Angeles Lakers (0-3)
 1988-89,San Antonio Spurs,HemisFair Arena,21,0.256,0,L. Brown,W. Anderson (4.9),#BAC3C9,#061922,-7.45,
-1989-90,San Antonio Spurs,HemisFair Arena,56,0.683,0.4,L. Brown,D. Robinson (15.1),#BAC3C9,#061922,3.58,Portland Trail Blazers
-1990-91,San Antonio Spurs,HemisFair Arena,55,0.671,0.2,L. Brown,D. Robinson (17.0),#BAC3C9,#061922,4.3,Golden State Warriors
-1991-92,San Antonio Spurs,HemisFair Arena,47,0.573,0.2,L. Brown/B. Bass,D. Robinson (13.9),#BAC3C9,#061922,2.81,Phoenix Suns
-1992-93,San Antonio Spurs,HemisFair Arena,49,0.598,0.4,J. Tarkanian/R. Hughes/J. Lucas,D. Robinson (13.2),#BAC3C9,#061922,2.21,Phoenix Suns
-1993-94,San Antonio Spurs,Alamodome,55,0.671,0.2,J. Lucas,D. Robinson (20.0),#BAC3C9,#061922,5.05,Utah Jazz
-1994-95,San Antonio Spurs,Alamodome,62,0.756,0.6,B. Hill,D. Robinson (17.5),#BAC3C9,#061922,5.9,Houston Rockets
-1995-96,San Antonio Spurs,Alamodome,59,0.72,0.4,B. Hill,D. Robinson (18.3),#BAC3C9,#061922,5.98,Utah Jazz
+1989-90,San Antonio Spurs,HemisFair Arena,56,0.683,0.4,L. Brown,D. Robinson (15.1),#BAC3C9,#061922,3.58,Portland Trail Blazers (3-4)
+1990-91,San Antonio Spurs,HemisFair Arena,55,0.671,0.2,L. Brown,D. Robinson (17.0),#BAC3C9,#061922,4.3,Golden State Warriors (1-3)
+1991-92,San Antonio Spurs,HemisFair Arena,47,0.573,0.2,L. Brown/B. Bass,D. Robinson (13.9),#BAC3C9,#061922,2.81,Phoenix Suns (0-3)
+1992-93,San Antonio Spurs,HemisFair Arena,49,0.598,0.4,J. Tarkanian/R. Hughes/J. Lucas,D. Robinson (13.2),#BAC3C9,#061922,2.21,Phoenix Suns (2-4)
+1993-94,San Antonio Spurs,Alamodome,55,0.671,0.2,J. Lucas,D. Robinson (20.0),#BAC3C9,#061922,5.05,Utah Jazz (1-3)
+1994-95,San Antonio Spurs,Alamodome,62,0.756,0.6,B. Hill,D. Robinson (17.5),#BAC3C9,#061922,5.9,Houston Rockets (2-4)
+1995-96,San Antonio Spurs,Alamodome,59,0.72,0.4,B. Hill,D. Robinson (18.3),#BAC3C9,#061922,5.98,Utah Jazz (2-4)
 1996-97,San Antonio Spurs,Alamodome,20,0.244,0,B. Hill/G. Popovich,W. Perdue (4.4),#BAC3C9,#061922,-7.93,
-1997-98,San Antonio Spurs,Alamodome,56,0.683,0.4,G. Popovich,D. Robinson (13.8),#BAC3C9,#061922,3.3,Utah Jazz
-1998-99,San Antonio Spurs,Alamodome,37,0.74,1,G. Popovich,T. Duncan (8.7),#BAC3C9,#061922,7.12,New York Knicks
-1999-00,San Antonio Spurs,Alamodome,53,0.646,0.2,G. Popovich,T. Duncan (13.0),#BAC3C9,#061922,5.92,Phoenix Suns
-2000-01,San Antonio Spurs,Alamodome,58,0.707,0.6,G. Popovich,T. Duncan (13.2),#BAC3C9,#061922,7.92,Los Angeles Lakers
-2001-02,San Antonio Spurs,Alamodome,58,0.707,0.4,G. Popovich,T. Duncan (17.8),#BAC3C9,#061922,6.28,Los Angeles Lakers
-2002-03,San Antonio Spurs,SBC Center,60,0.732,1,G. Popovich,T. Duncan (16.5),#BAC3C9,#061922,5.65,New Jersey Nets
-2003-04,San Antonio Spurs,SBC Center,57,0.695,0.4,G. Popovich,T. Duncan (13.1),#BAC3C9,#061922,7.51,Los Angeles Lakers
-2004-05,San Antonio Spurs,SBC Center,59,0.72,1,G. Popovich,T. Duncan (11.2),#BAC3C9,#061922,7.84,Detroit Pistons
-2005-06,San Antonio Spurs,SBC Center,63,0.768,0.4,G. Popovich,T. Duncan (10.8),#BAC3C9,#061922,6.69,Dallas Mavericks
-2006-07,San Antonio Spurs,AT&T Center,58,0.707,1,G. Popovich,T. Duncan (13.0),#BAC3C9,#061922,8.35,Cleveland Cavaliers
-2007-08,San Antonio Spurs,AT&T Center,56,0.683,0.6,G. Popovich,M. Ginobili (11.1),#BAC3C9,#061922,5.1,Los Angeles Lakers
-2008-09,San Antonio Spurs,AT&T Center,54,0.659,0.2,G. Popovich,T. Duncan (10.1),#BAC3C9,#061922,3.36,Dallas Mavericks
-2009-10,San Antonio Spurs,AT&T Center,50,0.61,0.4,G. Popovich,T. Duncan (10.9),#BAC3C9,#061922,5.07,Phoenix Suns
-2010-11,San Antonio Spurs,AT&T Center,61,0.744,0.2,G. Popovich,M. Ginobili (9.9),#BAC3C9,#061922,5.86,Memphis Grizzlies
-2011-12,San Antonio Spurs,AT&T Center,50,0.758,0.6,G. Popovich,T. Parker (7.1),#BAC3C9,#061922,7.28,Oklahoma City Thunder
-2012-13,San Antonio Spurs,AT&T Center,58,0.707,0.8,G. Popovich,T. Parker (9.3),#BAC3C9,#061922,6.67,Miami Heat
-2013-14,San Antonio Spurs,AT&T Center,62,0.756,1,G. Popovich,K. Leonard (7.7),#BAC3C9,#061922,8,Miami Heat
-2014-15,San Antonio Spurs,AT&T Center,55,0.671,0.2,G. Popovich,T. Duncan (9.6),#BAC3C9,#061922,6.34,Los Angeles Clippers
-2015-16,San Antonio Spurs,AT&T Center,67,0.817,0.4,G. Popovich,K. Leonard (13.7),#BAC3C9,#061922,10.28,Oklahoma City Thunder
-2016-17,San Antonio Spurs,AT&T Center,61,0.744,0.6,G. Popovich,K. Leonard (13.6),#BAC3C9,#061922,7.13,Golden State Warriors
-2017-18,San Antonio Spurs,AT&T Center,47,0.573,0.2,G. Popovich,L. Aldridge (10.9),#BAC3C9,#061922,2.89,Golden State Warriors
+1997-98,San Antonio Spurs,Alamodome,56,0.683,0.4,G. Popovich,D. Robinson (13.8),#BAC3C9,#061922,3.3,Utah Jazz (1-4)
+1998-99,San Antonio Spurs,Alamodome,37,0.74,1,G. Popovich,T. Duncan (8.7),#BAC3C9,#061922,7.12,New York Knicks (4-1)
+1999-00,San Antonio Spurs,Alamodome,53,0.646,0.2,G. Popovich,T. Duncan (13.0),#BAC3C9,#061922,5.92,Phoenix Suns (1-3)
+2000-01,San Antonio Spurs,Alamodome,58,0.707,0.6,G. Popovich,T. Duncan (13.2),#BAC3C9,#061922,7.92,Los Angeles Lakers (0-4)
+2001-02,San Antonio Spurs,Alamodome,58,0.707,0.4,G. Popovich,T. Duncan (17.8),#BAC3C9,#061922,6.28,Los Angeles Lakers (1-4)
+2002-03,San Antonio Spurs,SBC Center,60,0.732,1,G. Popovich,T. Duncan (16.5),#BAC3C9,#061922,5.65,New Jersey Nets (4-2)
+2003-04,San Antonio Spurs,SBC Center,57,0.695,0.4,G. Popovich,T. Duncan (13.1),#BAC3C9,#061922,7.51,Los Angeles Lakers (2-4)
+2004-05,San Antonio Spurs,SBC Center,59,0.72,1,G. Popovich,T. Duncan (11.2),#BAC3C9,#061922,7.84,Detroit Pistons (4-3)
+2005-06,San Antonio Spurs,SBC Center,63,0.768,0.4,G. Popovich,T. Duncan (10.8),#BAC3C9,#061922,6.69,Dallas Mavericks (3-4)
+2006-07,San Antonio Spurs,AT&T Center,58,0.707,1,G. Popovich,T. Duncan (13.0),#BAC3C9,#061922,8.35,Cleveland Cavaliers (4-0)
+2007-08,San Antonio Spurs,AT&T Center,56,0.683,0.6,G. Popovich,M. Ginobili (11.1),#BAC3C9,#061922,5.1,Los Angeles Lakers (1-4)
+2008-09,San Antonio Spurs,AT&T Center,54,0.659,0.2,G. Popovich,T. Duncan (10.1),#BAC3C9,#061922,3.36,Dallas Mavericks (1-4)
+2009-10,San Antonio Spurs,AT&T Center,50,0.61,0.4,G. Popovich,T. Duncan (10.9),#BAC3C9,#061922,5.07,Phoenix Suns (0-4)
+2010-11,San Antonio Spurs,AT&T Center,61,0.744,0.2,G. Popovich,M. Ginobili (9.9),#BAC3C9,#061922,5.86,Memphis Grizzlies (2-4)
+2011-12,San Antonio Spurs,AT&T Center,50,0.758,0.6,G. Popovich,T. Parker (7.1),#BAC3C9,#061922,7.28,Oklahoma City Thunder (2-4)
+2012-13,San Antonio Spurs,AT&T Center,58,0.707,0.8,G. Popovich,T. Parker (9.3),#BAC3C9,#061922,6.67,Miami Heat (3-4)
+2013-14,San Antonio Spurs,AT&T Center,62,0.756,1,G. Popovich,K. Leonard (7.7),#BAC3C9,#061922,8,Miami Heat (4-1)
+2014-15,San Antonio Spurs,AT&T Center,55,0.671,0.2,G. Popovich,T. Duncan (9.6),#BAC3C9,#061922,6.34,Los Angeles Clippers (3-4)
+2015-16,San Antonio Spurs,AT&T Center,67,0.817,0.4,G. Popovich,K. Leonard (13.7),#BAC3C9,#061922,10.28,Oklahoma City Thunder (2-4)
+2016-17,San Antonio Spurs,AT&T Center,61,0.744,0.6,G. Popovich,K. Leonard (13.6),#BAC3C9,#061922,7.13,Golden State Warriors (0-4)
+2017-18,San Antonio Spurs,AT&T Center,47,0.573,0.2,G. Popovich,L. Aldridge (10.9),#BAC3C9,#061922,2.89,Golden State Warriors (1-4)

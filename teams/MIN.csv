@@ -6,14 +6,14 @@ season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponen
 1993-94,Minnesota Timberwolves,Target Center,20,0.244,0,S. Lowe,M. Williams (5.6),#072248,#7AAE37,-6.55,
 1994-95,Minnesota Timberwolves,Target Center,21,0.256,0,B. Blair,C. Laettner (6.2),#072248,#7AAE37,-8.22,
 1995-96,Minnesota Timberwolves,Target Center,26,0.317,0,B. Blair/F. Saunders,T. Gugliotta (5.3),#072248,#7AAE37,-5.14,
-1996-97,Minnesota Timberwolves,Target Center,40,0.488,0.2,F. Saunders,K. Garnett (7.3),#072248,#7AAE37,-1.82,Houston Rockets
-1997-98,Minnesota Timberwolves,Target Center,45,0.549,0.2,F. Saunders,K. Garnett (9.6),#072248,#7AAE37,0.17,Seattle SuperSonics
-1998-99,Minnesota Timberwolves,Target Center,25,0.5,0.2,F. Saunders,K. Garnett (5.4),#072248,#7AAE37,-0.17,San Antonio Spurs
-1999-00,Minnesota Timberwolves,Target Center,50,0.61,0.2,F. Saunders,K. Garnett (11.6),#072248,#7AAE37,2.67,Portland Trail Blazers
-2000-01,Minnesota Timberwolves,Target Center,47,0.573,0.2,F. Saunders,K. Garnett (11.8),#072248,#7AAE37,1.81,San Antonio Spurs
-2001-02,Minnesota Timberwolves,Target Center,50,0.61,0.2,F. Saunders,K. Garnett (12.8),#072248,#7AAE37,3.58,Dallas Mavericks
-2002-03,Minnesota Timberwolves,Target Center,51,0.622,0.2,F. Saunders,K. Garnett (15.6),#072248,#7AAE37,2.46,Los Angeles Lakers
-2003-04,Minnesota Timberwolves,Target Center,58,0.707,0.6,F. Saunders,K. Garnett (18.3),#072248,#7AAE37,5.86,Los Angeles Lakers
+1996-97,Minnesota Timberwolves,Target Center,40,0.488,0.2,F. Saunders,K. Garnett (7.3),#072248,#7AAE37,-1.82,Houston Rockets (0-3)
+1997-98,Minnesota Timberwolves,Target Center,45,0.549,0.2,F. Saunders,K. Garnett (9.6),#072248,#7AAE37,0.17,Seattle SuperSonics (2-3)
+1998-99,Minnesota Timberwolves,Target Center,25,0.5,0.2,F. Saunders,K. Garnett (5.4),#072248,#7AAE37,-0.17,San Antonio Spurs (1-3)
+1999-00,Minnesota Timberwolves,Target Center,50,0.61,0.2,F. Saunders,K. Garnett (11.6),#072248,#7AAE37,2.67,Portland Trail Blazers (1-3)
+2000-01,Minnesota Timberwolves,Target Center,47,0.573,0.2,F. Saunders,K. Garnett (11.8),#072248,#7AAE37,1.81,San Antonio Spurs (1-3)
+2001-02,Minnesota Timberwolves,Target Center,50,0.61,0.2,F. Saunders,K. Garnett (12.8),#072248,#7AAE37,3.58,Dallas Mavericks (0-3)
+2002-03,Minnesota Timberwolves,Target Center,51,0.622,0.2,F. Saunders,K. Garnett (15.6),#072248,#7AAE37,2.46,Los Angeles Lakers (2-4)
+2003-04,Minnesota Timberwolves,Target Center,58,0.707,0.6,F. Saunders,K. Garnett (18.3),#072248,#7AAE37,5.86,Los Angeles Lakers (2-4)
 2004-05,Minnesota Timberwolves,Target Center,44,0.537,0,F. Saunders/K. McHale,K. Garnett (16.1),#072248,#7AAE37,1.73,
 2005-06,Minnesota Timberwolves,Target Center,33,0.402,0,D. Casey,K. Garnett (14.9),#072248,#7AAE37,-1.75,
 2006-07,Minnesota Timberwolves,Target Center,32,0.39,0,D. Casey/R. Wittman,K. Garnett (10.7),#072248,#7AAE37,-3.16,
@@ -27,4 +27,4 @@ season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponen
 2014-15,Minnesota Timberwolves,Target Center,16,0.195,0,F. Saunders,G. Dieng (4.9),#072248,#7AAE37,-8,
 2015-16,Minnesota Timberwolves,Target Center,29,0.354,0,S. Mitchell,K. Towns (8.3),#072248,#7AAE37,-3.38,
 2016-17,Minnesota Timberwolves,Target Center,31,0.378,0,T. Thibodeau,K. Towns (12.7),#072248,#7AAE37,-0.64,
-2017-18,Minnesota Timberwolves,Target Center,47,0.573,0.2,T. Thibodeau,K. Towns (14.0),#072248,#7AAE37,2.35,Houston Rockets
+2017-18,Minnesota Timberwolves,Target Center,47,0.573,0.2,T. Thibodeau,K. Towns (14.0),#072248,#7AAE37,2.35,Houston Rockets (1-4)

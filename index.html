@@ -133,7 +133,7 @@ var tip2 = d3.tip()
     .offset([-20, 0])
     .html(function(d) {
         if(d.playoffs==1){return "Defeated <span>" + d.opponent + "</span>"}
-        else{return "Eliminated by <span>" + d.opponent + "</span>";}});
+        else{return "Defeated by <span>" + d.opponent + "</span>";}});
 regularseason.append("g")
     .attr("class","y axis")
     .call(y1Axis);

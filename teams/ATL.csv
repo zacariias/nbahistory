@@ -1,54 +1,54 @@
 season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent
-1949-50,Tri-Cities Blackhawks,Wharton Field House,29,0.453,0.4,R. Potter/R. Auerbach,D. Otten (5.2),#E13A3E,#C4D600,-1.43,Anderson Packers
+1949-50,Tri-Cities Blackhawks,Wharton Field House,29,0.453,0.4,R. Potter/R. Auerbach,D. Otten (5.2),#E13A3E,#C4D600,-1.43,Anderson Packers (1-2)
 1950-51,Tri-Cities Blackhawks,Wharton Field House,25,0.368,0,D. McMillan/J. Logan/M. Todorovich,F. Brian (5.6),#E13A3E,#C4D600,-3.22,
 1951-52,Milwaukee Hawks,Milwaukee Arena,17,0.258,0,D. Moore,D. Otten (5.6),#E13A3E,#C4D600,-7.04,
 1952-53,Milwaukee Hawks,Milwaukee Arena,27,0.38,0,A. Levane,M. Hutchins (6.9),#E13A3E,#C4D600,-2.49,
 1953-54,Milwaukee Hawks,Milwaukee Arena,21,0.292,0,A. Levane/R. Holzman,G. Ratkovicz (5.2),#E13A3E,#C4D600,-4.55,
 1954-55,Milwaukee Hawks,Milwaukee Arena,26,0.361,0,R. Holzman,B. Pettit (10.7),#E13A3E,#C4D600,-2.66,
-1955-56,St. Louis Hawks,Kiel Auditorium,33,0.458,0.6,R. Holzman,B. Pettit (13.8),#E13A3E,#C4D600,-1.42,Minneapolis Lakers
-1956-57,St. Louis Hawks,Kiel Auditorium,34,0.472,0.8,R. Holzman/S. Martin/A. Hannum,B. Pettit (11.6),#E13A3E,#C4D600,-0.27,Boston Celtics
-1957-58,St. Louis Hawks,Kiel Auditorium,41,0.569,1,A. Hannum,B. Pettit (11.0),#E13A3E,#C4D600,0.82,Boston Celtics
-1958-59,St. Louis Hawks,Kiel Auditorium,49,0.681,0.6,A. Phillip/E. Macauley,B. Pettit (14.8),#E13A3E,#C4D600,2.89,Minneapolis Lakers
-1959-60,St. Louis Hawks,Kiel Auditorium,46,0.613,0.8,E. Macauley,C. Hagan (11.8),#E13A3E,#C4D600,1.77,Boston Celtics
-1960-61,St. Louis Hawks,Kiel Auditorium,51,0.646,0.8,P. Seymour,B. Pettit (14.9),#E13A3E,#C4D600,2.99,Boston Celtics
+1955-56,St. Louis Hawks,Kiel Auditorium,33,0.458,0.6,R. Holzman,B. Pettit (13.8),#E13A3E,#C4D600,-1.42,Fort Wayne Pistons (2-3)
+1956-57,St. Louis Hawks,Kiel Auditorium,34,0.472,0.8,R. Holzman/S. Martin/A. Hannum,B. Pettit (11.6),#E13A3E,#C4D600,-0.27,Boston Celtics (3-4)
+1957-58,St. Louis Hawks,Kiel Auditorium,41,0.569,1,A. Hannum,B. Pettit (11.0),#E13A3E,#C4D600,0.82,Boston Celtics (4-2)
+1958-59,St. Louis Hawks,Kiel Auditorium,49,0.681,0.6,A. Phillip/E. Macauley,B. Pettit (14.8),#E13A3E,#C4D600,2.89,Minneapolis Lakers (2-4)
+1959-60,St. Louis Hawks,Kiel Auditorium,46,0.613,0.8,E. Macauley,C. Hagan (11.8),#E13A3E,#C4D600,1.77,Boston Celtics (3-4)
+1960-61,St. Louis Hawks,Kiel Auditorium,51,0.646,0.8,P. Seymour,B. Pettit (14.9),#E13A3E,#C4D600,2.99,Boston Celtics (1-4)
 1961-62,St. Louis Hawks,Kiel Auditorium,29,0.363,0,P. Seymour/A. Levane/B. Pettit,B. Pettit (11.5),#E13A3E,#C4D600,-2.96,
-1962-63,St. Louis Hawks,Kiel Auditorium,48,0.6,0.6,H. Gallatin,B. Pettit (14.3),#E13A3E,#C4D600,1.38,Los Angeles Lakers
-1963-64,St. Louis Hawks,Kiel Auditorium,46,0.575,0.6,H. Gallatin,B. Pettit (14.9),#E13A3E,#C4D600,1.39,San Francisco Warriors
-1964-65,St. Louis Hawks,Kiel Auditorium,45,0.563,0.4,H. Gallatin/R. Guerin,Z. Beaty (10.8),#E13A3E,#C4D600,2.68,Baltimore Bullets
-1965-66,St. Louis Hawks,Kiel Auditorium,36,0.45,0.6,R. Guerin,Z. Beaty (10.3),#E13A3E,#C4D600,-0.5,Los Angeles Lakers
-1966-67,St. Louis Hawks,Kiel Auditorium,39,0.481,0.6,R. Guerin,L. Wilkens (7.6),#E13A3E,#C4D600,-1.44,San Francisco Warriors
-1967-68,St. Louis Hawks,Kiel Auditorium,56,0.683,0.4,R. Guerin,Z. Beaty (11.8),#E13A3E,#C4D600,2.37,San Francisco Warriors
-1968-69,Atlanta Hawks,Alexander Memorial Coliseum,48,0.585,0.6,R. Guerin,L. Hudson (10.1),#E13A3E,#C4D600,2.06,Los Angeles Lakers
-1969-70,Atlanta Hawks,Alexander Memorial Coliseum,48,0.585,0.6,R. Guerin,L. Hudson (11.1),#E13A3E,#C4D600,0.31,Los Angeles Lakers
-1970-71,Atlanta Hawks,Alexander Memorial Coliseum,36,0.439,0.4,R. Guerin,L. Hudson (7.9),#E13A3E,#C4D600,-1.3,New York Knicks
-1971-72,Atlanta Hawks,Alexander Memorial Coliseum,36,0.439,0.4,R. Guerin,W. Bellamy (10.3),#E13A3E,#C4D600,-1.94,Boston Celtics
-1972-73,Atlanta Hawks,Omni Coliseum,46,0.561,0.4,C. Fitzsimmons,L. Hudson (9.3),#E13A3E,#C4D600,-0.15,Boston Celtics
+1962-63,St. Louis Hawks,Kiel Auditorium,48,0.6,0.6,H. Gallatin,B. Pettit (14.3),#E13A3E,#C4D600,1.38,Los Angeles Lakers (3-4)
+1963-64,St. Louis Hawks,Kiel Auditorium,46,0.575,0.6,H. Gallatin,B. Pettit (14.9),#E13A3E,#C4D600,1.39,San Francisco Warriors (3-4)
+1964-65,St. Louis Hawks,Kiel Auditorium,45,0.563,0.4,H. Gallatin/R. Guerin,Z. Beaty (10.8),#E13A3E,#C4D600,2.68,Baltimore Bullets (1-3)
+1965-66,St. Louis Hawks,Kiel Auditorium,36,0.45,0.6,R. Guerin,Z. Beaty (10.3),#E13A3E,#C4D600,-0.5,Los Angeles Lakers (3-4)
+1966-67,St. Louis Hawks,Kiel Auditorium,39,0.481,0.6,R. Guerin,L. Wilkens (7.6),#E13A3E,#C4D600,-1.44,San Francisco Warriors (2-4)
+1967-68,St. Louis Hawks,Kiel Auditorium,56,0.683,0.4,R. Guerin,Z. Beaty (11.8),#E13A3E,#C4D600,2.37,San Francisco Warriors (2-4)
+1968-69,Atlanta Hawks,Alexander Memorial Coliseum,48,0.585,0.6,R. Guerin,L. Hudson (10.1),#E13A3E,#C4D600,2.06,Los Angeles Lakers (1-4)
+1969-70,Atlanta Hawks,Alexander Memorial Coliseum,48,0.585,0.6,R. Guerin,L. Hudson (11.1),#E13A3E,#C4D600,0.31,Los Angeles Lakers (0-4)
+1970-71,Atlanta Hawks,Alexander Memorial Coliseum,36,0.439,0.4,R. Guerin,L. Hudson (7.9),#E13A3E,#C4D600,-1.3,New York Knicks (1-4)
+1971-72,Atlanta Hawks,Alexander Memorial Coliseum,36,0.439,0.4,R. Guerin,W. Bellamy (10.3),#E13A3E,#C4D600,-1.94,Boston Celtics (2-4)
+1972-73,Atlanta Hawks,Omni Coliseum,46,0.561,0.4,C. Fitzsimmons,L. Hudson (9.3),#E13A3E,#C4D600,-0.15,Boston Celtics (2-4)
 1973-74,Atlanta Hawks,Omni Coliseum,35,0.427,0,C. Fitzsimmons,L. Hudson (8.8),#E13A3E,#C4D600,-1.47,
 1974-75,Atlanta Hawks,Omni Coliseum,31,0.378,0,C. Fitzsimmons,J. Drew (7.1),#E13A3E,#C4D600,-1.32,
 1975-76,Atlanta Hawks,Omni Coliseum,29,0.354,0,C. Fitzsimmons/G. Tormohlen,J. Drew (10.6),#E13A3E,#C4D600,-2.66,
 1976-77,Atlanta Hawks,Omni Coliseum,31,0.378,0,H. Brown,J. Drew (7.9),#E13A3E,#C4D600,-3.87,
-1977-78,Atlanta Hawks,Omni Coliseum,41,0.5,0.2,H. Brown,J. Drew (8.9),#E13A3E,#C4D600,-0.13,Washington Bullets
-1978-79,Atlanta Hawks,Omni Coliseum,46,0.561,0.4,H. Brown,J. Drew (8.9),#E13A3E,#C4D600,1.92,Washington Bullets
-1979-80,Atlanta Hawks,Omni Coliseum,50,0.61,0.4,H. Brown,T. Rollins (9.2),#E13A3E,#C4D600,2.83,Philadelphia 76ers
+1977-78,Atlanta Hawks,Omni Coliseum,41,0.5,0.2,H. Brown,J. Drew (8.9),#E13A3E,#C4D600,-0.13,Washington Bullets (0-2)
+1978-79,Atlanta Hawks,Omni Coliseum,46,0.561,0.4,H. Brown,J. Drew (8.9),#E13A3E,#C4D600,1.92,Washington Bullets (3-4)
+1979-80,Atlanta Hawks,Omni Coliseum,50,0.61,0.4,H. Brown,T. Rollins (9.2),#E13A3E,#C4D600,2.83,Philadelphia 76ers (1-4)
 1980-81,Atlanta Hawks,Omni Coliseum,31,0.378,0,H. Brown/M. Fratello,D. Roundfield (7.0),#E13A3E,#C4D600,-2.37,
-1981-82,Atlanta Hawks,Omni Coliseum,42,0.512,0.2,K. Loughery,D. Roundfield (6.5),#E13A3E,#C4D600,0.81,Philadelphia 76ers
-1982-83,Atlanta Hawks,Omni Coliseum,43,0.524,0.2,K. Loughery,D. Roundfield (7.4),#E13A3E,#C4D600,-0.72,Boston Celtics
-1983-84,Atlanta Hawks,Omni Coliseum,40,0.488,0.2,M. Fratello,D. Roundfield (7.1),#E13A3E,#C4D600,-1.08,Milwaukee Bucks
+1981-82,Atlanta Hawks,Omni Coliseum,42,0.512,0.2,K. Loughery,D. Roundfield (6.5),#E13A3E,#C4D600,0.81,Philadelphia 76ers (0-2)
+1982-83,Atlanta Hawks,Omni Coliseum,43,0.524,0.2,K. Loughery,D. Roundfield (7.4),#E13A3E,#C4D600,-0.72,Boston Celtics (1-2)
+1983-84,Atlanta Hawks,Omni Coliseum,40,0.488,0.2,M. Fratello,D. Roundfield (7.1),#E13A3E,#C4D600,-1.08,Milwaukee Bucks (2-3)
 1984-85,Atlanta Hawks,Omni Coliseum,34,0.415,0,M. Fratello,D. Wilkins (7.6),#E13A3E,#C4D600,-1.14,
-1985-86,Atlanta Hawks,Omni Coliseum,50,0.61,0.4,M. Fratello,D. Wilkins (10.8),#E13A3E,#C4D600,2.59,Boston Celtics
-1986-87,Atlanta Hawks,Omni Coliseum,57,0.695,0.4,M. Fratello,D. Wilkins (12.2),#E13A3E,#C4D600,7.18,Detroit Pistons
-1987-88,Atlanta Hawks,Omni Coliseum,50,0.61,0.4,M. Fratello,D. Wilkins (9.8),#E13A3E,#C4D600,4.02,Boston Celtics
-1988-89,Atlanta Hawks,Omni Coliseum,52,0.634,0.2,M. Fratello,M. Malone (10.7),#E13A3E,#C4D600,5.26,Milwaukee Bucks
+1985-86,Atlanta Hawks,Omni Coliseum,50,0.61,0.4,M. Fratello,D. Wilkins (10.8),#E13A3E,#C4D600,2.59,Boston Celtics (1-4)
+1986-87,Atlanta Hawks,Omni Coliseum,57,0.695,0.4,M. Fratello,D. Wilkins (12.2),#E13A3E,#C4D600,7.18,Detroit Pistons (1-4)
+1987-88,Atlanta Hawks,Omni Coliseum,50,0.61,0.4,M. Fratello,D. Wilkins (9.8),#E13A3E,#C4D600,4.02,Boston Celtics (3-4)
+1988-89,Atlanta Hawks,Omni Coliseum,52,0.634,0.2,M. Fratello,M. Malone (10.7),#E13A3E,#C4D600,5.26,Milwaukee Bucks (2-3)
 1989-90,Atlanta Hawks,Omni Coliseum,41,0.5,0,M. Fratello,D. Wilkins (11.1),#E13A3E,#C4D600,0.64,
-1990-91,Atlanta Hawks,Omni Coliseum,43,0.524,0.2,B. Weiss,D. Wilkins (11.4),#E13A3E,#C4D600,0.72,Detroit Pistons
+1990-91,Atlanta Hawks,Omni Coliseum,43,0.524,0.2,B. Weiss,D. Wilkins (11.4),#E13A3E,#C4D600,0.72,Detroit Pistons (2-3)
 1991-92,Atlanta Hawks,Omni Coliseum,38,0.463,0,B. Weiss,K. Willis (8.8),#E13A3E,#C4D600,-1.15,
-1992-93,Atlanta Hawks,Omni Coliseum,43,0.524,0.2,B. Weiss,D. Wilkins (10.5),#E13A3E,#C4D600,-0.67,Chicago Bulls
-1993-94,Atlanta Hawks,Omni Coliseum,57,0.695,0.4,L. Wilkens,M. Blaylock (10.2),#E13A3E,#C4D600,4.94,Indiana Pacers
-1994-95,Atlanta Hawks,Omni Coliseum,42,0.512,0.2,L. Wilkens,M. Blaylock (9.4),#E13A3E,#C4D600,1.06,Indiana Pacers
-1995-96,Atlanta Hawks,Omni Coliseum,46,0.561,0.4,L. Wilkens,M. Blaylock (9.0),#E13A3E,#C4D600,1.29,Orlando Magic
-1996-97,Atlanta Hawks,Omni Coliseum,56,0.683,0.4,L. Wilkens,M. Blaylock (12.5),#E13A3E,#C4D600,5.52,Chicago Bulls
-1997-98,Atlanta Hawks,Georgia Dome,50,0.61,0.2,L. Wilkens,D. Mutombo (10.8),#E13A3E,#C4D600,3.85,Charlotte Hornets
-1998-99,Atlanta Hawks,Georgia Dome,31,0.62,0.4,L. Wilkens,D. Mutombo (7.9),#E13A3E,#C4D600,2.82,New York Knicks
+1992-93,Atlanta Hawks,Omni Coliseum,43,0.524,0.2,B. Weiss,D. Wilkins (10.5),#E13A3E,#C4D600,-0.67,Chicago Bulls (0-3)
+1993-94,Atlanta Hawks,Omni Coliseum,57,0.695,0.4,L. Wilkens,M. Blaylock (10.2),#E13A3E,#C4D600,4.94,Indiana Pacers (2-4)
+1994-95,Atlanta Hawks,Omni Coliseum,42,0.512,0.2,L. Wilkens,M. Blaylock (9.4),#E13A3E,#C4D600,1.06,Indiana Pacers (0-3)
+1995-96,Atlanta Hawks,Omni Coliseum,46,0.561,0.4,L. Wilkens,M. Blaylock (9.0),#E13A3E,#C4D600,1.29,Orlando Magic (1-4)
+1996-97,Atlanta Hawks,Omni Coliseum,56,0.683,0.4,L. Wilkens,M. Blaylock (12.5),#E13A3E,#C4D600,5.52,Chicago Bulls (1-4)
+1997-98,Atlanta Hawks,Georgia Dome,50,0.61,0.2,L. Wilkens,D. Mutombo (10.8),#E13A3E,#C4D600,3.85,Charlotte Hornets (1-3)
+1998-99,Atlanta Hawks,Georgia Dome,31,0.62,0.4,L. Wilkens,D. Mutombo (7.9),#E13A3E,#C4D600,2.82,New York Knicks (0-4)
 1999-00,Atlanta Hawks,Philips Arena,28,0.341,0,L. Wilkens,D. Mutombo (9.9),#E13A3E,#C4D600,-5.41,
 2000-01,Atlanta Hawks,Philips Arena,25,0.305,0,L. Kruger,J. Terry (6.5),#E13A3E,#C4D600,-5.55,
 2001-02,Atlanta Hawks,Philips Arena,33,0.402,0,L. Kruger,J. Terry (8.6),#E13A3E,#C4D600,-4.41,
@@ -57,14 +57,14 @@ season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponen
 2004-05,Atlanta Hawks,Philips Arena,13,0.159,0,M. Woodson,J. Childress (4.6),#E13A3E,#C4D600,-9.62,
 2005-06,Atlanta Hawks,Philips Arena,26,0.317,0,M. Woodson,J. Johnson (6.0),#E13A3E,#C4D600,-4.69,
 2006-07,Atlanta Hawks,Philips Arena,30,0.366,0,M. Woodson,J. Childress (5.5),#E13A3E,#C4D600,-4.86,
-2007-08,Atlanta Hawks,Philips Arena,37,0.451,0.2,M. Woodson,J. Childress (7.6),#E13A3E,#C4D600,-2.23,Boston Celtics
-2008-09,Atlanta Hawks,Philips Arena,47,0.573,0.4,M. Woodson,J. Johnson (7.6),#E13A3E,#C4D600,1.7,Cleveland Cavaliers
-2009-10,Atlanta Hawks,Philips Arena,53,0.646,0.4,M. Woodson,A. Horford (10.9),#E13A3E,#C4D600,4.44,Orlando Magic
-2010-11,Atlanta Hawks,Philips Arena,44,0.537,0.4,L. Drew,A. Horford (10.1),#E13A3E,#C4D600,-1.1,Chicago Bulls
-2011-12,Atlanta Hawks,Philips Arena,40,0.606,0.2,L. Drew,J. Smith (6.8),#E13A3E,#C4D600,2.67,Boston Celtics
-2012-13,Atlanta Hawks,Philips Arena,44,0.537,0.2,L. Drew,A. Horford (8.8),#E13A3E,#C4D600,-0.08,Indiana Pacers
-2013-14,Atlanta Hawks,Philips Arena,38,0.463,0.2,M. Budenholzer,P. Millsap (6.7),#E13A3E,#C4D600,-0.88,Indiana Pacers
-2014-15,Atlanta Hawks,Philips Arena,60,0.732,0.6,M. Budenholzer,A. Horford (8.7),#E13A3E,#C4D600,4.75,Cleveland Cavaliers
-2015-16,Atlanta Hawks,Philips Arena,48,0.585,0.4,M. Budenholzer,P. Millsap (10.1),#E13A3E,#C4D600,3.49,Cleveland Cavaliers
-2016-17,Atlanta Hawks,Philips Arena,43,0.524,0.2,M. Budenholzer,D. Howard (8.3),#E13A3E,#C4D600,-1.23,Washington Wizards
+2007-08,Atlanta Hawks,Philips Arena,37,0.451,0.2,M. Woodson,J. Childress (7.6),#E13A3E,#C4D600,-2.23,Boston Celtics (3-4)
+2008-09,Atlanta Hawks,Philips Arena,47,0.573,0.4,M. Woodson,J. Johnson (7.6),#E13A3E,#C4D600,1.7,Cleveland Cavaliers (0-4)
+2009-10,Atlanta Hawks,Philips Arena,53,0.646,0.4,M. Woodson,A. Horford (10.9),#E13A3E,#C4D600,4.44,Orlando Magic (0-4)
+2010-11,Atlanta Hawks,Philips Arena,44,0.537,0.4,L. Drew,A. Horford (10.1),#E13A3E,#C4D600,-1.1,Chicago Bulls (2-4)
+2011-12,Atlanta Hawks,Philips Arena,40,0.606,0.2,L. Drew,J. Smith (6.8),#E13A3E,#C4D600,2.67,Boston Celtics (2-4)
+2012-13,Atlanta Hawks,Philips Arena,44,0.537,0.2,L. Drew,A. Horford (8.8),#E13A3E,#C4D600,-0.08,Indiana Pacers (2-4)
+2013-14,Atlanta Hawks,Philips Arena,38,0.463,0.2,M. Budenholzer,P. Millsap (6.7),#E13A3E,#C4D600,-0.88,Indiana Pacers (3-4)
+2014-15,Atlanta Hawks,Philips Arena,60,0.732,0.6,M. Budenholzer,A. Horford (8.7),#E13A3E,#C4D600,4.75,Cleveland Cavaliers (0-4)
+2015-16,Atlanta Hawks,Philips Arena,48,0.585,0.4,M. Budenholzer,P. Millsap (10.1),#E13A3E,#C4D600,3.49,Cleveland Cavaliers (0-4)
+2016-17,Atlanta Hawks,Philips Arena,43,0.524,0.2,M. Budenholzer,D. Howard (8.3),#E13A3E,#C4D600,-1.23,Washington Wizards (2-4)
 2017-18,Atlanta Hawks,Philips Arena,24,0.293,0,M. Budenholzer,J. Collins (5.4),#E13A3E,#C4D601,-5.3,

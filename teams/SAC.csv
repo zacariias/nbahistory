@@ -1,22 +1,22 @@
 season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent
-1949-50,Rochester Royals,Edgerton Park Arena,51,0.75,0.4,L. Harrison,B. Wanzer (10.5),#724C9F,#8E9090,7.72,Fort Wayne Pistons
-1950-51,Rochester Royals,Edgerton Park Arena,41,0.603,1,L. Harrison,A. Risen (9.3),#724C9F,#8E9090,2.54,New York Knicks
-1951-52,Rochester Royals,Edgerton Park Arena,41,0.621,0.6,L. Harrison,B. Wanzer (11.4),#724C9F,#8E9090,2.92,Minneapolis Lakers
-1952-53,Rochester Royals,Edgerton Park Arena,44,0.629,0.4,L. Harrison,B. Wanzer (7.9),#724C9F,#8E9090,2.62,Fort Wayne Pistons
-1953-54,Rochester Royals,Edgerton Park Arena,44,0.611,0.6,L. Harrison,B. Wanzer (9.1),#724C9F,#8E9090,2.24,Minneapolis Lakers
-1954-55,Rochester Royals,Edgerton Park Arena,29,0.403,0.4,L. Harrison,J. Coleman (6.2),#724C9F,#8E9090,-1.43,Minneapolis Lakers
+1949-50,Rochester Royals,Edgerton Park Arena,51,0.75,0.4,L. Harrison,B. Wanzer (10.5),#724C9F,#8E9090,7.72,Fort Wayne Pistons (0-2)
+1950-51,Rochester Royals,Edgerton Park Arena,41,0.603,1,L. Harrison,A. Risen (9.3),#724C9F,#8E9090,2.54,New York Knicks (4-3)
+1951-52,Rochester Royals,Edgerton Park Arena,41,0.621,0.6,L. Harrison,B. Wanzer (11.4),#724C9F,#8E9090,2.92,Minneapolis Lakers (1-3)
+1952-53,Rochester Royals,Edgerton Park Arena,44,0.629,0.4,L. Harrison,B. Wanzer (7.9),#724C9F,#8E9090,2.62,Fort Wayne Pistons (1-2)
+1953-54,Rochester Royals,Edgerton Park Arena,44,0.611,0.6,L. Harrison,B. Wanzer (9.1),#724C9F,#8E9090,2.24,Minneapolis Lakers (1-2)
+1954-55,Rochester Royals,Edgerton Park Arena,29,0.403,0.4,L. Harrison,J. Coleman (6.2),#724C9F,#8E9090,-1.43,Minneapolis Lakers (1-2)
 1955-56,Rochester Royals,Rochester Community War Memorial,31,0.431,0,B. Wanzer,M. Stokes (6.0),#724C9F,#8E9090,-2.61,
 1956-57,Rochester Royals,Rochester Community War Memorial,31,0.431,0,B. Wanzer,J. Twyman (8.8),#724C9F,#8E9090,-2.08,
-1957-58,Cincinnati Royals,Cincinnati Gardens,33,0.458,0.4,B. Wanzer,C. Lovellette (10.1),#724C9F,#8E9090,-1.47,Detroit Pistons
+1957-58,Cincinnati Royals,Cincinnati Gardens,33,0.458,0.4,B. Wanzer,C. Lovellette (10.1),#724C9F,#8E9090,-1.47,Detroit Pistons (0-2)
 1958-59,Cincinnati Royals,Cincinnati Gardens,19,0.264,0,B. Wanzer/T. Marshall,J. Twyman (7.3),#724C9F,#8E9090,-7.89,
 1959-60,Cincinnati Royals,Cincinnati Gardens,19,0.253,0,T. Marshall,J. Twyman (8.3),#724C9F,#8E9090,-5.92,
 1960-61,Cincinnati Royals,Cincinnati Gardens,33,0.418,0,C. Wolf,O. Robertson (13.2),#724C9F,#8E9090,-3.04,
-1961-62,Cincinnati Royals,Cincinnati Gardens,43,0.538,0.4,C. Wolf,O. Robertson (15.6),#724C9F,#8E9090,1.28,Detroit Pistons
-1962-63,Cincinnati Royals,Cincinnati Gardens,42,0.525,0.6,C. Wolf,O. Robertson (16.8),#724C9F,#8E9090,1.24,Boston Celtics
-1963-64,Cincinnati Royals,Cincinnati Gardens,55,0.688,0.6,J. McMahon,O. Robertson (20.6),#724C9F,#8E9090,4.43,Boston Celtics
-1964-65,Cincinnati Royals,Cincinnati Gardens,48,0.6,0.4,J. McMahon,O. Robertson (17.0),#724C9F,#8E9090,2.04,Philadelphia 76ers
-1965-66,Cincinnati Royals,Cincinnati Gardens,45,0.563,0.4,J. McMahon,O. Robertson (16.9),#724C9F,#8E9090,1.03,Boston Celtics
-1966-67,Cincinnati Royals,Cincinnati Gardens,39,0.481,0.4,J. McMahon,O. Robertson (17.4),#724C9F,#8E9090,-0.23,Philadelphia 76ers
+1961-62,Cincinnati Royals,Cincinnati Gardens,43,0.538,0.4,C. Wolf,O. Robertson (15.6),#724C9F,#8E9090,1.28,Detroit Pistons (1-3)
+1962-63,Cincinnati Royals,Cincinnati Gardens,42,0.525,0.6,C. Wolf,O. Robertson (16.8),#724C9F,#8E9090,1.24,Boston Celtics (3-4)
+1963-64,Cincinnati Royals,Cincinnati Gardens,55,0.688,0.6,J. McMahon,O. Robertson (20.6),#724C9F,#8E9090,4.43,Boston Celtics (1-4)
+1964-65,Cincinnati Royals,Cincinnati Gardens,48,0.6,0.4,J. McMahon,O. Robertson (17.0),#724C9F,#8E9090,2.04,Philadelphia 76ers (1-3)
+1965-66,Cincinnati Royals,Cincinnati Gardens,45,0.563,0.4,J. McMahon,O. Robertson (16.9),#724C9F,#8E9090,1.03,Boston Celtics (2-3)
+1966-67,Cincinnati Royals,Cincinnati Gardens,39,0.481,0.4,J. McMahon,O. Robertson (17.4),#724C9F,#8E9090,-0.23,Philadelphia 76ers (1-3)
 1967-68,Cincinnati Royals,Cincinnati Gardens,39,0.476,0,E. Jucker,O. Robertson (12.3),#724C9F,#8E9090,-0.64,
 1968-69,Cincinnati Royals,Cincinnati Gardens,41,0.5,0,E. Jucker,O. Robertson (12.9),#724C9F,#8E9090,-0.83,
 1969-70,Cincinnati Royals,Cincinnati Gardens,36,0.439,0,B. Cousy,O. Robertson (11.4),#724C9F,#8E9090,-2.55,
@@ -24,18 +24,18 @@ season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponen
 1971-72,Cincinnati Royals,Cincinnati Gardens,30,0.366,0,B. Cousy,T. Archibald (12.9),#724C9F,#8E9090,-4.13,
 1972-73,Kansas City-Omaha Kings,Municipal Auditorium,36,0.439,0,B. Cousy,T. Archibald (14.2),#724C9F,#8E9090,-2.36,
 1973-74,Kansas City-Omaha Kings,Municipal Auditorium,33,0.402,0,B. Cousy/D. Young/P. Johnson,S. Lacey (7.7),#724C9F,#8E9090,-3.24,
-1974-75,Kansas City-Omaha Kings,Kemper Arena,44,0.537,0.4,P. Johnson,T. Archibald (11.2),#724C9F,#8E9090,-0.16,Chicago Bulls
+1974-75,Kansas City-Omaha Kings,Kemper Arena,44,0.537,0.4,P. Johnson,T. Archibald (11.2),#724C9F,#8E9090,-0.16,Chicago Bulls (2-4)
 1975-76,Kansas City Kings,Kemper Arena,31,0.378,0,P. Johnson,T. Archibald (8.0),#724C9F,#8E9090,-2.83,
 1976-77,Kansas City Kings,Kemper Arena,40,0.488,0,P. Johnson,R. Boone (8.1),#724C9F,#8E9090,0.93,
 1977-78,Kansas City Kings,Kemper Arena,31,0.378,0,P. Johnson/L. Staverman,S. Wedman (7.8),#724C9F,#8E9090,-1.76,
-1978-79,Kansas City Kings,Kemper Arena,48,0.585,0.4,C. Fitzsimmons,O. Birdsong (8.8),#724C9F,#8E9090,2.73,Phoenix Suns
-1979-80,Kansas City Kings,Kemper Arena,47,0.573,0.2,C. Fitzsimmons,O. Birdsong (8.6),#724C9F,#8E9090,2.82,Phoenix Suns
-1980-81,Kansas City Kings,Kemper Arena,40,0.488,0.6,C. Fitzsimmons,R. King (8.3),#724C9F,#8E9090,-0.49,Houston Rockets
+1978-79,Kansas City Kings,Kemper Arena,48,0.585,0.4,C. Fitzsimmons,O. Birdsong (8.8),#724C9F,#8E9090,2.73,Phoenix Suns (1-4)
+1979-80,Kansas City Kings,Kemper Arena,47,0.573,0.2,C. Fitzsimmons,O. Birdsong (8.6),#724C9F,#8E9090,2.82,Phoenix Suns (1-2)
+1980-81,Kansas City Kings,Kemper Arena,40,0.488,0.6,C. Fitzsimmons,R. King (8.3),#724C9F,#8E9090,-0.49,Houston Rockets (1-4)
 1981-82,Kansas City Kings,Kemper Arena,30,0.366,0,C. Fitzsimmons,M. Woodson (5.3),#724C9F,#8E9090,-3.25,
 1982-83,Kansas City Kings,Kemper Arena,45,0.549,0,C. Fitzsimmons,M. Woodson (7.8),#724C9F,#8E9090,1.04,
-1983-84,Kansas City Kings,Kemper Arena,38,0.463,0.2,C. Fitzsimmons,E. Johnson (5.6),#724C9F,#8E9090,-1.62,Los Angeles Lakers
+1983-84,Kansas City Kings,Kemper Arena,38,0.463,0.2,C. Fitzsimmons,E. Johnson (5.6),#724C9F,#8E9090,-1.62,Los Angeles Lakers (0-3)
 1984-85,Kansas City Kings,Kemper Arena,31,0.378,0,J. McKinney/P. Johnson,L. Thompson (5.3),#724C9F,#8E9090,-2.71,
-1985-86,Sacramento Kings,ARCO Arena,37,0.451,0.2,P. Johnson,R. Theus (6.4),#724C9F,#8E9090,-3.19,Houston Rockets
+1985-86,Sacramento Kings,ARCO Arena,37,0.451,0.2,P. Johnson,R. Theus (6.4),#724C9F,#8E9090,-3.19,Houston Rockets (0-3)
 1986-87,Sacramento Kings,ARCO Arena,29,0.354,0,P. Johnson/J. Reynolds,O. Thorpe (9.0),#724C9F,#8E9090,-3.34,
 1987-88,Sacramento Kings,ARCO Arena,24,0.293,0,B. Russell/J. Reynolds,O. Thorpe (8.1),#724C9F,#8E9090,-5.84,
 1988-89,Sacramento Kings,ARCO Arena,27,0.329,0,J. Reynolds,H. Pressley (4.8),#724C9F,#8E9090,-5.35,
@@ -45,17 +45,17 @@ season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponen
 1992-93,Sacramento Kings,ARCO Arena,25,0.305,0,G. St. Jean,W. Tisdale (4.5),#724C9F,#8E9090,-3,
 1993-94,Sacramento Kings,ARCO Arena,28,0.341,0,G. St. Jean,M. Richmond (6.4),#724C9F,#8E9090,-5.32,
 1994-95,Sacramento Kings,ARCO Arena,39,0.476,0,G. St. Jean,M. Richmond (8.0),#724C9F,#8E9090,-0.74,
-1995-96,Sacramento Kings,ARCO Arena,39,0.476,0.2,G. St. Jean,M. Richmond (9.3),#724C9F,#8E9090,-2.62,Seattle SuperSonics
+1995-96,Sacramento Kings,ARCO Arena,39,0.476,0.2,G. St. Jean,M. Richmond (9.3),#724C9F,#8E9090,-2.62,Seattle SuperSonics (1-3)
 1996-97,Sacramento Kings,ARCO Arena,34,0.415,0,G. St. Jean/E. Jordan,M. Richmond (10.8),#724C9F,#8E9090,-3.64,
 1997-98,Sacramento Kings,ARCO Arena,27,0.329,0,E. Jordan,M. Richmond (7.9),#724C9F,#8E9090,-5.83,
-1998-99,Sacramento Kings,ARCO Arena,27,0.54,0.2,R. Adelman,V. Divac (5.2),#724C9F,#8E9090,-0.89,Utah Jazz
-1999-00,Sacramento Kings,ARCO Arena,44,0.537,0.2,R. Adelman,C. Webber (10.7),#724C9F,#8E9090,3.04,Los Angeles Lakers
-2000-01,Sacramento Kings,ARCO Arena,55,0.671,0.4,R. Adelman,C. Webber (11.0),#724C9F,#8E9090,6.07,Los Angeles Lakers
-2001-02,Sacramento Kings,ARCO Arena,61,0.744,0.6,R. Adelman,P. Stojakovic (9.9),#724C9F,#8E9090,7.61,Los Angeles Lakers
-2002-03,Sacramento Kings,ARCO Arena,59,0.72,0.4,R. Adelman,P. Stojakovic (10.1),#724C9F,#8E9090,6.68,Dallas Mavericks
-2003-04,Sacramento Kings,ARCO Arena,55,0.671,0.4,R. Adelman,P. Stojakovic (13.5),#724C9F,#8E9090,5.41,Minnesota Timberwolves
-2004-05,Sacramento Kings,ARCO Arena,50,0.61,0.2,R. Adelman,B. Miller (8.6),#724C9F,#8E9090,2.56,Seattle SuperSonics
-2005-06,Sacramento Kings,ARCO Arena,44,0.537,0.2,R. Adelman,B. Miller (9.1),#724C9F,#8E9090,1.61,San Antonio Spurs
+1998-99,Sacramento Kings,ARCO Arena,27,0.54,0.2,R. Adelman,V. Divac (5.2),#724C9F,#8E9090,-0.89,Utah Jazz (2-3)
+1999-00,Sacramento Kings,ARCO Arena,44,0.537,0.2,R. Adelman,C. Webber (10.7),#724C9F,#8E9090,3.04,Los Angeles Lakers (2-3)
+2000-01,Sacramento Kings,ARCO Arena,55,0.671,0.4,R. Adelman,C. Webber (11.0),#724C9F,#8E9090,6.07,Los Angeles Lakers (0-4)
+2001-02,Sacramento Kings,ARCO Arena,61,0.744,0.6,R. Adelman,P. Stojakovic (9.9),#724C9F,#8E9090,7.61,Los Angeles Lakers (3-4)
+2002-03,Sacramento Kings,ARCO Arena,59,0.72,0.4,R. Adelman,P. Stojakovic (10.1),#724C9F,#8E9090,6.68,Dallas Mavericks (3-4)
+2003-04,Sacramento Kings,ARCO Arena,55,0.671,0.4,R. Adelman,P. Stojakovic (13.5),#724C9F,#8E9090,5.41,Minnesota Timberwolves (3-4)
+2004-05,Sacramento Kings,ARCO Arena,50,0.61,0.2,R. Adelman,B. Miller (8.6),#724C9F,#8E9090,2.56,Seattle SuperSonics (1-4)
+2005-06,Sacramento Kings,ARCO Arena,44,0.537,0.2,R. Adelman,B. Miller (9.1),#724C9F,#8E9090,1.61,San Antonio Spurs (2-4)
 2006-07,Sacramento Kings,ARCO Arena,33,0.402,0,E. Musselman,K. Martin (10.2),#724C9F,#8E9090,-1.35,
 2007-08,Sacramento Kings,ARCO Arena,38,0.463,0,R. Theus,K. Martin (8.4),#724C9F,#8E9090,-1.86,
 2008-09,Sacramento Kings,ARCO Arena,17,0.207,0,R. Theus/K. Natt,K. Martin (4.7),#724C9F,#8E9090,-8.6,

@@ -2,13 +2,13 @@ season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponen
 1980-81,Dallas Mavericks,Reunion Arena,15,0.183,0,D. Motta,J. Spanarkel (5.5),#007DC5,#C4CED3,-8.33,
 1981-82,Dallas Mavericks,Reunion Arena,28,0.341,0,D. Motta,J. Vincent (5.6),#007DC5,#C4CED3,-4.48,
 1982-83,Dallas Mavericks,Reunion Arena,38,0.463,0,D. Motta,B. Davis (7.3),#007DC5,#C4CED3,-0.7,
-1983-84,Dallas Mavericks,Reunion Arena,43,0.524,0.4,D. Motta,R. Blackman (9.8),#007DC5,#C4CED3,0.15,Los Angeles Lakers
-1984-85,Dallas Mavericks,Reunion Arena,44,0.537,0.2,D. Motta,B. Davis (7.4),#007DC5,#C4CED3,1.8,Portland Trail Blazers
-1985-86,Dallas Mavericks,Reunion Arena,44,0.537,0.4,D. Motta,S. Perkins (7.3),#007DC5,#C4CED3,0.7,Los Angeles Lakers
-1986-87,Dallas Mavericks,Reunion Arena,55,0.671,0.2,D. Motta,J. Donaldson (10.4),#007DC5,#C4CED3,5.54,Seattle SuperSonics
-1987-88,Dallas Mavericks,Reunion Arena,53,0.646,0.6,J. MacLeod,D. Harper (9.1),#007DC5,#C4CED3,3.59,Los Angeles Lakers
+1983-84,Dallas Mavericks,Reunion Arena,43,0.524,0.4,D. Motta,R. Blackman (9.8),#007DC5,#C4CED3,0.15,Los Angeles Lakers (1-4)
+1984-85,Dallas Mavericks,Reunion Arena,44,0.537,0.2,D. Motta,B. Davis (7.4),#007DC5,#C4CED3,1.8,Portland Trail Blazers (1-3)
+1985-86,Dallas Mavericks,Reunion Arena,44,0.537,0.4,D. Motta,S. Perkins (7.3),#007DC5,#C4CED3,0.7,Los Angeles Lakers (2-4)
+1986-87,Dallas Mavericks,Reunion Arena,55,0.671,0.2,D. Motta,J. Donaldson (10.4),#007DC5,#C4CED3,5.54,Seattle SuperSonics (1-3)
+1987-88,Dallas Mavericks,Reunion Arena,53,0.646,0.6,J. MacLeod,D. Harper (9.1),#007DC5,#C4CED3,3.59,Los Angeles Lakers (3-4)
 1988-89,Dallas Mavericks,Reunion Arena,38,0.463,0,J. MacLeod,D. Harper (8.0),#007DC5,#C4CED3,-1.79,
-1989-90,Dallas Mavericks,Reunion Arena,47,0.573,0.2,J. MacLeod/R. Adubato,D. Harper (9.9),#007DC5,#C4CED3,0.42,Portland Trail Blazers
+1989-90,Dallas Mavericks,Reunion Arena,47,0.573,0.2,J. MacLeod/R. Adubato,D. Harper (9.9),#007DC5,#C4CED3,0.42,Portland Trail Blazers (0-3)
 1990-91,Dallas Mavericks,Reunion Arena,28,0.341,0,R. Adubato,D. Harper (7.6),#007DC5,#C4CED3,-4.27,
 1991-92,Dallas Mavericks,Reunion Arena,22,0.268,0,R. Adubato,R. Blackman (3.8),#007DC5,#C4CED3,-7.47,
 1992-93,Dallas Mavericks,Reunion Arena,11,0.134,0,R. Adubato/G. Heard,D. Harper (2.7),#007DC5,#C4CED3,-14.68,
@@ -19,21 +19,21 @@ season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponen
 1997-98,Dallas Mavericks,Reunion Arena,20,0.244,0,J. Cleamons/D. Nelson,M. Finley (7.5),#007DC5,#C4CED3,-6.33,
 1998-99,Dallas Mavericks,Reunion Arena,19,0.38,0,D. Nelson,M. Finley (5.4),#007DC5,#C4CED3,-2.5,
 1999-00,Dallas Mavericks,Reunion Arena,40,0.488,0,D. Nelson,M. Finley (8.3),#007DC5,#C4CED3,-0.29,
-2000-01,Dallas Mavericks,Reunion Arena,53,0.646,0.4,D. Nelson,D. Nowitzki (14.6),#007DC5,#C4CED3,4.61,San Antonio Spurs
-2001-02,Dallas Mavericks,American Airlines Center,57,0.695,0.4,D. Nelson,D. Nowitzki (13.4),#007DC5,#C4CED3,4.41,Sacramento Kings
-2002-03,Dallas Mavericks,American Airlines Center,60,0.732,0.6,D. Nelson,D. Nowitzki (16.1),#007DC5,#C4CED3,7.9,San Antonio Spurs
-2003-04,Dallas Mavericks,American Airlines Center,52,0.634,0.2,D. Nelson,D. Nowitzki (11.5),#007DC5,#C4CED3,4.86,Sacramento Kings
-2004-05,Dallas Mavericks,American Airlines Center,58,0.707,0.4,D. Nelson/A. Johnson,D. Nowitzki (15.6),#007DC5,#C4CED3,5.86,Phoenix Suns
-2005-06,Dallas Mavericks,American Airlines Center,60,0.732,0.8,A. Johnson,D. Nowitzki (17.7),#007DC5,#C4CED3,5.96,Miami Heat
-2006-07,Dallas Mavericks,American Airlines Center,67,0.817,0.2,A. Johnson,D. Nowitzki (16.3),#007DC5,#C4CED3,7.28,Golden State Warriors
-2007-08,Dallas Mavericks,American Airlines Center,51,0.622,0.2,A. Johnson,D. Nowitzki (12.9),#007DC5,#C4CED3,4.7,New Orleans Hornets
-2008-09,Dallas Mavericks,American Airlines Center,50,0.61,0.4,R. Carlisle,D. Nowitzki (10.9),#007DC5,#C4CED3,1.68,Denver Nuggets
-2009-10,Dallas Mavericks,American Airlines Center,55,0.671,0.2,R. Carlisle,D. Nowitzki (12.3),#007DC5,#C4CED3,2.66,San Antonio Spurs
-2010-11,Dallas Mavericks,American Airlines Center,57,0.695,1,R. Carlisle,D. Nowitzki (11.1),#007DC5,#C4CED3,4.41,Miami Heat
-2011-12,Dallas Mavericks,American Airlines Center,36,0.545,0.2,R. Carlisle,D. Nowitzki (7.6),#007DC5,#C4CED3,1.78,Oklahoma City Thunder
+2000-01,Dallas Mavericks,Reunion Arena,53,0.646,0.4,D. Nelson,D. Nowitzki (14.6),#007DC5,#C4CED3,4.61,San Antonio Spurs (1-4)
+2001-02,Dallas Mavericks,American Airlines Center,57,0.695,0.4,D. Nelson,D. Nowitzki (13.4),#007DC5,#C4CED3,4.41,Sacramento Kings (1-4)
+2002-03,Dallas Mavericks,American Airlines Center,60,0.732,0.6,D. Nelson,D. Nowitzki (16.1),#007DC5,#C4CED3,7.9,San Antonio Spurs (2-4)
+2003-04,Dallas Mavericks,American Airlines Center,52,0.634,0.2,D. Nelson,D. Nowitzki (11.5),#007DC5,#C4CED3,4.86,Sacramento Kings (1-4)
+2004-05,Dallas Mavericks,American Airlines Center,58,0.707,0.4,D. Nelson/A. Johnson,D. Nowitzki (15.6),#007DC5,#C4CED3,5.86,Phoenix Suns (2-4)
+2005-06,Dallas Mavericks,American Airlines Center,60,0.732,0.8,A. Johnson,D. Nowitzki (17.7),#007DC5,#C4CED3,5.96,Miami Heat (2-4)
+2006-07,Dallas Mavericks,American Airlines Center,67,0.817,0.2,A. Johnson,D. Nowitzki (16.3),#007DC5,#C4CED3,7.28,Golden State Warriors (2-4)
+2007-08,Dallas Mavericks,American Airlines Center,51,0.622,0.2,A. Johnson,D. Nowitzki (12.9),#007DC5,#C4CED3,4.7,New Orleans Hornets (1-4)
+2008-09,Dallas Mavericks,American Airlines Center,50,0.61,0.4,R. Carlisle,D. Nowitzki (10.9),#007DC5,#C4CED3,1.68,Denver Nuggets (1-4)
+2009-10,Dallas Mavericks,American Airlines Center,55,0.671,0.2,R. Carlisle,D. Nowitzki (12.3),#007DC5,#C4CED3,2.66,San Antonio Spurs (2-4)
+2010-11,Dallas Mavericks,American Airlines Center,57,0.695,1,R. Carlisle,D. Nowitzki (11.1),#007DC5,#C4CED3,4.41,Miami Heat (4-2)
+2011-12,Dallas Mavericks,American Airlines Center,36,0.545,0.2,R. Carlisle,D. Nowitzki (7.6),#007DC5,#C4CED3,1.78,Oklahoma City Thunder (0-4)
 2012-13,Dallas Mavericks,American Airlines Center,41,0.5,0,R. Carlisle,V. Carter (6.0),#007DC5,#C4CED3,-0.24,
-2013-14,Dallas Mavericks,American Airlines Center,49,0.598,0.2,R. Carlisle,D. Nowitzki (10.9),#007DC5,#C4CED3,2.91,San Antonio Spurs
-2014-15,Dallas Mavericks,American Airlines Center,50,0.61,0.2,R. Carlisle,T. Chandler (10.3),#007DC5,#C4CED3,3.36,Houston Rockets
-2015-16,Dallas Mavericks,American Airlines Center,42,0.512,0.2,R. Carlisle,D. Nowitzki (6.8),#007DC5,#C4CED3,-0.02,Oklahoma City Thunder
+2013-14,Dallas Mavericks,American Airlines Center,49,0.598,0.2,R. Carlisle,D. Nowitzki (10.9),#007DC5,#C4CED3,2.91,San Antonio Spurs (3-4)
+2014-15,Dallas Mavericks,American Airlines Center,50,0.61,0.2,R. Carlisle,T. Chandler (10.3),#007DC5,#C4CED3,3.36,Houston Rockets (1-4)
+2015-16,Dallas Mavericks,American Airlines Center,42,0.512,0.2,R. Carlisle,D. Nowitzki (6.8),#007DC5,#C4CED3,-0.02,Oklahoma City Thunder (1-4)
 2016-17,Dallas Mavericks,American Airlines Center,33,0.402,0,R. Carlisle,S. Curry (4.6),#007DC5,#C4CED3,-2.53,
 2017-18,Dallas Mavericks,American Airlines Center,24,0.293,0,R. Carlisle,D. Powell (6.6),#007DC5,#C4CED3,-2.7,
