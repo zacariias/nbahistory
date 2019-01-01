@@ -1,58 +1,58 @@
 season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent
-1961-62,Chicago Packers,International Amphitheatre,18,0.225,0,J. Pollard,W. Bellamy (16.3),#002B5C,#E31837,-7.54,
-1962-63,Chicago Zephyrs,Chicago Coliseum,25,0.313,0,J. McMahon/S. Leonard,W. Bellamy (13.7),#002B5C,#E31837,-3.63,
-1963-64,Baltimore Bullets,Baltimore Civic Center,31,0.388,0,S. Leonard,W. Bellamy (14.4),#002B5C,#E31837,-1.59,
-1964-65,Baltimore Bullets,Baltimore Civic Center,37,0.463,0.6,B. Jeannette,W. Bellamy (12.1),#002B5C,#E31837,-1.97,Los Angeles Lakers (2-4)
-1965-66,Baltimore Bullets,Baltimore Civic Center,38,0.475,0.4,P. Seymour,B. Howell (8.7),#002B5C,#E31837,-1.06,St. Louis Hawks (0-3)
-1966-67,Baltimore Bullets,Baltimore Civic Center,20,0.247,0,M. Farmer/B. Jeannette/G. Shue,G. Johnson (5.0),#002B5C,#E31837,-5.87,
-1967-68,Baltimore Bullets,Baltimore Civic Center,36,0.439,0,G. Shue,E. Monroe (9.3),#002B5C,#E31837,-0.23,
-1968-69,Baltimore Bullets,Baltimore Civic Center,57,0.695,0.4,G. Shue,W. Unseld (10.8),#002B5C,#E31837,4.05,New York Knicks (0-4)
-1969-70,Baltimore Bullets,Baltimore Civic Center,50,0.61,0.4,G. Shue,W. Unseld (11.1),#002B5C,#E31837,1.94,New York Knicks (3-4)
-1970-71,Baltimore Bullets,Baltimore Civic Center,42,0.512,0.8,G. Shue,W. Unseld (10.0),#002B5C,#E31837,0.91,Milwaukee Bucks (0-4)
-1971-72,Baltimore Bullets,Baltimore Civic Center,38,0.463,0.4,G. Shue,A. Clark (10.7),#002B5C,#E31837,-1.26,New York Knicks (2-4)
-1972-73,Baltimore Bullets,Baltimore Civic Center,52,0.634,0.4,G. Shue,M. Riordan (11.1),#002B5C,#E31837,2.85,New York Knicks (1-4)
-1973-74,Capital Bullets,Capital Centre,47,0.573,0.4,K. Jones,E. Hayes (10.6),#002B5C,#E31837,1.19,New York Knicks (3-4)
-1974-75,Washington Bullets,Capital Centre,60,0.732,0.8,K. Jones,E. Hayes (12.5),#002B5C,#E31837,6.53,Golden State Warriors (0-4)
-1975-76,Washington Bullets,Capital Centre,48,0.585,0.4,K. Jones,W. Unseld (9.5),#002B5C,#E31837,2.2,Cleveland Cavaliers (3-4)
-1976-77,Washington Bullets,Capital Centre,48,0.585,0.4,D. Motta,E. Hayes (12.1),#002B5C,#E31837,0.9,Houston Rockets (2-4)
-1977-78,Washington Bullets,Capital Centre,44,0.537,1,D. Motta,E. Hayes (8.3),#002B5C,#E31837,0.82,Seattle SuperSonics (4-3)
-1978-79,Washington Bullets,Capital Centre,54,0.659,0.8,D. Motta,E. Hayes (9.4),#002B5C,#E31837,4.75,Seattle SuperSonics (1-4)
-1979-80,Washington Bullets,Capital Centre,39,0.476,0.2,D. Motta,W. Unseld (8.4),#002B5C,#E31837,-2.27,Philadelphia 76ers (0-2)
-1980-81,Washington Bullets,Capital Centre,39,0.476,0,G. Shue,G. Ballard (6.9),#002B5C,#E31837,0.42,
-1981-82,Washington Bullets,Capital Centre,43,0.524,0.4,G. Shue,G. Ballard (9.4),#002B5C,#E31837,1.06,Boston Celtics (1-4)
-1982-83,Washington Bullets,Capital Centre,42,0.512,0,G. Shue,J. Ruland (10.1),#002B5C,#E31837,0.2,
-1983-84,Washington Bullets,Capital Centre,35,0.427,0.2,G. Shue,J. Ruland (9.3),#002B5C,#E31837,-2.36,Boston Celtics (1-3)
-1984-85,Washington Bullets,Capital Centre,40,0.488,0.2,G. Shue,G. Ballard (6.0),#002B5C,#E31837,0.15,Philadelphia 76ers (1-3)
-1985-86,Washington Bullets,Capital Centre,39,0.476,0.2,G. Shue/K. Loughery,J. Malone (6.1),#002B5C,#E31837,-1.28,Philadelphia 76ers (2-3)
-1986-87,Washington Bullets,Capital Centre,42,0.512,0.2,K. Loughery,M. Malone (9.4),#002B5C,#E31837,-1.02,Detroit Pistons (0-3)
-1987-88,Washington Bullets,Capital Centre,38,0.463,0.2,K. Loughery/W. Unseld,M. Malone (9.2),#002B5C,#E31837,-0.16,Detroit Pistons (2-3)
-1988-89,Washington Bullets,Capital Centre,40,0.488,0,W. Unseld,J. Williams (6.9),#002B5C,#E31837,-1.77,
-1989-90,Washington Bullets,Capital Centre,31,0.378,0,W. Unseld,D. Walker (6.3),#002B5C,#E31837,-2.43,
-1990-91,Washington Bullets,Capital Centre,30,0.366,0,W. Unseld,H. Grant (6.7),#002B5C,#E31837,-4.84,
-1991-92,Washington Bullets,Capital Centre,25,0.305,0,W. Unseld,P. Ellison (6.9),#002B5C,#E31837,-4.35,
-1992-93,Washington Bullets,Capital Centre,22,0.268,0,W. Unseld,H. Grant (5.0),#002B5C,#E31837,-6.49,
-1993-94,Washington Bullets,US Airways Arena,24,0.293,0,W. Unseld,D. MacLean (5.6),#002B5C,#E31837,-7.13,
-1994-95,Washington Bullets,US Airways Arena,21,0.256,0,J. Lynam,S. Skiles (4.5),#002B5C,#E31837,-5.56,
-1995-96,Washington Bullets,US Airways Arena,39,0.476,0,J. Lynam,G. Muresan (8.0),#002B5C,#E31837,0.99,
-1996-97,Washington Bullets,US Airways Arena,44,0.537,0.2,J. Lynam/B. Staak/B. Bickerstaff,C. Webber (9.3),#002B5C,#E31837,1.77,Chicago Bulls (0-3)
-1997-98,Washington Wizards,MCI Center,42,0.512,0,B. Bickerstaff,C. Webber (8.3),#002B5C,#E31837,1.11,
-1998-99,Washington Wizards,MCI Center,18,0.36,0,B. Bickerstaff/J. Brovelli,R. Strickland (4.1),#002B5C,#E31837,-1.75,
-1999-00,Washington Wizards,MCI Center,29,0.354,0,G. Heard/D. Walker,M. Richmond (5.2),#002B5C,#E31837,-3.47,
-2000-01,Washington Wizards,MCI Center,19,0.232,0,L. Hamilton,M. Smith (3.6),#002B5C,#E31837,-6.75,
-2001-02,Washington Wizards,MCI Center,37,0.451,0,D. Collins,C. Whitney (6.5),#002B5C,#E31837,-1.58,
-2002-03,Washington Wizards,MCI Center,37,0.451,0,D. Collins,C. Laettner (6.6),#002B5C,#E31837,-1.47,
-2003-04,Washington Wizards,MCI Center,25,0.305,0,E. Jordan,K. Brown (4.9),#002B5C,#E31837,-6.12,
-2004-05,Washington Wizards,MCI Center,45,0.549,0.4,E. Jordan,G. Arenas (11.5),#002B5C,#E31837,-0.71,Miami Heat (0-4)
-2005-06,Washington Wizards,MCI Center,42,0.512,0.2,E. Jordan,G. Arenas (13.6),#002B5C,#E31837,1.57,Cleveland Cavaliers (2-4)
-2006-07,Washington Wizards,Verizon Center,41,0.5,0.2,E. Jordan,G. Arenas (10.8),#002B5C,#E31837,-0.8,Cleveland Cavaliers (0-4)
-2007-08,Washington Wizards,Verizon Center,43,0.524,0.2,E. Jordan,A. Jamison (9.2),#002B5C,#E31837,-0.61,Cleveland Cavaliers (2-4)
-2008-09,Washington Wizards,Verizon Center,19,0.232,0,E. Jordan/E. Tapscott,A. Jamison (8.1),#002B5C,#E31837,-6.98,
-2009-10,Washington Wizards,Verizon Center,26,0.317,0,F. Saunders,B. Haywood (4.5),#002B5C,#E31837,-4.72,
-2010-11,Washington Wizards,Verizon Center,23,0.28,0,F. Saunders,J. McGee (5.3),#002B5C,#E31837,-7.3,
-2011-12,Washington Wizards,Verizon Center,20,0.303,0,F. Saunders/R. Wittman,J. Wall (3.5),#002B5C,#E31837,-5.14,
-2012-13,Washington Wizards,Verizon Center,29,0.354,0,R. Wittman,M. Webster (6.3),#002B5C,#E31837,-2.78,
-2013-14,Washington Wizards,Verizon Center,44,0.537,0.4,R. Wittman,M. Gortat (8.1),#002B5C,#E31837,0.48,Indiana Pacers (2-4)
-2014-15,Washington Wizards,Verizon Center,46,0.561,0.4,R. Wittman,M. Gortat (8.6),#002B5C,#E31837,0.17,Atlanta Hawks (2-4)
-2015-16,Washington Wizards,Verizon Center,41,0.5,0,R. Wittman,M. Gortat (7.3),#002B5C,#E31837,-0.5,
-2016-17,Washington Wizards,Verizon Center,49,0.598,0.4,S. Brooks,O. Porter (9.4),#002B5C,#E31837,1.36,Boston Celtics (3-4)
-2017-18,Washington Wizards,Capital One Arena,43,0.524,0.2,S. Brooks,O. Porter (8.1),#002B5C,#E31837,0.53,Toronto Raptors (2-4)
+1961-62,Chicago Packers,International Amphitheatre,18,0.225,0,J. Pollard,W. Bellamy (16.3),#E31837,#002B5C,-7.54,
+1962-63,Chicago Zephyrs,Chicago Coliseum,25,0.313,0,J. McMahon/S. Leonard,W. Bellamy (13.7),#E31837,#002B5C,-3.63,
+1963-64,Baltimore Bullets,Baltimore Civic Center,31,0.388,0,S. Leonard,W. Bellamy (14.4),#E31837,#002B5C,-1.59,
+1964-65,Baltimore Bullets,Baltimore Civic Center,37,0.463,0.6,B. Jeannette,W. Bellamy (12.1),#E31837,#002B5C,-1.97,Los Angeles Lakers (2-4)
+1965-66,Baltimore Bullets,Baltimore Civic Center,38,0.475,0.4,P. Seymour,B. Howell (8.7),#E31837,#002B5C,-1.06,St. Louis Hawks (0-3)
+1966-67,Baltimore Bullets,Baltimore Civic Center,20,0.247,0,M. Farmer/B. Jeannette/G. Shue,G. Johnson (5.0),#E31837,#002B5C,-5.87,
+1967-68,Baltimore Bullets,Baltimore Civic Center,36,0.439,0,G. Shue,E. Monroe (9.3),#E31837,#002B5C,-0.23,
+1968-69,Baltimore Bullets,Baltimore Civic Center,57,0.695,0.4,G. Shue,W. Unseld (10.8),#E31837,#002B5C,4.05,New York Knicks (0-4)
+1969-70,Baltimore Bullets,Baltimore Civic Center,50,0.61,0.4,G. Shue,W. Unseld (11.1),#E31837,#002B5C,1.94,New York Knicks (3-4)
+1970-71,Baltimore Bullets,Baltimore Civic Center,42,0.512,0.8,G. Shue,W. Unseld (10.0),#E31837,#002B5C,0.91,Milwaukee Bucks (0-4)
+1971-72,Baltimore Bullets,Baltimore Civic Center,38,0.463,0.4,G. Shue,A. Clark (10.7),#E31837,#002B5C,-1.26,New York Knicks (2-4)
+1972-73,Baltimore Bullets,Baltimore Civic Center,52,0.634,0.4,G. Shue,M. Riordan (11.1),#E31837,#002B5C,2.85,New York Knicks (1-4)
+1973-74,Capital Bullets,Capital Centre,47,0.573,0.4,K. Jones,E. Hayes (10.6),#E31837,#002B5C,1.19,New York Knicks (3-4)
+1974-75,Washington Bullets,Capital Centre,60,0.732,0.8,K. Jones,E. Hayes (12.5),#E31837,#002B5C,6.53,Golden State Warriors (0-4)
+1975-76,Washington Bullets,Capital Centre,48,0.585,0.4,K. Jones,W. Unseld (9.5),#E31837,#002B5C,2.2,Cleveland Cavaliers (3-4)
+1976-77,Washington Bullets,Capital Centre,48,0.585,0.4,D. Motta,E. Hayes (12.1),#E31837,#002B5C,0.9,Houston Rockets (2-4)
+1977-78,Washington Bullets,Capital Centre,44,0.537,1,D. Motta,E. Hayes (8.3),#E31837,#002B5C,0.82,Seattle SuperSonics (4-3)
+1978-79,Washington Bullets,Capital Centre,54,0.659,0.8,D. Motta,E. Hayes (9.4),#E31837,#002B5C,4.75,Seattle SuperSonics (1-4)
+1979-80,Washington Bullets,Capital Centre,39,0.476,0.2,D. Motta,W. Unseld (8.4),#E31837,#002B5C,-2.27,Philadelphia 76ers (0-2)
+1980-81,Washington Bullets,Capital Centre,39,0.476,0,G. Shue,G. Ballard (6.9),#E31837,#002B5C,0.42,
+1981-82,Washington Bullets,Capital Centre,43,0.524,0.4,G. Shue,G. Ballard (9.4),#E31837,#002B5C,1.06,Boston Celtics (1-4)
+1982-83,Washington Bullets,Capital Centre,42,0.512,0,G. Shue,J. Ruland (10.1),#E31837,#002B5C,0.2,
+1983-84,Washington Bullets,Capital Centre,35,0.427,0.2,G. Shue,J. Ruland (9.3),#E31837,#002B5C,-2.36,Boston Celtics (1-3)
+1984-85,Washington Bullets,Capital Centre,40,0.488,0.2,G. Shue,G. Ballard (6.0),#E31837,#002B5C,0.15,Philadelphia 76ers (1-3)
+1985-86,Washington Bullets,Capital Centre,39,0.476,0.2,G. Shue/K. Loughery,J. Malone (6.1),#E31837,#002B5C,-1.28,Philadelphia 76ers (2-3)
+1986-87,Washington Bullets,Capital Centre,42,0.512,0.2,K. Loughery,M. Malone (9.4),#E31837,#002B5C,-1.02,Detroit Pistons (0-3)
+1987-88,Washington Bullets,Capital Centre,38,0.463,0.2,K. Loughery/W. Unseld,M. Malone (9.2),#E31837,#002B5C,-0.16,Detroit Pistons (2-3)
+1988-89,Washington Bullets,Capital Centre,40,0.488,0,W. Unseld,J. Williams (6.9),#E31837,#002B5C,-1.77,
+1989-90,Washington Bullets,Capital Centre,31,0.378,0,W. Unseld,D. Walker (6.3),#E31837,#002B5C,-2.43,
+1990-91,Washington Bullets,Capital Centre,30,0.366,0,W. Unseld,H. Grant (6.7),#E31837,#002B5C,-4.84,
+1991-92,Washington Bullets,Capital Centre,25,0.305,0,W. Unseld,P. Ellison (6.9),#E31837,#002B5C,-4.35,
+1992-93,Washington Bullets,Capital Centre,22,0.268,0,W. Unseld,H. Grant (5.0),#E31837,#002B5C,-6.49,
+1993-94,Washington Bullets,US Airways Arena,24,0.293,0,W. Unseld,D. MacLean (5.6),#E31837,#002B5C,-7.13,
+1994-95,Washington Bullets,US Airways Arena,21,0.256,0,J. Lynam,S. Skiles (4.5),#E31837,#002B5C,-5.56,
+1995-96,Washington Bullets,US Airways Arena,39,0.476,0,J. Lynam,G. Muresan (8.0),#E31837,#002B5C,0.99,
+1996-97,Washington Bullets,US Airways Arena,44,0.537,0.2,J. Lynam/B. Staak/B. Bickerstaff,C. Webber (9.3),#E31837,#002B5C,1.77,Chicago Bulls (0-3)
+1997-98,Washington Wizards,MCI Center,42,0.512,0,B. Bickerstaff,C. Webber (8.3),#E31837,#002B5C,1.11,
+1998-99,Washington Wizards,MCI Center,18,0.36,0,B. Bickerstaff/J. Brovelli,R. Strickland (4.1),#E31837,#002B5C,-1.75,
+1999-00,Washington Wizards,MCI Center,29,0.354,0,G. Heard/D. Walker,M. Richmond (5.2),#E31837,#002B5C,-3.47,
+2000-01,Washington Wizards,MCI Center,19,0.232,0,L. Hamilton,M. Smith (3.6),#E31837,#002B5C,-6.75,
+2001-02,Washington Wizards,MCI Center,37,0.451,0,D. Collins,C. Whitney (6.5),#E31837,#002B5C,-1.58,
+2002-03,Washington Wizards,MCI Center,37,0.451,0,D. Collins,C. Laettner (6.6),#E31837,#002B5C,-1.47,
+2003-04,Washington Wizards,MCI Center,25,0.305,0,E. Jordan,K. Brown (4.9),#E31837,#002B5C,-6.12,
+2004-05,Washington Wizards,MCI Center,45,0.549,0.4,E. Jordan,G. Arenas (11.5),#E31837,#002B5C,-0.71,Miami Heat (0-4)
+2005-06,Washington Wizards,MCI Center,42,0.512,0.2,E. Jordan,G. Arenas (13.6),#E31837,#002B5C,1.57,Cleveland Cavaliers (2-4)
+2006-07,Washington Wizards,Verizon Center,41,0.5,0.2,E. Jordan,G. Arenas (10.8),#E31837,#002B5C,-0.8,Cleveland Cavaliers (0-4)
+2007-08,Washington Wizards,Verizon Center,43,0.524,0.2,E. Jordan,A. Jamison (9.2),#E31837,#002B5C,-0.61,Cleveland Cavaliers (2-4)
+2008-09,Washington Wizards,Verizon Center,19,0.232,0,E. Jordan/E. Tapscott,A. Jamison (8.1),#E31837,#002B5C,-6.98,
+2009-10,Washington Wizards,Verizon Center,26,0.317,0,F. Saunders,B. Haywood (4.5),#E31837,#002B5C,-4.72,
+2010-11,Washington Wizards,Verizon Center,23,0.28,0,F. Saunders,J. McGee (5.3),#E31837,#002B5C,-7.3,
+2011-12,Washington Wizards,Verizon Center,20,0.303,0,F. Saunders/R. Wittman,J. Wall (3.5),#E31837,#002B5C,-5.14,
+2012-13,Washington Wizards,Verizon Center,29,0.354,0,R. Wittman,M. Webster (6.3),#E31837,#002B5C,-2.78,
+2013-14,Washington Wizards,Verizon Center,44,0.537,0.4,R. Wittman,M. Gortat (8.1),#E31837,#002B5C,0.48,Indiana Pacers (2-4)
+2014-15,Washington Wizards,Verizon Center,46,0.561,0.4,R. Wittman,M. Gortat (8.6),#E31837,#002B5C,0.17,Atlanta Hawks (2-4)
+2015-16,Washington Wizards,Verizon Center,41,0.5,0,R. Wittman,M. Gortat (7.3),#E31837,#002B5C,-0.5,
+2016-17,Washington Wizards,Verizon Center,49,0.598,0.4,S. Brooks,O. Porter (9.4),#E31837,#002B5C,1.36,Boston Celtics (3-4)
+2017-18,Washington Wizards,Capital One Arena,43,0.524,0.2,S. Brooks,O. Porter (8.1),#E31837,#002B5C,0.53,Toronto Raptors (2-4)

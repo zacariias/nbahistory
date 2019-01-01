@@ -1,31 +1,31 @@
 season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent
-1988-89,Miami Heat,Miami Arena,15,0.183,0,R. Rothstein,G. Long (4.6),#98002E,#F9A01B,-11.13,
-1989-90,Miami Heat,Miami Arena,18,0.22,0,R. Rothstein,S. Douglas (4.4),#98002E,#F9A01B,-9.59,
-1990-91,Miami Heat,Miami Arena,24,0.293,0,R. Rothstein,S. Douglas (5.4),#98002E,#F9A01B,-5.91,
-1991-92,Miami Heat,Miami Arena,38,0.463,0.2,K. Loughery,G. Rice (7.9),#98002E,#F9A01B,-3.94,Chicago Bulls (0-3)
-1992-93,Miami Heat,Miami Arena,36,0.439,0,K. Loughery,G. Long (6.5),#98002E,#F9A01B,-0.93,
-1993-94,Miami Heat,Miami Arena,42,0.512,0.2,K. Loughery,G. Rice (10.2),#98002E,#F9A01B,2.4,Atlanta Hawks (2-3)
-1994-95,Miami Heat,Miami Arena,32,0.39,0,K. Loughery/A. Gentry,G. Rice (10.0),#98002E,#F9A01B,-1.85,
-1995-96,Miami Heat,Miami Arena,42,0.512,0.2,P. Riley,A. Mourning (9.9),#98002E,#F9A01B,1.46,Chicago Bulls (0-3)
-1996-97,Miami Heat,Miami Arena,61,0.744,0.6,P. Riley,T. Hardaway (12.9),#98002E,#F9A01B,5.56,Chicago Bulls (1-4)
-1997-98,Miami Heat,Miami Arena,55,0.671,0.2,P. Riley,T. Hardaway (11.7),#98002E,#F9A01B,5.09,New York Knicks (2-3)
-1998-99,Miami Heat,Miami Arena,33,0.66,0.2,P. Riley,A. Mourning (7.9),#98002E,#F9A01B,5.11,New York Knicks (2-3)
-1999-00,Miami Heat,AmericanAirlines Arena,52,0.634,0.4,P. Riley,A. Mourning (12.9),#98002E,#F9A01B,2.75,New York Knicks (3-4)
-2000-01,Miami Heat,AmericanAirlines Arena,50,0.61,0.2,P. Riley,A. Mason (11.6),#98002E,#F9A01B,1.73,Charlotte Hornets (0-3)
-2001-02,Miami Heat,AmericanAirlines Arena,36,0.439,0,P. Riley,E. Jones (10.5),#98002E,#F9A01B,-1.84,
-2002-03,Miami Heat,AmericanAirlines Arena,25,0.305,0,P. Riley,B. Grant (7.7),#98002E,#F9A01B,-5.13,
-2003-04,Miami Heat,AmericanAirlines Arena,42,0.512,0.4,S. Van Gundy,E. Jones (9.1),#98002E,#F9A01B,-0.13,Indiana Pacers (2-4)
-2004-05,Miami Heat,AmericanAirlines Arena,59,0.72,0.6,S. Van Gundy,D. Wade (11.0),#98002E,#F9A01B,5.77,Detroit Pistons (3-4)
-2005-06,Miami Heat,AmericanAirlines Arena,52,0.634,1,S. Van Gundy/P. Riley,D. Wade (14.4),#98002E,#F9A01B,3.59,Dallas Mavericks (4-2)
-2006-07,Miami Heat,AmericanAirlines Arena,44,0.537,0.2,P. Riley,D. Wade (8.8),#98002E,#F9A01B,-1.21,Chicago Bulls (0-4)
-2007-08,Miami Heat,AmericanAirlines Arena,15,0.183,0,P. Riley,D. Wade (3.3),#98002E,#F9A01B,-8.53,
-2008-09,Miami Heat,AmericanAirlines Arena,43,0.524,0.2,E. Spoelstra,D. Wade (14.7),#98002E,#F9A01B,0.49,Atlanta Hawks (3-4)
-2009-10,Miami Heat,AmericanAirlines Arena,47,0.573,0.2,E. Spoelstra,D. Wade (13.0),#98002E,#F9A01B,1.99,Boston Celtics (1-4)
-2010-11,Miami Heat,AmericanAirlines Arena,58,0.707,0.8,E. Spoelstra,L. James (15.6),#98002E,#F9A01B,6.76,Dallas Mavericks (2-4)
-2011-12,Miami Heat,AmericanAirlines Arena,46,0.697,1,E. Spoelstra,L. James (14.5),#98002E,#F9A01B,5.72,Oklahoma City Thunder (4-1)
-2012-13,Miami Heat,AmericanAirlines Arena,66,0.805,1,E. Spoelstra,L. James (19.3),#98002E,#F9A01B,7.03,San Antonio Spurs (4-3)
-2013-14,Miami Heat,AmericanAirlines Arena,54,0.659,0.8,E. Spoelstra,L. James (15.9),#98002E,#F9A01B,4.15,San Antonio Spurs (1-4)
-2014-15,Miami Heat,AmericanAirlines Arena,37,0.451,0,E. Spoelstra,L. Deng (5.4),#98002E,#F9A01B,-2.92,
-2015-16,Miami Heat,AmericanAirlines Arena,48,0.585,0.4,E. Spoelstra,H. Whiteside (10.3),#98002E,#F9A01B,1.5,Toronto Raptors (3-4)
-2016-17,Miami Heat,AmericanAirlines Arena,41,0.5,0,E. Spoelstra,H. Whiteside (9.4),#98002E,#F9A01B,0.77,
-2017-18,Miami Heat,AmericanAirlines Arena,44,0.537,0.2,E. Spoelstra,K. Olynyk (5.5),#98002E,#F9A01B,0.15,Philadelphia 76ers (1-4)
+1988-89,Miami Heat,Miami Arena,15,0.183,0,R. Rothstein,G. Long (4.6),#000000,#98002E,-11.13,
+1989-90,Miami Heat,Miami Arena,18,0.22,0,R. Rothstein,S. Douglas (4.4),#000000,#98002E,-9.59,
+1990-91,Miami Heat,Miami Arena,24,0.293,0,R. Rothstein,S. Douglas (5.4),#000000,#98002E,-5.91,
+1991-92,Miami Heat,Miami Arena,38,0.463,0.2,K. Loughery,G. Rice (7.9),#000000,#98002E,-3.94,Chicago Bulls (0-3)
+1992-93,Miami Heat,Miami Arena,36,0.439,0,K. Loughery,G. Long (6.5),#000000,#98002E,-0.93,
+1993-94,Miami Heat,Miami Arena,42,0.512,0.2,K. Loughery,G. Rice (10.2),#000000,#98002E,2.4,Atlanta Hawks (2-3)
+1994-95,Miami Heat,Miami Arena,32,0.39,0,K. Loughery/A. Gentry,G. Rice (10.0),#000000,#98002E,-1.85,
+1995-96,Miami Heat,Miami Arena,42,0.512,0.2,P. Riley,A. Mourning (9.9),#000000,#98002E,1.46,Chicago Bulls (0-3)
+1996-97,Miami Heat,Miami Arena,61,0.744,0.6,P. Riley,T. Hardaway (12.9),#000000,#98002E,5.56,Chicago Bulls (1-4)
+1997-98,Miami Heat,Miami Arena,55,0.671,0.2,P. Riley,T. Hardaway (11.7),#000000,#98002E,5.09,New York Knicks (2-3)
+1998-99,Miami Heat,Miami Arena,33,0.66,0.2,P. Riley,A. Mourning (7.9),#000000,#98002E,5.11,New York Knicks (2-3)
+1999-00,Miami Heat,AmericanAirlines Arena,52,0.634,0.4,P. Riley,A. Mourning (12.9),#000000,#98002E,2.75,New York Knicks (3-4)
+2000-01,Miami Heat,AmericanAirlines Arena,50,0.61,0.2,P. Riley,A. Mason (11.6),#000000,#98002E,1.73,Charlotte Hornets (0-3)
+2001-02,Miami Heat,AmericanAirlines Arena,36,0.439,0,P. Riley,E. Jones (10.5),#000000,#98002E,-1.84,
+2002-03,Miami Heat,AmericanAirlines Arena,25,0.305,0,P. Riley,B. Grant (7.7),#000000,#98002E,-5.13,
+2003-04,Miami Heat,AmericanAirlines Arena,42,0.512,0.4,S. Van Gundy,E. Jones (9.1),#000000,#98002E,-0.13,Indiana Pacers (2-4)
+2004-05,Miami Heat,AmericanAirlines Arena,59,0.72,0.6,S. Van Gundy,D. Wade (11.0),#000000,#98002E,5.77,Detroit Pistons (3-4)
+2005-06,Miami Heat,AmericanAirlines Arena,52,0.634,1,S. Van Gundy/P. Riley,D. Wade (14.4),#000000,#98002E,3.59,Dallas Mavericks (4-2)
+2006-07,Miami Heat,AmericanAirlines Arena,44,0.537,0.2,P. Riley,D. Wade (8.8),#000000,#98002E,-1.21,Chicago Bulls (0-4)
+2007-08,Miami Heat,AmericanAirlines Arena,15,0.183,0,P. Riley,D. Wade (3.3),#000000,#98002E,-8.53,
+2008-09,Miami Heat,AmericanAirlines Arena,43,0.524,0.2,E. Spoelstra,D. Wade (14.7),#000000,#98002E,0.49,Atlanta Hawks (3-4)
+2009-10,Miami Heat,AmericanAirlines Arena,47,0.573,0.2,E. Spoelstra,D. Wade (13.0),#000000,#98002E,1.99,Boston Celtics (1-4)
+2010-11,Miami Heat,AmericanAirlines Arena,58,0.707,0.8,E. Spoelstra,L. James (15.6),#000000,#98002E,6.76,Dallas Mavericks (2-4)
+2011-12,Miami Heat,AmericanAirlines Arena,46,0.697,1,E. Spoelstra,L. James (14.5),#000000,#98002E,5.72,Oklahoma City Thunder (4-1)
+2012-13,Miami Heat,AmericanAirlines Arena,66,0.805,1,E. Spoelstra,L. James (19.3),#000000,#98002E,7.03,San Antonio Spurs (4-3)
+2013-14,Miami Heat,AmericanAirlines Arena,54,0.659,0.8,E. Spoelstra,L. James (15.9),#000000,#98002E,4.15,San Antonio Spurs (1-4)
+2014-15,Miami Heat,AmericanAirlines Arena,37,0.451,0,E. Spoelstra,L. Deng (5.4),#000000,#98002E,-2.92,
+2015-16,Miami Heat,AmericanAirlines Arena,48,0.585,0.4,E. Spoelstra,H. Whiteside (10.3),#000000,#98002E,1.5,Toronto Raptors (3-4)
+2016-17,Miami Heat,AmericanAirlines Arena,41,0.5,0,E. Spoelstra,H. Whiteside (9.4),#000000,#98002E,0.77,
+2017-18,Miami Heat,AmericanAirlines Arena,44,0.537,0.2,E. Spoelstra,K. Olynyk (5.5),#000000,#98002E,0.15,Philadelphia 76ers (1-4)
