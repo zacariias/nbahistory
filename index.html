@@ -132,6 +132,10 @@ var tip = d3.tip()
 var tip2 = d3.tip()
     .attr('class', 'd3-tip')
     .offset([-20, 0])
+    .html(function(d) {return "Average margin of victory: <span>" + Math.round(d.srs * 10) / 10 + "</span>" ;});
+var tip3 = d3.tip()
+    .attr('class', 'd3-tip')
+    .offset([-20, 0])
     .html(function(d) {
         if(d.playoffs==1){return "Defeated <span>" + d.opponent + "</span>"}
         else{return "Defeated by <span>" + d.opponent + "</span>";}});
@@ -197,7 +201,8 @@ srs.append("text")
         .style("opacity", 0);
     });
 regularseason.call(tip);
-playoffs.call(tip2);
+srs.call(tip2);
+playoffs.call(tip3);
 function showATL(){d3.csv("teams/ATL.csv",type,update)}
 function showBKN(){d3.csv("teams/BKN.csv",type,update)}
 function showBOS(){d3.csv("teams/BOS.csv",type,update)}
@@ -329,6 +334,20 @@ srs.selectAll(".bar2")
     .attr("width",x.rangeBand())
     .style("fill",function(d){return d.color2})
     .style("opacity","1");
+srs.selectAll(".invisible").remove();
+srs.selectAll(".invisible")
+    .data(data)
+    .enter()
+    .append("rect")
+    .attr("class","invisible")
+    .attr("x",function(d){return x(d.season);})
+    .attr("y",function(d){return y2(Math.max(0, d.srs));})
+    .attr("height",function(d){return Math.abs(y2(d.srs) - y2(0));})
+    .attr("width",x.rangeBand())
+    .style("fill","white")
+    .style("opacity","0")
+    .on('mouseover', function(d) {tip2.show(d); d3.select(this).style("opacity", "0.4");})
+    .on('mouseout', function(d) {tip2.hide(d); d3.select(this).style("opacity", "0");});
 playoffs.selectAll(".bar3").remove();
 playoffs.selectAll(".bar3")
     .data(data)
@@ -360,8 +379,8 @@ playoffs.selectAll(".invisible")
     .attr("width",x.rangeBand())
     .style("fill","white")
     .style("opacity","0")
-    .on('mouseover', function(d) {tip2.show(d); d3.select(this).style("opacity", "0.4");})
-    .on('mouseout', function(d) {tip2.hide(d); d3.select(this).style("opacity", "0");});
+    .on('mouseover', function(d) {tip3.show(d); d3.select(this).style("opacity", "0.4");})
+    .on('mouseout', function(d) {tip3.hide(d); d3.select(this).style("opacity", "0");});
 }
 function type(d){d.winpercent = +d.winpercent;return d;};
 </script>
