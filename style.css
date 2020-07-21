@@ -5,21 +5,21 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
   letter-spacing: 0.5px;
-  }
+}
 .axis path, .axis line {
   stroke: #000;
-  }
+}
 .x.axis path, .x.axis line, .y.axis path {
   display: none;
-  }
+}
 .tick line {
   stroke-width: 2;
   opacity: 0.1;
-  }
+}
 .label {
   font-size: 11px;
   letter-spacing: 0;
-  }
+}
 .tooltip {
   position: absolute;
   width: 130px;
@@ -27,18 +27,18 @@ body {
   background: #000;
   border-radius: 5px;
   color: #fff;
-  }
+}
 p#logos {
   margin: 20px 0 0 180px;
   width: 1020px;
-  }
+}
 p#logos img {
   cursor: pointer;
   display: block;
   float: left;
   margin: 0px 4px 10px 4px;
   padding: 0;
-  }
+}
 h1 {
   font-size: 30px;
   clear: both;
@@ -47,27 +47,27 @@ h1 {
   padding: 30px 0 0 180px;
   letter-spacing: 3px;
   text-align: center;
-  }
+}
 p#credit {
   color: #aaa;
   text-align: center;
   width: 1020px;
   margin: 40px 0 50px 180px;
   font-weight: 400;
-  }
+}
 p#credit span {
   padding: 0 10px;
-  }
+}
 a {
   color: #000;
   text-decoration: none;
-  }
+}
 .d3-tip {
   padding: 10px;
   background: #000;
   border-radius: 5px;
   color: #fff;
-  }
+}
 .d3-tip span {
   font-weight: bold;
-  }
+}
