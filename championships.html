@@ -14,13 +14,13 @@
 <h1 id="championships">Number of NBA Championships <img src="trophy.png"></h1>
 <div id="controls">
 <p>Animation speed:
-<input type="radio" id="fast" name="speed" value="200">
+<input type="radio" id="fast" name="speed" value="100">
 <label for="fast">Fast</label>
-<input type="radio" id="medium" name="speed" value="500" checked>
+<input type="radio" id="medium" name="speed" value="500">
 <label for="medium">Medium</label>
-<input type="radio" id="slow" name="speed" value="800">
+<input type="radio" id="slow" name="speed" value="1000">
 <label for="slow">Slow</label></p>
-<button type="submit" id="play" onclick="play()">►</button>
+<input type="button" id="play" onclick="play()" value="►">
 </div>
 <h1 id="year">1946</h1>
 <div id="frame">
@@ -78,7 +78,6 @@
 <p>19</p>
 </div>
 <script>
-var interval = document.querySelector('input[name=speed]:checked').value;
 var gridX = 51;
 var gridY = 45;
 var year = document.getElementById("year");
@@ -113,6 +112,7 @@ var TOR = document.getElementById("TOR");
 var UTA = document.getElementById("UTA");
 var WAS = document.getElementById("WAS");
 function play() {
+  var interval = document.querySelector('input[name="speed"]:checked').value;
   setTimeout(function(){
     year.innerHTML = "1947";
     GSW.style.left = 180 + gridX + 'px';
