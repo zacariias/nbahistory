@@ -1,0 +1,26 @@
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent
+1995-96,Toronto Raptors,SkyDome,21,0.256,0,B. Malone,T. Murray (4.9),#CE1141,#000000,-7.2,
+1996-97,Toronto Raptors,SkyDome,30,0.366,0,D. Walker,D. Stoudamire (7.6),#CE1141,#000000,-2.56,
+1997-98,Toronto Raptors,SkyDome,16,0.195,0,D. Walker/B. Carter,D. Christie (4.0),#CE1141,#000000,-8.33,
+1998-99,Toronto Raptors,Air Canada Centre,23,0.46,0,B. Carter,V. Carter (5.0),#CE1141,#000000,-1.32,
+1999-00,Toronto Raptors,Air Canada Centre,45,0.549,0.2,B. Carter,V. Carter (11.8),#CE1141,#000000,-0.46,New York Knicks (0-3)
+2000-01,Toronto Raptors,Air Canada Centre,47,0.573,0.4,L. Wilkens,V. Carter (12.9),#CE1141,#000000,1.69,Philadelphia 76ers (3-4)
+2001-02,Toronto Raptors,Air Canada Centre,42,0.512,0.2,L. Wilkens,V. Carter (7.0),#CE1141,#000000,-0.71,Detroit Pistons (2-3)
+2002-03,Toronto Raptors,Air Canada Centre,24,0.293,0,L. Wilkens,A. Williams (5.5),#CE1141,#000000,-6.1,
+2003-04,Toronto Raptors,Air Canada Centre,33,0.402,0,K. O'Neill,D. Marshall (9.8),#CE1141,#000000,-3.42,
+2004-05,Toronto Raptors,Air Canada Centre,33,0.402,0,S. Mitchell,C. Bosh (6.8),#CE1141,#000000,-1.81,
+2005-06,Toronto Raptors,Air Canada Centre,27,0.329,0,S. Mitchell,C. Bosh (9.8),#CE1141,#000000,-3.03,
+2006-07,Toronto Raptors,Air Canada Centre,47,0.573,0.2,S. Mitchell,C. Bosh (9.6),#CE1141,#000000,0.61,New Jersey Nets (2-4)
+2007-08,Toronto Raptors,Air Canada Centre,41,0.5,0.2,S. Mitchell,J. Calderon (10.2),#CE1141,#000000,2.47,Orlando Magic (1-4)
+2008-09,Toronto Raptors,Air Canada Centre,33,0.402,0,S. Mitchell/J. Triano,C. Bosh (9.7),#CE1141,#000000,-2.54,
+2009-10,Toronto Raptors,Air Canada Centre,40,0.488,0,J. Triano,C. Bosh (9.6),#CE1141,#000000,-1.83,
+2010-11,Toronto Raptors,Air Canada Centre,22,0.268,0,J. Triano,A. Johnson (5.6),#CE1141,#000000,-6.28,
+2011-12,Toronto Raptors,Air Canada Centre,23,0.348,0,D. Casey,J. Calderon (5.1),#CE1141,#000000,-3.67,
+2012-13,Toronto Raptors,Air Canada Centre,34,0.415,0,D. Casey,A. Johnson (7.3),#CE1141,#000000,-1.96,
+2013-14,Toronto Raptors,Air Canada Centre,48,0.585,0.2,D. Casey,K. Lowry (11.7),#CE1141,#000000,2.55,Brooklyn Nets (3-4)
+2014-15,Toronto Raptors,Air Canada Centre,49,0.598,0.2,D. Casey,J. Valanciunas (8.2),#CE1141,#000000,2.45,Washington Wizards (0-4)
+2015-16,Toronto Raptors,Air Canada Centre,56,0.683,0.6,D. Casey,K. Lowry (11.6),#CE1141,#000000,4.08,Cleveland Cavaliers (2-4)
+2016-17,Toronto Raptors,Air Canada Centre,51,0.622,0.4,D. Casey,K. Lowry (10.1),#CE1141,#000000,3.65,Cleveland Cavaliers (0-4)
+2017-18,Toronto Raptors,Air Canada Centre,59,0.72,0.4,D. Casey,K. Lowry (10.2),#CE1141,#000000,7.29,Cleveland Cavaliers (0-4)
+2018-19,Toronto Raptors,Scotiabank Arena,58,0.707,1,N. Nurse,K. Leonard (9.5),#CE1141,#000000,5.49,Golden State Warriors (4-2)
+2019-20,Toronto Raptors,Scotiabank Arena,53,0.736,0.4,N. Nurse,K. Lowry (7.5),#CE1141,#000000,5.97,Boston Celtics (3-4)

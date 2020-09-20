@@ -1,0 +1,755 @@
+<!DOCTYPE HTML>
+<html>
+<title>NBA History</title>
+<meta charset="utf-8">
+<meta property="og:title" content="nbahistory.org">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://www.nbahistory.org">
+<meta property="og:description" content="Visualizations of the history of the National Basketball Association">
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+<body>
+<a id="play" onclick="play()">►</a>
+<h1 id="year">1946</h1>
+<div id="frame">
+<p class="box" id="ATL"><img src="teams/ATL/logos/1950-1951.png"></p>
+<p class="box" id="BKN"><img src="teams/BKN/logos/1977.png"></p>
+<p class="box" id="BOS"><img src="teams/BOS/logos/1946-1950.png"></p>
+<p class="box" id="CHA"><img src="teams/CHA/logos/1989-2002.png"></p>
+<p class="box" id="CHI"><img src="teams/CHI/logos/1967-present.png"></p>
+<p class="box" id="CLE"><img src="teams/CLE/logos/1971-1983.png"></p>
+<p class="box" id="DAL"><img src="teams/DAL/logos/1981-1993.png"></p>
+<p class="box" id="DEN"><img src="teams/DEN/logos/1977-1981.png"></p>
+<p class="box" id="DET"><img src="teams/DET/logos/1949-1957.png"></p>
+<p class="box" id="GSW"><img src="teams/GSW/logos/1946-1951.png"></p>
+<p class="box" id="HOU"><img src="teams/HOU/logos/1968-1971.png"></p>
+<p class="box" id="IND"><img src="teams/IND/logos/1977-1990.png"></p>
+<p class="box" id="LAC"><img src="teams/LAC/logos/1971.png"></p>
+<p class="box" id="LAL"><img src="teams/LAL/logos/1949-1960.png"></p>
+<p class="box" id="MEM"><img src="teams/MEM/logos/1996-2001.png"></p>
+<p class="box" id="MIA"><img src="teams/MIA/logos/1989-1999.png"></p>
+<p class="box" id="MIL"><img src="teams/MIL/logos/1969-1993.png"></p>
+<p class="box" id="MIN"><img src="teams/MIN/logos/1990-1996.png"></p>
+<p class="box" id="NOP"><img src="teams/NOP/logos/2003-2008.png"></p>
+<p class="box" id="NYK"><img src="teams/NYK/logos/1946-1964.png"></p>
+<p class="box" id="OKC"><img src="teams/OKC/logos/1968-1970.png"></p>
+<p class="box" id="ORL"><img src="teams/ORL/logos/1990-2000.png"></p>
+<p class="box" id="PHI"><img src="teams/PHI/logos/1950-1963.png"></p>
+<p class="box" id="PHO"><img src="teams/PHO/logos/1969-1992.png"></p>
+<p class="box" id="POR"><img src="teams/POR/logos/1971-1990.png"></p>
+<p class="box" id="SAC"><img src="teams/SAC/logos/1949-1957.png"></p>
+<p class="box" id="SAS"><img src="teams/SAS/logos/1977-1989.png"></p>
+<p class="box" id="TOR"><img src="teams/TOR/logos/1996-2008.png"></p>
+<p class="box" id="UTA"><img src="teams/UTA/logos/1975-1979.png"></p>
+<p class="box" id="WAS"><img src="teams/WAS/logos/1962.png"></p>
+</div>
+<div id="labels">
+<p>0</p>
+<p>1</p>
+<p>2</p>
+<p>3</p>
+<p>4</p>
+<p>5</p>
+<p>6</p>
+<p>7</p>
+<p>8</p>
+<p>9</p>
+<p>10</p>
+<p>11</p>
+<p>12</p>
+<p>13</p>
+<p>14</p>
+<p>15</p>
+<p>16</p>
+<p>17</p>
+<p>18</p>
+<p>19</p>
+<p id="championships">Number of NBA Championships <img src="trophy.png"></p>
+</div>
+<script>
+var interval = 700;
+var gridX = 51;
+var gridY = 45;
+var year = document.getElementById("year");
+var ATL = document.getElementById("ATL");
+var BKN = document.getElementById("BKN");
+var BOS = document.getElementById("BOS");
+var CHA = document.getElementById("CHA");
+var CHI = document.getElementById("CHI");
+var CLE = document.getElementById("CLE");
+var DAL = document.getElementById("DAL");
+var DEN = document.getElementById("DEN");
+var DET = document.getElementById("DET");
+var GSW = document.getElementById("GSW");
+var HOU = document.getElementById("HOU");
+var IND = document.getElementById("IND");
+var LAC = document.getElementById("LAC");
+var LAL = document.getElementById("LAL");
+var MEM = document.getElementById("MEM");
+var MIA = document.getElementById("MIA");
+var MIL = document.getElementById("MIL");
+var MIN = document.getElementById("MIN");
+var NOP = document.getElementById("NOP");
+var NYK = document.getElementById("NYK");
+var OKC = document.getElementById("OKC");
+var ORL = document.getElementById("ORL");
+var PHI = document.getElementById("PHI");
+var PHO = document.getElementById("PHO");
+var POR = document.getElementById("POR");
+var SAC = document.getElementById("SAC");
+var SAS = document.getElementById("SAS");
+var TOR = document.getElementById("TOR");
+var UTA = document.getElementById("UTA");
+var WAS = document.getElementById("WAS");
+function play() {
+  setTimeout(function(){
+    year.innerHTML = "1947";
+    GSW.style.left = 180 + gridX + 'px';
+    GSW.style.top = gridY * 15 + 'px';
+  }, interval * 1);
+  setTimeout(function(){
+    year.innerHTML = "1948";
+  }, interval * 2);
+  setTimeout(function(){
+    year.innerHTML = "1949";
+    LAL.style.display = 'block';
+    LAL.style.left = 180 + gridX + 'px';
+    LAL.style.top = gridY * 14 + 'px';
+    SAC.style.display = 'block';
+    SAC.style.top = gridY * 13 + 'px';
+    DET.style.display = 'block';
+    DET.style.top = gridY * 12 + 'px';
+  }, interval * 3);
+  setTimeout(function(){
+    year.innerHTML = "1950";
+    LAL.style.left = 180 + gridX * 2 + 'px';
+    LAL.style.top = gridY * 15 + 'px';
+    ATL.style.display = 'block';
+    ATL.style.top = gridY * 10 + 'px';
+    PHI.style.display = 'block';
+    PHI.style.top = gridY * 11 + 'px';
+  }, interval * 4);
+  setTimeout(function(){
+    year.innerHTML = "1951";
+    document.querySelector("p#BOS img").src = 'teams/BOS/logos/1951-1960.png';
+    SAC.style.left = 180 + gridX + 'px';
+    SAC.style.top = gridY * 14 + 'px';
+    ATL.style.top = gridY * 11 + 'px';
+    DET.style.top = gridY * 13 + 'px';
+    PHI.style.top = gridY * 12 + 'px';
+  }, interval * 5);
+  setTimeout(function(){
+    year.innerHTML = "1952";
+    document.querySelector("p#GSW img").src = 'teams/GSW/logos/1952-1962.png';
+    document.querySelector("p#ATL img").src = 'teams/ATL/logos/1952-1955.png';
+    LAL.style.left = 180 + gridX * 3 + 'px';
+  }, interval * 6);
+  setTimeout(function(){
+    year.innerHTML = "1953";
+    LAL.style.left = 180 + gridX * 4 + 'px';
+  }, interval * 7);
+  setTimeout(function(){
+    year.innerHTML = "1954";
+    LAL.style.left = 180 + gridX * 5 + 'px';
+  }, interval * 8);
+  setTimeout(function(){
+    year.innerHTML = "1955";
+    PHI.style.left = 180 + gridX + 'px';
+    PHI.style.top = gridY * 13 + 'px';
+    ATL.style.top = gridY * 12 + 'px';
+  }, interval * 9);
+  setTimeout(function(){
+    year.innerHTML = "1956";
+    GSW.style.left = 180 + gridX * 2 + 'px';
+    SAC.style.top = gridY * 15 + 'px';
+    PHI.style.top = gridY * 14 + 'px';
+    document.querySelector("p#ATL img").src = 'teams/ATL/logos/1956-1957.png';
+  }, interval * 10);
+  setTimeout(function(){
+    year.innerHTML = "1957";
+    BOS.style.left = 180 + gridX + 'px';
+    BOS.style.top = gridY * 13 + 'px';
+    NYK.style.top = gridY * 15 + 'px';
+    DET.style.top = gridY * 14 + 'px';
+    ATL.style.top = gridY * 13 + 'px';
+  }, interval * 11);
+  setTimeout(function(){
+    year.innerHTML = "1958";
+    document.querySelector("p#ATL img").src = 'teams/ATL/logos/1958-1968.png';
+    document.querySelector("p#DET img").src = 'teams/DET/logos/1958-1971.png';
+    document.querySelector("p#SAC img").src = 'teams/SAC/logos/1958-1971.png';
+    ATL.style.top = gridY * 12 + 'px';
+    ATL.style.left = 180 + gridX + 'px';
+  }, interval * 12);
+  setTimeout(function(){
+    year.innerHTML = "1959";
+    BOS.style.top = gridY * 14 + 'px';
+    BOS.style.left = 180 + gridX * 2 + 'px';
+    ATL.style.top = gridY * 13 + 'px';
+  }, interval * 13);
+  setTimeout(function(){
+    year.innerHTML = "1960";
+    BOS.style.top = gridY * 15 + 'px';
+    BOS.style.left = 180 + gridX * 3 + 'px';
+  }, interval * 14);
+  setTimeout(function(){
+    year.innerHTML = "1961";
+    document.querySelector("p#BOS img").src = 'teams/BOS/logos/1961-1968.png';
+    document.querySelector("p#LAL img").src = 'teams/LAL/logos/1961-1976.png';
+    BOS.style.left = 180 + gridX * 4 + 'px';
+  }, interval * 15);
+  setTimeout(function(){
+    year.innerHTML = "1962";
+    BOS.style.left = 180 + gridX * 5 + 'px';
+    BOS.style.top = gridY * 14 + 'px';
+    WAS.style.display = 'block';
+    WAS.style.top = gridY * 13 + 'px';
+  }, interval * 16);
+  setTimeout(function(){
+    year.innerHTML = "1963";
+    BOS.style.left = 180 + gridX * 6 + 'px';
+    BOS.style.top = gridY * 15 + 'px';
+    document.querySelector("p#GSW img").src = 'teams/GSW/logos/1963-1969.png';
+    document.querySelector("p#WAS img").src = 'teams/WAS/logos/1963.png';
+  }, interval * 17);
+  setTimeout(function(){
+    year.innerHTML = "1964";
+    BOS.style.left = 180 + gridX * 7 + 'px';
+    document.querySelector("p#PHI img").src = 'teams/PHI/logos/1964-1977.png';
+    document.querySelector("p#WAS img").src = 'teams/WAS/logos/1964-1968.png';
+  }, interval * 18);
+  setTimeout(function(){
+    year.innerHTML = "1965";
+    BOS.style.left = 180 + gridX * 8 + 'px';
+    document.querySelector("p#NYK img").src = 'teams/NYK/logos/1965-1979.png';
+  }, interval * 19);
+  setTimeout(function(){
+    year.innerHTML = "1966";
+    BOS.style.left = 180 + gridX * 9 + 'px';
+  }, interval * 20);
+  setTimeout(function(){
+    year.innerHTML = "1967";
+    PHI.style.left = 180 + gridX * 2 + 'px';
+    CHI.style.display = 'block';
+    CHI.style.top = gridY * 12 + 'px';
+    ATL.style.top = gridY * 14 + 'px';
+  }, interval * 21);
+  setTimeout(function(){
+    year.innerHTML = "1968";
+    BOS.style.left = 180 + gridX * 10 + 'px';
+    OKC.style.display = 'block';
+    HOU.style.display = 'block';
+    OKC.style.top = gridY * 11 + 'px';
+    HOU.style.top = gridY * 10 + 'px';
+  }, interval * 22);
+  setTimeout(function(){
+    year.innerHTML = "1969";
+    BOS.style.left = 180 + gridX * 11 + 'px';
+    PHO.style.display = 'block';
+    MIL.style.display = 'block';
+    PHO.style.top = gridY * 9 + 'px';
+    MIL.style.top = gridY * 8 + 'px';
+    document.querySelector("p#BOS img").src = 'teams/BOS/logos/1969-1974.png';
+    document.querySelector("p#ATL img").src = 'teams/ATL/logos/1969.png';
+    document.querySelector("p#WAS img").src = 'teams/WAS/logos/1969.png';
+  }, interval * 23);
+  setTimeout(function(){
+    year.innerHTML = "1970";
+    NYK.style.left = 180 + gridX + 'px';
+    NYK.style.top = gridY * 13 + 'px';
+    PHO.style.top = gridY * 10 + 'px';
+    MIL.style.top = gridY * 9 + 'px';
+    DET.style.top = gridY * 15 + 'px';
+    WAS.style.top = gridY * 14 + 'px';
+    CHI.style.top = gridY * 13 + 'px';
+    OKC.style.top = gridY * 12 + 'px';
+    HOU.style.top = gridY * 11 + 'px';
+    document.querySelector("p#GSW img").src = 'teams/GSW/logos/1970-1971.png';
+    document.querySelector("p#ATL img").src = 'teams/ATL/logos/1970.png';
+    document.querySelector("p#WAS img").src = 'teams/WAS/logos/1970-1971.png';
+  }, interval * 24);
+  setTimeout(function(){
+    year.innerHTML = "1971";
+    MIL.style.left = 180 + gridX + 'px';
+    MIL.style.top = gridY * 12 + 'px';
+    POR.style.display = 'block';
+    CLE.style.display = 'block';
+    LAC.style.display = 'block';
+    POR.style.top = gridY * 7 + 'px';
+    CLE.style.top = gridY * 8 + 'px';
+    LAC.style.top = gridY * 9 + 'px';
+    document.querySelector("p#OKC img").src = 'teams/OKC/logos/1971.png';
+    document.querySelector("p#ATL img").src = 'teams/ATL/logos/1971-1972.png';
+  }, interval * 25);
+  setTimeout(function(){
+    year.innerHTML = "1972";
+    LAL.style.left = 180 + gridX * 6 + 'px';
+    document.querySelector("p#GSW img").src = 'teams/GSW/logos/1972-1975.png';
+    document.querySelector("p#SAC img").src = 'teams/SAC/logos/1972.png';
+    document.querySelector("p#DET img").src = 'teams/DET/logos/1972-1975.png';
+    document.querySelector("p#WAS img").src = 'teams/WAS/logos/1972.png';
+    document.querySelector("p#OKC img").src = 'teams/OKC/logos/1972-1975.png';
+    document.querySelector("p#HOU img").src = 'teams/HOU/logos/1972.png';
+    document.querySelector("p#LAC img").src = 'teams/LAC/logos/1972-1978.png';
+  }, interval * 26);
+  setTimeout(function(){
+    year.innerHTML = "1973";
+    NYK.style.left = 180 + gridX * 2 + 'px';
+    MIL.style.top = gridY * 13 + 'px';
+    document.querySelector("p#SAC img").src = 'teams/SAC/logos/1973-1975.png';
+    document.querySelector("p#WAS img").src = 'teams/WAS/logos/1973.png';
+    document.querySelector("p#HOU img").src = 'teams/HOU/logos/1973-1995.png';
+    document.querySelector("p#ATL img").src = 'teams/ATL/logos/1973-1995.png';
+  }, interval * 27);
+  setTimeout(function(){
+    year.innerHTML = "1974";
+    BOS.style.left = 180 + gridX * 12 + 'px';
+    document.querySelector("p#WAS img").src = 'teams/WAS/logos/1974.png';
+  }, interval * 28);
+  setTimeout(function(){
+    year.innerHTML = "1975";
+    GSW.style.left = 180 + gridX * 3 + 'px';
+    document.querySelector("p#WAS img").src = 'teams/WAS/logos/1975-1987.png';
+    document.querySelector("p#BOS img").src = 'teams/BOS/logos/1975-1996.png';
+    UTA.style.display = 'block';
+    UTA.style.top = gridY * 6 + 'px';
+    PHI.style.top = gridY * 15 + 'px';
+    NYK.style.top = gridY * 14 + 'px';
+  }, interval * 29);
+  setTimeout(function(){
+    year.innerHTML = "1976";
+    BOS.style.left = 180 + gridX * 13 + 'px';
+    document.querySelector("p#GSW img").src = 'teams/GSW/logos/1976-1988.png';
+    document.querySelector("p#SAC img").src = 'teams/SAC/logos/1976-1985.png';
+    document.querySelector("p#DET img").src = 'teams/DET/logos/1976-1979.png';
+    document.querySelector("p#OKC img").src = 'teams/OKC/logos/1976-1995.png';
+  }, interval * 30);
+  setTimeout(function(){
+    year.innerHTML = "1977";
+    POR.style.left = 180 + gridX + 'px';
+    POR.style.top = gridY * 12 + 'px';
+    document.querySelector("p#LAL img").src = 'teams/LAL/logos/1977-2001.png';
+    BKN.style.display = 'block';
+    IND.style.display = 'block';
+    DEN.style.display = 'block';
+    SAS.style.display = 'block';
+    UTA.style.top = gridY * 7 + 'px';
+    BKN.style.top = gridY * 6 + 'px';
+    IND.style.top = gridY * 5 + 'px';
+    DEN.style.top = gridY * 4 + 'px';
+    SAS.style.top = gridY * 3 + 'px';
+  }, interval * 31);
+  setTimeout(function(){
+    year.innerHTML = "1978";
+    WAS.style.left = 180 + gridX + 'px';
+    WAS.style.top = gridY * 11 + 'px';
+    document.querySelector("p#PHI img").src = 'teams/PHI/logos/1978-1997.png';
+    document.querySelector("p#BKN img").src = 'teams/BKN/logos/1978.png';
+    CHI.style.top = gridY * 14 + 'px';
+    OKC.style.top = gridY * 13 + 'px';
+    HOU.style.top = gridY * 12 + 'px';
+    PHO.style.top = gridY * 11 + 'px';
+    CLE.style.top = gridY * 10 + 'px';
+    LAC.style.top = gridY * 9 + 'px';
+    UTA.style.top = gridY * 8 + 'px';
+    BKN.style.top = gridY * 7 + 'px';
+    IND.style.top = gridY * 6 + 'px';
+    DEN.style.top = gridY * 5 + 'px';
+    SAS.style.top = gridY * 4 + 'px';
+  }, interval * 32);
+  setTimeout(function(){
+    year.innerHTML = "1979";
+    OKC.style.left = 180 + gridX + 'px';
+    OKC.style.top = gridY * 10 + 'px';
+    document.querySelector("p#LAC img").src = 'teams/LAC/logos/1979-1982.png';
+    document.querySelector("p#BKN img").src = 'teams/BKN/logos/1979-1990.png';
+    HOU.style.top = gridY * 13 + 'px';
+    PHO.style.top = gridY * 12 + 'px';
+    CLE.style.top = gridY * 11 + 'px';
+    LAC.style.top = gridY * 10 + 'px';
+    UTA.style.top = gridY * 9 + 'px';
+    BKN.style.top = gridY * 8 + 'px';
+    IND.style.top = gridY * 7 + 'px';
+    DEN.style.top = gridY * 6 + 'px';
+    SAS.style.top = gridY * 5 + 'px';
+  }, interval * 33);
+  setTimeout(function(){
+    year.innerHTML = "1980";
+    LAL.style.left = 180 + gridX * 7 + 'px';
+    document.querySelector("p#NYK img").src = 'teams/NYK/logos/1980-1983.png';
+    document.querySelector("p#DET img").src = 'teams/DET/logos/1980-1996.png';
+    document.querySelector("p#UTA img").src = 'teams/UTA/logos/1980-1996.png';
+  }, interval * 34);
+  setTimeout(function(){
+    year.innerHTML = "1981";
+    BOS.style.left = 180 + gridX * 14 + 'px';
+    DAL.style.display = 'block';
+    DAL.style.top = gridY * 4 + 'px';
+  }, interval * 35);
+  setTimeout(function(){
+    year.innerHTML = "1982";
+    LAL.style.left = 180 + gridX * 8 + 'px';
+    document.querySelector("p#DEN img").src = 'teams/DEN/logos/1982-1993.png';
+  }, interval * 36);
+  setTimeout(function(){
+    year.innerHTML = "1983";
+    PHI.style.left = 180 + gridX * 3 + 'px';
+    PHI.style.top = gridY * 14 + 'px';
+    NYK.style.top = gridY * 15 + 'px';
+    document.querySelector("p#LAC img").src = 'teams/LAC/logos/1983-1984.png';
+  }, interval * 37);
+  setTimeout(function(){
+    year.innerHTML = "1984";
+    BOS.style.left = 180 + gridX * 15 + 'px';
+    document.querySelector("p#NYK img").src = 'teams/NYK/logos/1984-1989.png';
+    document.querySelector("p#CLE img").src = 'teams/CLE/logos/1984-1994.png';
+  }, interval * 38);
+  setTimeout(function(){
+    year.innerHTML = "1985";
+    LAL.style.left = 180 + gridX * 9 + 'px';
+    document.querySelector("p#LAC img").src = 'teams/LAC/logos/1985-2010.png';
+  }, interval * 39);
+  setTimeout(function(){
+    year.innerHTML = "1986";
+    BOS.style.left = 180 + gridX * 16 + 'px';
+    document.querySelector("p#SAC img").src = 'teams/SAC/logos/1986-1994.png';
+  }, interval * 40);
+  setTimeout(function(){
+    year.innerHTML = "1987";
+    LAL.style.left = 180 + gridX * 10 + 'px';
+  }, interval * 41);
+  setTimeout(function(){
+    year.innerHTML = "1988";
+    LAL.style.left = 180 + gridX * 11 + 'px';
+    document.querySelector("p#WAS img").src = 'teams/WAS/logos/1988-1997.png';
+  }, interval * 42);
+  setTimeout(function(){
+    year.innerHTML = "1989";
+    DET.style.left = 180 + gridX + 'px';
+    document.querySelector("p#GSW img").src = 'teams/GSW/logos/1989-1997.png';
+    CHA.style.display = 'block';
+    MIA.style.display = 'block';
+    DET.style.top = gridY * 9 + 'px';
+    CHI.style.top = gridY * 15 + 'px';
+    HOU.style.top = gridY * 14 + 'px';
+    PHO.style.top = gridY * 13 + 'px';
+    CLE.style.top = gridY * 12 + 'px';
+    LAC.style.top = gridY * 11 + 'px';
+    UTA.style.top = gridY * 10 + 'px';
+    BKN.style.top = gridY * 9 + 'px';
+    IND.style.top = gridY * 8 + 'px';
+    DEN.style.top = gridY * 7 + 'px';
+    SAS.style.top = gridY * 6 + 'px';
+    DAL.style.top = gridY * 5 + 'px';
+    CHA.style.top = gridY * 4 + 'px';
+    MIA.style.top = gridY * 3 + 'px';
+  }, interval * 43);
+  setTimeout(function(){
+    year.innerHTML = "1990";
+    DET.style.left = 180 + gridX * 2 + 'px';
+    DET.style.top = gridY * 14 + 'px';
+    document.querySelector("p#NYK img").src = 'teams/NYK/logos/1990-1992.png';
+    document.querySelector("p#SAS img").src = 'teams/SAS/logos/1990-2002.png';
+    ORL.style.display = 'block';
+    MIN.style.display = 'block';
+    ORL.style.top = gridY * 2 + 'px';
+    MIN.style.top = gridY * 1 + 'px';
+  }, interval * 44);
+  setTimeout(function(){
+    year.innerHTML = "1991";
+    CHI.style.left = 180 + gridX + 'px';
+    CHI.style.top = gridY * 9 + 'px';
+    document.querySelector("p#POR img").src = 'teams/POR/logos/1991-2002.png';
+    document.querySelector("p#BKN img").src = 'teams/BKN/logos/1991-1997.png';
+    document.querySelector("p#IND img").src = 'teams/IND/logos/1991-2005.png';
+    HOU.style.top = gridY * 15 + 'px';
+    PHO.style.top = gridY * 14 + 'px';
+    CLE.style.top = gridY * 13 + 'px';
+    LAC.style.top = gridY * 12 + 'px';
+    UTA.style.top = gridY * 11 + 'px';
+    BKN.style.top = gridY * 10 + 'px';
+    IND.style.top = gridY * 9 + 'px';
+    DEN.style.top = gridY * 8 + 'px';
+    SAS.style.top = gridY * 7 + 'px';
+    DAL.style.top = gridY * 6 + 'px';
+    CHA.style.top = gridY * 5 + 'px';
+    MIA.style.top = gridY * 4 + 'px';
+    ORL.style.top = gridY * 3 + 'px';
+    MIN.style.top = gridY * 2 + 'px';
+  }, interval * 45);
+  setTimeout(function(){
+    year.innerHTML = "1992";
+    CHI.style.left = 180 + gridX * 2 + 'px';
+    CHI.style.top = gridY * 13 + 'px';
+  }, interval * 46);
+  setTimeout(function(){
+    year.innerHTML = "1993";
+    CHI.style.left = 180 + gridX * 3 + 'px';
+    CHI.style.top = gridY * 13 + 'px';
+    document.querySelector("p#NYK img").src = 'teams/NYK/logos/1993-1995.png';
+    document.querySelector("p#PHO img").src = 'teams/PHO/logos/1993-2000.png';
+  }, interval * 47);
+  setTimeout(function(){
+    year.innerHTML = "1994";
+    HOU.style.left = 180 + gridX + 'px';
+    HOU.style.top = gridY * 9 + 'px';
+    document.querySelector("p#MIL img").src = 'teams/MIL/logos/1994-2006.png';
+    document.querySelector("p#DEN img").src = 'teams/DEN/logos/1994-2003.png';
+    document.querySelector("p#DAL img").src = 'teams/DAL/logos/1994-2001.png';
+    PHO.style.top = gridY * 15 + 'px';
+    CLE.style.top = gridY * 14 + 'px';
+    LAC.style.top = gridY * 13 + 'px';
+    UTA.style.top = gridY * 12 + 'px';
+    BKN.style.top = gridY * 11 + 'px';
+    IND.style.top = gridY * 10 + 'px';
+    DEN.style.top = gridY * 9 + 'px';
+    SAS.style.top = gridY * 8 + 'px';
+    DAL.style.top = gridY * 7 + 'px';
+    CHA.style.top = gridY * 6 + 'px';
+    MIA.style.top = gridY * 5 + 'px';
+    ORL.style.top = gridY * 4 + 'px';
+    MIN.style.top = gridY * 3 + 'px';
+  }, interval * 48);
+  setTimeout(function(){
+    year.innerHTML = "1995";
+    HOU.style.left = 180 + gridX * 2 + 'px';
+    HOU.style.top = gridY * 13 + 'px';
+    document.querySelector("p#CLE img").src = 'teams/CLE/logos/1995-2003.png';
+    document.querySelector("p#SAC img").src = 'teams/SAC/logos/1995-2016.png';
+  }, interval * 49);
+  setTimeout(function(){
+    year.innerHTML = "1996";
+    CHI.style.left = 180 + gridX * 4 + 'px';
+    CHI.style.top = gridY * 15 + 'px';
+    document.querySelector("p#NYK img").src = 'teams/NYK/logos/1996-2011.png';
+    document.querySelector("p#ATL img").src = 'teams/ATL/logos/1996-2007.png';
+    document.querySelector("p#OKC img").src = 'teams/OKC/logos/1996-2001.png';
+    document.querySelector("p#HOU img").src = 'teams/HOU/logos/1996-2003.png';
+    TOR.style.display = 'block';
+    MEM.style.display = 'block';
+    TOR.style.top = gridY + 'px';
+    MEM.style.top = gridY * 2 + 'px';
+  }, interval * 50);
+  setTimeout(function(){
+    year.innerHTML = "1997";
+    CHI.style.left = 180 + gridX * 5 + 'px';
+    document.querySelector("p#BOS img").src = 'teams/BOS/logos/1997-present.png';
+    document.querySelector("p#DET img").src = 'teams/DET/logos/1997-2001.png';
+    document.querySelector("p#UTA img").src = 'teams/UTA/logos/1997-2004.png';
+    document.querySelector("p#MIN img").src = 'teams/MIN/logos/1997-2008.png';
+  }, interval * 51);
+  setTimeout(function(){
+    year.innerHTML = "1998";
+    CHI.style.left = 180 + gridX * 6 + 'px';
+    document.querySelector("p#GSW img").src = 'teams/GSW/logos/1998-2010.png';
+    document.querySelector("p#PHI img").src = 'teams/PHI/logos/1998-2009.png';
+    document.querySelector("p#WAS img").src = 'teams/WAS/logos/1998-2007.png';
+    document.querySelector("p#BKN img").src = 'teams/BKN/logos/1998-2012.png';
+  }, interval * 52);
+  setTimeout(function(){
+    year.innerHTML = "1999";
+    SAS.style.left = 180 + gridX + 'px';
+    SAS.style.top = gridY * 9 + 'px';
+    DAL.style.top = gridY * 8 + 'px';
+    CHA.style.top = gridY * 7 + 'px';
+    MIA.style.top = gridY * 6 + 'px';
+    ORL.style.top = gridY * 5 + 'px';
+    MIN.style.top = gridY * 4 + 'px';
+    MEM.style.top = gridY * 3 + 'px';
+    TOR.style.top = gridY * 2 + 'px';
+  }, interval * 53);
+  setTimeout(function(){
+    year.innerHTML = "2000";
+    LAL.style.left = 180 + gridX * 12 + 'px';
+    document.querySelector("p#MIA img").src = 'teams/MIA/logos/2000-present.png';
+  }, interval * 54);
+  setTimeout(function(){
+    year.innerHTML = "2001";
+    LAL.style.left = 180 + gridX * 13 + 'px';
+    document.querySelector("p#PHO img").src = 'teams/PHO/logos/2001-2013.png';
+    document.querySelector("p#ORL img").src = 'teams/ORL/logos/2001-2010.png';
+  }, interval * 55);
+  setTimeout(function(){
+    year.innerHTML = "2002";
+    LAL.style.left = 180 + gridX * 14 + 'px';
+    document.querySelector("p#LAL img").src = 'teams/LAL/logos/2002-present.png';
+    document.querySelector("p#DET img").src = 'teams/DET/logos/2002-2005.png';
+    document.querySelector("p#OKC img").src = 'teams/OKC/logos/2002-2008.png';
+    document.querySelector("p#DAL img").src = 'teams/DAL/logos/2002-2017.png';
+    document.querySelector("p#MEM img").src = 'teams/MEM/logos/2002-2004.png';
+  }, interval * 56);
+  setTimeout(function(){
+    year.innerHTML = "2003";
+    SAS.style.left = 180 + gridX * 2 + 'px';
+    SAS.style.top = gridY * 12 + 'px';
+    document.querySelector("p#POR img").src = 'teams/POR/logos/2003.png';
+    document.querySelector("p#SAS img").src = 'teams/SAS/logos/2003-2017.png';
+    CHA.style.display = 'none';
+    NOP.style.display = 'block';
+    NOP.style.top = gridY * 7 + 'px';
+  }, interval * 57);
+  setTimeout(function(){
+    year.innerHTML = "2004";
+    DET.style.left = 180 + gridX * 3 + 'px';
+    DET.style.top = gridY * 13 + 'px';
+    document.querySelector("p#POR img").src = 'teams/POR/logos/2004.png';
+    document.querySelector("p#HOU img").src = 'teams/HOU/logos/2004-2018.png';
+    document.querySelector("p#CLE img").src = 'teams/CLE/logos/2004-2010.png';
+    document.querySelector("p#DEN img").src = 'teams/DEN/logos/2004-2008.png';
+    HOU.style.top = gridY * 14 + 'px';
+    SAS.style.top = gridY * 13 + 'px';
+  }, interval * 58);
+  setTimeout(function(){
+    year.innerHTML = "2005";
+    SAS.style.left = 180 + gridX * 3 + 'px';
+    SAS.style.top = gridY * 12 + 'px';
+    document.querySelector("p#POR img").src = 'teams/POR/logos/2005-2017.png';
+    document.querySelector("p#UTA img").src = 'teams/UTA/logos/2005-2010.png';
+    document.querySelector("p#MEM img").src = 'teams/MEM/logos/2005-2018.png';
+    CHA.style.display = 'block';
+    document.querySelector("p#CHA img").src = 'teams/CHA/logos/2005-2007.png';
+    CHA.style.top = gridY * 1 + 'px';
+  }, interval * 59);
+  setTimeout(function(){
+    year.innerHTML = "2006";
+    MIA.style.left = 180 + gridX + 'px';
+    MIA.style.top = gridY * 9 + 'px';
+    document.querySelector("p#DET img").src = 'teams/DET/logos/2006-2017.png';
+    document.querySelector("p#IND img").src = 'teams/IND/logos/2006-2017.png';
+    ORL.style.top = gridY * 6 + 'px';
+    MIN.style.top = gridY * 5 + 'px';
+    MEM.style.top = gridY * 4 + 'px';
+    TOR.style.top = gridY * 3 + 'px';
+    CHA.style.top = gridY * 2 + 'px';
+  }, interval * 60);
+  setTimeout(function(){
+    year.innerHTML = "2007";
+    SAS.style.left = 180 + gridX * 4 + 'px';
+    SAS.style.top = gridY * 15 + 'px';
+    document.querySelector("p#MIL img").src = 'teams/MIL/logos/2007-2015.png';
+  }, interval * 61);
+  setTimeout(function(){
+    year.innerHTML = "2008";
+    BOS.style.left = 180 + gridX * 17 + 'px';
+    document.querySelector("p#ATL img").src = 'teams/ATL/logos/2008-2015.png';
+    document.querySelector("p#WAS img").src = 'teams/WAS/logos/2008-2011.png';
+    document.querySelector("p#CHA img").src = 'teams/CHA/logos/2008-2012.png';
+  }, interval * 62);
+  setTimeout(function(){
+    year.innerHTML = "2009";
+    LAL.style.left = 180 + gridX * 15 + 'px';
+    document.querySelector("p#OKC img").src = 'teams/OKC/logos/2009-present.png';
+    document.querySelector("p#DEN img").src = 'teams/DEN/logos/2009-2018.png';
+    document.querySelector("p#NOP img").src = 'teams/NOP/logos/2009-2013.png';
+    document.querySelector("p#MIN img").src = 'teams/MIN/logos/2009-2017.png';
+    document.querySelector("p#TOR img").src = 'teams/TOR/logos/2009-2015.png';
+  }, interval * 63);
+  setTimeout(function(){
+    year.innerHTML = "2010";
+    LAL.style.left = 180 + gridX * 16 + 'px';
+    document.querySelector("p#PHI img").src = 'teams/PHI/logos/2010-2015.png';
+  }, interval * 64);
+  setTimeout(function(){
+    year.innerHTML = "2011";
+    DAL.style.left = 180 + gridX + 'px';
+    document.querySelector("p#NYK img").src = 'teams/NYK/logos/2011-present.png';
+    document.querySelector("p#GSW img").src = 'teams/GSW/logos/2011-2019.png';
+    document.querySelector("p#LAC img").src = 'teams/LAC/logos/2011-2015.png';
+    document.querySelector("p#CLE img").src = 'teams/CLE/logos/2011-2017.png';
+    document.querySelector("p#UTA img").src = 'teams/UTA/logos/2011-2016.png';
+    document.querySelector("p#ORL img").src = 'teams/ORL/logos/2011-present.png';
+    NOP.style.top = gridY * 8 + 'px';
+    ORL.style.top = gridY * 7 + 'px';
+    MIN.style.top = gridY * 6 + 'px';
+    MEM.style.top = gridY * 5 + 'px';
+    TOR.style.top = gridY * 4 + 'px';
+    CHA.style.top = gridY * 3 + 'px';
+  }, interval * 65);
+  setTimeout(function(){
+    year.innerHTML = "2012";
+    MIA.style.left = 180 + gridX * 2 + 'px';
+    MIA.style.top = gridY * 13 + 'px';
+    document.querySelector("p#WAS img").src = 'teams/WAS/logos/2012-2015.png';
+    DAL.style.top = gridY * 9 + 'px';
+  }, interval * 66);
+  setTimeout(function(){
+    year.innerHTML = "2013";
+    MIA.style.left = 180 + gridX * 3 + 'px';
+    MIA.style.top = gridY * 12 + 'px';
+    document.querySelector("p#BKN img").src = 'teams/BKN/logos/2013-present.png';
+    document.querySelector("p#CHA img").src = 'teams/CHA/logos/2013-2014.png';
+  }, interval * 67);
+  setTimeout(function(){
+    year.innerHTML = "2014";
+    SAS.style.left = 180 + gridX * 5 + 'px';
+    document.querySelector("p#NOP img").src = 'teams/NOP/logos/2014-present.png';
+    document.querySelector("p#PHO img").src = 'teams/PHO/logos/2014-present.png';
+  }, interval * 68);
+  setTimeout(function(){
+    year.innerHTML = "2015";
+    GSW.style.left = 180 + gridX * 4 + 'px';
+    document.querySelector("p#WAS img").src = 'teams/WAS/logos/2015-present.png';
+    document.querySelector("p#CHA img").src = 'teams/CHA/logos/2015-present.png';
+    PHI.style.top = gridY * 15 + 'px';
+    DET.style.top = gridY * 14 + 'px';
+    MIA.style.top = gridY * 13 + 'px';
+  }, interval * 69);
+  setTimeout(function(){
+    year.innerHTML = "2016";
+    CLE.style.left = 180 + gridX + 'px';
+    CLE.style.top = gridY * 8 + 'px';
+    document.querySelector("p#PHI img").src = 'teams/PHI/logos/2016-present.png';
+    document.querySelector("p#ATL img").src = 'teams/ATL/logos/2016-present.png';
+    document.querySelector("p#MIL img").src = 'teams/MIL/logos/2016-present.png';
+    document.querySelector("p#LAC img").src = 'teams/LAC/logos/2016-present.png';
+    document.querySelector("p#TOR img").src = 'teams/TOR/logos/2016-present.png';
+    LAC.style.top = gridY * 14 + 'px';
+    UTA.style.top = gridY * 13 + 'px';
+    BKN.style.top = gridY * 12 + 'px';
+    IND.style.top = gridY * 11 + 'px';
+    DEN.style.top = gridY * 10 + 'px';
+    NOP.style.top = gridY * 9 + 'px';
+    ORL.style.top = gridY * 8 + 'px';
+    MIN.style.top = gridY * 7 + 'px';
+    MEM.style.top = gridY * 6 + 'px';
+    TOR.style.top = gridY * 5 + 'px';
+    CHA.style.top = gridY * 4 + 'px';
+  }, interval * 70);
+  setTimeout(function(){
+    year.innerHTML = "2017";
+    GSW.style.left = 180 + gridX * 5 + 'px';
+    GSW.style.top = gridY * 14 + 'px';
+    document.querySelector("p#SAC img").src = 'teams/SAC/logos/2017-present.png';
+    document.querySelector("p#UTA img").src = 'teams/UTA/logos/2017-present.png';
+  }, interval * 71);
+  setTimeout(function(){
+    year.innerHTML = "2018";
+    GSW.style.left = 180 + gridX * 6 + 'px';
+    GSW.style.top = gridY * 14 + 'px';
+    document.querySelector("p#DET img").src = 'teams/DET/logos/2018-present.png';
+    document.querySelector("p#POR img").src = 'teams/POR/logos/2018-present.png';
+    document.querySelector("p#CLE img").src = 'teams/CLE/logos/2018-present.png';
+    document.querySelector("p#IND img").src = 'teams/IND/logos/2018-present.png';
+    document.querySelector("p#SAS img").src = 'teams/SAS/logos/2018-present.png';
+    document.querySelector("p#DAL img").src = 'teams/DAL/logos/2018-present.png';
+    document.querySelector("p#MIN img").src = 'teams/MIN/logos/2018-present.png';
+  }, interval * 72);
+  setTimeout(function(){
+    year.innerHTML = "2019";
+    TOR.style.left = 180 + gridX + 'px';
+    TOR.style.top = gridY * 7 + 'px';
+    document.querySelector("p#HOU img").src = 'teams/HOU/logos/2019-present.png';
+    document.querySelector("p#DEN img").src = 'teams/DEN/logos/2019-present.png';
+    document.querySelector("p#MEM img").src = 'teams/MEM/logos/2019-present.png';
+    CHA.style.top = gridY * 5 + 'px';
+  }, interval * 73);
+}
+</script>
+<p id="credit">
+<span>Data from <a href="http://www.basketball-reference.com">Basketball Reference</a></span>
+<span>Logos from <a href="https://www.sportslogos.net">SportsLogos.net</a></span>
+</p>
+</body>
+</html>
