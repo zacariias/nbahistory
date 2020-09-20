@@ -11,7 +11,17 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
 <body>
-<a id="play" onclick="play()">►</a>
+<h1 id="championships">Number of NBA Championships <img src="trophy.png"></h1>
+<div id="controls">
+<p>Animation speed:
+<input type="radio" id="fast" name="speed" value="200">
+<label for="fast">Fast</label>
+<input type="radio" id="medium" name="speed" value="500" checked>
+<label for="medium">Medium</label>
+<input type="radio" id="slow" name="speed" value="800">
+<label for="slow">Slow</label></p>
+<button type="submit" id="play" onclick="play()">►</button>
+</div>
 <h1 id="year">1946</h1>
 <div id="frame">
 <p class="box" id="ATL"><img src="teams/ATL/logos/1950-1951.png"></p>
@@ -66,10 +76,9 @@
 <p>17</p>
 <p>18</p>
 <p>19</p>
-<p id="championships">Number of NBA Championships <img src="trophy.png"></p>
 </div>
 <script>
-var interval = 700;
+var interval = document.querySelector('input[name=speed]:checked').value;
 var gridX = 51;
 var gridY = 45;
 var year = document.getElementById("year");

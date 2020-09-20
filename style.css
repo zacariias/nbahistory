@@ -57,7 +57,6 @@ p#credit {
   clear: both;
 }
 p#credit span {
-  clear: both;
   padding: 0 10px;
 }
 a {
@@ -74,6 +73,27 @@ a {
   font-weight: bold;
 }
 /* Style for championships page */
+h1#championships {
+  position: absolute;
+  width: 1020px;
+  margin: 0 0 0 180px;
+  padding: 0;
+  font-size: 30px;
+}
+h1#championships img {
+  height: 30px;
+  vertical-align: middle;
+}
+div#controls {
+  position: absolute;
+  z-index: 1;
+  width: 1020px;
+  margin-left: 180px;
+  text-align: center;
+  top: 100px;
+  z-index: 1;
+  font-size: 15px;
+}
 h1#year {
   font-weight: 400;
   font-size: 150px;
@@ -96,50 +116,16 @@ div#labels {
   width: 1020px;
   text-align: center;
   font-size: 15px;
-  margin-left: 180px;
+  margin: 0 0 0 180px;
 }
-
 div#labels p {
   width: 45px;
   padding: 10px 3px;
   float: left;
   text-align: center;
-  margin: 0;
+  margin: 0 0 40px 0;
   font-size: 15px;
 }
-
-div#labels p#championships {
-  clear: both;
-  width: 1020px;
-  margin: 20px 0 40px 0;
-  padding: 0;
-}
-
-div#labels img {
-  height: 30px;
-  vertical-align: middle;
-}
-
-a#play {
-  width: 1020px;
-  display: block;
-  margin-left: 180px;
-  line-height: 675px;
-  height: 675px;
-  position: absolute;
-  text-align: center;
-  z-index: 1;
-  cursor: pointer;
-  text-decoration: none;
-  font-size: 150px;
-  opacity: 0;
-}
-
-a#play:hover {
-  color: #000;
-  opacity: 0.3;
-}
-
 p.box {
   width: 45px;
   height: 45px;
@@ -148,7 +134,6 @@ p.box {
   position: absolute;
   display: none;
 }
-
 p.box img {
   max-width: 43px;
   max-height: 43px;
@@ -160,17 +145,14 @@ p.box img {
   right: 0;
   margin: auto;
 }
-
 p#BOS {
   display: block;
   top: 675px;
 }
-
 p#NYK {
   display: block;
   top: 630px;
 }
-
 p#GSW {
   display: block;
   top: 585px;
