@@ -1,51 +1,51 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent
-1970-71,Cleveland Cavaliers,Cleveland Arena,15,0.183,0,B. Fitch,W. Wesley (4.1),#6F263D,#FFB81C,-12.04,
-1971-72,Cleveland Cavaliers,Cleveland Arena,23,0.28,0,B. Fitch,B. Beard (5.9),#6F263D,#FFB81C,-7.9,
-1972-73,Cleveland Cavaliers,Cleveland Arena,32,0.39,0,B. Fitch,L. Wilkens (9.5),#6F263D,#FFB81C,-2.64,
-1973-74,Cleveland Cavaliers,Cleveland Arena,29,0.354,0,B. Fitch,L. Wilkens (6.5),#6F263D,#FFB81C,-4.16,
-1974-75,Cleveland Cavaliers,Coliseum at Richfield,40,0.488,0,B. Fitch,D. Snyder (6.4),#6F263D,#FFB81C,-0.31,
-1975-76,Cleveland Cavaliers,Coliseum at Richfield,49,0.598,0.6,B. Fitch,J. Brewer (7.9),#6F263D,#FFB81C,2.34,Boston Celtics (2-4)
-1976-77,Cleveland Cavaliers,Coliseum at Richfield,43,0.524,0.2,B. Fitch,J. Chones (5.9),#6F263D,#FFB81C,1.08,Washington Bullets (1-2)
-1977-78,Cleveland Cavaliers,Coliseum at Richfield,43,0.524,0.2,B. Fitch,E. Smith (6.8),#6F263D,#FFB81C,0.44,New York Knicks (0-2)
-1978-79,Cleveland Cavaliers,Coliseum at Richfield,30,0.366,0,B. Fitch,C. Russell (6.7),#6F263D,#FFB81C,-3.57,
-1979-80,Cleveland Cavaliers,Coliseum at Richfield,37,0.451,0,S. Albeck,D. Robisch (8.6),#6F263D,#FFB81C,0.43,
-1980-81,Cleveland Cavaliers,Coliseum at Richfield,28,0.341,0,B. Musselman/D. Delaney,M. Mitchell (6.0),#6F263D,#FFB81C,-4.15,
-1981-82,Cleveland Cavaliers,Coliseum at Richfield,15,0.183,0,D. Delaney/B. Kloppenburg/C. Daly/B. Musselman,J. Edwards (4.3),#6F263D,#FFB81C,-7.77,
-1982-83,Cleveland Cavaliers,Coliseum at Richfield,23,0.28,0,T. Nissalke,W. Free (4.6),#6F263D,#FFB81C,-6.78,
-1983-84,Cleveland Cavaliers,Coliseum at Richfield,28,0.341,0,T. Nissalke,W. Free (5.3),#6F263D,#FFB81C,-3.71,
-1984-85,Cleveland Cavaliers,Coliseum at Richfield,36,0.439,0.2,G. Karl,W. Free (6.0),#6F263D,#FFB81C,-2.27,Boston Celtics (1-3)
-1985-86,Cleveland Cavaliers,Coliseum at Richfield,29,0.354,0,G. Karl/G. Littles,R. Hinson (7.4),#6F263D,#FFB81C,-2.19,
-1986-87,Cleveland Cavaliers,Coliseum at Richfield,31,0.378,0,L. Wilkens,H. Williams (7.5),#6F263D,#FFB81C,-3.19,
-1987-88,Cleveland Cavaliers,Coliseum at Richfield,42,0.512,0.2,L. Wilkens,M. Price (7.8),#6F263D,#FFB81C,1.28,Chicago Bulls (2-3)
-1988-89,Cleveland Cavaliers,Coliseum at Richfield,57,0.695,0.2,L. Wilkens,M. Price (11.3),#6F263D,#FFB81C,7.95,Chicago Bulls (2-3)
-1989-90,Cleveland Cavaliers,Coliseum at Richfield,42,0.512,0.2,L. Wilkens,M. Price (10.1),#6F263D,#FFB81C,-0.62,Philadelphia 76ers (2-3)
-1990-91,Cleveland Cavaliers,Coliseum at Richfield,33,0.402,0,L. Wilkens,L. Nance (9.8),#6F263D,#FFB81C,-2.33,
-1991-92,Cleveland Cavaliers,Coliseum at Richfield,57,0.695,0.6,L. Wilkens,L. Nance (12.2),#6F263D,#FFB81C,5.34,Chicago Bulls (2-4)
-1992-93,Cleveland Cavaliers,Coliseum at Richfield,54,0.659,0.4,L. Wilkens,B. Daugherty (12.7),#6F263D,#FFB81C,6.3,Chicago Bulls (0-4)
-1993-94,Cleveland Cavaliers,Coliseum at Richfield,47,0.573,0.2,M. Fratello,M. Price (10.0),#6F263D,#FFB81C,3.64,Chicago Bulls (0-3)
-1994-95,Cleveland Cavaliers,Gund Arena,43,0.524,0.2,M. Fratello,T. Hill (6.9),#6F263D,#FFB81C,0.55,New York Knicks (1-3)
-1995-96,Cleveland Cavaliers,Gund Arena,47,0.573,0.2,M. Fratello,T. Brandon (12.7),#6F263D,#FFB81C,2.49,New York Knicks (0-3)
-1996-97,Cleveland Cavaliers,Gund Arena,42,0.512,0,M. Fratello,T. Brandon (10.8),#6F263D,#FFB81C,2.32,
-1997-98,Cleveland Cavaliers,Gund Arena,47,0.573,0.2,M. Fratello,W. Person (10.3),#6F263D,#FFB81C,3.06,Indiana Pacers (1-3)
-1998-99,Cleveland Cavaliers,Gund Arena,22,0.44,0,M. Fratello,S. Kemp (6.3),#6F263D,#FFB81C,-0.94,
-1999-00,Cleveland Cavaliers,Gund Arena,32,0.39,0,R. Wittman,A. Miller (5.3),#6F263D,#FFB81C,-3.64,
-2000-01,Cleveland Cavaliers,Gund Arena,30,0.366,0,R. Wittman,C. Weatherspoon (8.6),#6F263D,#FFB81C,-4.48,
-2001-02,Cleveland Cavaliers,Gund Arena,29,0.354,0,J. Lucas,A. Miller (10.3),#6F263D,#FFB81C,-3.52,
-2002-03,Cleveland Cavaliers,Gund Arena,17,0.207,0,J. Lucas/K. Smart,C. Boozer (5.9),#6F263D,#FFB81C,-9.59,
-2003-04,Cleveland Cavaliers,Gund Arena,35,0.427,0,P. Silas,C. Boozer (9.4),#6F263D,#FFB81C,-3.07,
-2004-05,Cleveland Cavaliers,Gund Arena,42,0.512,0,P. Silas/B. Malone,L. James (14.3),#6F263D,#FFB81C,0.27,
-2005-06,Cleveland Cavaliers,Gund Arena,50,0.61,0.4,M. Brown,L. James (16.3),#6F263D,#FFB81C,2.17,Detroit Pistons (3-4)
-2006-07,Cleveland Cavaliers,Quicken Loans Arena,50,0.61,0.8,M. Brown,L. James (13.7),#6F263D,#FFB81C,3.33,San Antonio Spurs (0-4)
-2007-08,Cleveland Cavaliers,Quicken Loans Arena,45,0.549,0.4,M. Brown,L. James (15.2),#6F263D,#FFB81C,-0.53,Boston Celtics (3-4)
-2008-09,Cleveland Cavaliers,Quicken Loans Arena,66,0.805,0.6,M. Brown,L. James (20.3),#6F263D,#FFB81C,8.68,Orlando Magic (2-4)
-2009-10,Cleveland Cavaliers,Quicken Loans Arena,61,0.744,0.4,M. Brown,L. James (18.5),#6F263D,#FFB81C,6.17,Boston Celtics (2-4)
-2010-11,Cleveland Cavaliers,Quicken Loans Arena,19,0.232,0,B. Scott,R. Sessions (4.4),#6F263D,#FFB81C,-8.88,
-2011-12,Cleveland Cavaliers,Quicken Loans Arena,21,0.318,0,B. Scott,K. Irving (4.1),#6F263D,#FFB81C,-7.34,
-2012-13,Cleveland Cavaliers,Quicken Loans Arena,24,0.293,0,B. Scott,K. Irving (5.3),#6F263D,#FFB81C,-4.87,
-2013-14,Cleveland Cavaliers,Quicken Loans Arena,33,0.402,0,M. Brown,K. Irving (6.7),#6F263D,#FFB81C,-3.86,
-2014-15,Cleveland Cavaliers,Quicken Loans Arena,53,0.646,0.8,D. Blatt,K. Irving (10.4),#6F263D,#FFB81C,4.08,Golden State Warriors (2-4)
-2015-16,Cleveland Cavaliers,Quicken Loans Arena,57,0.695,1,D. Blatt/T. Lue,L. James (13.6),#6F263D,#FFB81C,5.45,Golden State Warriors (4-3)
-2016-17,Cleveland Cavaliers,Quicken Loans Arena,51,0.622,0.8,T. Lue,L. James (12.9),#6F263D,#FFB81C,2.87,Golden State Warriors (1-4)
-2017-18,Cleveland Cavaliers,Quicken Loans Arena,50,0.61,0.8,T. Lue,L. James (14.0),#6F263D,#FFB81C,0.59,Golden State Warriors (0-4)
-2018-19,Cleveland Cavaliers,Quicken Loans Arena,19,0.232,0,T. Lue/L. Drew,L. Nance (4.9),#6F263D,#FFB81C,-9.39,
-2019-20,Cleveland Cavaliers,Quicken Loans Arena,19,0.292,0,J. Beilein/J. Bickerstaff,L. Nance (3.9),#6F263D,#FFB81C,-7.77,
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent1,opponent2,opponent3,opponent4
+1970-71,Cleveland Cavaliers,Cleveland Arena,15,0.183,0,B. Fitch,W. Wesley (4.1),#6F263D,#FFB81C,-12.04,,,,
+1971-72,Cleveland Cavaliers,Cleveland Arena,23,0.28,0,B. Fitch,B. Beard (5.9),#6F263D,#FFB81C,-7.9,,,,
+1972-73,Cleveland Cavaliers,Cleveland Arena,32,0.39,0,B. Fitch,L. Wilkens (9.5),#6F263D,#FFB81C,-2.64,,,,
+1973-74,Cleveland Cavaliers,Cleveland Arena,29,0.354,0,B. Fitch,L. Wilkens (6.5),#6F263D,#FFB81C,-4.16,,,,
+1974-75,Cleveland Cavaliers,Coliseum at Richfield,40,0.488,0,B. Fitch,D. Snyder (6.4),#6F263D,#FFB81C,-0.31,,,,
+1975-76,Cleveland Cavaliers,Coliseum at Richfield,49,0.598,0.6,B. Fitch,J. Brewer (7.9),#6F263D,#FFB81C,2.34,Won Conference Semifinals versus <span>Washington Bullets (4-3)</span>,Lost Conference Finals versus <span>Boston Celtics (2-4)</span>,,
+1976-77,Cleveland Cavaliers,Coliseum at Richfield,43,0.524,0.2,B. Fitch,J. Chones (5.9),#6F263D,#FFB81C,1.08,Lost First Round versus <span>Washington Bullets (1-2)</span>,,,
+1977-78,Cleveland Cavaliers,Coliseum at Richfield,43,0.524,0.2,B. Fitch,E. Smith (6.8),#6F263D,#FFB81C,0.44,Lost First Round versus <span>New York Knicks (0-2)</span>,,,
+1978-79,Cleveland Cavaliers,Coliseum at Richfield,30,0.366,0,B. Fitch,C. Russell (6.7),#6F263D,#FFB81C,-3.57,,,,
+1979-80,Cleveland Cavaliers,Coliseum at Richfield,37,0.451,0,S. Albeck,D. Robisch (8.6),#6F263D,#FFB81C,0.43,,,,
+1980-81,Cleveland Cavaliers,Coliseum at Richfield,28,0.341,0,B. Musselman/D. Delaney,M. Mitchell (6.0),#6F263D,#FFB81C,-4.15,,,,
+1981-82,Cleveland Cavaliers,Coliseum at Richfield,15,0.183,0,D. Delaney/B. Kloppenburg/C. Daly/B. Musselman,J. Edwards (4.3),#6F263D,#FFB81C,-7.77,,,,
+1982-83,Cleveland Cavaliers,Coliseum at Richfield,23,0.28,0,T. Nissalke,W. Free (4.6),#6F263D,#FFB81C,-6.78,,,,
+1983-84,Cleveland Cavaliers,Coliseum at Richfield,28,0.341,0,T. Nissalke,W. Free (5.3),#6F263D,#FFB81C,-3.71,,,,
+1984-85,Cleveland Cavaliers,Coliseum at Richfield,36,0.439,0.2,G. Karl,W. Free (6.0),#6F263D,#FFB81C,-2.27,Lost First Round versus <span>Boston Celtics (1-3)</span>,,,
+1985-86,Cleveland Cavaliers,Coliseum at Richfield,29,0.354,0,G. Karl/G. Littles,R. Hinson (7.4),#6F263D,#FFB81C,-2.19,,,,
+1986-87,Cleveland Cavaliers,Coliseum at Richfield,31,0.378,0,L. Wilkens,H. Williams (7.5),#6F263D,#FFB81C,-3.19,,,,
+1987-88,Cleveland Cavaliers,Coliseum at Richfield,42,0.512,0.2,L. Wilkens,M. Price (7.8),#6F263D,#FFB81C,1.28,Lost First Round versus <span>Chicago Bulls (2-3)</span>,,,
+1988-89,Cleveland Cavaliers,Coliseum at Richfield,57,0.695,0.2,L. Wilkens,M. Price (11.3),#6F263D,#FFB81C,7.95,Lost First Round versus <span>Chicago Bulls (2-3)</span>,,,
+1989-90,Cleveland Cavaliers,Coliseum at Richfield,42,0.512,0.2,L. Wilkens,M. Price (10.1),#6F263D,#FFB81C,-0.62,Lost First Round versus <span>Philadelphia 76ers (2-3)</span>,,,
+1990-91,Cleveland Cavaliers,Coliseum at Richfield,33,0.402,0,L. Wilkens,L. Nance (9.8),#6F263D,#FFB81C,-2.33,,,,
+1991-92,Cleveland Cavaliers,Coliseum at Richfield,57,0.695,0.6,L. Wilkens,L. Nance (12.2),#6F263D,#FFB81C,5.34,Won First Round versus <span>New Jersey Nets (3-1)</span>,Won Conference Semifinals versus <span>Boston Celtics (4-3)</span>,Lost Conference Finals versus <span>Chicago Bulls (2-4)</span>,
+1992-93,Cleveland Cavaliers,Coliseum at Richfield,54,0.659,0.4,L. Wilkens,B. Daugherty (12.7),#6F263D,#FFB81C,6.3,Won First Round versus <span>New Jersey Nets (3-2)</span>,Lost Conference Semifinals versus <span>Chicago Bulls (0-4)</span>,,
+1993-94,Cleveland Cavaliers,Coliseum at Richfield,47,0.573,0.2,M. Fratello,M. Price (10.0),#6F263D,#FFB81C,3.64,Lost First Round versus <span>Chicago Bulls (0-3)</span>,,,
+1994-95,Cleveland Cavaliers,Gund Arena,43,0.524,0.2,M. Fratello,T. Hill (6.9),#6F263D,#FFB81C,0.55,Lost First Round versus <span>New York Knicks (1-3)</span>,,,
+1995-96,Cleveland Cavaliers,Gund Arena,47,0.573,0.2,M. Fratello,T. Brandon (12.7),#6F263D,#FFB81C,2.49,Lost First Round versus <span>New York Knicks (0-3)</span>,,,
+1996-97,Cleveland Cavaliers,Gund Arena,42,0.512,0,M. Fratello,T. Brandon (10.8),#6F263D,#FFB81C,2.32,,,,
+1997-98,Cleveland Cavaliers,Gund Arena,47,0.573,0.2,M. Fratello,W. Person (10.3),#6F263D,#FFB81C,3.06,Lost First Round versus <span>Indiana Pacers (1-3)</span>,,,
+1998-99,Cleveland Cavaliers,Gund Arena,22,0.44,0,M. Fratello,S. Kemp (6.3),#6F263D,#FFB81C,-0.94,,,,
+1999-00,Cleveland Cavaliers,Gund Arena,32,0.39,0,R. Wittman,A. Miller (5.3),#6F263D,#FFB81C,-3.64,,,,
+2000-01,Cleveland Cavaliers,Gund Arena,30,0.366,0,R. Wittman,C. Weatherspoon (8.6),#6F263D,#FFB81C,-4.48,,,,
+2001-02,Cleveland Cavaliers,Gund Arena,29,0.354,0,J. Lucas,A. Miller (10.3),#6F263D,#FFB81C,-3.52,,,,
+2002-03,Cleveland Cavaliers,Gund Arena,17,0.207,0,J. Lucas/K. Smart,C. Boozer (5.9),#6F263D,#FFB81C,-9.59,,,,
+2003-04,Cleveland Cavaliers,Gund Arena,35,0.427,0,P. Silas,C. Boozer (9.4),#6F263D,#FFB81C,-3.07,,,,
+2004-05,Cleveland Cavaliers,Gund Arena,42,0.512,0,P. Silas/B. Malone,L. James (14.3),#6F263D,#FFB81C,0.27,,,,
+2005-06,Cleveland Cavaliers,Gund Arena,50,0.61,0.4,M. Brown,L. James (16.3),#6F263D,#FFB81C,2.17,Won First Round versus <span>Washington Wizards (4-2)</span>,Lost Conference Semifinals versus <span>Detroit Pistons (3-4)</span>,,
+2006-07,Cleveland Cavaliers,Quicken Loans Arena,50,0.61,0.8,M. Brown,L. James (13.7),#6F263D,#FFB81C,3.33,Won First Round versus <span>Washington Wizards (4-0)</span>,Won Conference Semifinals versus <span>New Jersey Nets (4-2)</span>,Won Conference Finals versus <span>Detroit Pistons (4-2)</span>,Lost Finals versus <span>San Antonio Spurs (0-4)</span>
+2007-08,Cleveland Cavaliers,Quicken Loans Arena,45,0.549,0.4,M. Brown,L. James (15.2),#6F263D,#FFB81C,-0.53,Won First Round versus <span>Washington Wizards (4-2)</span>,Lost Conference Semifinals versus <span>Boston Celtics (3-4)</span>,,
+2008-09,Cleveland Cavaliers,Quicken Loans Arena,66,0.805,0.6,M. Brown,L. James (20.3),#6F263D,#FFB81C,8.68,Won First Round versus <span>Detroit Pistons (4-0)</span>,Won Conference Semifinals versus <span>Atlanta Hawks (4-0)</span>,Lost Conference Finals versus <span>Orlando Magic (2-4)</span>,
+2009-10,Cleveland Cavaliers,Quicken Loans Arena,61,0.744,0.4,M. Brown,L. James (18.5),#6F263D,#FFB81C,6.17,Won First Round versus <span>Chicago Bulls (4-1)</span>,Lost Conference Semifinals versus <span>Boston Celtics (2-4)</span>,,
+2010-11,Cleveland Cavaliers,Quicken Loans Arena,19,0.232,0,B. Scott,R. Sessions (4.4),#6F263D,#FFB81C,-8.88,,,,
+2011-12,Cleveland Cavaliers,Quicken Loans Arena,21,0.318,0,B. Scott,K. Irving (4.1),#6F263D,#FFB81C,-7.34,,,,
+2012-13,Cleveland Cavaliers,Quicken Loans Arena,24,0.293,0,B. Scott,K. Irving (5.3),#6F263D,#FFB81C,-4.87,,,,
+2013-14,Cleveland Cavaliers,Quicken Loans Arena,33,0.402,0,M. Brown,K. Irving (6.7),#6F263D,#FFB81C,-3.86,,,,
+2014-15,Cleveland Cavaliers,Quicken Loans Arena,53,0.646,0.8,D. Blatt,K. Irving (10.4),#6F263D,#FFB81C,4.08,Won First Round versus <span>Boston Celtics (4-0)</span>,Won Conference Semifinals versus <span>Chicago Bulls (4-2)</span>,Won Conference Finals versus <span>Atlanta Hawks (4-0)</span>,Lost Finals versus <span>Golden State Warriors (2-4)</span>
+2015-16,Cleveland Cavaliers,Quicken Loans Arena,57,0.695,1,D. Blatt/T. Lue,L. James (13.6),#6F263D,#FFB81C,5.45,Won First Round versus <span>Detroit Pistons (4-0)</span>,Won Conference Semifinals versus <span>Atlanta Hawks (4-0)</span>,Won Conference Finals versus <span>Toronto Raptors (4-2)</span>,Won Finals versus <span>Golden State Warriors (4-3)</span>
+2016-17,Cleveland Cavaliers,Quicken Loans Arena,51,0.622,0.8,T. Lue,L. James (12.9),#6F263D,#FFB81C,2.87,Won First Round versus <span>Indiana Pacers (4-0)</span>,Won Conference Semifinals versus <span>Toronto Raptors (4-0)</span>,Won Conference Finals versus <span>Boston Celtics (4-1)</span>,Lost Finals versus <span>Golden State Warriors (1-4)</span>
+2017-18,Cleveland Cavaliers,Quicken Loans Arena,50,0.61,0.8,T. Lue,L. James (14.0),#6F263D,#FFB81C,0.59,Won First Round versus <span>Indiana Pacers (4-3)</span>,Won Conference Semifinals versus <span>Toronto Raptors (4-0)</span>,Won Conference Finals versus <span>Boston Celtics (4-3)</span>,Lost Finals versus <span>Golden State Warriors (0-4)</span>
+2018-19,Cleveland Cavaliers,Quicken Loans Arena,19,0.232,0,T. Lue/L. Drew,L. Nance (4.9),#6F263D,#FFB81C,-9.39,,,,
+2019-20,Cleveland Cavaliers,Quicken Loans Arena,19,0.292,0,J. Beilein/J. Bickerstaff,L. Nance (3.9),#6F263D,#FFB81C,-7.77,,,,

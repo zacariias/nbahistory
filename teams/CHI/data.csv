@@ -1,55 +1,55 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent
-1966-67,Chicago Bulls,International Amphitheatre,33,0.407,0.4,R. Kerr,B. Boozer (9.4),#CE1141,#000000,-3.37,St. Louis Hawks (0-3)
-1967-68,Chicago Bulls,Chicago Stadium,29,0.354,0.4,R. Kerr,B. Boozer (10.6),#CE1141,#000000,-3.76,Los Angeles Lakers (1-4)
-1968-69,Chicago Bulls,Chicago Stadium,33,0.402,0,D. Motta,B. Boozer (11.6),#CE1141,#000000,-2.11,
-1969-70,Chicago Bulls,Chicago Stadium,39,0.476,0.4,D. Motta,C. Walker (9.8),#CE1141,#000000,-1.71,Atlanta Hawks (1-4)
-1970-71,Chicago Bulls,Chicago Stadium,51,0.622,0.4,D. Motta,C. Walker (10.9),#CE1141,#000000,5.47,Los Angeles Lakers (3-4)
-1971-72,Chicago Bulls,Chicago Stadium,57,0.695,0.4,D. Motta,C. Walker (14.5),#CE1141,#000000,7.91,Los Angeles Lakers (0-4)
-1972-73,Chicago Bulls,Chicago Stadium,51,0.622,0.4,D. Motta,C. Walker (10.9),#CE1141,#000000,3.43,Los Angeles Lakers (3-4)
-1973-74,Chicago Bulls,Chicago Stadium,54,0.659,0.6,D. Motta,C. Walker (10.6),#CE1141,#000000,3.2,Milwaukee Bucks (0-4)
-1974-75,Chicago Bulls,Chicago Stadium,47,0.573,0.6,D. Motta,C. Walker (10.5),#CE1141,#000000,2.88,Golden State Warriors (3-4)
-1975-76,Chicago Bulls,Chicago Stadium,24,0.293,0,D. Motta,M. Johnson (8.3),#CE1141,#000000,-2.89,
-1976-77,Chicago Bulls,Chicago Stadium,44,0.537,0.2,E. Badger,A. Gilmore (12.2),#CE1141,#000000,0.92,Portland Trail Blazers (1-2)
-1977-78,Chicago Bulls,Chicago Stadium,40,0.488,0,E. Badger,A. Gilmore (11.5),#CE1141,#000000,-0.79,
-1978-79,Chicago Bulls,Chicago Stadium,31,0.378,0,L. Costello/S. Robertson,A. Gilmore (12.7),#CE1141,#000000,-3.78,
-1979-80,Chicago Bulls,Chicago Stadium,30,0.366,0,J. Sloan,R. Theus (6.9),#CE1141,#000000,-2.63,
-1980-81,Chicago Bulls,Chicago Stadium,45,0.549,0.4,J. Sloan,A. Gilmore (12.3),#CE1141,#000000,2.34,Boston Celtics (0-4)
-1981-82,Chicago Bulls,Chicago Stadium,34,0.415,0,J. Sloan/P. Johnson/R. Thorn,A. Gilmore (12.1),#CE1141,#000000,-1.57,
-1982-83,Chicago Bulls,Chicago Stadium,28,0.341,0,P. Westhead,R. Theus (6.5),#CE1141,#000000,-4.41,
-1983-84,Chicago Bulls,Chicago Stadium,27,0.329,0,K. Loughery,D. Greenwood (5.7),#CE1141,#000000,-4.69,
-1984-85,Chicago Bulls,Chicago Stadium,38,0.463,0.2,K. Loughery,M. Jordan (14.0),#CE1141,#000000,-0.5,Milwaukee Bucks (1-3)
-1985-86,Chicago Bulls,Chicago Stadium,30,0.366,0.2,S. Albeck,O. Woolridge (5.6),#CE1141,#000000,-3.12,Boston Celtics (0-3)
-1986-87,Chicago Bulls,Chicago Stadium,40,0.488,0.2,D. Collins,M. Jordan (16.9),#CE1141,#000000,1.26,Boston Celtics (0-3)
-1987-88,Chicago Bulls,Chicago Stadium,50,0.61,0.4,D. Collins,M. Jordan (21.2),#CE1141,#000000,3.76,Detroit Pistons (1-4)
-1988-89,Chicago Bulls,Chicago Stadium,47,0.573,0.6,D. Collins,M. Jordan (19.8),#CE1141,#000000,2.13,Detroit Pistons (2-4)
-1989-90,Chicago Bulls,Chicago Stadium,55,0.671,0.6,P. Jackson,M. Jordan (19.0),#CE1141,#000000,2.74,Detroit Pistons (3-4)
-1990-91,Chicago Bulls,Chicago Stadium,61,0.744,1,P. Jackson,M. Jordan (20.3),#CE1141,#000000,8.57,Los Angeles Lakers (4-1)
-1991-92,Chicago Bulls,Chicago Stadium,67,0.817,1,P. Jackson,M. Jordan (17.7),#CE1141,#000000,10.07,Portland Trail Blazers (4-2)
-1992-93,Chicago Bulls,Chicago Stadium,57,0.695,1,P. Jackson,M. Jordan (17.2),#CE1141,#000000,6.19,Phoenix Suns (4-2)
-1993-94,Chicago Bulls,Chicago Stadium,55,0.671,0.4,P. Jackson,S. Pippen (11.2),#CE1141,#000000,2.87,New York Knicks (3-4)
-1994-95,Chicago Bulls,United Center,47,0.573,0.4,P. Jackson,S. Pippen (11.8),#CE1141,#000000,4.32,Orlando Magic (2-4)
-1995-96,Chicago Bulls,United Center,72,0.878,1,P. Jackson,M. Jordan (20.4),#CE1141,#000000,11.8,Seattle SuperSonics (4-2)
-1996-97,Chicago Bulls,United Center,69,0.841,1,P. Jackson,M. Jordan (18.3),#CE1141,#000000,10.7,Utah Jazz (4-2)
-1997-98,Chicago Bulls,United Center,62,0.756,1,P. Jackson,M. Jordan (15.8),#CE1141,#000000,7.24,Utah Jazz (4-2)
-1998-99,Chicago Bulls,United Center,13,0.26,0,T. Floyd,D. Simpkins (2.9),#CE1141,#000000,-8.58,
-1999-00,Chicago Bulls,United Center,17,0.207,0,T. Floyd,E. Brand (7.5),#CE1141,#000000,-9.23,
-2000-01,Chicago Bulls,United Center,15,0.183,0,T. Floyd,E. Brand (6.1),#CE1141,#000000,-9.09,
-2001-02,Chicago Bulls,United Center,21,0.256,0,T. Floyd/B. Berry/B. Cartwright,B. Miller (4.4),#CE1141,#000000,-8.52,
-2002-03,Chicago Bulls,United Center,30,0.366,0,B. Cartwright,D. Marshall (6.0),#CE1141,#000000,-5.31,
-2003-04,Chicago Bulls,United Center,23,0.28,0,B. Cartwright/P. Myers/S. Skiles,K. Hinrich (4.1),#CE1141,#000000,-6.69,
-2004-05,Chicago Bulls,United Center,47,0.573,0.2,S. Skiles,T. Chandler (8.3),#CE1141,#000000,0.65,Washington Wizards (2-4)
-2005-06,Chicago Bulls,United Center,41,0.5,0.2,S. Skiles,K. Hinrich (7.6),#CE1141,#000000,0.51,Miami Heat (2-4)
-2006-07,Chicago Bulls,United Center,49,0.598,0.4,S. Skiles,L. Deng (11.3),#CE1141,#000000,4.52,Detroit Pistons (2-4)
-2007-08,Chicago Bulls,United Center,33,0.402,0,S. Skiles/P. Myers/J. Boylan,B. Gordon (5.1),#CE1141,#000000,-3.19,
-2008-09,Chicago Bulls,United Center,41,0.5,0.2,V. Del Negro,B. Gordon (6.9),#CE1141,#000000,-0.16,Boston Celtics (3-4)
-2009-10,Chicago Bulls,United Center,41,0.5,0.2,V. Del Negro,J. Noah (6.2),#CE1141,#000000,-1.64,Cleveland Cavaliers (1-4)
-2010-11,Chicago Bulls,United Center,62,0.756,0.6,T. Thibodeau,D. Rose (13.1),#CE1141,#000000,6.53,Miami Heat (1-4)
-2011-12,Chicago Bulls,United Center,50,0.758,0.2,T. Thibodeau,J. Noah (9.0),#CE1141,#000000,7.43,Philadelphia 76ers (2-4)
-2012-13,Chicago Bulls,United Center,45,0.549,0.4,T. Thibodeau,J. Noah (7.3),#CE1141,#000000,-0.02,Miami Heat (1-4)
-2013-14,Chicago Bulls,United Center,48,0.585,0.2,T. Thibodeau,J. Noah (11.2),#CE1141,#000000,1.2,Washington Wizards (1-4)
-2014-15,Chicago Bulls,United Center,50,0.61,0.4,T. Thibodeau,J. Butler (11.2),#CE1141,#000000,2.54,Cleveland Cavaliers (2-4)
-2015-16,Chicago Bulls,United Center,42,0.512,0,F. Hoiberg,J. Butler (9.1),#CE1141,#000000,-1.46,
-2016-17,Chicago Bulls,United Center,41,0.5,0.2,F. Hoiberg,J. Butler (13.8),#CE1141,#000000,0.03,Boston Celtics (2-4)
-2017-18,Chicago Bulls,United Center,27,0.329,0,F. Hoiberg,B. Portis (3.5),#CE1141,#000000,-6.84,
-2018-19,Chicago Bulls,United Center,22,0.268,0,F. Hoiberg/J. Boylen,R. Arcidiacono (3.7),#CE1141,#000000,-8.32,
-2019-20,Chicago Bulls,United Center,22,0.338,0,J. Boylen,Z. LaVine (4.0),#CE1141,#000000,-4,
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent1,opponent2,opponent3,opponent4
+1966-67,Chicago Bulls,International Amphitheatre,33,0.407,0.4,R. Kerr,B. Boozer (9.4),#CE1141,#000000,-3.37,Lost Division Semifinals versus <span>St. Louis Hawks (0-3)</span>,,,
+1967-68,Chicago Bulls,Chicago Stadium,29,0.354,0.4,R. Kerr,B. Boozer (10.6),#CE1141,#000000,-3.76,Lost Division Semifinals versus <span>Los Angeles Lakers (1-4)</span>,,,
+1968-69,Chicago Bulls,Chicago Stadium,33,0.402,0,D. Motta,B. Boozer (11.6),#CE1141,#000000,-2.11,,,,
+1969-70,Chicago Bulls,Chicago Stadium,39,0.476,0.4,D. Motta,C. Walker (9.8),#CE1141,#000000,-1.71,Lost Division Semifinals versus <span>Atlanta Hawks (1-4)</span>,,,
+1970-71,Chicago Bulls,Chicago Stadium,51,0.622,0.4,D. Motta,C. Walker (10.9),#CE1141,#000000,5.47,Lost Conference Semifinals versus <span>Los Angeles Lakers (3-4)</span>,,,
+1971-72,Chicago Bulls,Chicago Stadium,57,0.695,0.4,D. Motta,C. Walker (14.5),#CE1141,#000000,7.91,Lost Conference Semifinals versus <span>Los Angeles Lakers (0-4)</span>,,,
+1972-73,Chicago Bulls,Chicago Stadium,51,0.622,0.4,D. Motta,C. Walker (10.9),#CE1141,#000000,3.43,Lost Conference Semifinals versus <span>Los Angeles Lakers (3-4)</span>,,,
+1973-74,Chicago Bulls,Chicago Stadium,54,0.659,0.6,D. Motta,C. Walker (10.6),#CE1141,#000000,3.2,Won Conference Semifinals versus <span>Detroit Pistons (4-3)</span>,Lost Conference Finals versus <span>Milwaukee Bucks (0-4)</span>,,
+1974-75,Chicago Bulls,Chicago Stadium,47,0.573,0.6,D. Motta,C. Walker (10.5),#CE1141,#000000,2.88,Won Conference Semifinals versus <span>Kansas City-Omaha Kings (4-2)</span>,Lost Conference Finals versus <span>Golden State Warriors (3-4)</span>,,
+1975-76,Chicago Bulls,Chicago Stadium,24,0.293,0,D. Motta,M. Johnson (8.3),#CE1141,#000000,-2.89,,,,
+1976-77,Chicago Bulls,Chicago Stadium,44,0.537,0.2,E. Badger,A. Gilmore (12.2),#CE1141,#000000,0.92,Lost First Round versus <span>Portland Trail Blazers (1-2)</span>,,,
+1977-78,Chicago Bulls,Chicago Stadium,40,0.488,0,E. Badger,A. Gilmore (11.5),#CE1141,#000000,-0.79,,,,
+1978-79,Chicago Bulls,Chicago Stadium,31,0.378,0,L. Costello/S. Robertson,A. Gilmore (12.7),#CE1141,#000000,-3.78,,,,
+1979-80,Chicago Bulls,Chicago Stadium,30,0.366,0,J. Sloan,R. Theus (6.9),#CE1141,#000000,-2.63,,,,
+1980-81,Chicago Bulls,Chicago Stadium,45,0.549,0.4,J. Sloan,A. Gilmore (12.3),#CE1141,#000000,2.34,Won First Round versus <span>New York Knicks (2-0)</span>,Lost Conference Semifinals versus <span>Boston Celtics (0-4)</span>,,
+1981-82,Chicago Bulls,Chicago Stadium,34,0.415,0,J. Sloan/P. Johnson/R. Thorn,A. Gilmore (12.1),#CE1141,#000000,-1.57,,,,
+1982-83,Chicago Bulls,Chicago Stadium,28,0.341,0,P. Westhead,R. Theus (6.5),#CE1141,#000000,-4.41,,,,
+1983-84,Chicago Bulls,Chicago Stadium,27,0.329,0,K. Loughery,D. Greenwood (5.7),#CE1141,#000000,-4.69,,,,
+1984-85,Chicago Bulls,Chicago Stadium,38,0.463,0.2,K. Loughery,M. Jordan (14.0),#CE1141,#000000,-0.5,Lost First Round versus <span>Milwaukee Bucks (1-3)</span>,,,
+1985-86,Chicago Bulls,Chicago Stadium,30,0.366,0.2,S. Albeck,O. Woolridge (5.6),#CE1141,#000000,-3.12,Lost First Round versus <span>Boston Celtics (0-3)</span>,,,
+1986-87,Chicago Bulls,Chicago Stadium,40,0.488,0.2,D. Collins,M. Jordan (16.9),#CE1141,#000000,1.26,Lost First Round versus <span>Boston Celtics (0-3)</span>,,,
+1987-88,Chicago Bulls,Chicago Stadium,50,0.61,0.4,D. Collins,M. Jordan (21.2),#CE1141,#000000,3.76,Won First Round versus <span>Cleveland Cavaliers (3-2)</span>,Lost Conference Semifinals versus <span>Detroit Pistons (1-4)</span>,,
+1988-89,Chicago Bulls,Chicago Stadium,47,0.573,0.6,D. Collins,M. Jordan (19.8),#CE1141,#000000,2.13,Won First Round versus <span>Cleveland Cavaliers (3-2)</span>,Won Conference Semifinals versus <span>New York Knicks (4-2)</span>,Lost Conference Finals versus <span>Detroit Pistons (2-4)</span>,
+1989-90,Chicago Bulls,Chicago Stadium,55,0.671,0.6,P. Jackson,M. Jordan (19.0),#CE1141,#000000,2.74,Won First Round versus <span>Milwaukee Bucks (3-1)</span>,Won Conference Semifinals versus <span>Philadelphia 76ers (4-1)</span>,Lost Conference Finals versus <span>Detroit Pistons (3-4)</span>,
+1990-91,Chicago Bulls,Chicago Stadium,61,0.744,1,P. Jackson,M. Jordan (20.3),#CE1141,#000000,8.57,Won First Round versus <span>New York Knicks (3-0)</span>,Won Conference Semifinals versus <span>Philadelphia 76ers (4-1)</span>,Won Conference Finals versus <span>Detroit Pistons (4-0)</span>,Won Finals versus <span>Los Angeles Lakers (4-1)</span>
+1991-92,Chicago Bulls,Chicago Stadium,67,0.817,1,P. Jackson,M. Jordan (17.7),#CE1141,#000000,10.07,Won First Round versus <span>Miami Heat (3-0)</span>,Won Conference Semifinals versus <span>New York Knicks (4-3)</span>,Won Conference Finals versus <span>Cleveland Cavaliers (4-2)</span>,Won Finals versus <span>Portland Trail Blazers (4-2)</span>
+1992-93,Chicago Bulls,Chicago Stadium,57,0.695,1,P. Jackson,M. Jordan (17.2),#CE1141,#000000,6.19,Won First Round versus <span>Atlanta Hawks (3-0)</span>,Won Conference Semifinals versus <span>Cleveland Cavaliers (4-0)</span>,Won Conference Finals versus <span>New York Knicks (4-2)</span>,Won Finals versus <span>Phoenix Suns (4-2)</span>
+1993-94,Chicago Bulls,Chicago Stadium,55,0.671,0.4,P. Jackson,S. Pippen (11.2),#CE1141,#000000,2.87,Won First Round versus <span>Cleveland Cavaliers (3-0)</span>,Lost Conference Semifinals versus <span>New York Knicks (3-4)</span>,,
+1994-95,Chicago Bulls,United Center,47,0.573,0.4,P. Jackson,S. Pippen (11.8),#CE1141,#000000,4.32,Won First Round versus <span>Charlotte Hornets (3-1)</span>,Lost Conference Semifinals versus <span>Orlando Magic (2-4)</span>,,
+1995-96,Chicago Bulls,United Center,72,0.878,1,P. Jackson,M. Jordan (20.4),#CE1141,#000000,11.8,Won First Round versus <span>Miami Heat (3-0)</span>,Won Conference Semifinals versus <span>New York Knicks (4-1)</span>,Won Conference Finals versus <span>Orlando Magic (4-0)</span>,Won Finals versus <span>Seattle SuperSonics (4-2)</span>
+1996-97,Chicago Bulls,United Center,69,0.841,1,P. Jackson,M. Jordan (18.3),#CE1141,#000000,10.7,Won First Round versus <span>Washington Bullets (3-0)</span>,Won Conference Semifinals versus <span>Atlanta Hawks (4-1)</span>,Won Conference Finals versus <span>Miami Heat (4-1)</span>,Won Finals versus <span>Utah Jazz (4-2)</span>
+1997-98,Chicago Bulls,United Center,62,0.756,1,P. Jackson,M. Jordan (15.8),#CE1141,#000000,7.24,Won First Round versus <span>New Jersey Nets (3-0)</span>,Won Conference Semifinals versus <span>Charlotte Hornets (4-1)</span>,Won Conference Finals versus <span>Indiana Pacers (4-3)</span>,Won Finals versus <span>Utah Jazz (4-2)</span>
+1998-99,Chicago Bulls,United Center,13,0.26,0,T. Floyd,D. Simpkins (2.9),#CE1141,#000000,-8.58,,,,
+1999-00,Chicago Bulls,United Center,17,0.207,0,T. Floyd,E. Brand (7.5),#CE1141,#000000,-9.23,,,,
+2000-01,Chicago Bulls,United Center,15,0.183,0,T. Floyd,E. Brand (6.1),#CE1141,#000000,-9.09,,,,
+2001-02,Chicago Bulls,United Center,21,0.256,0,T. Floyd/B. Berry/B. Cartwright,B. Miller (4.4),#CE1141,#000000,-8.52,,,,
+2002-03,Chicago Bulls,United Center,30,0.366,0,B. Cartwright,D. Marshall (6.0),#CE1141,#000000,-5.31,,,,
+2003-04,Chicago Bulls,United Center,23,0.28,0,B. Cartwright/P. Myers/S. Skiles,K. Hinrich (4.1),#CE1141,#000000,-6.69,,,,
+2004-05,Chicago Bulls,United Center,47,0.573,0.2,S. Skiles,T. Chandler (8.3),#CE1141,#000000,0.65,Lost First Round versus <span>Washington Wizards (2-4)</span>,,,
+2005-06,Chicago Bulls,United Center,41,0.5,0.2,S. Skiles,K. Hinrich (7.6),#CE1141,#000000,0.51,Lost First Round versus <span>Miami Heat (2-4)</span>,,,
+2006-07,Chicago Bulls,United Center,49,0.598,0.4,S. Skiles,L. Deng (11.3),#CE1141,#000000,4.52,Won First Round versus <span>Miami Heat (4-0)</span>,Lost Conference Semifinals versus <span>Detroit Pistons (2-4)</span>,,
+2007-08,Chicago Bulls,United Center,33,0.402,0,S. Skiles/P. Myers/J. Boylan,B. Gordon (5.1),#CE1141,#000000,-3.19,,,,
+2008-09,Chicago Bulls,United Center,41,0.5,0.2,V. Del Negro,B. Gordon (6.9),#CE1141,#000000,-0.16,Lost First Round versus <span>Boston Celtics (3-4)</span>,,,
+2009-10,Chicago Bulls,United Center,41,0.5,0.2,V. Del Negro,J. Noah (6.2),#CE1141,#000000,-1.64,Lost First Round versus <span>Cleveland Cavaliers (1-4)</span>,,,
+2010-11,Chicago Bulls,United Center,62,0.756,0.6,T. Thibodeau,D. Rose (13.1),#CE1141,#000000,6.53,Won First Round versus <span>Indiana Pacers (4-1)</span>,Won Conference Semifinals versus <span>Atlanta Hawks (4-2)</span>,Lost Conference Finals versus <span>Miami Heat (1-4)</span>,
+2011-12,Chicago Bulls,United Center,50,0.758,0.2,T. Thibodeau,J. Noah (9.0),#CE1141,#000000,7.43,Lost First Round versus <span>Philadelphia 76ers (2-4)</span>,,,
+2012-13,Chicago Bulls,United Center,45,0.549,0.4,T. Thibodeau,J. Noah (7.3),#CE1141,#000000,-0.02,Won First Round versus <span>Brooklyn Nets (4-3)</span>,Lost Conference Semifinals versus <span>Miami Heat (1-4)</span>,,
+2013-14,Chicago Bulls,United Center,48,0.585,0.2,T. Thibodeau,J. Noah (11.2),#CE1141,#000000,1.2,Lost First Round versus <span>Washington Wizards (1-4)</span>,,,
+2014-15,Chicago Bulls,United Center,50,0.61,0.4,T. Thibodeau,J. Butler (11.2),#CE1141,#000000,2.54,Won First Round versus <span>Milwaukee Bucks (4-2)</span>,Lost Conference Semifinals versus <span>Cleveland Cavaliers (2-4)</span>,,
+2015-16,Chicago Bulls,United Center,42,0.512,0,F. Hoiberg,J. Butler (9.1),#CE1141,#000000,-1.46,,,,
+2016-17,Chicago Bulls,United Center,41,0.5,0.2,F. Hoiberg,J. Butler (13.8),#CE1141,#000000,0.03,Lost First Round versus <span>Boston Celtics (2-4)</span>,,,
+2017-18,Chicago Bulls,United Center,27,0.329,0,F. Hoiberg,B. Portis (3.5),#CE1141,#000000,-6.84,,,,
+2018-19,Chicago Bulls,United Center,22,0.268,0,F. Hoiberg/J. Boylen,R. Arcidiacono (3.7),#CE1141,#000000,-8.32,,,,
+2019-20,Chicago Bulls,United Center,22,0.338,0,J. Boylen,Z. LaVine (4.0),#CE1141,#000000,-4,,,,

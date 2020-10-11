@@ -1,54 +1,54 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent
-1967-68,Seattle SuperSonics,Seattle Center Coliseum,23,0.28,0,A. Bianchi,B. Rule (6.4),#006031,#FFC222,-6,
-1968-69,Seattle SuperSonics,Seattle Center Coliseum,30,0.366,0,A. Bianchi,L. Wilkens (9.0),#006031,#FFC222,-4.68,
-1969-70,Seattle SuperSonics,Seattle Center Coliseum,36,0.439,0,L. Wilkens,D. Snyder (6.0),#006031,#FFC222,-2.43,
-1970-71,Seattle SuperSonics,Seattle Center Coliseum,38,0.463,0,L. Wilkens,D. Snyder (10.0),#006031,#FFC222,-1.53,
-1971-72,Seattle SuperSonics,Seattle Center Coliseum,47,0.573,0,L. Wilkens,L. Wilkens (9.6),#006031,#FFC222,0.86,
-1972-73,Seattle SuperSonics,Seattle Center Coliseum,26,0.317,0,T. Nissalke/B. Buckwalter,S. Haywood (10.2),#006031,#FFC222,-5.33,
-1973-74,Seattle SuperSonics,Seattle Center Coliseum,36,0.439,0,B. Russell,S. Haywood (9.7),#006031,#FFC222,-2.29,
-1974-75,Seattle SuperSonics,Seattle Center Coliseum,43,0.524,0.4,B. Russell,F. Brown (7.9),#006031,#FFC222,-1.19,Golden State Warriors (2-4)
-1975-76,Seattle SuperSonics,Seattle Center Coliseum,43,0.524,0.4,B. Russell,F. Brown (8.8),#006031,#FFC222,-0.15,Phoenix Suns (2-4)
-1976-77,Seattle SuperSonics,Seattle Center Coliseum,40,0.488,0,B. Russell,F. Brown (6.1),#006031,#FFC222,-1.43,
-1977-78,Seattle SuperSonics,Seattle Center Coliseum,47,0.573,0.8,B. Hopkins/L. Wilkens,M. Webster (8.7),#006031,#FFC222,1.48,Washington Bullets (3-4)
-1978-79,Seattle SuperSonics,King County Domed Stadium,52,0.634,1,L. Wilkens,J. Sikma (8.8),#006031,#FFC222,2.69,Washington Bullets (4-1)
-1979-80,Seattle SuperSonics,King County Domed Stadium,56,0.683,0.6,L. Wilkens,G. Williams (11.6),#006031,#FFC222,4.24,Los Angeles Lakers (1-4)
-1980-81,Seattle SuperSonics,King County Domed Stadium,34,0.415,0,L. Wilkens,J. Sikma (8.0),#006031,#FFC222,-1.84,
-1981-82,Seattle SuperSonics,King County Domed Stadium,52,0.634,0.4,L. Wilkens,J. Sikma (12.6),#006031,#FFC222,3.69,San Antonio Spurs (1-4)
-1982-83,Seattle SuperSonics,King County Domed Stadium,48,0.585,0.2,L. Wilkens,J. Sikma (9.8),#006031,#FFC222,2.88,Portland Trail Blazers (0-2)
-1983-84,Seattle SuperSonics,King County Domed Stadium,42,0.512,0.2,L. Wilkens,J. Sikma (9.7),#006031,#FFC222,-0.34,Dallas Mavericks (2-3)
-1984-85,Seattle SuperSonics,King County Domed Stadium,31,0.378,0,L. Wilkens,J. Sikma (8.3),#006031,#FFC222,-5.44,
-1985-86,Seattle SuperSonics,Seattle Center Coliseum,31,0.378,0,B. Bickerstaff,J. Sikma (7.8),#006031,#FFC222,-0.47,
-1986-87,Seattle SuperSonics,Seattle Center Coliseum,39,0.476,0.6,B. Bickerstaff,D. Ellis (9.3),#006031,#FFC222,0.08,Los Angeles Lakers (0-4)
-1987-88,Seattle SuperSonics,Seattle Center Coliseum,44,0.537,0.2,B. Bickerstaff,D. Ellis (9.0),#006031,#FFC222,1.29,Denver Nuggets (2-3)
-1988-89,Seattle SuperSonics,Seattle Center Coliseum,47,0.573,0.4,B. Bickerstaff,D. Ellis (10.8),#006031,#FFC222,2.44,Los Angeles Lakers (0-4)
-1989-90,Seattle SuperSonics,Seattle Center Coliseum,41,0.5,0,B. Bickerstaff,M. Cage (6.8),#006031,#FFC222,1.4,
-1990-91,Seattle SuperSonics,Seattle Center Coliseum,41,0.5,0.2,K. Jones,D. McKey (6.4),#006031,#FFC222,1.31,Portland Trail Blazers (2-3)
-1991-92,Seattle SuperSonics,Seattle Center Coliseum,47,0.573,0.4,K. Jones/B. Kloppenburg/G. Karl,R. Pierce (7.8),#006031,#FFC222,1.86,Utah Jazz (1-4)
-1992-93,Seattle SuperSonics,Seattle Center Coliseum,55,0.671,0.6,G. Karl,S. Kemp (9.1),#006031,#FFC222,6.66,Phoenix Suns (3-4)
-1993-94,Seattle SuperSonics,Seattle Center Coliseum,63,0.768,0.2,G. Karl,S. Kemp (11.7),#006031,#FFC222,8.68,Denver Nuggets (2-3)
-1994-95,Seattle SuperSonics,Tacoma Dome,57,0.695,0.2,G. Karl,D. Schrempf (12.9),#006031,#FFC222,7.91,Los Angeles Lakers (1-3)
-1995-96,Seattle SuperSonics,KeyArena at Seattle Center,64,0.78,0.8,G. Karl,G. Payton (11.5),#006031,#FFC222,7.4,Chicago Bulls (2-4)
-1996-97,Seattle SuperSonics,KeyArena at Seattle Center,57,0.695,0.4,G. Karl,G. Payton (12.9),#006031,#FFC222,6.91,Houston Rockets (3-4)
-1997-98,Seattle SuperSonics,KeyArena at Seattle Center,61,0.744,0.4,G. Karl,G. Payton (12.5),#006031,#FFC222,6.33,Los Angeles Lakers (1-4)
-1998-99,Seattle SuperSonics,KeyArena at Seattle Center,25,0.5,0,P. Westphal,G. Payton (7.2),#006031,#FFC222,-1.43,
-1999-00,Seattle SuperSonics,KeyArena at Seattle Center,45,0.549,0.2,P. Westphal,G. Payton (13.9),#006031,#FFC222,1.17,Utah Jazz (2-3)
-2000-01,Seattle SuperSonics,KeyArena at Seattle Center,44,0.537,0,P. Westphal/N. McMillan,G. Payton (10.8),#006031,#FFC222,0.55,
-2001-02,Seattle SuperSonics,KeyArena at Seattle Center,45,0.549,0.2,N. McMillan,G. Payton (12.6),#006031,#FFC222,3.24,San Antonio Spurs (2-3)
-2002-03,Seattle SuperSonics,KeyArena at Seattle Center,40,0.488,0,N. McMillan,R. Lewis (7.8),#006031,#FFC222,0.37,
-2003-04,Seattle SuperSonics,KeyArena at Seattle Center,37,0.451,0,N. McMillan,R. Allen (6.9),#006031,#FFC222,0.02,
-2004-05,Seattle SuperSonics,KeyArena at Seattle Center,52,0.634,0.4,N. McMillan,R. Allen (10.7),#006031,#FFC222,2.59,San Antonio Spurs (2-4)
-2005-06,Seattle SuperSonics,KeyArena at Seattle Center,35,0.427,0,B. Weiss/B. Hill,R. Allen (9.5),#006031,#FFC222,-2.88,
-2006-07,Seattle SuperSonics,KeyArena at Seattle Center,31,0.378,0,B. Hill,R. Lewis (7.6),#006031,#FFC222,-2.45,
-2007-08,Seattle SuperSonics,KeyArena at Seattle Center,20,0.244,0,P. Carlesimo,N. Collison (4.5),#006031,#FFC222,-8.04,
-2008-09,Oklahoma City Thunder,Ford Center,23,0.28,0,P. Carlesimo/S. Brooks,K. Durant (7.9),#007AC1,#EF3B24,-6.04,
-2009-10,Oklahoma City Thunder,Oklahoma City Arena,50,0.61,0.2,S. Brooks,K. Durant (16.1),#007AC1,#EF3B24,3.55,Los Angeles Lakers (2-4)
-2010-11,Oklahoma City Thunder,Chesapeake Energy Arena,55,0.671,0.6,S. Brooks,K. Durant (12.0),#007AC1,#EF3B24,3.81,Dallas Mavericks (1-4)
-2011-12,Oklahoma City Thunder,Chesapeake Energy Arena,47,0.712,0.8,S. Brooks,K. Durant (12.2),#007AC1,#EF3B24,6.44,Miami Heat (1-4)
-2012-13,Oklahoma City Thunder,Chesapeake Energy Arena,60,0.732,0.4,S. Brooks,K. Durant (18.9),#007AC1,#EF3B24,9.15,Memphis Grizzlies (1-4)
-2013-14,Oklahoma City Thunder,Chesapeake Energy Arena,59,0.72,0.6,S. Brooks,K. Durant (19.2),#007AC1,#EF3B24,6.66,San Antonio Spurs (2-4)
-2014-15,Oklahoma City Thunder,Chesapeake Energy Arena,45,0.549,0,S. Brooks,R. Westbrook (10.6),#007AC1,#EF3B24,2.47,
-2015-16,Oklahoma City Thunder,Chesapeake Energy Arena,55,0.671,0.6,B. Donovan,K. Durant (14.5),#007AC1,#EF3B24,7.09,Golden State Warriors (3-4)
-2016-17,Oklahoma City Thunder,Chesapeake Energy Arena,47,0.573,0.2,B. Donovan,R. Westbrook (13.1),#007AC1,#EF3B24,1.14,Houston Rockets (1-4)
-2017-18,Oklahoma City Thunder,Chesapeake Energy Arena,48,0.585,0.2,B. Donovan,R. Westbrook (10.1),#007AC1,#EF3B24,3.42,Utah Jazz (2-4)
-2018-19,Oklahoma City Thunder,Chesapeake Energy Arena,49,0.598,0.2,B. Donovan,P. George (11.9),#007AC1,#EF3B24,3.56,Portland Trail Blazers (1-4)
-2019-20,Oklahoma City Thunder,Chesapeake Energy Arena,44,0.611,0.2,B. Donovan,C. Paul (8.9),#007AC1,#EF3B24,2.33,Houston Rockets (3-4)
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent1,opponent2,opponent3,opponent4
+1967-68,Seattle SuperSonics,Seattle Center Coliseum,23,0.28,0,A. Bianchi,B. Rule (6.4),#006031,#FFC222,-6,,,,
+1968-69,Seattle SuperSonics,Seattle Center Coliseum,30,0.366,0,A. Bianchi,L. Wilkens (9.0),#006031,#FFC222,-4.68,,,,
+1969-70,Seattle SuperSonics,Seattle Center Coliseum,36,0.439,0,L. Wilkens,D. Snyder (6.0),#006031,#FFC222,-2.43,,,,
+1970-71,Seattle SuperSonics,Seattle Center Coliseum,38,0.463,0,L. Wilkens,D. Snyder (10.0),#006031,#FFC222,-1.53,,,,
+1971-72,Seattle SuperSonics,Seattle Center Coliseum,47,0.573,0,L. Wilkens,L. Wilkens (9.6),#006031,#FFC222,0.86,,,,
+1972-73,Seattle SuperSonics,Seattle Center Coliseum,26,0.317,0,T. Nissalke/B. Buckwalter,S. Haywood (10.2),#006031,#FFC222,-5.33,,,,
+1973-74,Seattle SuperSonics,Seattle Center Coliseum,36,0.439,0,B. Russell,S. Haywood (9.7),#006031,#FFC222,-2.29,,,,
+1974-75,Seattle SuperSonics,Seattle Center Coliseum,43,0.524,0.4,B. Russell,F. Brown (7.9),#006031,#FFC222,-1.19,Won First Round versus <span>Detroit Pistons (2-1)</span>,Lost Conference Semifinals versus <span>Golden State Warriors (2-4)</span>,,
+1975-76,Seattle SuperSonics,Seattle Center Coliseum,43,0.524,0.4,B. Russell,F. Brown (8.8),#006031,#FFC222,-0.15,Lost Conference Semifinals versus <span>Phoenix Suns (2-4)</span>,,,
+1976-77,Seattle SuperSonics,Seattle Center Coliseum,40,0.488,0,B. Russell,F. Brown (6.1),#006031,#FFC222,-1.43,,,,
+1977-78,Seattle SuperSonics,Seattle Center Coliseum,47,0.573,0.8,B. Hopkins/L. Wilkens,M. Webster (8.7),#006031,#FFC222,1.48,Won First Round versus <span>Los Angeles Lakers (2-1)</span>,Won Conference Semifinals versus <span>Portland Trail Blazers (4-2)</span>,Won Conference Finals versus <span>Denver Nuggets (4-2)</span>,Lost Finals versus <span>Washington Bullets (3-4)</span>
+1978-79,Seattle SuperSonics,King County Domed Stadium,52,0.634,1,L. Wilkens,J. Sikma (8.8),#006031,#FFC222,2.69,First Round Bye,Won Conference Semifinals versus <span>Los Angeles Lakers (4-1)</span>,Won Conference Finals versus <span>Phoenix Suns (4-3)</span>,Won Finals versus <span>Washington Bullets (4-1)</span>
+1979-80,Seattle SuperSonics,King County Domed Stadium,56,0.683,0.6,L. Wilkens,G. Williams (11.6),#006031,#FFC222,4.24,Won First Round versus <span>Portland Trail Blazers (2-1)</span>,Won Conference Semifinals versus <span>Milwaukee Bucks (4-3)</span>,Lost Conference Finals versus <span>Los Angeles Lakers (1-4)</span>,
+1980-81,Seattle SuperSonics,King County Domed Stadium,34,0.415,0,L. Wilkens,J. Sikma (8.0),#006031,#FFC222,-1.84,,,,
+1981-82,Seattle SuperSonics,King County Domed Stadium,52,0.634,0.4,L. Wilkens,J. Sikma (12.6),#006031,#FFC222,3.69,Won First Round versus <span>Houston Rockets (2-1)</span>,Lost Conference Semifinals versus <span>San Antonio Spurs (1-4)</span>,,
+1982-83,Seattle SuperSonics,King County Domed Stadium,48,0.585,0.2,L. Wilkens,J. Sikma (9.8),#006031,#FFC222,2.88,Lost First Round versus <span>Portland Trail Blazers (0-2)</span>,,,
+1983-84,Seattle SuperSonics,King County Domed Stadium,42,0.512,0.2,L. Wilkens,J. Sikma (9.7),#006031,#FFC222,-0.34,Lost First Round versus <span>Dallas Mavericks (2-3)</span>,,,
+1984-85,Seattle SuperSonics,King County Domed Stadium,31,0.378,0,L. Wilkens,J. Sikma (8.3),#006031,#FFC222,-5.44,,,,
+1985-86,Seattle SuperSonics,Seattle Center Coliseum,31,0.378,0,B. Bickerstaff,J. Sikma (7.8),#006031,#FFC222,-0.47,,,,
+1986-87,Seattle SuperSonics,Seattle Center Coliseum,39,0.476,0.6,B. Bickerstaff,D. Ellis (9.3),#006031,#FFC222,0.08,Won First Round versus <span>Dallas Mavericks (3-1)</span>,Won Conference Semifinals versus <span>Houston Rockets (4-2)</span>,Lost Conference Finals versus <span>Los Angeles Lakers (0-4)</span>,
+1987-88,Seattle SuperSonics,Seattle Center Coliseum,44,0.537,0.2,B. Bickerstaff,D. Ellis (9.0),#006031,#FFC222,1.29,Lost First Round versus <span>Denver Nuggets (2-3)</span>,,,
+1988-89,Seattle SuperSonics,Seattle Center Coliseum,47,0.573,0.4,B. Bickerstaff,D. Ellis (10.8),#006031,#FFC222,2.44,Won First Round versus <span>Houston Rockets (3-1)</span>,Lost Conference Semifinals versus <span>Los Angeles Lakers (0-4)</span>,,
+1989-90,Seattle SuperSonics,Seattle Center Coliseum,41,0.5,0,B. Bickerstaff,M. Cage (6.8),#006031,#FFC222,1.4,,,,
+1990-91,Seattle SuperSonics,Seattle Center Coliseum,41,0.5,0.2,K. Jones,D. McKey (6.4),#006031,#FFC222,1.31,Lost First Round versus <span>Portland Trail Blazers (2-3)</span>,,,
+1991-92,Seattle SuperSonics,Seattle Center Coliseum,47,0.573,0.4,K. Jones/B. Kloppenburg/G. Karl,R. Pierce (7.8),#006031,#FFC222,1.86,Won First Round versus <span>Golden State Warriors (3-1)</span>,Lost Conference Semifinals versus <span>Utah Jazz (1-4)</span>,,
+1992-93,Seattle SuperSonics,Seattle Center Coliseum,55,0.671,0.6,G. Karl,S. Kemp (9.1),#006031,#FFC222,6.66,Won First Round versus <span>Utah Jazz (3-2)</span>,Won Conference Semifinals versus <span>Houston Rockets (4-3)</span>,Lost Conference Finals versus <span>Phoenix Suns (3-4)</span>,
+1993-94,Seattle SuperSonics,Seattle Center Coliseum,63,0.768,0.2,G. Karl,S. Kemp (11.7),#006031,#FFC222,8.68,Lost First Round versus <span>Denver Nuggets (2-3)</span>,,,
+1994-95,Seattle SuperSonics,Tacoma Dome,57,0.695,0.2,G. Karl,D. Schrempf (12.9),#006031,#FFC222,7.91,Lost First Round versus <span>Los Angeles Lakers (1-3)</span>,,,
+1995-96,Seattle SuperSonics,KeyArena at Seattle Center,64,0.78,0.8,G. Karl,G. Payton (11.5),#006031,#FFC222,7.4,Won First Round versus <span>Sacramento Kings (3-1)</span>,Won Conference Semifinals versus <span>Houston Rockets (4-0)</span>,Won Conference Finals versus <span>Utah Jazz (4-3)</span>,Lost Finals versus <span>Chicago Bulls (2-4)</span>
+1996-97,Seattle SuperSonics,KeyArena at Seattle Center,57,0.695,0.4,G. Karl,G. Payton (12.9),#006031,#FFC222,6.91,Won First Round versus <span>Phoenix Suns (3-2)</span>,Lost Conference Semifinals versus <span>Houston Rockets (3-4)</span>,,
+1997-98,Seattle SuperSonics,KeyArena at Seattle Center,61,0.744,0.4,G. Karl,G. Payton (12.5),#006031,#FFC222,6.33,Won First Round versus <span>Minnesota Timberwolves (3-2)</span>,Lost Conference Semifinals versus <span>Los Angeles Lakers (1-4)</span>,,
+1998-99,Seattle SuperSonics,KeyArena at Seattle Center,25,0.5,0,P. Westphal,G. Payton (7.2),#006031,#FFC222,-1.43,,,,
+1999-00,Seattle SuperSonics,KeyArena at Seattle Center,45,0.549,0.2,P. Westphal,G. Payton (13.9),#006031,#FFC222,1.17,Lost First Round versus <span>Utah Jazz (2-3)</span>,,,
+2000-01,Seattle SuperSonics,KeyArena at Seattle Center,44,0.537,0,P. Westphal/N. McMillan,G. Payton (10.8),#006031,#FFC222,0.55,,,,
+2001-02,Seattle SuperSonics,KeyArena at Seattle Center,45,0.549,0.2,N. McMillan,G. Payton (12.6),#006031,#FFC222,3.24,Lost First Round versus <span>San Antonio Spurs (2-3)</span>,,,
+2002-03,Seattle SuperSonics,KeyArena at Seattle Center,40,0.488,0,N. McMillan,R. Lewis (7.8),#006031,#FFC222,0.37,,,,
+2003-04,Seattle SuperSonics,KeyArena at Seattle Center,37,0.451,0,N. McMillan,R. Allen (6.9),#006031,#FFC222,0.02,,,,
+2004-05,Seattle SuperSonics,KeyArena at Seattle Center,52,0.634,0.4,N. McMillan,R. Allen (10.7),#006031,#FFC222,2.59,Won First Round versus <span>Sacramento Kings (4-1)</span>,Lost Conference Semifinals versus <span>San Antonio Spurs (2-4)</span>,,
+2005-06,Seattle SuperSonics,KeyArena at Seattle Center,35,0.427,0,B. Weiss/B. Hill,R. Allen (9.5),#006031,#FFC222,-2.88,,,,
+2006-07,Seattle SuperSonics,KeyArena at Seattle Center,31,0.378,0,B. Hill,R. Lewis (7.6),#006031,#FFC222,-2.45,,,,
+2007-08,Seattle SuperSonics,KeyArena at Seattle Center,20,0.244,0,P. Carlesimo,N. Collison (4.5),#006031,#FFC222,-8.04,,,,
+2008-09,Oklahoma City Thunder,Ford Center,23,0.28,0,P. Carlesimo/S. Brooks,K. Durant (7.9),#007AC1,#EF3B24,-6.04,,,,
+2009-10,Oklahoma City Thunder,Oklahoma City Arena,50,0.61,0.2,S. Brooks,K. Durant (16.1),#007AC1,#EF3B24,3.55,Lost First Round versus <span>Los Angeles Lakers (2-4)</span>,,,
+2010-11,Oklahoma City Thunder,Chesapeake Energy Arena,55,0.671,0.6,S. Brooks,K. Durant (12.0),#007AC1,#EF3B24,3.81,Won First Round versus <span>Denver Nuggets (4-1)</span>,Won Conference Semifinals versus <span>Memphis Grizzlies (4-3)</span>,Lost Conference Finals versus <span>Dallas Mavericks (1-4)</span>,
+2011-12,Oklahoma City Thunder,Chesapeake Energy Arena,47,0.712,0.8,S. Brooks,K. Durant (12.2),#007AC1,#EF3B24,6.44,Won First Round versus <span>Dallas Mavericks (4-0)</span>,Won Conference Semifinals versus <span>Los Angeles Lakers (4-1)</span>,Won Conference Finals versus <span>San Antonio Spurs (4-2)</span>,Lost Finals versus <span>Miami Heat (1-4)</span>
+2012-13,Oklahoma City Thunder,Chesapeake Energy Arena,60,0.732,0.4,S. Brooks,K. Durant (18.9),#007AC1,#EF3B24,9.15,Won First Round versus <span>Houston Rockets (4-2)</span>,Lost Conference Semifinals versus <span>Memphis Grizzlies (1-4)</span>,,
+2013-14,Oklahoma City Thunder,Chesapeake Energy Arena,59,0.72,0.6,S. Brooks,K. Durant (19.2),#007AC1,#EF3B24,6.66,Won First Round versus <span>Memphis Grizzlies (4-3)</span>,Won Conference Semifinals versus <span>Los Angeles Clippers (4-2)</span>,Lost Conference Finals versus <span>San Antonio Spurs (2-4)</span>,
+2014-15,Oklahoma City Thunder,Chesapeake Energy Arena,45,0.549,0,S. Brooks,R. Westbrook (10.6),#007AC1,#EF3B24,2.47,,,,
+2015-16,Oklahoma City Thunder,Chesapeake Energy Arena,55,0.671,0.6,B. Donovan,K. Durant (14.5),#007AC1,#EF3B24,7.09,Won First Round versus <span>Dallas Mavericks (4-1)</span>,Won Conference Semifinals versus <span>San Antonio Spurs (4-2)</span>,Lost Conference Finals versus <span>Golden State Warriors (3-4)</span>,
+2016-17,Oklahoma City Thunder,Chesapeake Energy Arena,47,0.573,0.2,B. Donovan,R. Westbrook (13.1),#007AC1,#EF3B24,1.14,Lost First Round versus <span>Houston Rockets (1-4)</span>,,,
+2017-18,Oklahoma City Thunder,Chesapeake Energy Arena,48,0.585,0.2,B. Donovan,R. Westbrook (10.1),#007AC1,#EF3B24,3.42,Lost First Round versus <span>Utah Jazz (2-4)</span>,,,
+2018-19,Oklahoma City Thunder,Chesapeake Energy Arena,49,0.598,0.2,B. Donovan,P. George (11.9),#007AC1,#EF3B24,3.56,Lost First Round versus <span>Portland Trail Blazers (1-4)</span>,,,
+2019-20,Oklahoma City Thunder,Chesapeake Energy Arena,44,0.611,0.2,B. Donovan,C. Paul (8.9),#007AC1,#EF3B24,2.33,Lost First Round versus <span>Houston Rockets (3-4)</span>,,,

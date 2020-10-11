@@ -1,51 +1,51 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent
-1970-71,Portland Trail Blazers,Memorial Coliseum,29,0.354,0,R. Todd,G. Petrie (6.2),#E03A3E,#000000,-6.2,
-1971-72,Portland Trail Blazers,Memorial Coliseum,18,0.22,0,R. Todd/S. Inman,D. Schlueter (6.3),#E03A3E,#000000,-8.84,
-1972-73,Portland Trail Blazers,Memorial Coliseum,21,0.256,0,J. McCloskey,S. Wicks (5.6),#E03A3E,#000000,-5.67,
-1973-74,Portland Trail Blazers,Memorial Coliseum,27,0.329,0,J. McCloskey,S. Wicks (5.6),#E03A3E,#000000,-4.3,
-1974-75,Portland Trail Blazers,Memorial Coliseum,38,0.463,0,L. Wilkens,S. Wicks (9.7),#E03A3E,#000000,0.27,
-1975-76,Portland Trail Blazers,Memorial Coliseum,37,0.451,0,L. Wilkens,S. Wicks (7.1),#E03A3E,#000000,-1.11,
-1976-77,Portland Trail Blazers,Memorial Coliseum,49,0.598,1,J. Ramsay,B. Walton (10.2),#E03A3E,#000000,5.39,Philadelphia 76ers (4-2)
-1977-78,Portland Trail Blazers,Memorial Coliseum,58,0.707,0.4,J. Ramsay,B. Walton (8.4),#E03A3E,#000000,5.92,Seattle SuperSonics (2-4)
-1978-79,Portland Trail Blazers,Memorial Coliseum,45,0.549,0.2,J. Ramsay,T. Owens (10.4),#E03A3E,#000000,1.12,Phoenix Suns (1-2)
-1979-80,Portland Trail Blazers,Memorial Coliseum,38,0.463,0.2,J. Ramsay,K. Washington (9.1),#E03A3E,#000000,-0.87,Seattle SuperSonics (1-2)
-1980-81,Portland Trail Blazers,Memorial Coliseum,45,0.549,0.2,J. Ramsay,J. Paxson (7.7),#E03A3E,#000000,0.52,Kansas City Kings (1-2)
-1981-82,Portland Trail Blazers,Memorial Coliseum,42,0.512,0,J. Ramsay,C. Natt (9.3),#E03A3E,#000000,0.39,
-1982-83,Portland Trail Blazers,Memorial Coliseum,46,0.561,0.4,J. Ramsay,J. Paxson (10.2),#E03A3E,#000000,1.88,Los Angeles Lakers (1-4)
-1983-84,Portland Trail Blazers,Memorial Coliseum,48,0.585,0.2,J. Ramsay,J. Paxson (9.5),#E03A3E,#000000,3.13,Phoenix Suns (2-3)
-1984-85,Portland Trail Blazers,Memorial Coliseum,42,0.512,0.4,J. Ramsay,K. Vandeweghe (8.4),#E03A3E,#000000,2.8,Los Angeles Lakers (1-4)
-1985-86,Portland Trail Blazers,Memorial Coliseum,40,0.488,0.2,J. Ramsay,K. Vandeweghe (9.9),#E03A3E,#000000,0.61,Denver Nuggets (1-3)
-1986-87,Portland Trail Blazers,Memorial Coliseum,49,0.598,0.2,M. Schuler,K. Vandeweghe (10.8),#E03A3E,#000000,2.57,Houston Rockets (1-3)
-1987-88,Portland Trail Blazers,Memorial Coliseum,53,0.646,0.2,M. Schuler,C. Drexler (13.2),#E03A3E,#000000,3.59,Utah Jazz (1-3)
-1988-89,Portland Trail Blazers,Memorial Coliseum,39,0.476,0.2,M. Schuler/R. Adelman,C. Drexler (12.6),#E03A3E,#000000,0.92,Los Angeles Lakers (0-3)
-1989-90,Portland Trail Blazers,Memorial Coliseum,59,0.72,0.8,R. Adelman,T. Porter (11.7),#E03A3E,#000000,6.48,Detroit Pistons (1-4)
-1990-91,Portland Trail Blazers,Memorial Coliseum,63,0.768,0.6,R. Adelman,T. Porter (13.0),#E03A3E,#000000,8.47,Los Angeles Lakers (2-4)
-1991-92,Portland Trail Blazers,Memorial Coliseum,57,0.695,0.8,R. Adelman,C. Drexler (12.8),#E03A3E,#000000,6.94,Chicago Bulls (2-4)
-1992-93,Portland Trail Blazers,Memorial Coliseum,51,0.622,0.2,R. Adelman,T. Porter (8.8),#E03A3E,#000000,2.92,San Antonio Spurs (1-3)
-1993-94,Portland Trail Blazers,Memorial Coliseum,47,0.573,0.2,R. Adelman,R. Strickland (9.3),#E03A3E,#000000,2.6,Houston Rockets (1-3)
-1994-95,Portland Trail Blazers,Memorial Coliseum,44,0.537,0.2,P. Carlesimo,C. Robinson (8.7),#E03A3E,#000000,3.8,Phoenix Suns (0-3)
-1995-96,Portland Trail Blazers,Rose Garden Arena,44,0.537,0.2,P. Carlesimo,A. Sabonis (8.4),#E03A3E,#000000,2.21,Utah Jazz (2-3)
-1996-97,Portland Trail Blazers,Rose Garden Arena,49,0.598,0.2,P. Carlesimo,K. Anderson (12.4),#E03A3E,#000000,3.56,Los Angeles Lakers (1-3)
-1997-98,Portland Trail Blazers,Rose Garden Arena,46,0.561,0.2,M. Dunleavy,A. Sabonis (9.7),#E03A3E,#000000,0.83,Los Angeles Lakers (1-3)
-1998-99,Portland Trail Blazers,Rose Garden Arena,35,0.7,0.6,M. Dunleavy,B. Grant (5.9),#E03A3E,#000000,5.67,San Antonio Spurs (0-4)
-1999-00,Portland Trail Blazers,Rose Garden Arena,59,0.72,0.6,M. Dunleavy,S. Smith (10.4),#E03A3E,#000000,6.36,Los Angeles Lakers (3-4)
-2000-01,Portland Trail Blazers,Rose Garden Arena,50,0.61,0.2,M. Dunleavy,R. Wallace (11.0),#E03A3E,#000000,4.52,Los Angeles Lakers (0-3)
-2001-02,Portland Trail Blazers,Rose Garden Arena,49,0.598,0.2,M. Cheeks,R. Wallace (9.7),#E03A3E,#000000,3.21,Los Angeles Lakers (0-3)
-2002-03,Portland Trail Blazers,Rose Garden Arena,50,0.61,0.2,M. Cheeks,R. Wallace (8.5),#E03A3E,#000000,2.97,Dallas Mavericks (3-4)
-2003-04,Portland Trail Blazers,Rose Garden Arena,41,0.5,0,M. Cheeks,Z. Randolph (7.1),#E03A3E,#000000,-0.58,
-2004-05,Portland Trail Blazers,Rose Garden Arena,27,0.329,0,M. Cheeks/K. Pritchard,D. Stoudamire (5.7),#E03A3E,#000000,-3.45,
-2005-06,Portland Trail Blazers,Rose Garden Arena,21,0.256,0,N. McMillan,S. Blake (2.8),#E03A3E,#000000,-8.91,
-2006-07,Portland Trail Blazers,Rose Garden Arena,32,0.39,0,N. McMillan,Z. Randolph (5.7),#E03A3E,#000000,-3.78,
-2007-08,Portland Trail Blazers,Rose Garden Arena,41,0.5,0,N. McMillan,B. Roy (8.0),#E03A3E,#000000,-0.52,
-2008-09,Portland Trail Blazers,Rose Garden Arena,54,0.659,0.2,N. McMillan,B. Roy (13.5),#E03A3E,#000000,5,Houston Rockets (2-4)
-2009-10,Portland Trail Blazers,Rose Garden Arena,50,0.61,0.2,N. McMillan,B. Roy (9.1),#E03A3E,#000000,3.18,Phoenix Suns (2-4)
-2010-11,Portland Trail Blazers,Rose Garden Arena,48,0.585,0.2,N. McMillan,L. Aldridge (11.1),#E03A3E,#000000,1.85,Dallas Mavericks (2-4)
-2011-12,Portland Trail Blazers,Rose Garden Arena,28,0.424,0,N. McMillan/K. Canales,L. Aldridge (7.0),#E03A3E,#000000,-0.22,
-2012-13,Portland Trail Blazers,Rose Garden Arena,33,0.402,0,T. Stotts,L. Aldridge (7.2),#E03A3E,#000000,-2.53,
-2013-14,Portland Trail Blazers,Moda Center,54,0.659,0.4,T. Stotts,D. Lillard (9.6),#E03A3E,#000000,4.44,San Antonio Spurs (1-4)
-2014-15,Portland Trail Blazers,Moda Center,51,0.622,0.2,T. Stotts,D. Lillard (10.6),#E03A3E,#000000,4.41,Memphis Grizzlies (1-4)
-2015-16,Portland Trail Blazers,Moda Center,44,0.537,0.4,T. Stotts,D. Lillard (9.2),#E03A3E,#000000,0.98,Golden State Warriors (1-4)
-2016-17,Portland Trail Blazers,Moda Center,41,0.5,0.2,T. Stotts,D. Lillard (10.3),#E03A3E,#000000,-0.23,Golden State Warriors (0-4)
-2017-18,Portland Trail Blazers,Moda Center,49,0.598,0.2,T. Stotts,D. Lillard (12.6),#E03A3E,#000000,2.6,New Orleans Pelicans (0-4)
-2018-19,Portland Trail Blazers,Moda Center,53,0.646,0.6,T. Stotts,D. Lillard (12.1),#E03A3E,#000000,4.43,Golden State Warriors (0-4)
-2019-20,Portland Trail Blazers,Moda Center,35,0.473,0.2,T. Stotts,D. Lillard (11.6),#E03A3E,#000000,-0.61,Los Angeles Lakers (1-4)
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent1,opponent2,opponent3,opponent4
+1970-71,Portland Trail Blazers,Memorial Coliseum,29,0.354,0,R. Todd,G. Petrie (6.2),#E03A3E,#000000,-6.2,,,,
+1971-72,Portland Trail Blazers,Memorial Coliseum,18,0.22,0,R. Todd/S. Inman,D. Schlueter (6.3),#E03A3E,#000000,-8.84,,,,
+1972-73,Portland Trail Blazers,Memorial Coliseum,21,0.256,0,J. McCloskey,S. Wicks (5.6),#E03A3E,#000000,-5.67,,,,
+1973-74,Portland Trail Blazers,Memorial Coliseum,27,0.329,0,J. McCloskey,S. Wicks (5.6),#E03A3E,#000000,-4.3,,,,
+1974-75,Portland Trail Blazers,Memorial Coliseum,38,0.463,0,L. Wilkens,S. Wicks (9.7),#E03A3E,#000000,0.27,,,,
+1975-76,Portland Trail Blazers,Memorial Coliseum,37,0.451,0,L. Wilkens,S. Wicks (7.1),#E03A3E,#000000,-1.11,,,,
+1976-77,Portland Trail Blazers,Memorial Coliseum,49,0.598,1,J. Ramsay,B. Walton (10.2),#E03A3E,#000000,5.39,Won First Round versus <span>Chicago Bulls (2-1)</span>,Won Conference Semifinals versus <span>Denver Nuggets (4-2)</span>,Won Conference Finals versus <span>Los Angeles Lakers (4-0)</span>,Won Finals versus <span>Philadelphia 76ers (4-2)</span>
+1977-78,Portland Trail Blazers,Memorial Coliseum,58,0.707,0.4,J. Ramsay,B. Walton (8.4),#E03A3E,#000000,5.92,First Round Bye,Lost Conference Semifinals versus <span>Seattle SuperSonics (2-4)</span>,,
+1978-79,Portland Trail Blazers,Memorial Coliseum,45,0.549,0.2,J. Ramsay,T. Owens (10.4),#E03A3E,#000000,1.12,Lost First Round versus <span>Phoenix Suns (1-2)</span>,,,
+1979-80,Portland Trail Blazers,Memorial Coliseum,38,0.463,0.2,J. Ramsay,K. Washington (9.1),#E03A3E,#000000,-0.87,Lost First Round versus <span>Seattle SuperSonics (1-2)</span>,,,
+1980-81,Portland Trail Blazers,Memorial Coliseum,45,0.549,0.2,J. Ramsay,J. Paxson (7.7),#E03A3E,#000000,0.52,Lost First Round versus <span>Kansas City Kings (1-2)</span>,,,
+1981-82,Portland Trail Blazers,Memorial Coliseum,42,0.512,0,J. Ramsay,C. Natt (9.3),#E03A3E,#000000,0.39,,,,
+1982-83,Portland Trail Blazers,Memorial Coliseum,46,0.561,0.4,J. Ramsay,J. Paxson (10.2),#E03A3E,#000000,1.88,Won First Round versus <span>Seattle SuperSonics (2-0)</span>,Lost Conference Semifinals versus <span>Los Angeles Lakers (1-4)</span>,,
+1983-84,Portland Trail Blazers,Memorial Coliseum,48,0.585,0.2,J. Ramsay,J. Paxson (9.5),#E03A3E,#000000,3.13,Lost First Round versus <span>Phoenix Suns (2-3)</span>,,,
+1984-85,Portland Trail Blazers,Memorial Coliseum,42,0.512,0.4,J. Ramsay,K. Vandeweghe (8.4),#E03A3E,#000000,2.8,Won First Round versus <span>Dallas Mavericks (3-1)</span>,Lost Conference Semifinals versus <span>Los Angeles Lakers (1-4)</span>,,
+1985-86,Portland Trail Blazers,Memorial Coliseum,40,0.488,0.2,J. Ramsay,K. Vandeweghe (9.9),#E03A3E,#000000,0.61,Lost First Round versus <span>Denver Nuggets (1-3)</span>,,,
+1986-87,Portland Trail Blazers,Memorial Coliseum,49,0.598,0.2,M. Schuler,K. Vandeweghe (10.8),#E03A3E,#000000,2.57,Lost First Round versus <span>Houston Rockets (1-3)</span>,,,
+1987-88,Portland Trail Blazers,Memorial Coliseum,53,0.646,0.2,M. Schuler,C. Drexler (13.2),#E03A3E,#000000,3.59,Lost First Round versus <span>Utah Jazz (1-3)</span>,,,
+1988-89,Portland Trail Blazers,Memorial Coliseum,39,0.476,0.2,M. Schuler/R. Adelman,C. Drexler (12.6),#E03A3E,#000000,0.92,Lost First Round versus <span>Los Angeles Lakers (0-3)</span>,,,
+1989-90,Portland Trail Blazers,Memorial Coliseum,59,0.72,0.8,R. Adelman,T. Porter (11.7),#E03A3E,#000000,6.48,Won First Round versus <span>Dallas Mavericks (3-0)</span>,Won Conference Semifinals versus <span>San Antonio Spurs (4-3)</span>,Won Conference Finals versus <span>Phoenix Suns (4-2)</span>,Lost Finals versus <span>Detroit Pistons (1-4)</span>
+1990-91,Portland Trail Blazers,Memorial Coliseum,63,0.768,0.6,R. Adelman,T. Porter (13.0),#E03A3E,#000000,8.47,Won First Round versus <span>Seattle SuperSonics (3-2)</span>,Won Conference Semifinals versus <span>Utah Jazz (4-1)</span>,Lost Conference Finals versus <span>Los Angeles Lakers (2-4)</span>,
+1991-92,Portland Trail Blazers,Memorial Coliseum,57,0.695,0.8,R. Adelman,C. Drexler (12.8),#E03A3E,#000000,6.94,Won First Round versus <span>Los Angeles Lakers (3-1)</span>,Won Conference Semifinals versus <span>Phoenix Suns (4-1)</span>,Won Conference Finals versus <span>Utah Jazz (4-2)</span>,Lost Finals versus <span>Chicago Bulls (2-4)</span>
+1992-93,Portland Trail Blazers,Memorial Coliseum,51,0.622,0.2,R. Adelman,T. Porter (8.8),#E03A3E,#000000,2.92,Lost First Round versus <span>San Antonio Spurs (1-3)</span>,,,
+1993-94,Portland Trail Blazers,Memorial Coliseum,47,0.573,0.2,R. Adelman,R. Strickland (9.3),#E03A3E,#000000,2.6,Lost First Round versus <span>Houston Rockets (1-3)</span>,,,
+1994-95,Portland Trail Blazers,Memorial Coliseum,44,0.537,0.2,P. Carlesimo,C. Robinson (8.7),#E03A3E,#000000,3.8,Lost First Round versus <span>Phoenix Suns (0-3)</span>,,,
+1995-96,Portland Trail Blazers,Rose Garden Arena,44,0.537,0.2,P. Carlesimo,A. Sabonis (8.4),#E03A3E,#000000,2.21,Lost First Round versus <span>Utah Jazz (2-3)</span>,,,
+1996-97,Portland Trail Blazers,Rose Garden Arena,49,0.598,0.2,P. Carlesimo,K. Anderson (12.4),#E03A3E,#000000,3.56,Lost First Round versus <span>Los Angeles Lakers (1-3)</span>,,,
+1997-98,Portland Trail Blazers,Rose Garden Arena,46,0.561,0.2,M. Dunleavy,A. Sabonis (9.7),#E03A3E,#000000,0.83,Lost First Round versus <span>Los Angeles Lakers (1-3)</span>,,,
+1998-99,Portland Trail Blazers,Rose Garden Arena,35,0.7,0.6,M. Dunleavy,B. Grant (5.9),#E03A3E,#000000,5.67,Won First Round versus <span>Phoenix Suns (3-0)</span>,Won Conference Semifinals versus <span>Utah Jazz (4-2)</span>,Lost Conference Finals versus <span>San Antonio Spurs (0-4)</span>,
+1999-00,Portland Trail Blazers,Rose Garden Arena,59,0.72,0.6,M. Dunleavy,S. Smith (10.4),#E03A3E,#000000,6.36,Won First Round versus <span>Minnesota Timberwolves (3-1)</span>,Won Conference Semifinals versus <span>Utah Jazz (4-1)</span>,Lost Conference Finals versus <span>Los Angeles Lakers (3-4)</span>,
+2000-01,Portland Trail Blazers,Rose Garden Arena,50,0.61,0.2,M. Dunleavy,R. Wallace (11.0),#E03A3E,#000000,4.52,Lost First Round versus <span>Los Angeles Lakers (0-3)</span>,,,
+2001-02,Portland Trail Blazers,Rose Garden Arena,49,0.598,0.2,M. Cheeks,R. Wallace (9.7),#E03A3E,#000000,3.21,Lost First Round versus <span>Los Angeles Lakers (0-3)</span>,,,
+2002-03,Portland Trail Blazers,Rose Garden Arena,50,0.61,0.2,M. Cheeks,R. Wallace (8.5),#E03A3E,#000000,2.97,Lost First Round versus <span>Dallas Mavericks (3-4)</span>,,,
+2003-04,Portland Trail Blazers,Rose Garden Arena,41,0.5,0,M. Cheeks,Z. Randolph (7.1),#E03A3E,#000000,-0.58,,,,
+2004-05,Portland Trail Blazers,Rose Garden Arena,27,0.329,0,M. Cheeks/K. Pritchard,D. Stoudamire (5.7),#E03A3E,#000000,-3.45,,,,
+2005-06,Portland Trail Blazers,Rose Garden Arena,21,0.256,0,N. McMillan,S. Blake (2.8),#E03A3E,#000000,-8.91,,,,
+2006-07,Portland Trail Blazers,Rose Garden Arena,32,0.39,0,N. McMillan,Z. Randolph (5.7),#E03A3E,#000000,-3.78,,,,
+2007-08,Portland Trail Blazers,Rose Garden Arena,41,0.5,0,N. McMillan,B. Roy (8.0),#E03A3E,#000000,-0.52,,,,
+2008-09,Portland Trail Blazers,Rose Garden Arena,54,0.659,0.2,N. McMillan,B. Roy (13.5),#E03A3E,#000000,5,Lost First Round versus <span>Houston Rockets (2-4)</span>,,,
+2009-10,Portland Trail Blazers,Rose Garden Arena,50,0.61,0.2,N. McMillan,B. Roy (9.1),#E03A3E,#000000,3.18,Lost First Round versus <span>Phoenix Suns (2-4)</span>,,,
+2010-11,Portland Trail Blazers,Rose Garden Arena,48,0.585,0.2,N. McMillan,L. Aldridge (11.1),#E03A3E,#000000,1.85,Lost First Round versus <span>Dallas Mavericks (2-4)</span>,,,
+2011-12,Portland Trail Blazers,Rose Garden Arena,28,0.424,0,N. McMillan/K. Canales,L. Aldridge (7.0),#E03A3E,#000000,-0.22,,,,
+2012-13,Portland Trail Blazers,Rose Garden Arena,33,0.402,0,T. Stotts,L. Aldridge (7.2),#E03A3E,#000000,-2.53,,,,
+2013-14,Portland Trail Blazers,Moda Center,54,0.659,0.4,T. Stotts,D. Lillard (9.6),#E03A3E,#000000,4.44,Won First Round versus <span>Houston Rockets (4-2)</span>,Lost Conference Semifinals versus <span>San Antonio Spurs (1-4)</span>,,
+2014-15,Portland Trail Blazers,Moda Center,51,0.622,0.2,T. Stotts,D. Lillard (10.6),#E03A3E,#000000,4.41,Lost First Round versus <span>Memphis Grizzlies (1-4)</span>,,,
+2015-16,Portland Trail Blazers,Moda Center,44,0.537,0.4,T. Stotts,D. Lillard (9.2),#E03A3E,#000000,0.98,Won First Round versus <span>Los Angeles Clippers (4-2)</span>,Lost Conference Semifinals versus <span>Golden State Warriors (1-4)</span>,,
+2016-17,Portland Trail Blazers,Moda Center,41,0.5,0.2,T. Stotts,D. Lillard (10.3),#E03A3E,#000000,-0.23,Lost First Round versus <span>Golden State Warriors (0-4)</span>,,,
+2017-18,Portland Trail Blazers,Moda Center,49,0.598,0.2,T. Stotts,D. Lillard (12.6),#E03A3E,#000000,2.6,Lost First Round versus <span>New Orleans Pelicans (0-4)</span>,,,
+2018-19,Portland Trail Blazers,Moda Center,53,0.646,0.6,T. Stotts,D. Lillard (12.1),#E03A3E,#000000,4.43,Won First Round versus <span>Oklahoma City Thunder (4-1)</span>,Won Conference Semifinals versus <span>Denver Nuggets (4-3)</span>,Lost Conference Finals versus <span>Golden State Warriors (0-4)</span>,
+2019-20,Portland Trail Blazers,Moda Center,35,0.473,0.2,T. Stotts,D. Lillard (11.6),#E03A3E,#000000,-0.61,Lost First Round versus <span>Los Angeles Lakers (1-4)</span>,,,

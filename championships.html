@@ -16,7 +16,7 @@
 <p>Animation speed:
 <input type="radio" id="fast" name="speed" value="100">
 <label for="fast">Fast</label>
-<input type="radio" id="medium" name="speed" value="500">
+<input type="radio" id="medium" name="speed" value="500" checked>
 <label for="medium">Medium</label>
 <input type="radio" id="slow" name="speed" value="1000">
 <label for="slow">Slow</label></p>
@@ -115,6 +115,11 @@ function play() {
   var interval = document.querySelector('input[name="speed"]:checked').value;
   setTimeout(function(){
     year.innerHTML = "1947";
+    GSW.style.display = 'block';
+    NYK.style.display = 'block';
+    BOS.style.display = 'block';
+    BOS.style.top = gridY * 15 + 'px';
+    NYK.style.top = gridY * 14 + 'px';
     GSW.style.left = 180 + gridX + 'px';
     GSW.style.top = gridY * 15 + 'px';
   }, interval * 1);
@@ -753,6 +758,12 @@ function play() {
     document.querySelector("p#DEN img").src = 'teams/DEN/logos/2019-present.png';
     document.querySelector("p#MEM img").src = 'teams/MEM/logos/2019-present.png';
     CHA.style.top = gridY * 5 + 'px';
+  }, interval * 73);
+  setTimeout(function(){
+    year.innerHTML = "2020";
+    LAL.style.left = 180 + gridX * 17 + 'px';
+    LAL.style.top = gridY * 14 + 'px';
+    document.querySelector("p#GSW img").src = 'teams/GSW/logos/2020-present.png';
   }, interval * 73);
 }
 </script>

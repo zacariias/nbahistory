@@ -98,12 +98,12 @@ var y3Axis = d3.svg.axis()
     .tickPadding(10)
     .ticks(5)
     .tickFormat(function(d){
-        if(d==0){return "Missed playoffs"}
-        else if(d==0.2){return "Lost first round"}
-        else if(d==0.4){return "Lost conf/div semis"}
-        else if(d==0.6){return "Lost conf/div finals"}
-        else if(d==0.8){return "Lost finals"}
-        else{return "Won finals"}});
+        if(d==0){return "Missed Playoffs"}
+        else if(d==0.2){return "Lost First Round"}
+        else if(d==0.4){return "Lost Conf/Div Semis"}
+        else if(d==0.6){return "Lost Conf/Div Finals"}
+        else if(d==0.8){return "Lost Finals"}
+        else{return "Won Finals"}});
 var regularseason = d3.select(".regularseason")
     .attr("width",width1 + margin1.left + margin1.right)
     .attr("height",height1 + margin1.top + margin1.bottom)
@@ -126,7 +126,7 @@ var tip = d3.tip()
     .attr('class', 'd3-tip')
     .offset([-20, 0])
     .html(function(d) {
-        return "Season: <span>" + d.season + "</span><br />Team: <span>" + d.team + "</span><br />Arena: <span>" + d.arena + "</span><br />Coach: <span>" + d.coach + "</span><br />Win share leader: <span>" + d.topWS + "</span>";});
+        return "Season: <span>" + d.season + "</span><br>Team: <span>" + d.team + "</span><br>Arena: <span>" + d.arena + "</span><br>Coach: <span>" + d.coach + "</span><br>Win share leader: <span>" + d.topWS + "</span>";});
 var tip2 = d3.tip()
     .attr('class', 'd3-tip')
     .offset([-20, 0])
@@ -135,8 +135,10 @@ var tip3 = d3.tip()
     .attr('class', 'd3-tip')
     .offset([-20, 0])
     .html(function(d) {
-        if(d.playoffs==1){return "Defeated <span>" + d.opponent + "</span>"}
-        else{return "Defeated by <span>" + d.opponent + "</span>";}});
+        if (d.opponent4){return d.opponent1 + "<br>" + d.opponent2 + "<br>" + d.opponent3 + "<br>" + d.opponent4}
+        else if (d.opponent3){return d.opponent1 + "<br>" + d.opponent2 + "<br>" + d.opponent3}
+        else if (d.opponent2){return d.opponent1 + "<br>" + d.opponent2}
+        else {return d.opponent1}});
 regularseason.append("g")
     .attr("class","y axis")
     .call(y1Axis);
@@ -146,26 +148,7 @@ regularseason.append("text")
     .attr("x", 0 - (height1 / 2))
     .attr("y", 0 - (margin1.left / 2))
     .style("text-anchor","middle")
-    .text("Win percentage");
-regularseason.append("text")
-    .attr("transform","rotate(-90)")
-    .attr("x", 0 - (height1 / 2) + d3.select('.label1').node().getComputedTextLength()/2 + 15)
-    .attr("y", 0 - (margin1.left / 2))
-    .style("text-anchor","middle")
-    .html("&#9432;")
-    .on("mouseover",function(d){
-        div.transition()
-        .duration(200)
-        .style("opacity", .9);
-        div	.html("Regular season win percentage; bar label is number of wins")
-        .style("left", (d3.event.pageX + 20) + "px")
-        .style("top", (d3.event.pageY) + "px");
-    })
-    .on("mouseout", function(d) {
-        div.transition()
-        .duration(200)
-        .style("opacity", 0);
-    });
+    .text("Regular season win percentage");
 srs.append("g")
     .attr("class","y axis")
     .call(y2Axis);
@@ -178,26 +161,7 @@ srs.append("text")
     .attr("x", 0 - (height2 / 2))
     .attr("y", 0 - (margin2.left / 2))
     .style("text-anchor","middle")
-    .text("Margin of victory");
-srs.append("text")
-    .attr("transform","rotate(-90)")
-    .attr("x", 0 - (height2 / 2) + d3.select('.label2').node().getComputedTextLength()/2 + 15)
-    .attr("y", 0 - (margin2.left / 2))
-    .style("text-anchor","middle")
-    .html("&#9432;")
-    .on("mouseover",function(d){
-        div.transition()
-        .duration(200)
-        .style("opacity", .9);
-        div	.html("Average margin of victory, adjusted for strength of opponent")
-        .style("left", (d3.event.pageX + 20) + "px")
-        .style("top", (d3.event.pageY) + "px");
-    })
-    .on("mouseout",function(d){
-        div.transition()
-        .duration(200)
-        .style("opacity", 0);
-    });
+    .text("Average margin of victory");
 regularseason.call(tip);
 srs.call(tip2);
 playoffs.call(tip3);

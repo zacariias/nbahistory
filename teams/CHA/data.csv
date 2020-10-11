@@ -1,31 +1,31 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent
-1988-89,Charlotte Hornets,Charlotte Coliseum,20,0.244,0,D. Harter,K. Rambis (4.8),#00788C,#1D1160,-7.74,
-1989-90,Charlotte Hornets,Charlotte Coliseum,19,0.232,0,D. Harter/G. Littles,M. Bogues (6.7),#00788C,#1D1160,-7,
-1990-91,Charlotte Hornets,Charlotte Coliseum,26,0.317,0,G. Littles,M. Bogues (4.8),#00788C,#1D1160,-4.95,
-1991-92,Charlotte Hornets,Charlotte Coliseum,31,0.378,0,A. Bristow,L. Johnson (8.9),#00788C,#1D1160,-3.57,
-1992-93,Charlotte Hornets,Charlotte Coliseum,44,0.537,0.4,A. Bristow,L. Johnson (9.6),#00788C,#1D1160,-0.02,New York Knicks (1-4)
-1993-94,Charlotte Hornets,Charlotte Coliseum,41,0.5,0,A. Bristow,H. Hawkins (6.5),#00788C,#1D1160,-0.23,
-1994-95,Charlotte Hornets,Charlotte Coliseum,50,0.61,0.2,A. Bristow,A. Mourning (9.4),#00788C,#1D1160,2.87,Chicago Bulls (1-3)
-1995-96,Charlotte Hornets,Charlotte Coliseum,41,0.5,0,A. Bristow,L. Johnson (10.1),#00788C,#1D1160,-0.48,
-1996-97,Charlotte Hornets,Charlotte Coliseum,54,0.659,0.2,D. Cowens,A. Mason (11.4),#00788C,#1D1160,2.13,New York Knicks (0-3)
-1997-98,Charlotte Hornets,Charlotte Coliseum,51,0.622,0.4,D. Cowens,G. Rice (9.3),#00788C,#1D1160,2.45,Chicago Bulls (1-4)
-1998-99,Charlotte Hornets,Charlotte Coliseum,26,0.52,0,D. Cowens/P. Silas,D. Wesley (4.8),#00788C,#1D1160,0.63,
-1999-00,Charlotte Hornets,Charlotte Coliseum,49,0.598,0.2,P. Silas,E. Jones (10.1),#00788C,#1D1160,2.33,Philadelphia 76ers (1-3)
-2000-01,Charlotte Hornets,Charlotte Coliseum,46,0.561,0.4,P. Silas,B. Davis (8.9),#00788C,#1D1160,1.45,Milwaukee Bucks (3-4)
-2001-02,Charlotte Hornets,Charlotte Coliseum,44,0.537,0.4,P. Silas,P. Brown (8.2),#00788C,#1D1160,0.57,New Jersey Nets (1-4)
-2004-05,Charlotte Bobcats,Charlotte Coliseum,18,0.22,0,B. Bickerstaff,P. Brezec (4.9),#00788C,#1D1160,-6.15,
-2005-06,Charlotte Bobcats,Charlotte Bobcats Arena,26,0.317,0,B. Bickerstaff,G. Wallace (6.4),#00788C,#1D1160,-3.9,
-2006-07,Charlotte Bobcats,Charlotte Bobcats Arena,33,0.402,0,B. Bickerstaff,G. Wallace (7.7),#00788C,#1D1160,-3.97,
-2007-08,Charlotte Bobcats,Charlotte Bobcats Arena,32,0.39,0,S. Vincent,J. Richardson (7.4),#00788C,#1D1160,-4.49,
-2008-09,Charlotte Bobcats,Time Warner Cable Arena,35,0.427,0,L. Brown,G. Wallace (9.5),#00788C,#1D1160,-1.2,
-2009-10,Charlotte Bobcats,Time Warner Cable Arena,44,0.537,0.2,L. Brown,G. Wallace (11.5),#00788C,#1D1160,1.3,Orlando Magic (0-4)
-2010-11,Charlotte Bobcats,Time Warner Cable Arena,34,0.415,0,L. Brown/P. Silas,D. Augustin (6.2),#00788C,#1D1160,-4.08,
-2011-12,Charlotte Bobcats,Time Warner Cable Arena,7,0.106,0,P. Silas,D. Brown (2.3),#00788C,#1D1160,-13.96,
-2012-13,Charlotte Bobcats,Time Warner Cable Arena,21,0.256,0,M. Dunlap,K. Walker (4.8),#00788C,#1D1160,-9.29,
-2013-14,Charlotte Bobcats,Time Warner Cable Arena,43,0.524,0.2,S. Clifford,A. Jefferson (7.8),#00788C,#1D1160,-0.89,Miami Heat (0-4)
-2014-15,Charlotte Hornets,Time Warner Cable Arena,33,0.402,0,S. Clifford,A. Jefferson (4.7),#00788C,#1D1160,-3.44,
-2015-16,Charlotte Hornets,Time Warner Cable Arena,48,0.585,0.2,S. Clifford,K. Walker (9.9),#00788C,#1D1160,2.36,Miami Heat (3-4)
-2016-17,Charlotte Hornets,Spectrum Center,36,0.439,0,S. Clifford,K. Walker (8.0),#00788C,#1D1160,-0.07,
-2017-18,Charlotte Hornets,Spectrum Center,36,0.439,0,S. Clifford,K. Walker (8.5),#00788C,#1D1160,0.07,
-2018-19,Charlotte Hornets,Spectrum Center,39,0.476,0,J. Borrego,K. Walker (7.4),#00788C,#1D1160,-1.32,
-2019-20,Charlotte Hornets,Spectrum Center,23,0.354,0,J. Borrego,C. Zeller (3.6),#00788C,#1D1160,-7.03,
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent1,opponent2,opponent3,opponent4
+1988-89,Charlotte Hornets,Charlotte Coliseum,20,0.244,0,D. Harter,K. Rambis (4.8),#00788C,#1D1160,-7.74,,,,
+1989-90,Charlotte Hornets,Charlotte Coliseum,19,0.232,0,D. Harter/G. Littles,M. Bogues (6.7),#00788C,#1D1160,-7,,,,
+1990-91,Charlotte Hornets,Charlotte Coliseum,26,0.317,0,G. Littles,M. Bogues (4.8),#00788C,#1D1160,-4.95,,,,
+1991-92,Charlotte Hornets,Charlotte Coliseum,31,0.378,0,A. Bristow,L. Johnson (8.9),#00788C,#1D1160,-3.57,,,,
+1992-93,Charlotte Hornets,Charlotte Coliseum,44,0.537,0.4,A. Bristow,L. Johnson (9.6),#00788C,#1D1160,-0.02,Won First Round versus <span>Boston Celtics (3-1)</span>,Lost Conference Semifinals versus <span>New York Knicks (1-4)</span>,,
+1993-94,Charlotte Hornets,Charlotte Coliseum,41,0.5,0,A. Bristow,H. Hawkins (6.5),#00788C,#1D1160,-0.23,,,,
+1994-95,Charlotte Hornets,Charlotte Coliseum,50,0.61,0.2,A. Bristow,A. Mourning (9.4),#00788C,#1D1160,2.87,Lost First Round versus <span>Chicago Bulls (1-3)</span>,,,
+1995-96,Charlotte Hornets,Charlotte Coliseum,41,0.5,0,A. Bristow,L. Johnson (10.1),#00788C,#1D1160,-0.48,,,,
+1996-97,Charlotte Hornets,Charlotte Coliseum,54,0.659,0.2,D. Cowens,A. Mason (11.4),#00788C,#1D1160,2.13,Lost First Round versus <span>New York Knicks (0-3)</span>,,,
+1997-98,Charlotte Hornets,Charlotte Coliseum,51,0.622,0.4,D. Cowens,G. Rice (9.3),#00788C,#1D1160,2.45,Won First Round versus <span>Atlanta Hawks (3-1)</span>,Lost Conference Semifinals versus <span>Chicago Bulls (1-4)</span>,,
+1998-99,Charlotte Hornets,Charlotte Coliseum,26,0.52,0,D. Cowens/P. Silas,D. Wesley (4.8),#00788C,#1D1160,0.63,,,,
+1999-00,Charlotte Hornets,Charlotte Coliseum,49,0.598,0.2,P. Silas,E. Jones (10.1),#00788C,#1D1160,2.33,Lost First Round versus <span>Philadelphia 76ers (1-3)</span>,,,
+2000-01,Charlotte Hornets,Charlotte Coliseum,46,0.561,0.4,P. Silas,B. Davis (8.9),#00788C,#1D1160,1.45,Won First Round versus <span>Miami Heat (3-0)</span>,Lost Conference Semifinals versus <span>Milwaukee Bucks (3-4)</span>,,
+2001-02,Charlotte Hornets,Charlotte Coliseum,44,0.537,0.4,P. Silas,P. Brown (8.2),#00788C,#1D1160,0.57,Won First Round versus <span>Orlando Magic (3-1)</span>,Lost Conference Semifinals versus <span>New Jersey Nets (1-4)</span>,,
+2004-05,Charlotte Bobcats,Charlotte Coliseum,18,0.22,0,B. Bickerstaff,P. Brezec (4.9),#E05217,#253E69,-6.15,,,,
+2005-06,Charlotte Bobcats,Charlotte Bobcats Arena,26,0.317,0,B. Bickerstaff,G. Wallace (6.4),#E05218,#253E70,-3.9,,,,
+2006-07,Charlotte Bobcats,Charlotte Bobcats Arena,33,0.402,0,B. Bickerstaff,G. Wallace (7.7),#E05219,#253E71,-3.97,,,,
+2007-08,Charlotte Bobcats,Charlotte Bobcats Arena,32,0.39,0,S. Vincent,J. Richardson (7.4),#E05220,#253E72,-4.49,,,,
+2008-09,Charlotte Bobcats,Time Warner Cable Arena,35,0.427,0,L. Brown,G. Wallace (9.5),#E05221,#253E73,-1.2,,,,
+2009-10,Charlotte Bobcats,Time Warner Cable Arena,44,0.537,0.2,L. Brown,G. Wallace (11.5),#E05222,#253E74,1.3,Lost First Round versus <span>Orlando Magic (0-4)</span>,,,
+2010-11,Charlotte Bobcats,Time Warner Cable Arena,34,0.415,0,L. Brown/P. Silas,D. Augustin (6.2),#E05223,#253E75,-4.08,,,,
+2011-12,Charlotte Bobcats,Time Warner Cable Arena,7,0.106,0,P. Silas,D. Brown (2.3),#E05224,#253E76,-13.96,,,,
+2012-13,Charlotte Bobcats,Time Warner Cable Arena,21,0.256,0,M. Dunlap,K. Walker (4.8),#E05225,#253E77,-9.29,,,,
+2013-14,Charlotte Bobcats,Time Warner Cable Arena,43,0.524,0.2,S. Clifford,A. Jefferson (7.8),#E05226,#253E78,-0.89,Lost First Round versus <span>Miami Heat (0-4)</span>,,,
+2014-15,Charlotte Hornets,Time Warner Cable Arena,33,0.402,0,S. Clifford,A. Jefferson (4.7),#00788C,#1D1160,-3.44,,,,
+2015-16,Charlotte Hornets,Time Warner Cable Arena,48,0.585,0.2,S. Clifford,K. Walker (9.9),#00788C,#1D1160,2.36,Lost First Round versus <span>Miami Heat (3-4)</span>,,,
+2016-17,Charlotte Hornets,Spectrum Center,36,0.439,0,S. Clifford,K. Walker (8.0),#00788C,#1D1160,-0.07,,,,
+2017-18,Charlotte Hornets,Spectrum Center,36,0.439,0,S. Clifford,K. Walker (8.5),#00788C,#1D1160,0.07,,,,
+2018-19,Charlotte Hornets,Spectrum Center,39,0.476,0,J. Borrego,K. Walker (7.4),#00788C,#1D1160,-1.32,,,,
+2019-20,Charlotte Hornets,Spectrum Center,23,0.354,0,J. Borrego,C. Zeller (3.6),#00788C,#1D1160,-7.03,,,,

@@ -1,45 +1,45 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent
-1976-77,San Antonio Spurs,HemisFair Arena,44,0.537,0.2,D. Moe,G. Gervin (10.5),#C4CED4,#000000,0.53,Boston Celtics (0-2)
-1977-78,San Antonio Spurs,HemisFair Arena,52,0.634,0.4,D. Moe,G. Gervin (12.0),#C4CED4,#000000,3.2,Washington Bullets (2-4)
-1978-79,San Antonio Spurs,HemisFair Arena,48,0.585,0.6,D. Moe,G. Gervin (11.4),#C4CED4,#000000,4.97,Washington Bullets (3-4)
-1979-80,San Antonio Spurs,HemisFair Arena,41,0.5,0.2,D. Moe/B. Bass,G. Gervin (10.6),#C4CED4,#000000,-0.24,Houston Rockets (1-2)
-1980-81,San Antonio Spurs,HemisFair Arena,52,0.634,0.4,S. Albeck,G. Gervin (10.5),#C4CED4,#000000,2.18,Houston Rockets (3-4)
-1981-82,San Antonio Spurs,HemisFair Arena,48,0.585,0.6,S. Albeck,G. Gervin (10.7),#C4CED4,#000000,1.79,Los Angeles Lakers (0-4)
-1982-83,San Antonio Spurs,HemisFair Arena,53,0.646,0.6,S. Albeck,A. Gilmore (11.0),#C4CED4,#000000,3.1,Los Angeles Lakers (2-4)
-1983-84,San Antonio Spurs,HemisFair Arena,37,0.451,0,M. McHone/B. Bass,A. Gilmore (6.7),#C4CED4,#000000,-0.5,
-1984-85,San Antonio Spurs,HemisFair Arena,41,0.5,0.2,C. Fitzsimmons,A. Gilmore (10.5),#C4CED4,#000000,0.63,Denver Nuggets (2-3)
-1985-86,San Antonio Spurs,HemisFair Arena,35,0.427,0.2,C. Fitzsimmons,A. Robertson (8.6),#C4CED4,#000000,-2.06,Los Angeles Lakers (0-3)
-1986-87,San Antonio Spurs,HemisFair Arena,28,0.341,0,B. Weiss,D. Greenwood (6.2),#C4CED4,#000000,-5.09,
-1987-88,San Antonio Spurs,HemisFair Arena,31,0.378,0.2,B. Weiss,A. Robertson (5.8),#C4CED4,#000000,-5.02,Los Angeles Lakers (0-3)
-1988-89,San Antonio Spurs,HemisFair Arena,21,0.256,0,L. Brown,W. Anderson (4.9),#C4CED4,#000000,-7.45,
-1989-90,San Antonio Spurs,HemisFair Arena,56,0.683,0.4,L. Brown,D. Robinson (15.1),#C4CED4,#000000,3.58,Portland Trail Blazers (3-4)
-1990-91,San Antonio Spurs,HemisFair Arena,55,0.671,0.2,L. Brown,D. Robinson (17.0),#C4CED4,#000000,4.3,Golden State Warriors (1-3)
-1991-92,San Antonio Spurs,HemisFair Arena,47,0.573,0.2,L. Brown/B. Bass,D. Robinson (13.9),#C4CED4,#000000,2.81,Phoenix Suns (0-3)
-1992-93,San Antonio Spurs,HemisFair Arena,49,0.598,0.4,J. Tarkanian/R. Hughes/J. Lucas,D. Robinson (13.2),#C4CED4,#000000,2.21,Phoenix Suns (2-4)
-1993-94,San Antonio Spurs,Alamodome,55,0.671,0.2,J. Lucas,D. Robinson (20.0),#C4CED4,#000000,5.05,Utah Jazz (1-3)
-1994-95,San Antonio Spurs,Alamodome,62,0.756,0.6,B. Hill,D. Robinson (17.5),#C4CED4,#000000,5.9,Houston Rockets (2-4)
-1995-96,San Antonio Spurs,Alamodome,59,0.72,0.4,B. Hill,D. Robinson (18.3),#C4CED4,#000000,5.98,Utah Jazz (2-4)
-1996-97,San Antonio Spurs,Alamodome,20,0.244,0,B. Hill/G. Popovich,W. Perdue (4.4),#C4CED4,#000000,-7.93,
-1997-98,San Antonio Spurs,Alamodome,56,0.683,0.4,G. Popovich,D. Robinson (13.8),#C4CED4,#000000,3.3,Utah Jazz (1-4)
-1998-99,San Antonio Spurs,Alamodome,37,0.74,1,G. Popovich,T. Duncan (8.7),#C4CED4,#000000,7.12,New York Knicks (4-1)
-1999-00,San Antonio Spurs,Alamodome,53,0.646,0.2,G. Popovich,T. Duncan (13.0),#C4CED4,#000000,5.92,Phoenix Suns (1-3)
-2000-01,San Antonio Spurs,Alamodome,58,0.707,0.6,G. Popovich,T. Duncan (13.2),#C4CED4,#000000,7.92,Los Angeles Lakers (0-4)
-2001-02,San Antonio Spurs,Alamodome,58,0.707,0.4,G. Popovich,T. Duncan (17.8),#C4CED4,#000000,6.28,Los Angeles Lakers (1-4)
-2002-03,San Antonio Spurs,SBC Center,60,0.732,1,G. Popovich,T. Duncan (16.5),#C4CED4,#000000,5.65,New Jersey Nets (4-2)
-2003-04,San Antonio Spurs,SBC Center,57,0.695,0.4,G. Popovich,T. Duncan (13.1),#C4CED4,#000000,7.51,Los Angeles Lakers (2-4)
-2004-05,San Antonio Spurs,SBC Center,59,0.72,1,G. Popovich,T. Duncan (11.2),#C4CED4,#000000,7.84,Detroit Pistons (4-3)
-2005-06,San Antonio Spurs,SBC Center,63,0.768,0.4,G. Popovich,T. Duncan (10.8),#C4CED4,#000000,6.69,Dallas Mavericks (3-4)
-2006-07,San Antonio Spurs,AT&T Center,58,0.707,1,G. Popovich,T. Duncan (13.0),#C4CED4,#000000,8.35,Cleveland Cavaliers (4-0)
-2007-08,San Antonio Spurs,AT&T Center,56,0.683,0.6,G. Popovich,M. Ginobili (11.1),#C4CED4,#000000,5.1,Los Angeles Lakers (1-4)
-2008-09,San Antonio Spurs,AT&T Center,54,0.659,0.2,G. Popovich,T. Duncan (10.1),#C4CED4,#000000,3.36,Dallas Mavericks (1-4)
-2009-10,San Antonio Spurs,AT&T Center,50,0.61,0.4,G. Popovich,T. Duncan (10.9),#C4CED4,#000000,5.07,Phoenix Suns (0-4)
-2010-11,San Antonio Spurs,AT&T Center,61,0.744,0.2,G. Popovich,M. Ginobili (9.9),#C4CED4,#000000,5.86,Memphis Grizzlies (2-4)
-2011-12,San Antonio Spurs,AT&T Center,50,0.758,0.6,G. Popovich,T. Parker (7.1),#C4CED4,#000000,7.28,Oklahoma City Thunder (2-4)
-2012-13,San Antonio Spurs,AT&T Center,58,0.707,0.8,G. Popovich,T. Parker (9.3),#C4CED4,#000000,6.67,Miami Heat (3-4)
-2013-14,San Antonio Spurs,AT&T Center,62,0.756,1,G. Popovich,K. Leonard (7.7),#C4CED4,#000000,8,Miami Heat (4-1)
-2014-15,San Antonio Spurs,AT&T Center,55,0.671,0.2,G. Popovich,T. Duncan (9.6),#C4CED4,#000000,6.34,Los Angeles Clippers (3-4)
-2015-16,San Antonio Spurs,AT&T Center,67,0.817,0.4,G. Popovich,K. Leonard (13.7),#C4CED4,#000000,10.28,Oklahoma City Thunder (2-4)
-2016-17,San Antonio Spurs,AT&T Center,61,0.744,0.6,G. Popovich,K. Leonard (13.6),#C4CED4,#000000,7.13,Golden State Warriors (0-4)
-2017-18,San Antonio Spurs,AT&T Center,47,0.573,0.2,G. Popovich,L. Aldridge (10.9),#C4CED4,#000000,2.89,Golden State Warriors (1-4)
-2018-19,San Antonio Spurs,AT&T Center,48,0.585,0.2,G. Popovich,L. Aldridge (9.3),#C4CED4,#000000,1.8,Denver Nuggets (3-4)
-2019-20,San Antonio Spurs,AT&T Center,32,0.451,0,G. Popovich,D. DeRozan (7.3),#C4CED4,#000000,-0.65,
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent1,opponent2,opponent3,opponent4
+1976-77,San Antonio Spurs,HemisFair Arena,44,0.537,0.2,D. Moe,G. Gervin (10.5),#C4CED4,#000000,0.53,Lost First Round versus <span>Boston Celtics (0-2)</span>,,,
+1977-78,San Antonio Spurs,HemisFair Arena,52,0.634,0.4,D. Moe,G. Gervin (12.0),#C4CED4,#000000,3.2,First Round Bye,Lost Conference Semifinals versus <span>Washington Bullets (2-4)</span>,,
+1978-79,San Antonio Spurs,HemisFair Arena,48,0.585,0.6,D. Moe,G. Gervin (11.4),#C4CED4,#000000,4.97,First Round Bye,Won Conference Semifinals versus <span>Philadelphia 76ers (4-3)</span>,Lost Conference Finals versus <span>Washington Bullets (3-4)</span>,
+1979-80,San Antonio Spurs,HemisFair Arena,41,0.5,0.2,D. Moe/B. Bass,G. Gervin (10.6),#C4CED4,#000000,-0.24,Lost First Round versus <span>Houston Rockets (1-2)</span>,,,
+1980-81,San Antonio Spurs,HemisFair Arena,52,0.634,0.4,S. Albeck,G. Gervin (10.5),#C4CED4,#000000,2.18,First Round Bye,Lost Conference Semifinals versus <span>Houston Rockets (3-4)</span>,,
+1981-82,San Antonio Spurs,HemisFair Arena,48,0.585,0.6,S. Albeck,G. Gervin (10.7),#C4CED4,#000000,1.79,First Round Bye,Won Conference Semifinals versus <span>Seattle SuperSonics (4-1)</span>,Lost Conference Finals versus <span>Los Angeles Lakers (0-4)</span>,
+1982-83,San Antonio Spurs,HemisFair Arena,53,0.646,0.6,S. Albeck,A. Gilmore (11.0),#C4CED4,#000000,3.1,First Round Bye,Won Conference Semifinals versus <span>Denver Nuggets (4-1)</span>,Lost Conference Finals versus <span>Los Angeles Lakers (2-4)</span>,
+1983-84,San Antonio Spurs,HemisFair Arena,37,0.451,0,M. McHone/B. Bass,A. Gilmore (6.7),#C4CED4,#000000,-0.5,,,,
+1984-85,San Antonio Spurs,HemisFair Arena,41,0.5,0.2,C. Fitzsimmons,A. Gilmore (10.5),#C4CED4,#000000,0.63,Lost First Round versus <span>Denver Nuggets (2-3)</span>,,,
+1985-86,San Antonio Spurs,HemisFair Arena,35,0.427,0.2,C. Fitzsimmons,A. Robertson (8.6),#C4CED4,#000000,-2.06,Lost First Round versus <span>Los Angeles Lakers (0-3)</span>,,,
+1986-87,San Antonio Spurs,HemisFair Arena,28,0.341,0,B. Weiss,D. Greenwood (6.2),#C4CED4,#000000,-5.09,,,,
+1987-88,San Antonio Spurs,HemisFair Arena,31,0.378,0.2,B. Weiss,A. Robertson (5.8),#C4CED4,#000000,-5.02,Lost First Round versus <span>Los Angeles Lakers (0-3)</span>,,,
+1988-89,San Antonio Spurs,HemisFair Arena,21,0.256,0,L. Brown,W. Anderson (4.9),#C4CED4,#000000,-7.45,,,,
+1989-90,San Antonio Spurs,HemisFair Arena,56,0.683,0.4,L. Brown,D. Robinson (15.1),#C4CED4,#000000,3.58,Won First Round versus <span>Denver Nuggets (3-0)</span>,Lost Conference Semifinals versus <span>Portland Trail Blazers (3-4)</span>,,
+1990-91,San Antonio Spurs,HemisFair Arena,55,0.671,0.2,L. Brown,D. Robinson (17.0),#C4CED4,#000000,4.3,Lost First Round versus <span>Golden State Warriors (1-3)</span>,,,
+1991-92,San Antonio Spurs,HemisFair Arena,47,0.573,0.2,L. Brown/B. Bass,D. Robinson (13.9),#C4CED4,#000000,2.81,Lost First Round versus <span>Phoenix Suns (0-3)</span>,,,
+1992-93,San Antonio Spurs,HemisFair Arena,49,0.598,0.4,J. Tarkanian/R. Hughes/J. Lucas,D. Robinson (13.2),#C4CED4,#000000,2.21,Won First Round versus <span>Portland Trail Blazers (3-1)</span>,Lost Conference Semifinals versus <span>Phoenix Suns (2-4)</span>,,
+1993-94,San Antonio Spurs,Alamodome,55,0.671,0.2,J. Lucas,D. Robinson (20.0),#C4CED4,#000000,5.05,Lost First Round versus <span>Utah Jazz (1-3)</span>,,,
+1994-95,San Antonio Spurs,Alamodome,62,0.756,0.6,B. Hill,D. Robinson (17.5),#C4CED4,#000000,5.9,Won First Round versus <span>Denver Nuggets (3-0)</span>,Won Conference Semifinals versus <span>Los Angeles Lakers (4-2)</span>,Lost Conference Finals versus <span>Houston Rockets (2-4)</span>,
+1995-96,San Antonio Spurs,Alamodome,59,0.72,0.4,B. Hill,D. Robinson (18.3),#C4CED4,#000000,5.98,Won First Round versus <span>Phoenix Suns (3-1)</span>,Lost Conference Semifinals versus <span>Utah Jazz (2-4)</span>,,
+1996-97,San Antonio Spurs,Alamodome,20,0.244,0,B. Hill/G. Popovich,W. Perdue (4.4),#C4CED4,#000000,-7.93,,,,
+1997-98,San Antonio Spurs,Alamodome,56,0.683,0.4,G. Popovich,D. Robinson (13.8),#C4CED4,#000000,3.3,Won First Round versus <span>Phoenix Suns (3-1)</span>,Lost Conference Semifinals versus <span>Utah Jazz (1-4)</span>,,
+1998-99,San Antonio Spurs,Alamodome,37,0.74,1,G. Popovich,T. Duncan (8.7),#C4CED4,#000000,7.12,Won First Round versus <span>Minnesota Timberwolves (3-1)</span>,Won Conference Semifinals versus <span>Los Angeles Lakers (4-0)</span>,Won Conference Finals versus <span>Portland Trail Blazers (4-0)</span>,Won Finals versus <span>New York Knicks (4-1)</span>
+1999-00,San Antonio Spurs,Alamodome,53,0.646,0.2,G. Popovich,T. Duncan (13.0),#C4CED4,#000000,5.92,Lost First Round versus <span>Phoenix Suns (1-3)</span>,,,
+2000-01,San Antonio Spurs,Alamodome,58,0.707,0.6,G. Popovich,T. Duncan (13.2),#C4CED4,#000000,7.92,Won First Round versus <span>Minnesota Timberwolves (3-1)</span>,Won Conference Semifinals versus <span>Dallas Mavericks (4-1)</span>,Lost Conference Finals versus <span>Los Angeles Lakers (0-4)</span>,
+2001-02,San Antonio Spurs,Alamodome,58,0.707,0.4,G. Popovich,T. Duncan (17.8),#C4CED4,#000000,6.28,Won First Round versus <span>Seattle SuperSonics (3-2)</span>,Lost Conference Semifinals versus <span>Los Angeles Lakers (1-4)</span>,,
+2002-03,San Antonio Spurs,SBC Center,60,0.732,1,G. Popovich,T. Duncan (16.5),#C4CED4,#000000,5.65,Won First Round versus <span>Phoenix Suns (4-2)</span>,Won Conference Semifinals versus <span>Los Angeles Lakers (4-2)</span>,Won Conference Finals versus <span>Dallas Mavericks (4-2)</span>,Won Finals versus <span>New Jersey Nets (4-2)</span>
+2003-04,San Antonio Spurs,SBC Center,57,0.695,0.4,G. Popovich,T. Duncan (13.1),#C4CED4,#000000,7.51,Won First Round versus <span>Memphis Grizzlies (4-0)</span>,Lost Conference Semifinals versus <span>Los Angeles Lakers (2-4)</span>,,
+2004-05,San Antonio Spurs,SBC Center,59,0.72,1,G. Popovich,T. Duncan (11.2),#C4CED4,#000000,7.84,Won First Round versus <span>Denver Nuggets (4-1)</span>,Won Conference Semifinals versus <span>Seattle SuperSonics (4-2)</span>,Won Conference Finals versus <span>Phoenix Suns (4-1)</span>,Won Finals versus <span>Detroit Pistons (4-3)</span>
+2005-06,San Antonio Spurs,SBC Center,63,0.768,0.4,G. Popovich,T. Duncan (10.8),#C4CED4,#000000,6.69,Won First Round versus <span>Sacramento Kings (4-2)</span>,Lost Conference Semifinals versus <span>Dallas Mavericks (3-4)</span>,,
+2006-07,San Antonio Spurs,AT&T Center,58,0.707,1,G. Popovich,T. Duncan (13.0),#C4CED4,#000000,8.35,Won First Round versus <span>Denver Nuggets (4-1)</span>,Won Conference Semifinals versus <span>Phoenix Suns (4-2)</span>,Won Conference Finals versus <span>Utah Jazz (4-1)</span>,Won Finals versus <span>Cleveland Cavaliers (4-0)</span>
+2007-08,San Antonio Spurs,AT&T Center,56,0.683,0.6,G. Popovich,M. Ginobili (11.1),#C4CED4,#000000,5.1,Won First Round versus <span>Phoenix Suns (4-1)</span>,Won Conference Semifinals versus <span>New Orleans Hornets (4-3)</span>,Lost Conference Finals versus <span>Los Angeles Lakers (1-4)</span>,
+2008-09,San Antonio Spurs,AT&T Center,54,0.659,0.2,G. Popovich,T. Duncan (10.1),#C4CED4,#000000,3.36,Lost First Round versus <span>Dallas Mavericks (1-4)</span>,,,
+2009-10,San Antonio Spurs,AT&T Center,50,0.61,0.4,G. Popovich,T. Duncan (10.9),#C4CED4,#000000,5.07,Won First Round versus <span>Dallas Mavericks (4-2)</span>,Lost Conference Semifinals versus <span>Phoenix Suns (0-4)</span>,,
+2010-11,San Antonio Spurs,AT&T Center,61,0.744,0.2,G. Popovich,M. Ginobili (9.9),#C4CED4,#000000,5.86,Lost First Round versus <span>Memphis Grizzlies (2-4)</span>,,,
+2011-12,San Antonio Spurs,AT&T Center,50,0.758,0.6,G. Popovich,T. Parker (7.1),#C4CED4,#000000,7.28,Won First Round versus <span>Utah Jazz (4-0)</span>,Won Conference Semifinals versus <span>Los Angeles Clippers (4-0)</span>,Lost Conference Finals versus <span>Oklahoma City Thunder (2-4)</span>,
+2012-13,San Antonio Spurs,AT&T Center,58,0.707,0.8,G. Popovich,T. Parker (9.3),#C4CED4,#000000,6.67,Won First Round versus <span>Los Angeles Lakers (4-0)</span>,Won Conference Semifinals versus <span>Golden State Warriors (4-2)</span>,Won Conference Finals versus <span>Memphis Grizzlies (4-0)</span>,Lost Finals versus <span>Miami Heat (3-4)</span>
+2013-14,San Antonio Spurs,AT&T Center,62,0.756,1,G. Popovich,K. Leonard (7.7),#C4CED4,#000000,8,Won First Round versus <span>Dallas Mavericks (4-3)</span>,Won Conference Semifinals versus <span>Portland Trail Blazers (4-1)</span>,Won Conference Finals versus <span>Oklahoma City Thunder (4-2)</span>,Won Finals versus <span>Miami Heat (4-1)</span>
+2014-15,San Antonio Spurs,AT&T Center,55,0.671,0.2,G. Popovich,T. Duncan (9.6),#C4CED4,#000000,6.34,Lost First Round versus <span>Los Angeles Clippers (3-4)</span>,,,
+2015-16,San Antonio Spurs,AT&T Center,67,0.817,0.4,G. Popovich,K. Leonard (13.7),#C4CED4,#000000,10.28,Won First Round versus <span>Memphis Grizzlies (4-0)</span>,Lost Conference Semifinals versus <span>Oklahoma City Thunder (2-4)</span>,,
+2016-17,San Antonio Spurs,AT&T Center,61,0.744,0.6,G. Popovich,K. Leonard (13.6),#C4CED4,#000000,7.13,Won First Round versus <span>Memphis Grizzlies (4-2)</span>,Won Conference Semifinals versus <span>Houston Rockets (4-2)</span>,Lost Conference Finals versus <span>Golden State Warriors (0-4)</span>,
+2017-18,San Antonio Spurs,AT&T Center,47,0.573,0.2,G. Popovich,L. Aldridge (10.9),#C4CED4,#000000,2.89,Lost First Round versus <span>Golden State Warriors (1-4)</span>,,,
+2018-19,San Antonio Spurs,AT&T Center,48,0.585,0.2,G. Popovich,L. Aldridge (9.3),#C4CED4,#000000,1.8,Lost First Round versus <span>Denver Nuggets (3-4)</span>,,,
+2019-20,San Antonio Spurs,AT&T Center,32,0.451,0,G. Popovich,D. DeRozan (7.3),#C4CED4,#000000,-0.65,,,,

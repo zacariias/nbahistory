@@ -1,75 +1,75 @@
-season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent
-1946-47,New York Knicks,Madison Square Garden,33,0.55,0.6,N. Cohalan,O. Schectman (4.3),#006BB6,#F58426,0.58,Philadelphia Warriors (2-0)
-1947-48,New York Knicks,Madison Square Garden,26,0.542,0.4,J. Lapchick,B. Palmer (7.4),#006BB6,#F58426,2.3,Baltimore Bullets (2-1)
-1948-49,New York Knicks,Madison Square Garden,32,0.533,0.6,J. Lapchick,B. Palmer (7.2),#006BB6,#F58426,1.24,Washington Capitols (2-1)
-1949-50,New York Knicks,Madison Square Garden,40,0.588,0.6,J. Lapchick,H. Gallatin (7.8),#006BB6,#F58426,2.53,Syracuse Nationals (1-2)
-1950-51,New York Knicks,Madison Square Garden,36,0.545,0.8,J. Lapchick,H. Gallatin (7.6),#006BB6,#F58426,0.49,Rochester Royals (3-4)
-1951-52,New York Knicks,Madison Square Garden,37,0.561,0.8,J. Lapchick,H. Gallatin (8.9),#006BB6,#F58426,0.67,Minneapolis Lakers (3-4)
-1952-53,New York Knicks,Madison Square Garden,47,0.671,0.8,J. Lapchick,H. Gallatin (11.3),#006BB6,#F58426,4.39,Minneapolis Lakers (1-4)
-1953-54,New York Knicks,Madison Square Garden,44,0.611,0.4,J. Lapchick,H. Gallatin (11.8),#006BB6,#F58426,-0.16,Round Robin (0-4)
-1954-55,New York Knicks,Madison Square Garden,38,0.528,0.4,J. Lapchick,H. Gallatin (8.3),#006BB6,#F58426,0.11,Boston Celtics (1-2)
-1955-56,New York Knicks,Madison Square Garden,35,0.486,0.2,J. Lapchick/V. Boryla,K. Sears (6.2),#006BB6,#F58426,-0.2,Syracuse Nationals (0-1)
-1956-57,New York Knicks,Madison Square Garden,36,0.5,0,V. Boryla,H. Gallatin (8.1),#006BB6,#F58426,0.07,
-1957-58,New York Knicks,Madison Square Garden,35,0.486,0,V. Boryla,K. Sears (10.0),#006BB6,#F58426,1.35,
-1958-59,New York Knicks,Madison Square Garden,40,0.556,0.4,A. Levane,K. Sears (13.3),#006BB6,#F58426,0.49,Syracuse Nationals (0-2)
-1959-60,New York Knicks,Madison Square Garden,27,0.36,0,A. Levane/C. Braun,K. Sears (8.8),#006BB6,#F58426,-1.43,
-1960-61,New York Knicks,Madison Square Garden,21,0.266,0,C. Braun,W. Naulls (5.7),#006BB6,#F58426,-5.43,
-1961-62,New York Knicks,Madison Square Garden,29,0.363,0,E. Donovan,R. Guerin (12.1),#006BB6,#F58426,-3.98,
-1962-63,New York Knicks,Madison Square Garden,21,0.263,0,E. Donovan,R. Guerin (7.2),#006BB6,#F58426,-6.2,
-1963-64,New York Knicks,Madison Square Garden,22,0.275,0,E. Donovan,B. McGill (4.5),#006BB6,#F58426,-5.91,
-1964-65,New York Knicks,Madison Square Garden,31,0.388,0,E. Donovan/H. Gallatin,W. Reed (5.5),#006BB6,#F58426,-3.26,
-1965-66,New York Knicks,Madison Square Garden,30,0.375,0,H. Gallatin/D. McGuire,W. Bellamy (8.9),#006BB6,#F58426,-2.31,
-1966-67,New York Knicks,Madison Square Garden,36,0.444,0.4,D. McGuire,W. Bellamy (8.8),#006BB6,#F58426,-2.74,Boston Celtics (1-3)
-1967-68,New York Knicks,Madison Square Garden,43,0.524,0.4,D. McGuire/R. Holzman,W. Bellamy (11.1),#006BB6,#F58426,1.78,Philadelphia 76ers (2-4)
-1968-69,New York Knicks,Madison Square Garden,54,0.659,0.6,R. Holzman,W. Reed (14.7),#006BB6,#F58426,5.48,Boston Celtics (2-4)
-1969-70,New York Knicks,Madison Square Garden,60,0.732,1,R. Holzman,W. Frazier (15.0),#006BB6,#F58426,8.42,Los Angeles Lakers (4-3)
-1970-71,New York Knicks,Madison Square Garden,52,0.634,0.6,R. Holzman,W. Frazier (15.6),#006BB6,#F58426,5.05,Baltimore Bullets (3-4)
-1971-72,New York Knicks,Madison Square Garden,48,0.585,0.8,R. Holzman,W. Frazier (14.5),#006BB6,#F58426,2.28,Los Angeles Lakers (1-4)
-1972-73,New York Knicks,Madison Square Garden,57,0.695,1,R. Holzman,W. Frazier (13.0),#006BB6,#F58426,6.07,Los Angeles Lakers (4-1)
-1973-74,New York Knicks,Madison Square Garden,49,0.598,0.6,R. Holzman,W. Frazier (10.9),#006BB6,#F58426,2.42,Boston Celtics (1-4)
-1974-75,New York Knicks,Madison Square Garden,40,0.488,0.2,R. Holzman,W. Frazier (10.8),#006BB6,#F58426,-0.92,Houston Rockets (1-2)
-1975-76,New York Knicks,Madison Square Garden,38,0.463,0,R. Holzman,E. Monroe (7.2),#006BB6,#F58426,-1.05,
-1976-77,New York Knicks,Madison Square Garden,40,0.488,0,R. Holzman,B. McAdoo (7.9),#006BB6,#F58426,0.01,
-1977-78,New York Knicks,Madison Square Garden,43,0.524,0.4,W. Reed,B. McAdoo (10.9),#006BB6,#F58426,-0.53,Philadelphia 76ers (0-4)
-1978-79,New York Knicks,Madison Square Garden,31,0.378,0,W. Reed/R. Holzman,T. Knight (5.7),#006BB6,#F58426,-3.29,
-1979-80,New York Knicks,Madison Square Garden,39,0.476,0,R. Holzman,B. Cartwright (9.7),#006BB6,#F58426,-0.96,
-1980-81,New York Knicks,Madison Square Garden,50,0.61,0.2,R. Holzman,B. Cartwright (10.0),#006BB6,#F58426,2,Chicago Bulls (0-2)
-1981-82,New York Knicks,Madison Square Garden,33,0.402,0,R. Holzman,M. Lucas (7.4),#006BB6,#F58426,-2.15,
-1982-83,New York Knicks,Madison Square Garden,44,0.537,0.4,H. Brown,B. Cartwright (10.1),#006BB6,#F58426,2.58,Philadelphia 76ers (0-4)
-1983-84,New York Knicks,Madison Square Garden,47,0.573,0.4,H. Brown,B. King (12.1),#006BB6,#F58426,3.79,Boston Celtics (3-4)
-1984-85,New York Knicks,Madison Square Garden,24,0.293,0,H. Brown,B. King (7.1),#006BB6,#F58426,-4.09,
-1985-86,New York Knicks,Madison Square Garden,23,0.28,0,H. Brown,T. Tucker (4.0),#006BB6,#F58426,-4.82,
-1986-87,New York Knicks,Madison Square Garden,24,0.293,0,H. Brown/B. Hill,B. Cartwright (5.8),#006BB6,#F58426,-5.42,
-1987-88,New York Knicks,Madison Square Garden,38,0.463,0.2,R. Pitino,P. Ewing (8.1),#006BB6,#F58426,0.14,Boston Celtics (1-3)
-1988-89,New York Knicks,Madison Square Garden,52,0.634,0.4,R. Pitino,P. Ewing (10.9),#006BB6,#F58426,3.62,Chicago Bulls (2-4)
-1989-90,New York Knicks,Madison Square Garden,45,0.549,0.4,S. Jackson,P. Ewing (13.5),#006BB6,#F58426,0.78,Detroit Pistons (1-4)
-1990-91,New York Knicks,Madison Square Garden,39,0.476,0.2,S. Jackson/J. MacLeod,P. Ewing (10.0),#006BB6,#F58426,-0.43,Chicago Bulls (0-3)
-1991-92,New York Knicks,Madison Square Garden,51,0.622,0.4,P. Riley,P. Ewing (13.0),#006BB6,#F58426,3.67,Chicago Bulls (3-4)
-1992-93,New York Knicks,Madison Square Garden,60,0.732,0.6,P. Riley,P. Ewing (10.6),#006BB6,#F58426,5.87,Chicago Bulls (2-4)
-1993-94,New York Knicks,Madison Square Garden,57,0.695,0.8,P. Riley,P. Ewing (13.1),#006BB6,#F58426,6.48,Houston Rockets (3-4)
-1994-95,New York Knicks,Madison Square Garden,55,0.671,0.4,P. Riley,P. Ewing (9.6),#006BB6,#F58426,2.78,Indiana Pacers (3-4)
-1995-96,New York Knicks,Madison Square Garden,47,0.573,0.4,D. Nelson/J. Van. Gundy,A. Mason (11.3),#006BB6,#F58426,2.24,Chicago Bulls (1-4)
-1996-97,New York Knicks,Madison Square Garden,57,0.695,0.4,J. Van Gundy,P. Ewing (9.8),#006BB6,#F58426,3.31,Miami Heat (3-4)
-1997-98,New York Knicks,Madison Square Garden,43,0.524,0.4,J. Van Gundy,C. Ward (7.1),#006BB6,#F58426,2.74,Indiana Pacers (1-4)
-1998-99,New York Knicks,Madison Square Garden,27,0.54,0.8,J. Van Gundy,L. Johnson (4.9),#006BB6,#F58426,1.45,San Antonio Spurs (1-4)
-1999-00,New York Knicks,Madison Square Garden,50,0.61,0.6,J. Van Gundy,A. Houston (8.6),#006BB6,#F58426,1.3,Indiana Pacers (2-4)
-2000-01,New York Knicks,Madison Square Garden,48,0.585,0.2,J. Van Gundy,M. Camby (10.3),#006BB6,#F58426,1.98,Toronto Raptors (2-3)
-2001-02,New York Knicks,Madison Square Garden,30,0.366,0,J. Van Gundy/D. Chaney,K. Thomas (6.5),#006BB6,#F58426,-4.15,
-2002-03,New York Knicks,Madison Square Garden,37,0.451,0,D. Chaney,A. Houston (7.2),#006BB6,#F58426,-1.61,
-2003-04,New York Knicks,Madison Square Garden,39,0.476,0.2,D. Chaney/H. Williams/L. Wilkens,S. Marbury (5.5),#006BB6,#F58426,-1.97,New Jersey Nets (0-4)
-2004-05,New York Knicks,Madison Square Garden,33,0.402,0,L. Wilkens/H. Williams,S. Marbury (11.7),#006BB6,#F58426,-2.72,
-2005-06,New York Knicks,Madison Square Garden,23,0.28,0,L. Brown,J. Crawford (4.5),#006BB6,#F58426,-6.3,
-2006-07,New York Knicks,Madison Square Garden,33,0.402,0,I. Thomas,D. Lee (6.9),#006BB6,#F58426,-3.06,
-2007-08,New York Knicks,Madison Square Garden,23,0.28,0,I. Thomas,D. Lee (7.4),#006BB6,#F58426,-6.55,
-2008-09,New York Knicks,Madison Square Garden,32,0.39,0,M. D'Antoni,D. Lee (9.0),#006BB6,#F58426,-2.33,
-2009-10,New York Knicks,Madison Square Garden,29,0.354,0,M. D'Antoni,D. Lee (10.3),#006BB6,#F58426,-4.01,
-2010-11,New York Knicks,Madison Square Garden,42,0.512,0.2,M. D'Antoni,A. Stoudemire (8.0),#006BB6,#F58426,0.48,Boston Celtics (0-4)
-2011-12,New York Knicks,Madison Square Garden,36,0.545,0.2,M. D'Antoni/M. Woodson,T. Chandler (9.5),#006BB6,#F58426,2.39,Miami Heat (1-4)
-2012-13,New York Knicks,Madison Square Garden,54,0.659,0.4,M. Woodson,C. Anthony (9.5),#006BB6,#F58426,3.73,Indiana Pacers (2-4)
-2013-14,New York Knicks,Madison Square Garden,37,0.451,0,M. Woodson,C. Anthony (10.7),#006BB6,#F58426,-1.4,
-2014-15,New York Knicks,Madison Square Garden,17,0.207,0,D. Fisher,C. Anthony (2.9),#006BB6,#F58426,-9.5,
-2015-16,New York Knicks,Madison Square Garden,32,0.39,0,D. Fisher/K. Rambis,C. Anthony (6.4),#006BB6,#F58426,-2.74,
-2016-17,New York Knicks,Madison Square Garden,31,0.378,0,J. Hornacek,C. Anthony (4.7),#006BB6,#F58426,-3.87,
-2017-18,New York Knicks,Madison Square Garden,29,0.354,0,J. Hornacek,E. Kanter (7.6),#006BB6,#F58426,-3.53,
-2018-19,New York Knicks,Madison Square Garden,17,0.207,0,D. Fizdale,M. Robinson (6.1),#006BB6,#F58426,-8.93,
-2019-20,New York Knicks,Madison Square Garden,21,0.318,0,D. Fizdale/M. Miller/T. Thibodeau,M. Robinson (6.8),#006BB6,#F58426,-6.72,
+season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,opponent1,opponent2,opponent3,opponent4
+1946-47,New York Knicks,Madison Square Garden,33,0.55,0.6,N. Cohalan,O. Schectman (4.3),#006BB6,#F58426,0.58,Won Quarterfinals versus <span>Cleveland Rebels (2-1)</span>,Lost Semifinals versus <span>Philadelphia Warriors (0-2)</span>,,
+1947-48,New York Knicks,Madison Square Garden,26,0.542,0.4,J. Lapchick,B. Palmer (7.4),#006BB6,#F58426,2.3,Lost Quarterfinals versus <span>Baltimore Bullets (1-2)</span>,,,
+1948-49,New York Knicks,Madison Square Garden,32,0.533,0.6,J. Lapchick,B. Palmer (7.2),#006BB6,#F58426,1.24,Won Division Semifinals versus <span>Baltimore Bullets (2-1)</span>,Lost Division Finals versus <span>Washington Capitols (1-2)</span>,,
+1949-50,New York Knicks,Madison Square Garden,40,0.588,0.6,J. Lapchick,H. Gallatin (7.8),#006BB6,#F58426,2.53,Won Division Semifinals versus <span>Washington Capitols (2-0)</span>,Lost Division Finals versus <span>Syracuse Nationals (1-2)</span>,,
+1950-51,New York Knicks,Madison Square Garden,36,0.545,0.8,J. Lapchick,H. Gallatin (7.6),#006BB6,#F58426,0.49,Won Division Semifinals versus <span>Boston Celtics (2-0)</span>,Won Division Finals versus <span>Syracuse Nationals (3-2)</span>,Lost Finals versus <span>Rochester Royals (3-4)</span>,
+1951-52,New York Knicks,Madison Square Garden,37,0.561,0.8,J. Lapchick,H. Gallatin (8.9),#006BB6,#F58426,0.67,Won Division Semifinals versus <span>Boston Celtics (2-1)</span>,Won Division Finals versus <span>Syracuse Nationals (3-1)</span>,Lost Finals versus <span>Minneapolis Lakers (3-4)</span>,
+1952-53,New York Knicks,Madison Square Garden,47,0.671,0.8,J. Lapchick,H. Gallatin (11.3),#006BB6,#F58426,4.39,Won Division Semifinals versus <span>Baltimore Bullets (2-0)</span>,Won Division Finals versus <span>Boston Celtics (3-1)</span>,Lost Finals versus <span>Minneapolis Lakers (1-4)</span>,
+1953-54,New York Knicks,Madison Square Garden,44,0.611,0.4,J. Lapchick,H. Gallatin (11.8),#006BB6,#F58426,-0.16,Eliminated in Division Round Robin,,,
+1954-55,New York Knicks,Madison Square Garden,38,0.528,0.4,J. Lapchick,H. Gallatin (8.3),#006BB6,#F58426,0.11,Lost Division Semifinals versus <span>Boston Celtics (1-2)</span>,,,
+1955-56,New York Knicks,Madison Square Garden,35,0.486,0,J. Lapchick/V. Boryla,K. Sears (6.2),#006BB6,#F58426,-0.2,,,,
+1956-57,New York Knicks,Madison Square Garden,36,0.5,0,V. Boryla,H. Gallatin (8.1),#006BB6,#F58426,0.07,,,,
+1957-58,New York Knicks,Madison Square Garden,35,0.486,0,V. Boryla,K. Sears (10.0),#006BB6,#F58426,1.35,,,,
+1958-59,New York Knicks,Madison Square Garden,40,0.556,0.4,A. Levane,K. Sears (13.3),#006BB6,#F58426,0.49,Lost Division Semifinals versus <span>Syracuse Nationals (0-2)</span>,,,
+1959-60,New York Knicks,Madison Square Garden,27,0.36,0,A. Levane/C. Braun,K. Sears (8.8),#006BB6,#F58426,-1.43,,,,
+1960-61,New York Knicks,Madison Square Garden,21,0.266,0,C. Braun,W. Naulls (5.7),#006BB6,#F58426,-5.43,,,,
+1961-62,New York Knicks,Madison Square Garden,29,0.363,0,E. Donovan,R. Guerin (12.1),#006BB6,#F58426,-3.98,,,,
+1962-63,New York Knicks,Madison Square Garden,21,0.263,0,E. Donovan,R. Guerin (7.2),#006BB6,#F58426,-6.2,,,,
+1963-64,New York Knicks,Madison Square Garden,22,0.275,0,E. Donovan,B. McGill (4.5),#006BB6,#F58426,-5.91,,,,
+1964-65,New York Knicks,Madison Square Garden,31,0.388,0,E. Donovan/H. Gallatin,W. Reed (5.5),#006BB6,#F58426,-3.26,,,,
+1965-66,New York Knicks,Madison Square Garden,30,0.375,0,H. Gallatin/D. McGuire,W. Bellamy (8.9),#006BB6,#F58426,-2.31,,,,
+1966-67,New York Knicks,Madison Square Garden,36,0.444,0.4,D. McGuire,W. Bellamy (8.8),#006BB6,#F58426,-2.74,Lost Division Semifinals versus <span>Boston Celtics (1-3)</span>,,,
+1967-68,New York Knicks,Madison Square Garden,43,0.524,0.4,D. McGuire/R. Holzman,W. Bellamy (11.1),#006BB6,#F58426,1.78,Lost Division Semifinals versus <span>Philadelphia 76ers (2-4)</span>,,,
+1968-69,New York Knicks,Madison Square Garden,54,0.659,0.6,R. Holzman,W. Reed (14.7),#006BB6,#F58426,5.48,Won Division Semifinals versus <span>Baltimore Bullets (4-0)</span>,Lost Division Finals versus <span>Boston Celtics (2-4)</span>,,
+1969-70,New York Knicks,Madison Square Garden,60,0.732,1,R. Holzman,W. Frazier (15.0),#006BB6,#F58426,8.42,Won Division Semifinals versus <span>Baltimore Bullets (4-3)</span>,Won Division Finals versus <span>Milwaukee Bucks (4-1)</span>,Won Finals versus <span>Los Angeles Lakers (4-3)</span>,
+1970-71,New York Knicks,Madison Square Garden,52,0.634,0.6,R. Holzman,W. Frazier (15.6),#006BB6,#F58426,5.05,Won Conference Semifinals versus <span>Atlanta Hawks (4-1)</span>,Lost Conference Finals versus <span>Baltimore Bullets (3-4)</span>,,
+1971-72,New York Knicks,Madison Square Garden,48,0.585,0.8,R. Holzman,W. Frazier (14.5),#006BB6,#F58426,2.28,Won Conference Semifinals versus <span>Baltimore Bullets (4-2)</span>,Won Conference Finals versus <span>Boston Celtics (4-1)</span>,Lost Finals versus <span>Los Angeles Lakers (1-4)</span>,
+1972-73,New York Knicks,Madison Square Garden,57,0.695,1,R. Holzman,W. Frazier (13.0),#006BB6,#F58426,6.07,Won Conference Semifinals versus <span>Baltimore Bullets (4-1)</span>,Won Conference Finals versus <span>Boston Celtics (4-3)</span>,Won Finals versus <span>Los Angeles Lakers (4-1)</span>,
+1973-74,New York Knicks,Madison Square Garden,49,0.598,0.6,R. Holzman,W. Frazier (10.9),#006BB6,#F58426,2.42,Won Conference Semifinals versus <span>Capital Bullets (4-3)</span>,Lost Conference Finals versus <span>Boston Celtics (1-4)</span>,,
+1974-75,New York Knicks,Madison Square Garden,40,0.488,0.2,R. Holzman,W. Frazier (10.8),#006BB6,#F58426,-0.92,Lost First Round versus <span>Houston Rockets (1-2)</span>,,,
+1975-76,New York Knicks,Madison Square Garden,38,0.463,0,R. Holzman,E. Monroe (7.2),#006BB6,#F58426,-1.05,,,,
+1976-77,New York Knicks,Madison Square Garden,40,0.488,0,R. Holzman,B. McAdoo (7.9),#006BB6,#F58426,0.01,,,,
+1977-78,New York Knicks,Madison Square Garden,43,0.524,0.4,W. Reed,B. McAdoo (10.9),#006BB6,#F58426,-0.53,Won First Round versus <span>Cleveland Cavaliers (2-0)</span>,Lost Conference Semifinals versus <span>Philadelphia 76ers (0-4)</span>,,
+1978-79,New York Knicks,Madison Square Garden,31,0.378,0,W. Reed/R. Holzman,T. Knight (5.7),#006BB6,#F58426,-3.29,,,,
+1979-80,New York Knicks,Madison Square Garden,39,0.476,0,R. Holzman,B. Cartwright (9.7),#006BB6,#F58426,-0.96,,,,
+1980-81,New York Knicks,Madison Square Garden,50,0.61,0.2,R. Holzman,B. Cartwright (10.0),#006BB6,#F58426,2,Lost First Round versus <span>Chicago Bulls (0-2)</span>,,,
+1981-82,New York Knicks,Madison Square Garden,33,0.402,0,R. Holzman,M. Lucas (7.4),#006BB6,#F58426,-2.15,,,,
+1982-83,New York Knicks,Madison Square Garden,44,0.537,0.4,H. Brown,B. Cartwright (10.1),#006BB6,#F58426,2.58,Won First Round versus <span>New Jersey Nets (2-0)</span>,Lost Conference Semifinals versus <span>Philadelphia 76ers (0-4)</span>,,
+1983-84,New York Knicks,Madison Square Garden,47,0.573,0.4,H. Brown,B. King (12.1),#006BB6,#F58426,3.79,Won First Round versus <span>Detroit Pistons (3-2)</span>,Lost Conference Semifinals versus <span>Boston Celtics (3-4)</span>,,
+1984-85,New York Knicks,Madison Square Garden,24,0.293,0,H. Brown,B. King (7.1),#006BB6,#F58426,-4.09,,,,
+1985-86,New York Knicks,Madison Square Garden,23,0.28,0,H. Brown,T. Tucker (4.0),#006BB6,#F58426,-4.82,,,,
+1986-87,New York Knicks,Madison Square Garden,24,0.293,0,H. Brown/B. Hill,B. Cartwright (5.8),#006BB6,#F58426,-5.42,,,,
+1987-88,New York Knicks,Madison Square Garden,38,0.463,0.2,R. Pitino,P. Ewing (8.1),#006BB6,#F58426,0.14,Lost First Round versus <span>Boston Celtics (1-3)</span>,,,
+1988-89,New York Knicks,Madison Square Garden,52,0.634,0.4,R. Pitino,P. Ewing (10.9),#006BB6,#F58426,3.62,Won First Round versus <span>Philadelphia 76ers (3-0)</span>,Lost Conference Semifinals versus <span>Chicago Bulls (2-4)</span>,,
+1989-90,New York Knicks,Madison Square Garden,45,0.549,0.4,S. Jackson,P. Ewing (13.5),#006BB6,#F58426,0.78,Won First Round versus <span>Boston Celtics (3-2)</span>,Lost Conference Semifinals versus <span>Detroit Pistons (1-4)</span>,,
+1990-91,New York Knicks,Madison Square Garden,39,0.476,0.2,S. Jackson/J. MacLeod,P. Ewing (10.0),#006BB6,#F58426,-0.43,Lost First Round versus <span>Chicago Bulls (0-3)</span>,,,
+1991-92,New York Knicks,Madison Square Garden,51,0.622,0.4,P. Riley,P. Ewing (13.0),#006BB6,#F58426,3.67,Won First Round versus <span>Detroit Pistons (3-2)</span>,Lost Conference Semifinals versus <span>Chicago Bulls (3-4)</span>,,
+1992-93,New York Knicks,Madison Square Garden,60,0.732,0.6,P. Riley,P. Ewing (10.6),#006BB6,#F58426,5.87,Won First Round versus <span>Indiana Pacers (3-1)</span>,Won Conference Semifinals versus <span>Charlotte Hornets (4-1)</span>,Lost Conference Finals versus <span>Chicago Bulls (2-4)</span>,
+1993-94,New York Knicks,Madison Square Garden,57,0.695,0.8,P. Riley,P. Ewing (13.1),#006BB6,#F58426,6.48,Won First Round versus <span>New Jersey Nets (3-1)</span>,Won Conference Semifinals versus <span>Chicago Bulls (4-3)</span>,Won Conference Finals versus <span>Indiana Pacers (4-3)</span>,Lost Finals versus <span>Houston Rockets (3-4)</span>
+1994-95,New York Knicks,Madison Square Garden,55,0.671,0.4,P. Riley,P. Ewing (9.6),#006BB6,#F58426,2.78,Won First Round versus <span>Cleveland Cavaliers (3-1)</span>,Lost Conference Semifinals versus <span>Indiana Pacers (3-4)</span>,,
+1995-96,New York Knicks,Madison Square Garden,47,0.573,0.4,D. Nelson/J. Van. Gundy,A. Mason (11.3),#006BB6,#F58426,2.24,Won First Round versus <span>Cleveland Cavaliers (3-0)</span>,Lost Conference Semifinals versus <span>Chicago Bulls (1-4)</span>,,
+1996-97,New York Knicks,Madison Square Garden,57,0.695,0.4,J. Van Gundy,P. Ewing (9.8),#006BB6,#F58426,3.31,Won First Round versus <span>Charlotte Hornets (3-0)</span>,Lost Conference Semifinals versus <span>Miami Heat (3-4)</span>,,
+1997-98,New York Knicks,Madison Square Garden,43,0.524,0.4,J. Van Gundy,C. Ward (7.1),#006BB6,#F58426,2.74,Won First Round versus <span>Miami Heat (3-2)</span>,Lost Conference Semifinals versus <span>Indiana Pacers (1-4)</span>,,
+1998-99,New York Knicks,Madison Square Garden,27,0.54,0.8,J. Van Gundy,L. Johnson (4.9),#006BB6,#F58426,1.45,Won First Round versus <span>Miami Heat (3-2)</span>,Won Conference Semifinals versus <span>Atlanta Hawks (4-0)</span>,Won Conference Finals versus <span>Indiana Pacers (4-2)</span>,Lost Finals versus <span>San Antonio Spurs (1-4)</span>
+1999-00,New York Knicks,Madison Square Garden,50,0.61,0.6,J. Van Gundy,A. Houston (8.6),#006BB6,#F58426,1.3,Won First Round versus <span>Toronto Raptors (3-0)</span>,Won Conference Semifinals versus <span>Miami Heat (4-3)</span>,Lost Conference Finals versus <span>Indiana Pacers (2-4)</span>,
+2000-01,New York Knicks,Madison Square Garden,48,0.585,0.2,J. Van Gundy,M. Camby (10.3),#006BB6,#F58426,1.98,Lost First Round versus <span>Toronto Raptors (2-3)</span>,,,
+2001-02,New York Knicks,Madison Square Garden,30,0.366,0,J. Van Gundy/D. Chaney,K. Thomas (6.5),#006BB6,#F58426,-4.15,,,,
+2002-03,New York Knicks,Madison Square Garden,37,0.451,0,D. Chaney,A. Houston (7.2),#006BB6,#F58426,-1.61,,,,
+2003-04,New York Knicks,Madison Square Garden,39,0.476,0.2,D. Chaney/H. Williams/L. Wilkens,S. Marbury (5.5),#006BB6,#F58426,-1.97,Lost First Round versus <span>New Jersey Nets (0-4)</span>,,,
+2004-05,New York Knicks,Madison Square Garden,33,0.402,0,L. Wilkens/H. Williams,S. Marbury (11.7),#006BB6,#F58426,-2.72,,,,
+2005-06,New York Knicks,Madison Square Garden,23,0.28,0,L. Brown,J. Crawford (4.5),#006BB6,#F58426,-6.3,,,,
+2006-07,New York Knicks,Madison Square Garden,33,0.402,0,I. Thomas,D. Lee (6.9),#006BB6,#F58426,-3.06,,,,
+2007-08,New York Knicks,Madison Square Garden,23,0.28,0,I. Thomas,D. Lee (7.4),#006BB6,#F58426,-6.55,,,,
+2008-09,New York Knicks,Madison Square Garden,32,0.39,0,M. D'Antoni,D. Lee (9.0),#006BB6,#F58426,-2.33,,,,
+2009-10,New York Knicks,Madison Square Garden,29,0.354,0,M. D'Antoni,D. Lee (10.3),#006BB6,#F58426,-4.01,,,,
+2010-11,New York Knicks,Madison Square Garden,42,0.512,0.2,M. D'Antoni,A. Stoudemire (8.0),#006BB6,#F58426,0.48,Lost First Round versus <span>Boston Celtics (0-4)</span>,,,
+2011-12,New York Knicks,Madison Square Garden,36,0.545,0.2,M. D'Antoni/M. Woodson,T. Chandler (9.5),#006BB6,#F58426,2.39,Lost First Round versus <span>Miami Heat (1-4)</span>,,,
+2012-13,New York Knicks,Madison Square Garden,54,0.659,0.4,M. Woodson,C. Anthony (9.5),#006BB6,#F58426,3.73,Won First Round versus <span>Boston Celtics (4-2)</span>,Lost Conference Semifinals versus <span>Indiana Pacers (2-4)</span>,,
+2013-14,New York Knicks,Madison Square Garden,37,0.451,0,M. Woodson,C. Anthony (10.7),#006BB6,#F58426,-1.4,,,,
+2014-15,New York Knicks,Madison Square Garden,17,0.207,0,D. Fisher,C. Anthony (2.9),#006BB6,#F58426,-9.5,,,,
+2015-16,New York Knicks,Madison Square Garden,32,0.39,0,D. Fisher/K. Rambis,C. Anthony (6.4),#006BB6,#F58426,-2.74,,,,
+2016-17,New York Knicks,Madison Square Garden,31,0.378,0,J. Hornacek,C. Anthony (4.7),#006BB6,#F58426,-3.87,,,,
+2017-18,New York Knicks,Madison Square Garden,29,0.354,0,J. Hornacek,E. Kanter (7.6),#006BB6,#F58426,-3.53,,,,
+2018-19,New York Knicks,Madison Square Garden,17,0.207,0,D. Fizdale,M. Robinson (6.1),#006BB6,#F58426,-8.93,,,,
+2019-20,New York Knicks,Madison Square Garden,21,0.318,0,D. Fizdale/M. Miller/T. Thibodeau,M. Robinson (6.8),#006BB6,#F58426,-6.72,,,,
