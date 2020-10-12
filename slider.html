@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<html>
+<title>NBA History</title>
+<meta charset="utf-8">
+<meta property="og:title" content="nbahistory.org">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://www.nbahistory.org">
+<meta property="og:description" content="Visualizations of the history of the National Basketball Association">
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+<body>
+
+<svg class="regularseason"></svg>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+<script>
+var margin = {top:5,right:0,bottom:80,left:180},
+    width = 1200 - margin.left - margin.right
+    height = 675 - margin.top - margin.bottom;
+function xValue(d) { return d.x; }
+function yValue(d) { return d.y; }
+var x = d3.scaleLinear()
+    .domain(d3.extent(data,xValue))
+    .range([0,width]);
+var y = d3.scaleLinear()
+    .domain(d3.extent(data,yValue))
+    .range([height,0]);
+
+var xAxis = d3.axisBottom(x)
+
+var yAxis = d3.axisLeft(y)
+
+var svg = d3.select("body").append("svg")
+    .attr("width",  width)
+    .attr("height", height);
+
+</script>
+<p id="credit">
+<span>Data from <a href="http://www.basketball-reference.com">Basketball Reference</a></span>
+<span>Logos from <a href="https://www.sportslogos.net">SportsLogos.net</a></span>
+</p>
+</body>
+</html>
