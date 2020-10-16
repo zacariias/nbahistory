@@ -17,9 +17,9 @@ h1 {
   font-weight: 100;
   letter-spacing: 2px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin: 20px 0;
+  margin: 20px 0 20px 20px;
   padding: 0;
-  width: 1240px;
+  width: 1260px;
   text-align: center;
 }
 h1 img {
@@ -46,7 +46,8 @@ h1 img {
 }
 div#container {
   text-align: center;
-  width: 1220px;
+  width: 1260px;
+  margin-left: 20px;
 }
 input#slider {
   text-align: center;
@@ -109,9 +110,7 @@ function update(slider) {
     d3.select("#year").text(slider);
 
     d3.csv("championships/" + slider + ".csv", function(error, data) {
-        console.log("Read data for", slider);
-        if (error !== undefined) return;
-        svg.selectAll(".logo")
+            svg.selectAll(".logo")
             .data(data)
             .enter()
             .append("image")
