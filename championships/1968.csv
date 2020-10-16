@@ -1,0 +1,13 @@
+team,championships,stack,logo
+GSW,2,1,./teams/GSW/logos/1963-1969.png
+NYK,0,1,./teams/NYK/logos/1965-1979.png
+BOS,10,1,./teams/BOS/logos/1961-1968.png
+LAL,5,1,./teams/LAL/logos/1961-1976.png
+SAC,1,1,./teams/SAC/logos/1958-1971.png
+DET,0,2,./teams/DET/logos/1958-1971.png
+ATL,1,2,./teams/ATL/logos/1958-1968.png
+PHI,2,2,./teams/PHI/logos/1964-1977.png
+WAS,0,3,./teams/WAS/logos/1964-1968.png
+CHI,0,4,./teams/CHI/logos/1967-present.png
+OKC,0,5,./teams/OKC/logos/1968-1970.png
+HOU,0,6,./teams/HOU/logos/1968-1971.png
