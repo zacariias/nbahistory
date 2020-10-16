@@ -10,32 +10,125 @@
 <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
-<body>
-
-<svg class="regularseason"></svg>
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+<style>
+h1 {
+  font-size: 30px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 20px 0;
+  padding: 0;
+  width: 1240px;
+  text-align: center;
+}
+h1 img {
+  height: 30px;
+  vertical-align: middle;
+}
+.x.axis {
+  font-size: 14px;
+  font-weight: 400;
+  fill: #aaa;
+}
+.x.axis path {
+  display: block;
+  fill: none;
+  stroke: #aaa;
+  stroke-width: 2px;
+  shape-rendering: crispEdges;
+}
+#year {
+  font-weight: 400;
+  font-size: 150px;
+  fill: #aaa;
+  shape-rendering: crispEdges;
+}
+div#container {
+  text-align: center;
+  width: 1220px;
+}
+input#slider {
+  text-align: center;
+  width: 400px;
+}
+p#credit {
+  color: #aaa;
+  text-align: center;
+  width: 1220px;
+  margin: 40px 0;
+  clear: both;
+}
+</style>
+<body>
+<h1>Number of NBA Championships <img src="trophy.png" /></h1>
+<div id="container">
+<input id="slider" type="range" min="1946" max="2020" step="1" value="1946">
+</div>
 <script>
-var margin = {top:5,right:0,bottom:80,left:180},
-    width = 1200 - margin.left - margin.right
-    height = 675 - margin.top - margin.bottom;
-function xValue(d) { return d.x; }
-function yValue(d) { return d.y; }
-var x = d3.scaleLinear()
-    .domain(d3.extent(data,xValue))
+var margin = {top:0,right:40,bottom:30,left:20},
+    width = 1260 - margin.left - margin.right,
+    height = 630 - margin.top - margin.bottom;
+
+var x = d3.scale
+    .linear()
+    .domain([0,20])
     .range([0,width]);
-var y = d3.scaleLinear()
-    .domain(d3.extent(data,yValue))
+
+var y = d3.scale
+    .linear()
+    .domain([0,15])
     .range([height,0]);
 
-var xAxis = d3.axisBottom(x)
-
-var yAxis = d3.axisLeft(y)
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
 
 var svg = d3.select("body").append("svg")
-    .attr("width",  width)
-    .attr("height", height);
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+svg.append("g")
+    .attr("class", "x axis")
+    .attr("transform", "translate(20,610)")
+    .call(xAxis.ticks(20).tickSize(0).tickPadding(10))
+    .append("text")
+    .attr("id", "year")
+    .attr("x", width/2)
+    .attr("y", -height/2)
+    .style("text-anchor", "middle")
+    .text("1946");
+
+d3.select("#slider").on("input", function() {
+    update(+this.value);
+});
+
+function update(slider) {
+    d3.select("#year").text(slider);
+
+    d3.csv("championships/" + slider + ".csv", function(error, data) {
+        console.log("Read data for", slider);
+        if (error !== undefined) return;
+        svg.selectAll(".logo")
+            .data(data)
+            .enter()
+            .append("image")
+            .attr("xlink:href", function(d) {
+                return d.logo;
+            })
+            .attr("x", function(d) {
+                return x(d.championships);
+            })
+            .attr("y", function(d) {
+                return y(d.stack);
+            })
+            .attr("width", "40")
+            .attr("height", "40");
+    });
+
+};
 </script>
 <p id="credit">
 <span>Data from <a href="http://www.basketball-reference.com">Basketball Reference</a></span>
