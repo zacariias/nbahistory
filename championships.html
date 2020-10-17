@@ -20,10 +20,12 @@ h1 {
   font-weight: 100;
   letter-spacing: 2px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin: 20px 0;
-  width: 100%;
+  margin: 20px auto;
+  width: 1200px;
   text-align: center;
   position: absolute;
+  left: 0;
+  right: 0;
 }
 h1 a {
   color: #000;
@@ -33,8 +35,11 @@ h1 a {
 }
 div#container {
   text-align: center;
-  width: 100%;
+  width: 1200px;
   top: 80px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
   position: absolute;
 }
 input#slider {
@@ -60,8 +65,13 @@ input#slider {
 p#credit {
   color: #aaa;
   text-align: center;
-  width: 100%;
-  margin: 30px 0 40px 0;
+  width: 1200px;
+  left: 0;
+  right: 0;
+  margin: 30px auto 40px auto;
+}
+div#preload {
+  display: none;
 }
 </style>
 <body>
@@ -120,7 +130,6 @@ d3.select("#slider").on("input", function() {
 
 function update(slider) {
     d3.select("#year").text(slider);
-
     d3.csv("championships/" + slider + ".csv", function(error, data) {
             svg.selectAll(".logo").remove();
             svg.selectAll(".logo")
@@ -134,12 +143,124 @@ function update(slider) {
             .attr("height", "40")
             .attr("class", "logo");
     });
-
 };
 </script>
 <p id="credit">
 <span>Data from <a href="https://www.basketball-reference.com">Basketball Reference</a></span>
 <span>Logos from <a href="https://www.sportslogos.net">SportsLogos.net</a></span>
 </p>
+<div id="preload">
+<img src="teams/ATL/logos/1950-1951.png">
+<img src="teams/ATL/logos/1952-1955.png">
+<img src="teams/ATL/logos/1956-1957.png">
+<img src="teams/ATL/logos/1958-1968.png">
+<img src="teams/ATL/logos/1969.png">
+<img src="teams/ATL/logos/1970.png">
+<img src="teams/ATL/logos/1971-1972.png">
+<img src="teams/ATL/logos/1973-1995.png">
+<img src="teams/ATL/logos/1996-2007.png">
+<img src="teams/ATL/logos/2008-2015.png">
+<img src="teams/ATL/logos/2016-present.png">
+<img src="teams/BAL/logos/1948-1954.png">
+<img src="teams/BKN/logos/1977.png">
+<img src="teams/BKN/logos/1978.png">
+<img src="teams/BKN/logos/1979-1990.png">
+<img src="teams/BKN/logos/1991-1997.png">
+<img src="teams/BKN/logos/1998-2012.png">
+<img src="teams/BKN/logos/2013-present.png">
+<img src="teams/BOS/logos/1946-1950.png">
+<img src="teams/BOS/logos/1951-1960.png">
+<img src="teams/BOS/logos/1961-1968.png">
+<img src="teams/BOS/logos/1969-1974.png">
+<img src="teams/BOS/logos/1975-1996.png">
+<img src="teams/BOS/logos/1997-present.png">
+<img src="teams/CHA/logos/1989-2002.png">
+<img src="teams/CHA/logos/2005-2007.png">
+<img src="teams/CHA/logos/2008-2012.png">
+<img src="teams/CHA/logos/2013-2014.png">
+<img src="teams/CHA/logos/2015-present.png">
+<img src="teams/CHI/logos/1967-present.png">
+<img src="teams/CLE/logos/1971-1983.png">
+<img src="teams/CLE/logos/1984-1994.png">
+<img src="teams/CLE/logos/1995-2003.png">
+<img src="teams/CLE/logos/2004-2010.png">
+<img src="teams/CLE/logos/2011-2017.png">
+<img src="teams/CLE/logos/2018-present.png">
+<img src="teams/DAL/logos/1981-1993.png">
+<img src="teams/DAL/logos/1994-2001.png">
+<img src="teams/DAL/logos/2002-2017.png">
+<img src="teams/DAL/logos/2018-present.png">
+<img src="teams/DEN/logos/1977-1981.png">
+<img src="teams/DEN/logos/1982-1993.png">
+<img src="teams/DEN/logos/1994-2003.png">
+<img src="teams/DEN/logos/2004-2008.png">
+<img src="teams/DEN/logos/2009-2018.png">
+<img src="teams/DEN/logos/2019-present.png">
+<img src="teams/DET/logos/1949-1957.png">
+<img src="teams/DET/logos/1958-1971.png">
+<img src="teams/DET/logos/1972-1975.png">
+<img src="teams/DET/logos/1976-1979.png">
+<img src="teams/DET/logos/1980-1996.png">
+<img src="teams/DET/logos/1997-2001.png">
+<img src="teams/DET/logos/2002-2005.png">
+<img src="teams/DET/logos/2006-2017.png">
+<img src="teams/DET/logos/2018-present.png">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+<img src="teams//logos/">
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
 </body>
 </html>
