@@ -12,14 +12,16 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <style>
+body {
+  text-align: center;
+}
 h1 {
   font-size: 30px;
   font-weight: 100;
   letter-spacing: 2px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin: 20px 40px;
-  padding: 0;
-  width: 1200px;
+  margin: 20px 0;
+  width: 100%;
   text-align: center;
   position: absolute;
 }
@@ -29,20 +31,14 @@ h1 a {
   text-decoration: none;
   border-bottom: 2px solid black;
 }
-h1 img {
-  height: 30px;
-  vertical-align: middle;
-}
 div#container {
   text-align: center;
-  width: 1200px;
-  margin: 0 40px;
+  width: 100%;
   top: 80px;
   position: absolute;
 }
 input#slider {
-  text-align: center;
-  width: 750px;
+  width: 900px;
 }
 .x.axis {
   font-size: 14px;
@@ -54,10 +50,6 @@ input#slider {
   fill: none;
   stroke: #aaa;
   stroke-width: 2px;
-  shape-rendering: crispEdges;
-}
-.logo {
-  border: 1px solid black;
 }
 #year {
   font-weight: 400;
@@ -68,9 +60,8 @@ input#slider {
 p#credit {
   color: #aaa;
   text-align: center;
-  width: 1200px;
-  margin: 30px 40px 40px 40px;
-  clear: both;
+  width: 100%;
+  margin: 30px 0 40px 0;
 }
 </style>
 <body>
@@ -79,8 +70,8 @@ p#credit {
 <input id="slider" type="range" min="1946" max="2020" step="1" value="1946">
 </div>
 <script>
-var margin = {top:40,right:60,bottom:30,left:20},
-    width = 1280 - margin.left - margin.right,
+var margin = {top:40,right:80,bottom:30,left:20},
+    width = 1300 - margin.left - margin.right,
     height = 720 - margin.top - margin.bottom,
     buffer = height + 5;
 
@@ -101,6 +92,7 @@ var xAxis = d3.svg.axis()
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
+    .attr("id","center")
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
@@ -111,9 +103,16 @@ svg.append("g")
     .append("text")
     .attr("id", "year")
     .attr("x", width/2)
-    .attr("y", -height/2)
+    .attr("y", -250)
     .style("text-anchor", "middle")
     .text("1946");
+
+svg.append("image")
+    .attr("xlink:href", "trophy.png")
+    .attr("width", "40")
+    .attr("height", "40")
+    .attr("x", width + 45)
+    .attr("y", height - 15);
 
 d3.select("#slider").on("input", function() {
     update(+this.value);
