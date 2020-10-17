@@ -1,69 +1,68 @@
 body::after {
     display: none;
-    content:
-        url(teams/ATL/logos/1950-1951.png)
-        url(teams/ATL/logos/1952-1955.png)
-        url(teams/ATL/logos/1956-1957.png)
-        url(teams/ATL/logos/1958-1968.png)
-        url(teams/ATL/logos/1969.png)
-        url(teams/ATL/logos/1970.png)
-        url(teams/ATL/logos/1971-1972.png)
-        url(teams/ATL/logos/1973-1995.png)
-        url(teams/ATL/logos/1996-2007.png)
-        url(teams/ATL/logos/2008-2015.png)
-        url(teams/ATL/logos/2016-present.png)
-        url(teams/BAL/logos/1948-1954.png)
-        url(teams/BKN/logos/1977.png)
-        url(teams/BKN/logos/1978.png)
-        url(teams/BKN/logos/1979-1990.png)
-        url(teams/BKN/logos/1991-1997.png)
-        url(teams/BKN/logos/1998-2012.png)
-        url(teams/BKN/logos/2013-present.png)
-        url(teams/BOS/logos/1946-1950.png)
-        url(teams/BOS/logos/1951-1960.png)
-        url(teams/BOS/logos/1961-1968.png)
-        url(teams/BOS/logos/1969-1974.png)
-        url(teams/BOS/logos/1975-1996.png)
-        url(teams/BOS/logos/1997-present.png)
-        url(teams/CHA/logos/1989-2002.png)
-        url(teams/CHA/logos/2005-2007.png)
-        url(teams/CHA/logos/2008-2012.png)
-        url(teams/CHA/logos/2013-2014.png)
-        url(teams/CHA/logos/2015-present.png)
-        url(teams/CHI/logos/1967-present.png)
-        url(teams/CLE/logos/1971-1983.png)
-        url(teams/CLE/logos/1984-1994.png)
-        url(teams/CLE/logos/1995-2003.png)
-        url(teams/CLE/logos/2004-2010.png)
-        url(teams/CLE/logos/2011-2017.png)
-        url(teams/CLE/logos/2018-present.png)
-        url(teams/DAL/logos/1981-1993.png)
-        url(teams/DAL/logos/1994-2001.png)
-        url(teams/DAL/logos/2002-2017.png)
-        url(teams/DAL/logos/2018-present.png)
-        url(teams/DEN/logos/1977-1981.png)
-        url(teams/DEN/logos/1982-1993.png)
-        url(teams/DEN/logos/1994-2003.png)
-        url(teams/DEN/logos/2004-2008.png)
-        url(teams/DEN/logos/2009-2018.png)
-        url(teams/DEN/logos/2019-present.png)
-        url(teams/DET/logos/1949-1957.png)
-        url(teams/DET/logos/1958-1971.png)
-        url(teams/DET/logos/1972-1975.png)
-        url(teams/DET/logos/1976-1979.png)
-        url(teams/DET/logos/1980-1996.png)
-        url(teams/DET/logos/1997-2001.png)
-        url(teams/DET/logos/2002-2005.png)
-        url(teams/DET/logos/2006-2017.png)
-        url(teams/DET/logos/2018-present.png)
-        url(teams/GSW/logos/1946-1951.png)
-        url(teams/GSW/logos/1952-1962.png)
-        url(teams/GSW/logos/1963-1969.png)
-        url(teams/GSW/logos/1970-1971.png)
-        url(teams/GSW/logos/1972-1975.png)
-        url(teams/GSW/logos/1976-1988.png)
-        url(teams/GSW/logos/1989-1997.png)
-        url(teams/GSW/logos/1998-2010.png)
-        url(teams/GSW/logos/2011-2019.png)
-        url(teams/GSW/logos/2020-present.png);
+    content: url(teams/ATL/logos/1950-1951.png);
+    content: url(teams/ATL/logos/1952-1955.png);
+    content: url(teams/ATL/logos/1956-1957.png);
+    content: url(teams/ATL/logos/1958-1968.png);
+    content: url(teams/ATL/logos/1969.png);
+    content: url(teams/ATL/logos/1970.png);
+    content: url(teams/ATL/logos/1971-1972.png);
+    content: url(teams/ATL/logos/1973-1995.png);
+    content: url(teams/ATL/logos/1996-2007.png);
+    content: url(teams/ATL/logos/2008-2015.png);
+    content: url(teams/ATL/logos/2016-present.png);
+    content: url(teams/BAL/logos/1948-1954.png);
+    content: url(teams/BKN/logos/1977.png);
+    content: url(teams/BKN/logos/1978.png);
+    content: url(teams/BKN/logos/1979-1990.png);
+    content: url(teams/BKN/logos/1991-1997.png);
+    content: url(teams/BKN/logos/1998-2012.png);
+    content: url(teams/BKN/logos/2013-present.png);
+    content: url(teams/BOS/logos/1946-1950.png);
+    content: url(teams/BOS/logos/1951-1960.png);
+    content: url(teams/BOS/logos/1961-1968.png);
+    content: url(teams/BOS/logos/1969-1974.png);
+    content: url(teams/BOS/logos/1975-1996.png);
+    content: url(teams/BOS/logos/1997-present.png);
+    content: url(teams/CHA/logos/1989-2002.png);
+    content: url(teams/CHA/logos/2005-2007.png);
+    content: url(teams/CHA/logos/2008-2012.png);
+    content: url(teams/CHA/logos/2013-2014.png);
+    content: url(teams/CHA/logos/2015-present.png);
+    content: url(teams/CHI/logos/1967-present.png);
+    content: url(teams/CLE/logos/1971-1983.png);
+    content: url(teams/CLE/logos/1984-1994.png);
+    content: url(teams/CLE/logos/1995-2003.png);
+    content: url(teams/CLE/logos/2004-2010.png);
+    content: url(teams/CLE/logos/2011-2017.png);
+    content: url(teams/CLE/logos/2018-present.png);
+    content: url(teams/DAL/logos/1981-1993.png);
+    content: url(teams/DAL/logos/1994-2001.png);
+    content: url(teams/DAL/logos/2002-2017.png);
+    content: url(teams/DAL/logos/2018-present.png);
+    content: url(teams/DEN/logos/1977-1981.png);
+    content: url(teams/DEN/logos/1982-1993.png);
+    content: url(teams/DEN/logos/1994-2003.png);
+    content: url(teams/DEN/logos/2004-2008.png);
+    content: url(teams/DEN/logos/2009-2018.png);
+    content: url(teams/DEN/logos/2019-present.png);
+    content: url(teams/DET/logos/1949-1957.png);
+    content: url(teams/DET/logos/1958-1971.png);
+    content: url(teams/DET/logos/1972-1975.png);
+    content: url(teams/DET/logos/1976-1979.png);
+    content: url(teams/DET/logos/1980-1996.png);
+    content: url(teams/DET/logos/1997-2001.png);
+    content: url(teams/DET/logos/2002-2005.png);
+    content: url(teams/DET/logos/2006-2017.png);
+    content: url(teams/DET/logos/2018-present.png);
+    content: url(teams/GSW/logos/1946-1951.png);
+    content: url(teams/GSW/logos/1952-1962.png);
+    content: url(teams/GSW/logos/1963-1969.png);
+    content: url(teams/GSW/logos/1970-1971.png);
+    content: url(teams/GSW/logos/1972-1975.png);
+    content: url(teams/GSW/logos/1976-1988.png);
+    content: url(teams/GSW/logos/1989-1997.png);
+    content: url(teams/GSW/logos/1998-2010.png);
+    content: url(teams/GSW/logos/2011-2019.png);
+    content: url(teams/GSW/logos/2020-present.png);
 }
