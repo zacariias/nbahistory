@@ -59,7 +59,7 @@ p#credit {
 p#credit span {
   padding: 0 10px;
 }
-a {
+p#credit a {
   color: #aaa;
   text-decoration: underline;
 }
