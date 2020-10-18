@@ -29,7 +29,7 @@ body {
   color: #fff;
 }
 p#logos {
-  margin: 20px 0 0 180px;
+  margin-left: 180px;
   width: 1020px;
 }
 p#logos img {
@@ -39,20 +39,57 @@ p#logos img {
   margin: 0px 4px 10px 4px;
   padding: 0;
 }
-h1#title {
-  font-size: 30px;
-  clear: both;
-  font-weight: 100;
+div#container {
+  text-align: center;
   width: 1020px;
-  padding: 30px 0 0 180px;
+  top: 80px;
+  margin-left: 180px;
+  position: absolute;
+}
+input#slider {
+  width: 800px;
+}
+h1 {
+  font-size: 30px;
+  width: 1020px;
   letter-spacing: 3px;
   text-align: center;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+}
+h1#team {
+  clear: both;
+  margin: 20px 0 20px 180px;
+  width: 1020px;
+  font-weight: 100;
+}
+h1#navigation {
+  margin: 30px 0 30px 180px;
+  width: 1020px;
+  text-align: center;
+  letter-spacing: 3px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+}
+h1#navigation a {
+  color: #aaa;
+  letter-spacing: 3px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  text-decoration: none;
+  border-bottom: 2px solid #aaa;
+}
+#year {
+  font-weight: 400;
+  font-size: 150px;
+  fill: #aaa;
+  shape-rendering: crispEdges;
 }
 p#credit {
   color: #aaa;
   text-align: center;
   width: 1020px;
-  margin: 40px 0 50px 180px;
+  margin: 30px 0 40px 180px;
   font-weight: 400;
   clear: both;
 }
@@ -68,6 +105,7 @@ p#credit a {
   background: #000;
   border-radius: 5px;
   color: #fff;
+  text-align: left;
 }
 .d3-tip span {
   font-weight: bold;
