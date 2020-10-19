@@ -122,9 +122,6 @@ var playoffs = d3.select(".playoffs")
     .attr("height",height3 + margin3.top + margin3.bottom)
     .append("g")
     .attr("transform","translate(" + margin3.left + "," + margin3.top + ")");
-var div = d3.select("body").append("div")
-    .attr("class", "tooltip")
-    .style("opacity", 0);
 var tip = d3.tip()
     .attr('class', 'd3-tip')
     .offset([-20, 0])

@@ -20,14 +20,6 @@ body {
   font-size: 11px;
   letter-spacing: 0;
 }
-.tooltip {
-  position: absolute;
-  width: 130px;
-  padding: 10px;
-  background: #000;
-  border-radius: 5px;
-  color: #fff;
-}
 p#logos {
   margin-left: 180px;
   width: 1020px;
@@ -71,9 +63,6 @@ input#slider::-webkit-slider-thumb {
   border-radius: 20px;
   cursor: grab;
 }
-input#slider::-webkit-slider-thumb:active {
-  opacity: 0.5;
-  }
 input#slider::-moz-range-thumb, input#slider::-moz-range-thumb:active {
   width: 50px;
   height: 25px;
@@ -98,10 +87,9 @@ div#navigation {
   text-align: center;
 }
 p#button {
-  letter-spacing: 1px;
   font-weight: 400;
   font-size: 16px;
-  background-color: rgba(0,0,0,.1);
+  background-color: rgba(0,0,0,.05);
   border-radius: 30px;
   padding: 15px 8px;
   display: inline;
@@ -114,10 +102,10 @@ div#navigation a {
 }
 div#navigation span {
   background-color: #fff;
-  color: #5e5e5e;
+  color: rgba(0,0,0,.5);
   border-radius: 30px;
   padding: 8px 15px;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1), 0 0 0 1px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1), 0 0 0 1px rgba(0,0,0,0.05);
 }
 #year {
   font-weight: 200;
