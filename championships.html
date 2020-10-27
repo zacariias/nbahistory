@@ -184,22 +184,8 @@
 <link rel="preload" href="teams/WAS/logos/2012-2015.png" as="image">
 <link rel="preload" href="teams/WAS/logos/2015-present.png" as="image">
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-<style>
-div#navigation {
-  position: absolute;
-}
-.x.axis {
-  fill: rgba(0,0,0,.5);
-}
-.x.axis path {
-  display: block;
-  fill: none;
-  stroke: rgba(0,0,0,.2);
-  stroke-width: 1px;
-}
-</style>
 <body>
-<div id="navigation">
+<div id="navigation" style="position: absolute">
 <p id="button"><a href="https://www.nbahistory.org">Teams</a> <span>Championships</span></p>
 </div>
 <div id="container">
@@ -210,28 +196,23 @@ var margin = {top:40,right:80,bottom:30,left:180},
     width = 1280 - margin.left - margin.right,
     height = 720 - margin.top - margin.bottom,
     buffer = height + 5;
-
 var x = d3.scale
     .linear()
     .domain([0,20])
     .range([0,width]);
-
 var y = d3.scale
     .linear()
     .domain([0,15])
     .range([height,0]);
-
 var xAxis = d3.svg.axis()
     .scale(x)
     .orient("bottom");
-
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
     .attr("id","center")
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
 svg.append("g")
     .attr("class", "x axis")
     .attr("transform", "translate(20," + buffer + ")")
@@ -241,19 +222,17 @@ svg.append("g")
     .attr("x", width/2)
     .attr("y", -245)
     .style("text-anchor", "middle")
+    .style("fill", "rgba(0, 0, 0, 0.5)")
     .text("1946");
-
 svg.append("image")
     .attr("xlink:href", "trophy.png")
     .attr("width", "40")
     .attr("height", "40")
     .attr("x", width + 45)
     .attr("y", height - 15);
-
 d3.select("#slider").on("input", function() {
     update(+this.value);
 });
-
 function update(slider) {
     d3.select("#year").text(slider);
     d3.csv("championships/" + slider + ".csv", function(error, data) {

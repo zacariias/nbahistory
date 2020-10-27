@@ -4,26 +4,64 @@ body {
   font-size: 13px;
   font-family: system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 300;
-  letter-spacing: 0.5px;
 }
-.axis path, .axis line {
-  stroke: #000;
+
+svg {
+  stroke: rgba(0, 0, 0, .2);
+  fill: rgba(0, 0, 0, .2);
 }
-.x.axis path, .x.axis line, .y.axis path {
-  display: none;
-}
-.tick line {
-  stroke-width: 2;
-  opacity: 0.1;
-}
+
 .label {
-  font-size: 11px;
-  letter-spacing: 0;
+  font-size: 10px;
+  fill: rgba(0, 0, 0, .5);
 }
+
+.tooltip {
+  background-color: #fff;
+  border-radius: 5px;
+  border: 1px solid rgba(0, 0, 0, .1);
+  color: rgba(0, 0, 0, .8);
+  padding: 10px;
+}
+
+.tooltip span {
+  font-weight: bold;
+}
+
+.tooltip table {
+  font-size: 13px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.tooltip th {
+  font-weight: normal;
+  text-align: left;
+  opacity: 0.5;
+  padding: 0 10px;
+}
+
+.tooltip td {
+  margin: 0;
+  padding: 0 10px;
+}
+
+.tooltip td.logo {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.tooltip td.logo img {
+  max-width: 80px;
+  max-height: 80px;
+}
+
 p#logos {
   margin-left: 180px;
   width: 1020px;
 }
+
 p#logos img {
   cursor: pointer;
   display: block;
@@ -31,6 +69,7 @@ p#logos img {
   margin: 0 4px 10px 4px;
   padding: 0;
 }
+
 div#container {
   text-align: center;
   width: 1020px;
@@ -38,6 +77,7 @@ div#container {
   margin-left: 180px;
   position: absolute;
 }
+
 input#slider {
   -webkit-appearance: none;
   width: 800px;
@@ -50,9 +90,11 @@ input#slider {
   transition: opacity 0.2s, box-shadow 0.2s;
   box-shadow: inset 0 2px 2px 0 rgba(0,0,0,0.1)
 }
+
 input#slider:hover {
   opacity: 1;
- }
+}
+
 input#slider::-webkit-slider-thumb {
   -webkit-appearance: none;
   appearance: none;
@@ -63,6 +105,7 @@ input#slider::-webkit-slider-thumb {
   border-radius: 20px;
   cursor: grab;
 }
+
 input#slider::-moz-range-thumb, input#slider::-moz-range-thumb:active {
   width: 50px;
   height: 25px;
@@ -71,6 +114,7 @@ input#slider::-moz-range-thumb, input#slider::-moz-range-thumb:active {
   border-radius: 20px;
   cursor: grab;
 }
+
 h1#team {
   clear: both;
   width: 1020px;
@@ -79,13 +123,15 @@ h1#team {
   font-weight: 100;
   letter-spacing: 3px;
   text-align: center;
-  padding: 20px 0 10px 0;
+  padding-top: 20px;
 }
+
 div#navigation {
   margin: 40px 0 40px 180px;
   width: 1020px;
   text-align: center;
 }
+
 p#button {
   font-weight: 400;
   font-size: 16px;
@@ -95,11 +141,13 @@ p#button {
   display: inline;
   margin: 0;
 }
+
 div#navigation a {
   text-decoration: none;
   color: rgba(0,0,0,.5);
   padding: 15px;
 }
+
 div#navigation span {
   background-color: #fff;
   color: rgba(0,0,0,.5);
@@ -107,34 +155,29 @@ div#navigation span {
   padding: 8px 15px;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1), 0 0 0 1px rgba(0,0,0,0.05);
 }
+
 #year {
   font-weight: 200;
   font-size: 200px;
   opacity: .5;
   shape-rendering: crispEdges;
 }
+
 p#credit {
   color: rgba(0,0,0,.4);
   text-align: center;
   width: 1020px;
   margin: 30px 0 40px 180px;
   font-weight: 400;
+  letter-spacing: 0.5px;
   clear: both;
 }
+
 p#credit span {
   padding: 0 10px;
 }
+
 p#credit a {
   color: rgba(0,0,0,.4);
   text-decoration: underline;
-}
-.d3-tip {
-  padding: 10px;
-  background: #000;
-  border-radius: 5px;
-  color: #fff;
-  text-align: left;
-}
-.d3-tip span {
-  font-weight: bold;
 }
