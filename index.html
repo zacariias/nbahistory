@@ -317,7 +317,7 @@ var tip3 = d3.tip()
     .attr('class', 'tooltip')
     .offset([-20, 0])
     .html(function(d) {
-        if (d.opponent4){return d.opponent4 + "<br>" + d.opponent3 + "<br>" + d.opponent1 + "<br>" + d.opponent1}
+        if (d.opponent4){return d.opponent4 + "<br>" + d.opponent3 + "<br>" + d.opponent2 + "<br>" + d.opponent1}
         else if (d.opponent3){return d.opponent3 + "<br>" + d.opponent2 + "<br>" + d.opponent1}
         else if (d.opponent2){return d.opponent2 + "<br>" + d.opponent1}
         else {return d.opponent1}}
