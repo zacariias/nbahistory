@@ -159,6 +159,7 @@ div#navigation span {
 #year {
   font-weight: 200;
   font-size: 200px;
+  font-family: "Courier New";
   opacity: .5;
   shape-rendering: crispEdges;
 }
