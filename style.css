@@ -157,9 +157,9 @@ div#navigation span {
 }
 
 #year {
-  font-weight: 200;
+  font-weight: 100;
   font-size: 200px;
-  font-family: 'B612 Mono', monospace;
+  font-family: 'Roboto Mono', monospace;
   opacity: .5;
   shape-rendering: crispEdges;
 }
