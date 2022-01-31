@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
     <title>DET</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="DET" fill-rule="nonzero">
             <path d="M59.9514908,29.9757486 C59.9514885,46.5308945 46.5308896,59.9514903 29.9757437,59.9514887 C13.4205977,59.9514872 1.33481068e-06,46.5308889 2.11267639e-06,29.975743 C2.8905421e-06,13.420597 13.4206006,1.64904603e-13 29.9757465,1.20315101e-16 C37.926264,-0.00148477964 45.5515752,3.15618871 51.1734398,8.77805405 C56.7953043,14.3999194 59.9529767,22.0252311 59.9514908,29.9757486" id="Shape" fill="#B5B3B3"></path>

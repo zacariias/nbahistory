@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
-    <title>Slice</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <title>BOS</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="BOS" transform="translate(3.000000, 0.000000)">
             <path d="M16.7286245,57.2252788 C17.2371747,57.8141264 18.2275093,58.6973978 18.9501859,59.0185874 C19.5206432,59.3064873 20.1609139,59.427118 20.797026,59.3665428 C21.332342,59.3130112 21.2252788,59.5271375 20.797026,59.6074349 C20.395539,59.6609665 19.4319703,59.6609665 18.8163569,59.339777 C18.2007435,58.9918216 17.1836431,58.3762082 16.5680297,57.466171 C16.4342007,57.2520446 16.5680297,57.0379182 16.7286245,57.2252788 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
