@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
-    <title>Slice</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <title>PHO</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="PHO" fill-rule="nonzero">
             <path d="M58.6583227,0.390909091 C58.5611883,0.28303397 58.4216103,0.223214829 58.2765045,0.227272727 L21.43105,0.227272727 C17.0401409,0.227272727 14.3401409,2.13636364 13.4128682,5.84545455 L0.0219568182,59.2454545 C-0.0206148984,59.3956957 0.00966796408,59.5572043 0.103775,59.6818182 C0.193896383,59.8020146 0.335363207,59.872748 0.485593182,59.8727273 L40.6310477,59.8727273 C42.9219568,59.8727273 45.2128659,58.0181818 45.7310477,55.7818182 L58.7401386,0.827272727 C58.7827081,0.677031796 58.7524263,0.515524538 58.6583227,0.390909091 L58.6583227,0.390909091 Z" id="Shape" fill="#63727A"></path>
