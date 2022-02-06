@@ -1,10 +1,10 @@
-team,championships,stack,logo
-GSW,2,1,./teams/GSW/logos/1952-1962.png
-NYK,0,1,./teams/NYK/logos/1946-1964.png
-BOS,5,2,./teams/BOS/logos/1961-1968.png
-LAL,5,1,./teams/LAL/logos/1961-1976.png
-SAC,1,1,./teams/SAC/logos/1958-1971.png
-DET,0,2,./teams/DET/logos/1958-1971.png
-ATL,1,3,./teams/ATL/logos/1958-1968.png
-PHI,1,2,./teams/PHI/logos/1950-1963.png
-WAS,0,3,./teams/WAS/logos/1962.png
+team,championships,years,stack,logo
+Philadelphia Warriors,2,1947 1956,1,./teams/GSW/logos/1952-1962.png
+New York Knicks,0,None,1,./teams/NYK/logos/1946-1964.png
+Boston Celtics,5,1957 1959 1960 1961 1962,2,./teams/BOS/logos/1961-1968.png
+Los Angeles Lakers,5,None<p>Minneapolis Lakers</p>1949 1950 1952 1953 1954,1,./teams/LAL/logos/1961-1976.png
+Cincinnati Royals,1,None<p>Rochester Royals</p>1951,1,./teams/SAC/logos/1958-1971.png
+Detroit Pistons,0,None,2,./teams/DET/logos/1958-1971.png
+St. Louis Hawks,1,1958,3,./teams/ATL/logos/1958-1968.png
+Syracuse Nationals,1,1955,2,./teams/PHI/logos/1950-1963.png
+Chicago Packers,0,None,3,./teams/WAS/logos/1962.png

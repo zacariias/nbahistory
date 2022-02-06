@@ -16,7 +16,7 @@ svg {
   fill: rgba(0, 0, 0, .5);
 }
 
-.tooltip {
+.tooltip, .tooltip2 {
   background-color: #fff;
   border-radius: 5px;
   border: 1px solid rgba(0, 0, 0, .1);
@@ -57,6 +57,15 @@ svg {
   max-height: 80px;
 }
 
+.tooltip2 {
+  padding-top: 0;
+  max-width: 200px;
+}
+
+.tooltip2 p {
+  margin: 10px 0;
+  font-weight: bold;
+}
 p#logos {
   margin-left: 180px;
   width: 1020px;

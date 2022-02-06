@@ -1,30 +1,30 @@
-team,championships,stack,logo
-GSW,3,1,./teams/GSW/logos/1998-2010.png
-NYK,2,1,./teams/NYK/logos/1996-2011.png
-BOS,16,1,./teams/BOS/logos/1997-present.png
-LAL,11,1,./teams/LAL/logos/1977-2001.png
-SAC,1,1,./teams/SAC/logos/1995-2016.png
-DET,2,2,./teams/DET/logos/1997-2001.png
-ATL,1,2,./teams/ATL/logos/1996-2007.png
-PHI,3,2,./teams/PHI/logos/1998-2009.png
-WAS,1,5,./teams/WAS/logos/1998-2007.png
-CHI,6,1,./teams/CHI/logos/1967-present.png
-OKC,1,6,./teams/OKC/logos/1996-2001.png
-HOU,2,3,./teams/HOU/logos/1996-2003.png
-PHO,0,1,./teams/PHO/logos/1993-2000.png
-MIL,1,3,./teams/MIL/logos/1994-2006.png
-POR,1,4,./teams/POR/logos/1991-2002.png
-CLE,0,3,./teams/CLE/logos/1995-2003.png
-LAC,0,2,./teams/LAC/logos/1985-2010.png
-UTA,0,4,./teams/UTA/logos/1997-2004.png
-BKN,0,5,./teams/BKN/logos/1998-2012.png
-IND,0,6,./teams/IND/logos/1991-2005.png
-DEN,0,7,./teams/DEN/logos/1994-2003.png
-SAS,1,7,./teams/SAS/logos/1990-2002.png
-DAL,0,8,./teams/DAL/logos/1994-2001.png
-CHA,0,9,./teams/CHA/logos/1989-2002.png
-MIA,0,10,./teams/MIA/logos/1989-1999.png
-ORL,0,11,./teams/ORL/logos/1990-2000.png
-MIN,0,12,./teams/MIN/logos/1997-2008.png
-MEM,0,13,./teams/MEM/logos/1996-2001.png
-TOR,0,14,./teams/TOR/logos/1996-2008.png
+team,championships,years,stack,logo
+Golden State Warriors,3,1975<p>Philadelphia Warriors</p>1947 1956,1,./teams/GSW/logos/1998-2010.png
+New York Knicks,2,1970 1973,1,./teams/NYK/logos/1996-2011.png
+Boston Celtics,16,1957 1959 1960 1961 1962 1963 1964 1965 1966 1968 1969 1974 1976 1981 1984 1986,1,./teams/BOS/logos/1997-present.png
+Los Angeles Lakers,11,1972 1980 1982 1985 1987 1988<p>Minneapolis Lakers</p>1949 1950 1952 1953 1954,1,./teams/LAL/logos/1977-2001.png
+Sacramento Kings,1,None<p>Rochester Royals</p>1951,1,./teams/SAC/logos/1995-2016.png
+Detroit Pistons,2,1989 1990,2,./teams/DET/logos/1997-2001.png
+Atlanta Hawks,1,1958,2,./teams/ATL/logos/1996-2007.png
+Philadelphia 76ers,3,1967 1983<p>Syracuse Nationals</p>1955,2,./teams/PHI/logos/1998-2009.png
+Washington Wizards,1,None<p>Washington Bullets</p>1978,5,./teams/WAS/logos/1998-2007.png
+Chicago Bulls,6,1991 1992 1993 1996 1997 1998,1,./teams/CHI/logos/1967-present.png
+Seattle SuperSonics,1,1979,6,./teams/OKC/logos/1996-2001.png
+Houston Rockets,2,1994 1995,3,./teams/HOU/logos/1996-2003.png
+Phoenix Suns,0,None,1,./teams/PHO/logos/1993-2000.png
+Milwaukee Bucks,1,1971,3,./teams/MIL/logos/1994-2006.png
+Portland Trail Blazers,1,1977,4,./teams/POR/logos/1991-2002.png
+Cleveland Cavaliers,0,None,3,./teams/CLE/logos/1995-2003.png
+Los Angeles Clippers,0,None,2,./teams/LAC/logos/1985-2010.png
+Utah Jazz,0,None,4,./teams/UTA/logos/1997-2004.png
+New Jersey Nets,0,None,5,./teams/BKN/logos/1998-2012.png
+Indiana Pacers,0,None,6,./teams/IND/logos/1991-2005.png
+Denver Nuggets,0,None,7,./teams/DEN/logos/1994-2003.png
+San Antonio Spurs,1,1999,7,./teams/SAS/logos/1990-2002.png
+Dallas Mavericks,0,None,8,./teams/DAL/logos/1994-2001.png
+Charlotte Hornets,0,None,9,./teams/CHA/logos/1989-2002.png
+Miami Heat,0,None,10,./teams/MIA/logos/1989-1999.png
+Orlando Magic,0,None,11,./teams/ORL/logos/1990-2000.png
+Minnesota Timberwolves,0,None,12,./teams/MIN/logos/1997-2008.png
+Vancouver Grizzlies,0,None,13,./teams/MEM/logos/1996-2001.png
+Toronto Raptors,0,None,14,./teams/TOR/logos/1996-2008.png

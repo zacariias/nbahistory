@@ -187,6 +187,7 @@
 <link rel="preload" href="teams/WAS/logos/2012-2015.png" as="image">
 <link rel="preload" href="teams/WAS/logos/2015-present.png" as="image">
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 <body>
 <div id="navigation" style="position: absolute">
 <p id="button"><a href="https://www.nbahistory.org">Teams</a> <span>Championships</span></p>
@@ -216,6 +217,10 @@ var svg = d3.select("body").append("svg")
     .attr("id","center")
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+var tip = d3.tip()
+    .attr('class', 'tooltip2')
+    .offset([-20, 0])
+    .html(function(d) {return "<p>" + d.team + "</p>" + d.years });
 svg.append("g")
     .attr("class", "x axis")
     .attr("transform", "translate(20," + buffer + ")")
@@ -233,6 +238,7 @@ svg.append("image")
     .attr("height", "40")
     .attr("x", width + 45)
     .attr("y", height - 15);
+svg.call(tip);
 d3.select("#slider").on("input", function() {
     update(+this.value);
 });
@@ -249,7 +255,10 @@ function update(slider) {
             .attr("y", function(d) { return y(d.stack); })
             .attr("width", "40")
             .attr("height", "40")
-            .attr("class", "logo");
+            .attr("class", "logo")
+            .on('mouseover', function(d) {tip.show(d);
+            d3.select(this).style("opacity", "0.5");})
+            .on('mouseout', function(d) {tip.hide(d); d3.select(this).style("opacity", "1");});
     });
 };
 </script>

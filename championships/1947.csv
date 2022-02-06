@@ -1,4 +1,4 @@
-team,championships,stack,logo
-GSW,1,1,./teams/GSW/logos/1946-1951.png
-NYK,0,2,./teams/NYK/logos/1946-1964.png
-BOS,0,1,./teams/BOS/logos/1946-1950.png
+team,championships,years,stack,logo
+Philadelphia Warriors,1,1947,1,./teams/GSW/logos/1946-1951.png
+New York Knicks,0,None,2,./teams/NYK/logos/1946-1964.png
+Boston Celtics,0,None,1,./teams/BOS/logos/1946-1950.png
