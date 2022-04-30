@@ -54,4 +54,4 @@ season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,logo,op
 2018-19,Chicago Bulls,United Center,22,0.268,0,F. Hoiberg/J. Boylen,R. Arcidiacono (3.7),#CE1141,#000000,-8.32,teams/CHI/logos/1967-present.png,,,,
 2019-20,Chicago Bulls,United Center,22,0.338,0,J. Boylen,Z. LaVine (4.0),#CE1141,#000000,-4,teams/CHI/logos/1967-present.png,,,,
 2020-21,Chicago Bulls,United Center,31,0.431,0,B. Donovan,Z. LaVine (5.9),#CE1141,#000000,-0.94,teams/CHI/logos/1967-present.png,,,,
-2021-22,Chicago Bulls,United Center,46,0.561,0.2,B. Donovan,D. DeRozan (8.8),#CE1141,#000000,-0.38,teams/CHI/logos/1967-present.png,Lost First Round versus Milwaukee Bucks (1-4),,,
+2021-22,Chicago Bulls,United Center,46,0.561,0.2,B. Donovan,D. DeRozan (8.8),#CE1141,#000000,-0.38,teams/CHI/logos/1967-present.png,Lost First Round versus <span>Milwaukee Bucks (1-4)</span>,,,
