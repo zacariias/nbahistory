@@ -31,4 +31,4 @@ season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,logo,op
 2018-19,Minnesota Timberwolves,Target Center,36,0.439,0,T. Thibodeau/R. Saunders,K. Towns (10.4),#0C2340,#78BE20,-1.02,teams/MIN/logos/2018-present.png,,,,
 2019-20,Minnesota Timberwolves,Target Center,19,0.297,0,R. Saunders,K. Towns (5.1),#0C2340,#78BE20,-4.02,teams/MIN/logos/2018-present.png,,,,
 2020-21,Minnesota Timberwolves,Target Center,23,0.319,0,R. Saunders/C. Finch,K. Towns (5.4),#0C2340,#78BE20,-5.25,teams/MIN/logos/2018-present.png,,,,
-2021-22,Minnesota Timberwolves,Target Center,46,0.561,,C. Finch,K. Towns (10.3),#0C2340,#78BE20,2.53,teams/MIN/logos/2018-present.png,,,,
+2021-22,Minnesota Timberwolves,Target Center,46,0.561,0.2,C. Finch,K. Towns (10.3),#0C2340,#78BE20,2.53,teams/MIN/logos/2018-present.png,Lost First Round versus <span>Memphis Grizzlies (2-4)</span>,,,
