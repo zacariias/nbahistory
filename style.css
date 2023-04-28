@@ -80,6 +80,10 @@ p#logos img {
   padding: 0;
 }
 
+p#logos img:hover {
+  opacity: 0.5;
+}
+
 div#container {
   text-align: center;
   width: 1020px;
