@@ -177,21 +177,3 @@ div#navigation span {
   opacity: .5;
   shape-rendering: crispEdges;
 }
-
-p#credit {
-  color: rgba(0,0,0,.4);
-  text-align: center;
-  width: 1020px;
-  margin: 30px 0 40px 180px;
-  font-weight: 400;
-  clear: both;
-}
-
-p#credit span {
-  padding: 0 10px;
-}
-
-p#credit a {
-  color: rgba(0,0,0,.4);
-  text-decoration: underline;
-}
