@@ -66,6 +66,7 @@ svg {
   margin: 10px 0;
   font-weight: bold;
 }
+
 p#logos {
   margin-left: 180px;
   width: 1020px;
@@ -85,6 +86,10 @@ div#container {
   top: 90px;
   margin-left: 180px;
   position: absolute;
+}
+
+div#container2 {
+  width: 1200px;
 }
 
 input#slider {
