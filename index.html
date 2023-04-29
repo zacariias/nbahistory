@@ -229,7 +229,7 @@
 <img src="teams/UTA/logo.svg" alt="UTA" onclick="showUTA();document.getElementById('team').innerHTML='Utah Jazz'" title="Utah Jazz">
 </p>
 <h1 id="team">Choose a team</h1>
-<div id="container2">
+<div id="container">
 <svg class="regularseason"></svg>
 <svg class="srs"></svg>
 <svg class="playoffs"></svg>
@@ -237,14 +237,14 @@
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script src="https://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 <script>
-var margin1 = {top:10,right:20,bottom:80,left:180},
-    width1 = 1220 - margin1.left - margin1.right
+var margin1 = {top:10,right:0,bottom:80,left:180},
+    width1 = 1200 - margin1.left - margin1.right
     height1 = 385 - margin1.top - margin1.bottom;
-var margin2 = {top:10,right:20,bottom:80,left:180},
-    width2 = 1220 - margin2.left - margin2.right
+var margin2 = {top:10,right:0,bottom:80,left:180},
+    width2 = 1200 - margin2.left - margin2.right
     height2 = 240 - margin2.top - margin2.bottom;
-var margin3 = {top:10,right:20,bottom:10,left:180},
-    width3 = 1220 - margin3.left - margin3.right
+var margin3 = {top:10,right:0,bottom:10,left:180},
+    width3 = 1200 - margin3.left - margin3.right
     height3 = 170 - margin3.top - margin3.bottom;
 var x = d3.scale
     .ordinal()

@@ -190,15 +190,14 @@
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script src="https://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 <body>
-<div id="navigation" style="position: absolute">
+<div id="navigation">
 <p id="button"><a href="https://www.nbahistory.org">Teams</a> <span>Championships</span></p>
 </div>
-<div id="container">
 <input id="slider" type="range" min="1946" max="2022" step="1" value="1946">
-</div>
+<svg class="championships"></svg>
 <script>
-var margin = {top:40,right:80,bottom:30,left:180},
-    width = 1280 - margin.left - margin.right,
+var margin = {top:40,right:80,bottom:30,left:0},
+    width = 1200 - margin.left - margin.right,
     height = 720 - margin.top - margin.bottom,
     buffer = height + 5;
 var x = d3.scale
@@ -212,7 +211,7 @@ var y = d3.scale
 var xAxis = d3.svg.axis()
     .scale(x)
     .orient("bottom");
-var svg = d3.select("body").append("svg")
+var svg = d3.select(".championships")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
     .attr("id","center")
