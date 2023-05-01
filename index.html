@@ -314,7 +314,7 @@ var tip = d3.tip()
         "<tr><th>Team</th><td>" + d.team + "</td></tr>" +
         "<tr><th>Arena</th><td>" + d.arena + "</td></tr>" +
         "<tr><th>Coach</th><td>" + d.coach + "</td></tr>" +
-        "<tr><th>Top win share</th><td>" + d.topWS + "</td></tr></table>" ;}
+        "<tr><th>Win share leader</th><td>" + d.topWS + "</td></tr></table>" ;}
     );
 var tip2 = d3.tip()
     .attr('class', 'tooltip')
@@ -403,6 +403,7 @@ playoffs.append("g")
     .call(y3Axis);
 regularseason.append("g")
     .attr("class","x axis")
+    .attr("style","font-family: 'courier new'")
     .attr("transform","translate(0," + height1 + ")")
     .call(xAxis)
     .selectAll("text")

@@ -46,6 +46,7 @@ svg {
 .tooltip td {
   margin: 0;
   padding: 0 10px;
+  text-align: left;
 }
 
 .tooltip td.logo {
