@@ -462,6 +462,7 @@ regularseason.selectAll(".invisible")
     .on('mouseout', function(d) {tip.hide(d); d3.select(this).style("opacity", "0");});
 srs.append("g")
     .attr("class","x axis")
+    .attr("style","font-family: 'courier new'")
     .attr("transform","translate(0," + height2 + ")")
     .call(xAxis)
     .selectAll("text")
