@@ -39,7 +39,6 @@ svg {
 
 .tooltip th {
   font-weight: normal;
-  text-align: left;
   opacity: 0.5;
   padding: 0 10px;
 }
@@ -47,7 +46,6 @@ svg {
 .tooltip td {
   margin: 0;
   padding: 0 10px;
-  text-align: left;
 }
 
 .tooltip td.logo {
@@ -63,7 +61,6 @@ svg {
 .tooltip2 {
   padding-top: 0;
   max-width: 200px;
-  text-align: left;
 }
 
 .tooltip2 p {
