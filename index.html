@@ -268,7 +268,6 @@ var formatDecimal = d3.format(".3f");
 var y1Axis = d3.svg.axis()
     .scale(y1)
     .orient("left")
-    .attr("style","font-family: 'courier new'")
     .innerTickSize(-width1)
     .tickPadding(10)
     .tickFormat(formatDecimal);
@@ -276,7 +275,6 @@ var formatDecimal = d3.format(".0f");
 var y2Axis = d3.svg.axis()
     .scale(y2)
     .orient("left")
-    .attr("style","font-family: 'courier new'")
     .innerTickSize(-width2)
     .tickPadding(10)
     .tickFormat(formatDecimal);
