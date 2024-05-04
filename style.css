@@ -172,9 +172,9 @@ div#navigation span {
 }
 
 #year {
-  font-weight: 100;
   font-size: 200px;
-  font-family: 'Roboto Mono', monospace;
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 400;
   opacity: .5;
   shape-rendering: crispEdges;
 }
