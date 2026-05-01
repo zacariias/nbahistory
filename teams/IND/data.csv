@@ -42,9 +42,10 @@ season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,logo,op
 2016-17,Indiana Pacers,Bankers Life Fieldhouse,42,0.512,0.2,N. McMillan,J. Teague (8.1),#002D62,#FDBB30,-0.64,teams/IND/logos/2005.png,Lost First Round versus <span>Cleveland Cavaliers (0-4)</span>,,,
 2017-18,Indiana Pacers,Bankers Life Fieldhouse,48,0.585,0.2,N. McMillan,V. Oladipo (8.3),#002D62,#FDBB30,1.18,teams/IND/logos/2017.png,Lost First Round versus <span>Cleveland Cavaliers (3-4)</span>,,,
 2018-19,Indiana Pacers,Bankers Life Fieldhouse,48,0.585,0.2,N. McMillan,D. Sabonis (7.6),#002D62,#FDBB30,2.76,teams/IND/logos/2017.png,Lost First Round versus <span>Boston Celtics (0-4)</span>,,,
-2019-20,Indiana Pacers,Bankers Life Fieldhouse,45,0.616,0.2,N. McMillan,D. Sabonis (75),#002D62,#FDBB30,1.63,teams/IND/logos/2017.png,Lost First Round versus <span>Miami Heat (0-4)</span>,,,
-2020-21,Indiana Pacers,Bankers Life Fieldhouse,34,0.472,0,N. Bjorkgren,D. Sabonis (6.9),#002D62,#FDBB30,0.472,teams/IND/logos/2017.png,,,,
+2019-20,Indiana Pacers,Bankers Life Fieldhouse,45,0.616,0.2,N. McMillan,D. Sabonis (7.5),#002D62,#FDBB30,1.63,teams/IND/logos/2017.png,Lost First Round versus <span>Miami Heat (0-4)</span>,,,
+2020-21,Indiana Pacers,Bankers Life Fieldhouse,34,0.472,0,N. Bjorkgren,D. Sabonis (6.9),#002D62,#FDBB30,-0.13,teams/IND/logos/2017.png,,,,
 2021-22,Indiana Pacers,Gainbridge Fieldhouse,25,0.305,0,R. Carlisle,D. Sabonis (5.7),#002D62,#FDBB30,-3.26,teams/IND/logos/2017.png,,,,
 2022-23,Indiana Pacers,Gainbridge Fieldhouse,35,0.427,0,R. Carlisle,T. Haliburton (7.6),#002D62,#FDBB30,-2.91,teams/IND/logos/2017.png,,,,
 2023-24,Indiana Pacers,Gainbridge Fieldhouse,47,0.573,0.6,R. Carlisle,T. Haliburton (9.0),#002D62,#FDBB30,2.75,teams/IND/logos/2017.png,Won First Round versus <span>Milwaukee Bucks (4-2)</span>,Won Conference Semifinals versus <span>New York Knicks (4-3)</span>,Lost Conference Finals versus <span>Boston Celtics (0-4)</span>,
 2024-25,Indiana Pacers,Gainbridge Fieldhouse,50,0.61,0.8,R. Carlisle,T. Haliburton (10.4),#002D62,#FDBB30,1.68,teams/IND/logos/2017.png,Won First Round versus <span>Milwaukee Bucks (4-1)</span>,Won Conference Semifinals versus <span>Cleveland Cavaliers (4-1)</span>,Won Conference Finals versus <span>New York Knicks (4-2)</span>,Lost Finals versus <span>Oklahoma City Thunder (3-4)</span>
+2025-26,Indiana Pacers,Gainbridge Fieldhouse,19,0.232,0,R. Carlisle,J. Huff (3.2),#002D62,#FDBB30,-7.64,teams/IND/logos/2017.png,,,,
