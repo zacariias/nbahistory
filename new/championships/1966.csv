@@ -1,0 +1,10 @@
+team,championships,years,stack,logo
+San Francisco Warriors,2,None<p>Philadelphia Warriors</p>1947 1956,1,./teams/GSW/logos/1962.png
+New York Knicks,0,None,1,./teams/NYK/logos/1964.png
+Boston Celtics,9,1957 1959 1960 1961 1962 1963 1964 1965 1966,1,./teams/BOS/logos/1964.png
+Los Angeles Lakers,5,None<p>Minneapolis Lakers</p>1949 1950 1952 1953 1954,1,./teams/LAL/logos/1965.png
+Cincinnati Royals,1,None<p>Rochester Royals</p>1951,1,./teams/SAC/logos/1957.png
+Detroit Pistons,0,None,2,./teams/DET/logos/1957.png
+St. Louis Hawks,1,1958,3,./teams/ATL/logos/1957.png
+Philadelphia 76ers,1,None<p>Syracuse Nationals</p>1955,2,./teams/PHI/logos/1963.png
+Baltimore Bullets,0,None,3,./teams/WAS/logos/1963.png

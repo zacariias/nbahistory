@@ -1,0 +1,292 @@
+<!DOCTYPE HTML>
+<html>
+<title>NBA History</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="nbahistory.org">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.nbahistory.org">
+<meta property="og:description" content="Visualizations of the history of the National Basketball Association">
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+<link rel="preload" href="trophy.png" as="image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300&display=swap" rel="stylesheet">
+<link rel="preload" href="teams/ATL/logos/1949.png" as="image">
+<link rel="preload" href="teams/ATL/logos/1951.png" as="image">
+<link rel="preload" href="teams/ATL/logos/1954.png" as="image">
+<link rel="preload" href="teams/ATL/logos/1955.png" as="image">
+<link rel="preload" href="teams/ATL/logos/1957.png" as="image">
+<link rel="preload" href="teams/ATL/logos/1968.png" as="image">
+<link rel="preload" href="teams/ATL/logos/1969.png" as="image">
+<link rel="preload" href="teams/ATL/logos/1970.png" as="image">
+<link rel="preload" href="teams/ATL/logos/1972.png" as="image">
+<link rel="preload" href="teams/ATL/logos/1995.png" as="image">
+<link rel="preload" href="teams/ATL/logos/2007.png" as="image">
+<link rel="preload" href="teams/ATL/logos/2015.png" as="image">
+<link rel="preload" href="teams/ATL/logos/2020.png" as="image">
+<link rel="preload" href="teams/BAL/logos/1947.png" as="image">
+<link rel="preload" href="teams/BOS/logos/1946.png" as="image">
+<link rel="preload" href="teams/BOS/logos/1950.png" as="image">
+<link rel="preload" href="teams/BOS/logos/1964.png" as="image">
+<link rel="preload" href="teams/BOS/logos/1966.png" as="image">
+<link rel="preload" href="teams/BOS/logos/1969.png" as="image">
+<link rel="preload" href="teams/BOS/logos/1996.png" as="image">
+<link rel="preload" href="teams/BRK/logos/1976.png" as="image">
+<link rel="preload" href="teams/BRK/logos/1977.png" as="image">
+<link rel="preload" href="teams/BRK/logos/1978.png" as="image">
+<link rel="preload" href="teams/BRK/logos/1990.png" as="image">
+<link rel="preload" href="teams/BRK/logos/1997.png" as="image">
+<link rel="preload" href="teams/BRK/logos/2012.png" as="image">
+<link rel="preload" href="teams/BRK/logos/2024.png" as="image">
+<link rel="preload" href="teams/CHA/logos/1988.png" as="image">
+<link rel="preload" href="teams/CHA/logos/2004.png" as="image">
+<link rel="preload" href="teams/CHA/logos/2007.png" as="image">
+<link rel="preload" href="teams/CHA/logos/2012.png" as="image">
+<link rel="preload" href="teams/CHA/logos/2014.png" as="image">
+<link rel="preload" href="teams/CHI/logos/1966.png" as="image">
+<link rel="preload" href="teams/CLE/logos/1970.png" as="image">
+<link rel="preload" href="teams/CLE/logos/1983.png" as="image">
+<link rel="preload" href="teams/CLE/logos/1994.png" as="image">
+<link rel="preload" href="teams/CLE/logos/2003.png" as="image">
+<link rel="preload" href="teams/CLE/logos/2010.png" as="image">
+<link rel="preload" href="teams/CLE/logos/2017.png" as="image">
+<link rel="preload" href="teams/DAL/logos/1980.png" as="image">
+<link rel="preload" href="teams/DAL/logos/1993.png" as="image">
+<link rel="preload" href="teams/DAL/logos/2001.png" as="image">
+<link rel="preload" href="teams/DAL/logos/2017.png" as="image">
+<link rel="preload" href="teams/DEN/logos/1976.png" as="image">
+<link rel="preload" href="teams/DEN/logos/1981.png" as="image">
+<link rel="preload" href="teams/DEN/logos/1993.png" as="image">
+<link rel="preload" href="teams/DEN/logos/2003.png" as="image">
+<link rel="preload" href="teams/DEN/logos/2008.png" as="image">
+<link rel="preload" href="teams/DEN/logos/2018.png" as="image">
+<link rel="preload" href="teams/DET/logos/1948.png" as="image">
+<link rel="preload" href="teams/DET/logos/1957.png" as="image">
+<link rel="preload" href="teams/DET/logos/1968.png" as="image">
+<link rel="preload" href="teams/DET/logos/1975.png" as="image">
+<link rel="preload" href="teams/DET/logos/1978.png" as="image">
+<link rel="preload" href="teams/DET/logos/1996.png" as="image">
+<link rel="preload" href="teams/DET/logos/2001.png" as="image">
+<link rel="preload" href="teams/DET/logos/2005.png" as="image">
+<link rel="preload" href="teams/DET/logos/2017.png" as="image">
+<link rel="preload" href="teams/GSW/logos/1946.png" as="image">
+<link rel="preload" href="teams/GSW/logos/1951.png" as="image">
+<link rel="preload" href="teams/GSW/logos/1962.png" as="image">
+<link rel="preload" href="teams/GSW/logos/1969.png" as="image">
+<link rel="preload" href="teams/GSW/logos/1971.png" as="image">
+<link rel="preload" href="teams/GSW/logos/1975.png" as="image">
+<link rel="preload" href="teams/GSW/logos/1988.png" as="image">
+<link rel="preload" href="teams/GSW/logos/1997.png" as="image">
+<link rel="preload" href="teams/GSW/logos/2010.png" as="image">
+<link rel="preload" href="teams/GSW/logos/2019.png" as="image">
+<link rel="preload" href="teams/HOU/logos/1967.png" as="image">
+<link rel="preload" href="teams/HOU/logos/1971.png" as="image">
+<link rel="preload" href="teams/HOU/logos/197.png" as="image">
+<link rel="preload" href="teams/HOU/logos/1995.png" as="image">
+<link rel="preload" href="teams/HOU/logos/2003.png" as="image">
+<link rel="preload" href="teams/HOU/logos/2019.png" as="image">
+<link rel="preload" href="teams/IND/logos/1976.png" as="image">
+<link rel="preload" href="teams/IND/logos/1990.png" as="image">
+<link rel="preload" href="teams/IND/logos/2005.png" as="image">
+<link rel="preload" href="teams/IND/logos/2017.png" as="image">
+<link rel="preload" href="teams/LAC/logos/1970.png" as="image">
+<link rel="preload" href="teams/LAC/logos/1971.png" as="image">
+<link rel="preload" href="teams/LAC/logos/1978.png" as="image">
+<link rel="preload" href="teams/LAC/logos/1982.png" as="image">
+<link rel="preload" href="teams/LAC/logos/1984.png" as="image">
+<link rel="preload" href="teams/LAC/logos/2010.png" as="image">
+<link rel="preload" href="teams/LAC/logos/2015.png" as="image">
+<link rel="preload" href="teams/LAC/logos/2018.png" as="image">
+<link rel="preload" href="teams/LAC/logos/2024.png" as="image">
+<link rel="preload" href="teams/LAL/logos/1948.png" as="image">
+<link rel="preload" href="teams/LAL/logos/1960.png" as="image">
+<link rel="preload" href="teams/LAL/logos/1965.png" as="image">
+<link rel="preload" href="teams/LAL/logos/1971.png" as="image">
+<link rel="preload" href="teams/LAL/logos/1975.png" as="image">
+<link rel="preload" href="teams/LAL/logos/1999.png" as="image">
+<link rel="preload" href="teams/LAL/logos/2017.png" as="image">
+<link rel="preload" href="teams/LAL/logos/2023.png" as="image">
+<link rel="preload" href="teams/MEM/logos/1995.png" as="image">
+<link rel="preload" href="teams/MEM/logos/2001.png" as="image">
+<link rel="preload" href="teams/MEM/logos/2004.png" as="image">
+<link rel="preload" href="teams/MEM/logos/2018.png" as="image">
+<link rel="preload" href="teams/MIA/logos/1988.png" as="image">
+<link rel="preload" href="teams/MIA/logos/1999.png" as="image">
+<link rel="preload" href="teams/MIL/logos/1968.png" as="image">
+<link rel="preload" href="teams/MIL/logos/1993.png" as="image">
+<link rel="preload" href="teams/MIL/logos/2006.png" as="image">
+<link rel="preload" href="teams/MIL/logos/2015.png" as="image">
+<link rel="preload" href="teams/MIN/logos/1989.png" as="image">
+<link rel="preload" href="teams/MIN/logos/1996.png" as="image">
+<link rel="preload" href="teams/MIN/logos/2008.png" as="image">
+<link rel="preload" href="teams/MIN/logos/2017.png" as="image">
+<link rel="preload" href="teams/NOP/logos/2002.png" as="image">
+<link rel="preload" href="teams/NOP/logos/2005.png" as="image">
+<link rel="preload" href="teams/NOP/logos/2007.png" as="image">
+<link rel="preload" href="teams/NOP/logos/2008.png" as="image">
+<link rel="preload" href="teams/NOP/logos/2013.png" as="image">
+<link rel="preload" href="teams/NOP/logos/2023.png" as="image">
+<link rel="preload" href="teams/NYK/logos/1946.png" as="image">
+<link rel="preload" href="teams/NYK/logos/1964.png" as="image">
+<link rel="preload" href="teams/NYK/logos/1979.png" as="image">
+<link rel="preload" href="teams/NYK/logos/1983.png" as="image">
+<link rel="preload" href="teams/NYK/logos/1989.png" as="image">
+<link rel="preload" href="teams/NYK/logos/1992.png" as="image">
+<link rel="preload" href="teams/NYK/logos/1995.png" as="image">
+<link rel="preload" href="teams/NYK/logos/2011.png" as="image">
+<link rel="preload" href="teams/NYK/logos/2022.png" as="image">
+<link rel="preload" href="teams/NYK/logos/2023.png" as="image">
+<link rel="preload" href="teams/OKC/logos/1967.png" as="image">
+<link rel="preload" href="teams/OKC/logos/1970.png" as="image">
+<link rel="preload" href="teams/OKC/logos/1971.png" as="image">
+<link rel="preload" href="teams/OKC/logos/1975.png" as="image">
+<link rel="preload" href="teams/OKC/logos/1995.png" as="image">
+<link rel="preload" href="teams/OKC/logos/2001.png" as="image">
+<link rel="preload" href="teams/OKC/logos/2008.png" as="image">
+<link rel="preload" href="teams/ORL/logos/1989.png" as="image">
+<link rel="preload" href="teams/ORL/logos/1998.png" as="image">
+<link rel="preload" href="teams/ORL/logos/2000.png" as="image">
+<link rel="preload" href="teams/ORL/logos/2010.png" as="image">
+<link rel="preload" href="teams/ORL/logos/2025.png" as="image">
+<link rel="preload" href="teams/PHI/logos/1949.png" as="image">
+<link rel="preload" href="teams/PHI/logos/1963.png" as="image">
+<link rel="preload" href="teams/PHI/logos/1977.png" as="image">
+<link rel="preload" href="teams/PHI/logos/1997.png" as="image">
+<link rel="preload" href="teams/PHI/logos/2009.png" as="image">
+<link rel="preload" href="teams/PHI/logos/2015.png" as="image">
+<link rel="preload" href="teams/PHO/logos/1968.png" as="image">
+<link rel="preload" href="teams/PHO/logos/1992.png" as="image">
+<link rel="preload" href="teams/PHO/logos/2000.png" as="image">
+<link rel="preload" href="teams/PHO/logos/2013.png" as="image">
+<link rel="preload" href="teams/POR/logos/1970.png" as="image">
+<link rel="preload" href="teams/POR/logos/1990.png" as="image">
+<link rel="preload" href="teams/POR/logos/2002.png" as="image">
+<link rel="preload" href="teams/POR/logos/2003.png" as="image">
+<link rel="preload" href="teams/POR/logos/2004.png" as="image">
+<link rel="preload" href="teams/POR/logos/2017.png" as="image">
+<link rel="preload" href="teams/SAC/logos/1948.png" as="image">
+<link rel="preload" href="teams/SAC/logos/1957.png" as="image">
+<link rel="preload" href="teams/SAC/logos/1971.png" as="image">
+<link rel="preload" href="teams/SAC/logos/1972.png" as="image">
+<link rel="preload" href="teams/SAC/logos/1975.png" as="image">
+<link rel="preload" href="teams/SAC/logos/1985.png" as="image">
+<link rel="preload" href="teams/SAC/logos/1994.png" as="image">
+<link rel="preload" href="teams/SAC/logos/2016.png" as="image">
+<link rel="preload" href="teams/SAS/logos/1976.png" as="image">
+<link rel="preload" href="teams/SAS/logos/1989.png" as="image">
+<link rel="preload" href="teams/SAS/logos/2002.png" as="image">
+<link rel="preload" href="teams/SAS/logos/2017.png" as="image">
+<link rel="preload" href="teams/TOR/logos/1995.png" as="image">
+<link rel="preload" href="teams/TOR/logos/2008.png" as="image">
+<link rel="preload" href="teams/TOR/logos/2015.png" as="image">
+<link rel="preload" href="teams/TOR/logos/2020.png" as="image">
+<link rel="preload" href="teams/UTA/logos/1974.png" as="image">
+<link rel="preload" href="teams/UTA/logos/1979.png" as="image">
+<link rel="preload" href="teams/UTA/logos/1996.png" as="image">
+<link rel="preload" href="teams/UTA/logos/2004.png" as="image">
+<link rel="preload" href="teams/UTA/logos/2010.png" as="image">
+<link rel="preload" href="teams/UTA/logos/2016.png" as="image">
+<link rel="preload" href="teams/UTA/logos/2022.png" as="image">
+<link rel="preload" href="teams/UTA/logos/2025.png" as="image">
+<link rel="preload" href="teams/WAS/logos/1961.png" as="image">
+<link rel="preload" href="teams/WAS/logos/1962.png" as="image">
+<link rel="preload" href="teams/WAS/logos/1963.png" as="image">
+<link rel="preload" href="teams/WAS/logos/1968.png" as="image">
+<link rel="preload" href="teams/WAS/logos/1969.png" as="image">
+<link rel="preload" href="teams/WAS/logos/1971.png" as="image">
+<link rel="preload" href="teams/WAS/logos/1972.png" as="image">
+<link rel="preload" href="teams/WAS/logos/1973.png" as="image">
+<link rel="preload" href="teams/WAS/logos/1974.png" as="image">
+<link rel="preload" href="teams/WAS/logos/1987.png" as="image">
+<link rel="preload" href="teams/WAS/logos/1997.png" as="image">
+<link rel="preload" href="teams/WAS/logos/2007.png" as="image">
+<link rel="preload" href="teams/WAS/logos/2011.png" as="image">
+<link rel="preload" href="teams/WAS/logos/2015.png" as="image">
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<body>
+<div class="tooltip2" id="tip-champ"></div>
+<div id="navigation">
+<p id="button"><a href="https://www.nbahistory.org">Teams</a> <span>Championships</span></p>
+</div>
+<input id="slider" type="range" min="1946" max="2025" step="1" value="1946">
+<div id="champ-container" style="width:100%;max-width:1200px;margin:0 auto;overflow-x:auto;-webkit-overflow-scrolling:touch;"><svg class="championships"></svg></div>
+<script>
+var margin = {top:40,right:80,bottom:30,left:0},
+    width = 1200 - margin.left - margin.right,
+    height = 720 - margin.top - margin.bottom,
+    buffer = height + 5;
+var x = d3.scaleLinear()
+    .domain([0,20])
+    .range([0,width]);
+var y = d3.scaleLinear()
+    .domain([0,15])
+    .range([height,0]);
+var xAxis = d3.axisBottom(x);
+var svg = d3.select(".championships")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .attr("id","center")
+    .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+var tipEl = document.getElementById('tip-champ');
+function showTip(html, event) {
+    tipEl.innerHTML = html;
+    tipEl.style.display = 'block';
+    moveTip(event);
+}
+function moveTip(event) {
+    var x = event.pageX + 12, y = event.pageY - 28;
+    var w = tipEl.offsetWidth, ww = window.innerWidth;
+    if (x + w > ww - 10) x = ww - w - 10;
+    tipEl.style.left = x + 'px';
+    tipEl.style.top = y + 'px';
+}
+function hideTip() { tipEl.style.display = 'none'; }
+svg.append("g")
+    .attr("class", "x axis")
+    .attr("transform", "translate(20," + buffer + ")")
+    .call(xAxis.ticks(20).tickSize(0).tickPadding(10))
+    .append("text")
+    .attr("id", "year")
+    .attr("x", width/2)
+    .attr("y", -245)
+    .style("text-anchor", "middle")
+    .style("fill", "rgba(0, 0, 0, 0.5)")
+    .text("1946");
+svg.append("image")
+    .attr("href", "trophy.png")
+    .attr("width", "40")
+    .attr("height", "40")
+    .attr("x", width + 45)
+    .attr("y", height - 15);
+d3.select("#slider").on("input", function() {
+    update(+this.value);
+});
+function update(slider) {
+    d3.select("#year").text(slider);
+    d3.csv("championships/" + slider + ".csv").then(function(data) {
+            svg.selectAll(".logo").remove();
+            svg.selectAll(".logo")
+            .data(data)
+            .enter()
+            .append("image")
+            .attr("href", function(d) { return d.logo; })
+            .attr("x", function(d) { return x(d.championships); })
+            .attr("y", function(d) { return y(d.stack); })
+            .attr("width", "40")
+            .attr("height", "40")
+            .attr("class", "logo")
+            .on('mouseover', function(event, d) {showTip('<p>' + d.team + '</p>' + d.years, event); d3.select(this).style('opacity','0.5');})
+            .on('mousemove', function(event, d) {moveTip(event);})
+            .on('mouseout', function(event, d) {hideTip(); d3.select(this).style('opacity','1');})
+            .on('touchstart', function(event, d) {showTip('<p>' + d.team + '</p>' + d.years, event.touches[0]); event.preventDefault();})
+            .on('touchend', function() {setTimeout(hideTip, 1500);});
+    });
+};
+</script>
+</body>
+</html>

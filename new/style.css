@@ -1,0 +1,244 @@
+body {
+  margin: 0;
+  padding: 20px 0 40px 0;
+  font-size: 13px;
+  font-family: system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+
+svg {
+  stroke: rgba(0, 0, 0, .2);
+  fill: rgba(0, 0, 0, .2);
+}
+
+.label {
+  font-size: 10px;
+  fill: rgba(0, 0, 0, .5);
+}
+
+.tooltip, .tooltip2 {
+  position: absolute;
+  background-color: #fff;
+  border-radius: 5px;
+  border: 1px solid rgba(0, 0, 0, .1);
+  color: rgba(0, 0, 0, .8);
+  padding: 10px;
+  text-align: left;
+  pointer-events: none;
+  display: none;
+  z-index: 10;
+}
+
+.tooltip span {
+  font-weight: bold;
+}
+
+.tooltip table {
+  font-size: 13px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.tooltip th {
+  font-weight: normal;
+  opacity: 0.5;
+  padding: 0 10px;
+}
+
+.tooltip td {
+  margin: 0;
+  padding: 0 10px;
+}
+
+.tooltip td.logo {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.tooltip td.logo img {
+  max-width: 80px;
+  max-height: 80px;
+}
+
+.tooltip2 {
+  padding-top: 0;
+  max-width: 200px;
+}
+
+.tooltip2 p {
+  margin: 10px 0;
+  font-weight: bold;
+}
+
+p#logos {
+  width: 100%;
+  max-width: 1020px;
+  margin: 0 auto;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+
+p#logos img {
+  cursor: pointer;
+  display: block;
+  float: left;
+  margin: 0 4px 10px 4px;
+  padding: 0;
+}
+
+p#logos img:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+div#container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+div#container svg {
+  left: -90px;
+  position: relative;
+  display: block;
+}
+
+input#slider {
+  -webkit-appearance: none;
+  width: 800px;
+  max-width: 90%;
+  height: 10px;
+  display: block;
+  margin: 0 auto;
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s, box-shadow 0.2s;
+  box-shadow: inset 0 2px 2px 0 rgba(0,0,0,0.1);
+}
+
+input#slider:hover {
+  opacity: 1;
+}
+
+input#slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 50px;
+  height: 25px;
+  background: white;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1), 0 0 0 1px rgba(0,0,0,0.1);
+  border-radius: 20px;
+  cursor: grab;
+}
+
+input#slider::-moz-range-thumb, input#slider::-moz-range-thumb:active {
+  width: 50px;
+  height: 25px;
+  background: white;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1), 0 0 0 1px rgba(0,0,0,0.1);
+  border-radius: 20px;
+  cursor: grab;
+}
+
+h1#team {
+  clear: both;
+  font-size: 30px;
+  font-weight: 100;
+  letter-spacing: 3px;
+  padding-top: 20px;
+}
+
+div#navigation {
+  margin: 40px 0;
+}
+
+p#button {
+  font-weight: 400;
+  font-size: 16px;
+  background-color: rgba(0,0,0,.05);
+  border-radius: 30px;
+  padding: 15px 8px;
+  display: inline;
+  margin: 0;
+}
+
+div#navigation a {
+  text-decoration: none;
+  color: rgba(0,0,0,.5);
+  padding: 15px;
+}
+
+div#navigation span {
+  background-color: #fff;
+  color: rgba(0,0,0,.5);
+  border-radius: 30px;
+  padding: 8px 15px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1), 0 0 0 1px rgba(0,0,0,0.05);
+}
+
+#year {
+  font-size: 200px;
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 300;
+  opacity: .3;
+  shape-rendering: crispEdges;
+}
+
+@media (max-width: 768px) {
+  body {
+    padding: 10px 0 30px 0;
+  }
+
+  div#container {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  div#container svg {
+    left: 0;
+  }
+
+  p#logos {
+    padding: 0 5px;
+  }
+
+  p#logos img {
+    width: 28px;
+    height: 28px;
+    margin: 0 2px 8px 2px;
+  }
+
+  h1#team {
+    font-size: 20px;
+    letter-spacing: 2px;
+    padding-top: 10px;
+  }
+
+  div#navigation {
+    margin: 20px 0;
+  }
+
+  p#button {
+    font-size: 14px;
+  }
+
+  .tooltip table {
+    font-size: 11px;
+  }
+
+  .tooltip td.logo img {
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  #year {
+    font-size: 80px;
+  }
+}
