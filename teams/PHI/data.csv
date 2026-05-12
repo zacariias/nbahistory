@@ -46,8 +46,8 @@ season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,logo,op
 1993-94,Philadelphia 76ers,The Spectrum,25,0.305,0,F. Carter,C. Weatherspoon (6.0),#006BB6,#ED174C,-7.37,teams/PHI/logos/1977.png,,,,
 1994-95,Philadelphia 76ers,CoreStates Spectrum,24,0.293,0,J. Lucas,D. Barros (12.7),#006BB6,#ED174C,-5.06,teams/PHI/logos/1977.png,,,,
 1995-96,Philadelphia 76ers,CoreStates Spectrum,18,0.22,0,J. Lucas,C. Weatherspoon (5.8),#006BB6,#ED174C,-9.45,teams/PHI/logos/1977.png,,,,
-1996-97,Philadelphia 76ers,CoreStates Spectrum,22,0.268,0,J. Davis,C. Weatherspoon (5.0),#006BB6,#ED174C,-5.89,teams/PHI/logos/1977.png,,,,
-1997-98,Philadelphia 76ers,CoreStates Spectrum,31,0.378,0,L. Brown,A. Iverson (9.0),#006BB6,#ED174C,-1.89,teams/PHI/logos/1997.png,,,,
+1996-97,Philadelphia 76ers,CoreStates Center,22,0.268,0,J. Davis,C. Weatherspoon (5.0),#006BB6,#ED174C,-5.89,teams/PHI/logos/1977.png,,,,
+1997-98,Philadelphia 76ers,CoreStates Center,31,0.378,0,L. Brown,A. Iverson (9.0),#006BB6,#ED174C,-1.89,teams/PHI/logos/1997.png,,,,
 1998-99,Philadelphia 76ers,First Union Center,28,0.56,0.4,L. Brown,A. Iverson (7.2),#006BB6,#ED174C,2.56,teams/PHI/logos/1997.png,Won First Round versus <span>Orlando Magic (3-1)</span>,Lost Conference Semifinals versus <span>Indiana Pacers (0-4)</span>,,
 1999-00,Philadelphia 76ers,First Union Center,49,0.598,0.4,L. Brown,A. Iverson (6.9),#006BB6,#ED174C,1.02,teams/PHI/logos/1997.png,Won First Round versus <span>Charlotte Hornets (3-1)</span>,Lost Conference Semifinals versus <span>Indiana Pacers (2-4)</span>,,
 2000-01,Philadelphia 76ers,First Union Center,56,0.683,0.8,L. Brown,A. Iverson (11.8),#006BB6,#ED174C,3.64,teams/PHI/logos/1997.png,Won First Round versus <span>Indiana Pacers (3-1)</span>,Won Conference Semifinals versus <span>Toronto Raptors (4-3)</span>,Won Conference Finals versus <span>Milwaukee Bucks (4-3)</span>,Lost Finals versus <span>Los Angeles Lakers (1-4)</span>
@@ -75,3 +75,4 @@ season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,logo,op
 2022-23,Philadelphia 76ers,Wells Fargo Center,54,0.659,0.4,D. Rivers,J. Embiid (12.3),#006BB6,#ED174C,4.37,teams/PHI/logos/2015.png,Won First Round versus <span>Brooklyn Nets (4-0)</span>,Lost Conference Semifinals versus <span>Boston Celtics (3-4)</span>,,
 2023-24,Philadelphia 76ers,Wells Fargo Center,47,0.573,0.2,N. Nurse,T. Maxey (8.1),#006BB6,#ED174C,2.51,teams/PHI/logos/2015.png,Lost First Round versus <span>New York Knicks (2-4)</span>,,,
 2024-25,Philadelphia 76ers,Wells Fargo Center,24,0.293,0,N. Nurse,G. Yabusele (3.9),#006BB6,#ED174C,-6.29,teams/PHI/logos/2015.png,,,,
+2025-26,Philadelphia 76ers,Xfinity Mobile Arena,45,0.549,0.4,N. Nurse,T. Maxey (8.7),#006BB6,#ED174C,-0.27,teams/PHI/logos/2015.png,Won First Round versus <span>Boston Celtics (4-3)</span>,Lost Conference Semifinals versus <span>New York Knicks (0-4)</span>,,
