@@ -47,4 +47,5 @@ season,team,arena,wins,winpercent,playoffs,coach,topWS,color1,color2,srs,logo,op
 2021-22,San Antonio Spurs,AT&T Center,34,0.415,0,G. Popovich,D. Murray (7.3),#C4CED4,#000000,0.02,teams/SAS/logos/2017.png,,,,
 2022-23,San Antonio Spurs,AT&T Center,22,0.268,0,G. Popovich,T. Jones (3.4),#C4CED4,#000000,-9.82,teams/SAS/logos/2017.png,,,,
 2023-24,San Antonio Spurs,Frost Bank Center,22,0.268,0,G. Popovich,T. Jones (4.9),#C4CED4,#000000,-5.8,teams/SAS/logos/2017.png,,,,
-2024-25,San Antonio Spurs,Frost Bank Center,34,0.415,0,G. Popovich,C. Paul (5.7),#C4CED4,#000000,-2.45,teams/SAS/logos/2017.png,,,,
+2024-25,San Antonio Spurs,Frost Bank Center,34,0.415,0,G. Popovich/M. Johnson,C. Paul (5.7),#C4CED4,#000000,-2.45,teams/SAS/logos/2017.png,,,,
+2025-26,San Antonio Spurs,Frost Bank Center,62,0.756,0.8,M. Johnson,V. Wembanyama (10.0),#C4CED4,#000000,8.28,teams/SAS/logos/2017.png,Won First Round versus <span>Portland Trail Blazers (4-1)</span>,Won Conference Semifinals versus <span>Minnesota Timberwolves (4-2)</span>,Won Conference Finals versus <span>Oklahoma City Thunder (4-3)</span>,Lost Finals versus <span>New York Knicks (1-4)</span>
